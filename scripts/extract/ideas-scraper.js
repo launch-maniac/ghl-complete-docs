@@ -72,9 +72,26 @@ class IdeasScraper {
       console.log(`📋 Found ${boards.length} boards`);
       this.stats.boards = boards.length;
 
-      // Process each board (limit for testing)
-      for (const board of boards.slice(0, 2)) {
-        await this.scrapeBoard(page, board);
+      // Process all boards for full extraction
+      console.log(`🚀 Processing all ${boards.length} boards for full extraction...`);
+      for (let i = 0; i < boards.length; i++) {
+        const board = boards[i];
+        console.log(`📊 Progress: ${i + 1}/${boards.length} - Processing: ${board.title}`);
+        
+        try {
+          await this.scrapeBoard(page, board);
+        } catch (error) {
+          console.error(`❌ Failed to scrape board ${board.title}:`, error.message);
+          this.stats.errors++;
+        }
+        
+        // Add small delay between boards to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        
+        // Progress update every 10 boards
+        if ((i + 1) % 10 === 0) {
+          console.log(`✅ Milestone: Processed ${i + 1}/${boards.length} boards. Posts extracted: ${this.stats.posts}`);
+        }
       }
 
       // Generate index
@@ -261,8 +278,9 @@ class IdeasScraper {
 
       console.log(`    Found ${posts.length} posts`);
 
-      // Save posts (limit for testing but increase the limit)
-      for (const post of posts.slice(0, 10)) {
+      // Save all posts found (no limit for full extraction)
+      console.log(`    💾 Saving ${posts.length} posts from board: ${board.title}`);
+      for (const post of posts) {
         await this.savePost(post, boardDir, boardSlug);
       }
 

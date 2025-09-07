@@ -34,7 +34,7 @@ permissions:
 jobs:
   extract-and-sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 55  # Stay under 60 min for free tier
+    timeout-minutes: 120  # Extended timeout for full-scale extraction (76 boards)
     
     steps:
       - name: 📥 Checkout Repository
