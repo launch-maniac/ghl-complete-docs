@@ -54,8 +54,13 @@ jobs:
       - name: 📦 Install Dependencies
         run: |
           npm ci
-          # Install Puppeteer browser
-          npx puppeteer browsers install chrome --path ./browsers
+          
+      - name: 🌐 Setup Chrome
+        uses: browser-actions/setup-chrome@latest
+        
+      - name: 📦 Install Puppeteer Browser
+        run: |
+          npx puppeteer browsers install chrome || echo "Chrome already available"
       
       - name: 🔄 Sync Official GitHub Repos
         if: github.event.inputs.source == null || contains(fromJson('["all", "github"]'), github.event.inputs.source)
@@ -65,9 +70,6 @@ jobs:
       - name: 🌐 Extract Help Documentation
         if: github.event.inputs.source == null || contains(fromJson('["all", "help"]'), github.event.inputs.source)
         run: npm run extract:help
-        env:
-          PUPPETEER_CACHE_DIR: ${{ github.workspace }}/browsers
-          PUPPETEER_EXECUTABLE_PATH: ${{ github.workspace }}/browsers/chrome/linux-*/chrome
         continue-on-error: true
       
       - name: 💡 Extract Ideas Portal
