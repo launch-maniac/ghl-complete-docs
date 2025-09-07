@@ -1,0 +1,19 @@
+---
+title: "Mark as spam in conversations"
+board: "conversations966"
+status: "open"
+votes: 0
+comments: 0
+url: ""
+extracted_at: "2025-09-07T07:06:28.018Z"
+---
+
+# Mark as spam in conversations
+
+
+
+**Status:** open  
+**Votes:** 0  
+**Comments:** 0
+
+

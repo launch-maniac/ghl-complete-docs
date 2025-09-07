@@ -1,0 +1,43 @@
+
+> ghl-complete-docs@1.0.0 stats
+> node scripts/utils/stats-generator.js
+
+📊 Generating statistics...
+
+📊 DOCUMENTATION STATISTICS
+==================================================
+Generated: 9/7/2025, 7:17:43 AM
+Total Documents: 2058
+Last Updated: 9/7/2025, 7:17:32 AM
+Errors: 0
+
+📁 BY CATEGORY:
+  HELP:
+    Documents: 0
+    Subcategories: 0
+    Size: undefined
+    Last Update: Never
+  IDEAS:
+    Documents: 2057
+    Subcategories: 1
+    Size: NaN undefined
+    Last Update: 9/7/2025, 7:17:32 AM
+  MARKETPLACE:
+    Documents: 1
+    Subcategories: 0
+    Size: 850 B
+    Last Update: 9/7/2025, 7:02:46 AM
+  OFFICIAL:
+    Documents: 0
+    Subcategories: 0
+    Size: 0 B
+    Last Update: Never
+
+📝 SUMMARY FOR COMMIT:
+Updated documentation: 2058 total documents
+- 📚 Help: 0 articles
+- 💡 Ideas: 2057 posts  
+- 🛍️ Marketplace: 1 docs
+- 🔧 Official: 0 files
+
+Last sync: 9/7/2025

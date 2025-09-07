@@ -1,0 +1,19 @@
+---
+title: "Need a University Class on SEO"
+board: "seo9"
+status: "open"
+votes: 0
+comments: 0
+url: ""
+extracted_at: "2025-09-07T07:16:46.206Z"
+---
+
+# Need a University Class on SEO
+
+
+
+**Status:** open  
+**Votes:** 0  
+**Comments:** 0
+
+
