@@ -53,24 +53,24 @@ jobs:
           npx puppeteer browsers install chrome
       
       - name: 🔄 Sync Official GitHub Repos
-        if: contains(fromJson('["all", "github"]'), github.event.inputs.source)
+        if: github.event.inputs.source == null || contains(fromJson('["all", "github"]'), github.event.inputs.source)
         run: npm run sync:github
         continue-on-error: true
       
       - name: 🌐 Extract Help Documentation
-        if: contains(fromJson('["all", "help"]'), github.event.inputs.source)
+        if: github.event.inputs.source == null || contains(fromJson('["all", "help"]'), github.event.inputs.source)
         run: npm run extract:help
         env:
           PUPPETEER_CACHE_DIR: ${{ github.workspace }}/.cache/puppeteer
         continue-on-error: true
       
       - name: 💡 Extract Ideas Portal
-        if: contains(fromJson('["all", "ideas"]'), github.event.inputs.source)
+        if: github.event.inputs.source == null || contains(fromJson('["all", "ideas"]'), github.event.inputs.source)
         run: npm run extract:ideas
         continue-on-error: true
       
       - name: 🛍️ Extract Marketplace Docs
-        if: contains(fromJson('["all", "marketplace"]'), github.event.inputs.source)
+        if: github.event.inputs.source == null || contains(fromJson('["all", "marketplace"]'), github.event.inputs.source)
         run: npm run extract:marketplace
         continue-on-error: true
       
@@ -115,15 +115,19 @@ jobs:
         run: git push origin main || echo "No changes to push"
       
       - name: 🏷️ Create Weekly Release
-        if: github.event.schedule && $(date +%u) == '1'
+        if: github.event.schedule
         run: |
-          TAG="v$(date +'%Y.%W')"
-          git tag -a $TAG -m "Weekly snapshot: Week $(date +'%W, %Y')"
-          git push origin $TAG
-          
-          gh release create $TAG \
-            --title "Week $(date +'%W, %Y') Documentation" \
-            --notes-file stats.txt
+          if [ "$(date +%u)" == "1" ]; then
+            TAG="v$(date +'%Y.%W')"
+            git tag -a $TAG -m "Weekly snapshot: Week $(date +'%W, %Y')"
+            git push origin $TAG
+            
+            gh release create $TAG \
+              --title "Week $(date +'%W, %Y') Documentation" \
+              --notes-file stats.txt
+          else
+            echo "Not Monday, skipping weekly release"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
