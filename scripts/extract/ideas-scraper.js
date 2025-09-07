@@ -105,50 +105,164 @@ class IdeasScraper {
       const boardDir = path.join(this.outputDir, 'boards', boardSlug);
       await fs.ensureDir(boardDir);
 
+      // Wait for content to load
+      await new Promise(resolve => setTimeout(resolve, 5000));
+
+      // DEBUG: Log what's actually on the page
+      await page.evaluate(() => {
+        console.log('🔍 DEBUGGING PAGE CONTENT:');
+        
+        // Log all class names that might contain posts
+        const allClasses = [...document.querySelectorAll('*')]
+          .map(el => [...el.classList])
+          .flat()
+          .filter(c => c.includes('post') || c.includes('idea') || c.includes('item') || c.includes('feedback'))
+          .filter((c, i, arr) => arr.indexOf(c) === i); // unique
+        console.log('📝 Found relevant classes:', allClasses);
+        
+        // Log any text content that looks like posts
+        const possiblePosts = document.body.innerText
+          .split('\n')
+          .filter(text => text.trim().length > 20 && text.trim().length < 200)
+          .filter(text => !text.includes('©') && !text.includes('Privacy'))
+          .slice(0, 10);
+        console.log('📄 Possible post content:', possiblePosts);
+        
+        // Log page title and URL for context
+        console.log('🌐 Page:', document.title, window.location.href);
+        
+        // Check for common Canny/feedback platform elements
+        const cannySelectors = ['.c-post', '.post', '.idea', '.feedback-item', '[data-testid*="post"]', '.entry'];
+        cannySelectors.forEach(sel => {
+          const elements = document.querySelectorAll(sel);
+          if (elements.length > 0) {
+            console.log(`✅ Found ${elements.length} elements with selector: ${sel}`);
+          }
+        });
+      });
+
       // Scroll to load more posts
       await this.autoScroll(page);
 
-      // Extract all posts with multiple selectors
+      // Try multiple selector strategies with enhanced debugging
       const posts = await page.evaluate(() => {
+        console.log('🔄 Starting post extraction...');
+        
+        // Enhanced selector list including common feedback platform patterns
         const selectors = [
+          // Canny platform selectors
+          '.c-post',
+          '.post',
+          '.postTitle',
+          
+          // Generic feedback platform selectors
           '.post-item', 
           '.idea-item', 
+          '.feedback-item',
+          '.post-list-item',
+          '.ideas-list-item',
+          '[data-test="post-item"]',
+          '[data-testid*="post"]',
+          
+          // Broader selectors
           'article',
           '.posts .post',
           '[class*="post"]',
           '.ideas .idea',
-          '[class*="idea"]'
+          '[class*="idea"]',
+          '.list-item',
+          'div[role="article"]',
+          '.entry'
         ];
         
-        let postElements = [];
+        let foundPosts = [];
+        
         for (const selector of selectors) {
-          postElements = document.querySelectorAll(selector);
-          if (postElements.length > 0) break;
+          const elements = document.querySelectorAll(selector);
+          console.log(`🔍 Trying selector "${selector}": found ${elements.length} elements`);
+          
+          if (elements.length > 0) {
+            console.log(`✅ Using selector: ${selector} (${elements.length} posts)`);
+            
+            foundPosts = Array.from(elements).map((post, index) => {
+              // More flexible title extraction
+              const titleSelectors = ['h1', 'h2', 'h3', '.title', '[class*="title"]', '.c-post-title', '.post-title'];
+              let titleEl = null;
+              for (const titleSel of titleSelectors) {
+                titleEl = post.querySelector(titleSel);
+                if (titleEl) break;
+              }
+              
+              // More flexible description extraction
+              const descSelectors = ['.description', '.content', 'p', '[class*="description"]', '.c-post-body', '.post-body', '.excerpt'];
+              let descEl = null;
+              for (const descSel of descSelectors) {
+                descEl = post.querySelector(descSel);
+                if (descEl) break;
+              }
+              
+              // Extract other metadata
+              const voteEl = post.querySelector('.vote-count, .votes, [class*="vote"], .c-vote');
+              const statusEl = post.querySelector('.status, .badge, [class*="status"], .c-status');
+              const commentEl = post.querySelector('.comment-count, [class*="comment"], .c-comment');
+              const linkEl = post.querySelector('a');
+              
+              const title = titleEl?.textContent?.trim() || post.textContent?.split('\n')[0]?.trim() || '';
+              const description = descEl?.textContent?.trim() || '';
+              
+              if (index < 3) {
+                console.log(`📄 Post ${index + 1}:`, {
+                  title: title.substring(0, 50),
+                  hasDescription: !!description,
+                  hasLink: !!linkEl,
+                  element: post.className
+                });
+              }
+              
+              return {
+                title: title,
+                description: description,
+                votes: parseInt(voteEl?.textContent?.replace(/\D/g, '')) || 0,
+                status: statusEl?.textContent?.trim() || 'open',
+                comments: parseInt(commentEl?.textContent?.replace(/\D/g, '')) || 0,
+                url: linkEl?.href || ''
+              };
+            }).filter(post => post.title && post.title.length > 3);
+            
+            if (foundPosts.length > 0) {
+              console.log(`✅ Successfully extracted ${foundPosts.length} posts using selector: ${selector}`);
+              break;
+            }
+          }
         }
         
-        return Array.from(postElements).map(post => {
-          const titleEl = post.querySelector('h1, h2, h3, .title, [class*="title"]');
-          const descEl = post.querySelector('.description, .content, p, [class*="description"]');
-          const voteEl = post.querySelector('.vote-count, .votes, [class*="vote"]');
-          const statusEl = post.querySelector('.status, .badge, [class*="status"]');
-          const commentEl = post.querySelector('.comment-count, [class*="comment"]');
-          const linkEl = post.querySelector('a');
-          
-          return {
-            title: titleEl?.textContent?.trim() || '',
-            description: descEl?.textContent?.trim() || '',
-            votes: parseInt(voteEl?.textContent?.replace(/\D/g, '')) || 0,
-            status: statusEl?.textContent?.trim() || 'open',
-            comments: parseInt(commentEl?.textContent?.replace(/\D/g, '')) || 0,
-            url: linkEl?.href || ''
-          };
-        }).filter(post => post.title);
+        // If no structured posts found, try extracting any text that looks like post titles
+        if (foundPosts.length === 0) {
+          console.log('🔄 No structured posts found, trying text extraction...');
+          const textNodes = [...document.querySelectorAll('*')]
+            .map(el => el.textContent?.trim())
+            .filter(text => text && text.length > 10 && text.length < 200)
+            .filter(text => !text.includes('©') && !text.includes('Privacy'))
+            .slice(0, 10);
+            
+          foundPosts = textNodes.map(text => ({
+            title: text,
+            description: '',
+            votes: 0,
+            status: 'unknown',
+            comments: 0,
+            url: window.location.href
+          }));
+        }
+        
+        console.log(`📊 Final extraction result: ${foundPosts.length} posts`);
+        return foundPosts;
       });
 
       console.log(`    Found ${posts.length} posts`);
 
-      // Save posts (limit for testing)
-      for (const post of posts.slice(0, 5)) {
+      // Save posts (limit for testing but increase the limit)
+      for (const post of posts.slice(0, 10)) {
         await this.savePost(post, boardDir, boardSlug);
       }
 
