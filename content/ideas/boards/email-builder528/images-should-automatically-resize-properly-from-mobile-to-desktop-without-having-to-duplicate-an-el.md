@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:08:09.877Z"
+extracted_at: "2025-09-08T03:05:29.304Z"
 ---
 
 # Images should automatically resize properly from mobile to desktop without having to duplicate an element

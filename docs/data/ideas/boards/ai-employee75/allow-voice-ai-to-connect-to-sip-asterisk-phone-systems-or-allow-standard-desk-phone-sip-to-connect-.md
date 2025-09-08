@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:25.280Z"
+extracted_at: "2025-09-08T03:01:43.114Z"
 ---
 
 # Allow Voice AI to connect to SIP/Asterisk phone systems or allow standard desk phone (SIP) to connect to Lead Connector Phone Sytem

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:17.005Z"
+extracted_at: "2025-09-08T03:09:35.567Z"
 ---
 
 # SECURITY RISK - Your own staff can steal your snapshots and go into business themselves, or sell it for $97

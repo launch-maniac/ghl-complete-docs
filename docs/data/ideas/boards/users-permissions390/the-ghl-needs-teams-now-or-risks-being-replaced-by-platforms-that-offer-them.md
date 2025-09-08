@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:23.797Z"
+extracted_at: "2025-09-08T03:10:42.001Z"
 ---
 
 # The GHL needs teams now — or risks being replaced by platforms that offer them.

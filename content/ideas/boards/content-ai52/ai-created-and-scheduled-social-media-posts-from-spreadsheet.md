@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:59.049Z"
+extracted_at: "2025-09-08T03:02:16.679Z"
 ---
 
 # AI created and scheduled social media posts from spreadsheet

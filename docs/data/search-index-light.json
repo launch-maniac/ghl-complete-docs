@@ -490,6 +490,27 @@
     "url": null
   },
   {
+    "id": "automated-emails-from-status-page",
+    "title": "Automated emails from Status page",
+    "category": "ideas",
+    "excerpt": "Automated emails from Status page Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multiple-product-list-pages-multi-nested-product-levels",
+    "title": "Multiple Product List Pages / Multi-Nested Product Levels",
+    "category": "ideas",
+    "excerpt": "Multiple Product List Pages / Multi-Nested Product Levels Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "updating-smartlist-filter-in-real-time",
+    "title": "Updating Smartlist Filter in Real Time",
+    "category": "ideas",
+    "excerpt": "Updating Smartlist Filter in Real Time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-disable-launchpad",
     "title": "Ability to Disable Launchpad!",
     "category": "ideas",
@@ -987,6 +1008,13 @@
     "url": null
   },
   {
+    "id": "collections-are-missing-from-the-api",
+    "title": "Collections are missing from the API",
+    "category": "ideas",
+    "excerpt": "Collections are missing from the API Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "custom-conversation-provider-upgrades",
     "title": "Custom Conversation Provider Upgrades",
     "category": "ideas",
@@ -1054,6 +1082,13 @@
     "title": "New webhook event when a message status changes: MessageStatusUpdate",
     "category": "ideas",
     "excerpt": "New webhook event when a message status changes: MessageStatusUpdate Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "openapi-postman-collection-api-v2",
+    "title": "OpenAPI/Postman Collection (API v2)",
+    "category": "ideas",
+    "excerpt": "OpenAPI/Postman Collection API v2 Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1687,6 +1722,20 @@
     "url": null
   },
   {
+    "id": "blog-read-time",
+    "title": "Blog Read time",
+    "category": "ideas",
+    "excerpt": "Blog Read time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "blog-trigger",
+    "title": "Blog Trigger",
+    "category": "ideas",
+    "excerpt": "Blog Trigger Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "breadcrumbs-in-blog-and-blog-post",
     "title": "Breadcrumbs in Blog and Blog Post",
     "category": "ideas",
@@ -2258,6 +2307,13 @@
     "title": "Arab Area Phone Numbers",
     "category": "ideas",
     "excerpt": "Arab Area Phone Numbers Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "auto-assign-contact-to-the-user-that-called-them-first",
+    "title": "Auto-Assign contact to the User that called them first",
+    "category": "ideas",
+    "excerpt": "Auto-Assign contact to the User that called them first Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -3150,6 +3206,13 @@
     "url": null
   },
   {
+    "id": "leave-the-gokollab-group-that-is-subscribed-to",
+    "title": "Leave the GoKollab Group that is subscribed to",
+    "category": "ideas",
+    "excerpt": "Leave the GoKollab Group that is subscribed to Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "live-chat-for-communities",
     "title": "Live Chat for Communities",
     "category": "ideas",
@@ -3549,6 +3612,13 @@
     "url": null
   },
   {
+    "id": "color-coded-tags",
+    "title": "Color Coded TAGS",
+    "category": "ideas",
+    "excerpt": "Color Coded TAGS Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "company-name-and-business-name-not-aligned",
     "title": "Company Name and Business Name Not Aligned",
     "category": "ideas",
@@ -3647,10 +3717,24 @@
     "url": null
   },
   {
+    "id": "new-feature-assign-default-phone-number-to-contact",
+    "title": "New Feature: Assign Default Phone Number to Contact",
+    "category": "ideas",
+    "excerpt": "New Feature: Assign Default Phone Number to Contact Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "notes-folders-permissions",
     "title": "Notes Folders & Permissions",
     "category": "ideas",
     "excerpt": "Notes Folders & Permissions Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "restrict-company-visibility-to-unassigned-user",
+    "title": "Restrict Company Visibility to Unassigned User",
+    "category": "ideas",
+    "excerpt": "Restrict Company Visibility to Unassigned User Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4291,6 +4375,20 @@
     "url": null
   },
   {
+    "id": "ability-to-see-when-an-email-was-opened",
+    "title": "Ability to see when an email was opened",
+    "category": "ideas",
+    "excerpt": "Ability to see when an email was opened Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "one-button-export-full-chat-transcription",
+    "title": "One Button Export full chat transcription",
+    "category": "ideas",
+    "excerpt": "One Button Export full chat transcription Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "2fa-mfa-for-courses-platform-gokollab",
     "title": "2FA/MFA for Courses platform /GoKollab.",
     "category": "ideas",
@@ -4302,6 +4400,13 @@
     "title": "Ability to bulk upload/load videos from media files",
     "category": "ideas",
     "excerpt": "Ability to bulk upload/load videos from media files Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-customize-membership-lessons-fonts-font-size",
+    "title": "Ability to customize Membership Lessons - Fonts, font size",
+    "category": "ideas",
+    "excerpt": "Ability to customize Membership Lessons - Fonts, font size Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4365,6 +4470,13 @@
     "title": "Create Courses Actions in Workflows",
     "category": "ideas",
     "excerpt": "Create Courses Actions in Workflows Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "customizable-avatar-collection-for-groups-communities",
+    "title": "Customizable Avatar Collection for Groups / Communities",
+    "category": "ideas",
+    "excerpt": "Customizable Avatar Collection for Groups / Communities Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4522,6 +4634,13 @@
     "url": null
   },
   {
+    "id": "add-ability-to-allow-us-to-choose-which-esp-to-mail-from",
+    "title": "Add Ability to Allow Us To Choose Which ESP To Mail From",
+    "category": "ideas",
+    "excerpt": "Add Ability to Allow Us To Choose Which ESP To Mail From Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-full-group-class-scheduling-with-membership-credit-tracking-attendance-for-fitness-studios",
     "title": "Add Full Group Class Scheduling with Membership Credit Tracking & Attendance for Fitness Studios",
     "category": "ideas",
@@ -4645,6 +4764,13 @@
     "title": "LinkedIn Connection Messaging In Workflows",
     "category": "ideas",
     "excerpt": "LinkedIn Connection Messaging In Workflows Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "make-ghl-enterprises-ready",
+    "title": "Make GHL Enterprises Ready",
+    "category": "ideas",
+    "excerpt": "Make GHL Enterprises Ready Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4781,6 +4907,13 @@
     "url": null
   },
   {
+    "id": "contact-filters-can-t-see-custom-objects",
+    "title": "Contact Filters can't see Custom Objects",
+    "category": "ideas",
+    "excerpt": "Contact Filters can't see Custom Objects Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "custom-fields-images-gallery",
     "title": "Custom Fields Images/Gallery",
     "category": "ideas",
@@ -4823,6 +4956,13 @@
     "url": null
   },
   {
+    "id": "edit-custom-objects-like-a-spreadshseet",
+    "title": "Edit Custom Objects like a Spreadshseet",
+    "category": "ideas",
+    "excerpt": "Edit Custom Objects like a Spreadshseet Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "file-storage-in-each-custom-object",
     "title": "File Storage in Each Custom Object",
     "category": "ideas",
@@ -4841,6 +4981,13 @@
     "title": "Formula Fields for Custom and Standard Objects",
     "category": "ideas",
     "excerpt": "Formula Fields for Custom and Standard Objects Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "include-associations-in-snapshots",
+    "title": "Include Associations in Snapshots",
+    "category": "ideas",
+    "excerpt": "Include Associations in Snapshots Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4939,6 +5086,13 @@
     "title": "Add all GHL data as Dashboard Widgets",
     "category": "ideas",
     "excerpt": "Add all GHL data as Dashboard Widgets Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-color-to-the-menus",
+    "title": "Add Color To The Menus",
+    "category": "ideas",
+    "excerpt": "Add Color To The Menus Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5579,10 +5733,31 @@
     "url": null
   },
   {
+    "id": "buy-x-get-y-z-off-or-z-off",
+    "title": "Buy X get Y, Z% Off or $Z Off",
+    "category": "ideas",
+    "excerpt": "Buy X get Y, Z% Off or $Z Off Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "category-collection-pages-in-should-be-their-own-page-template",
+    "title": "Category/Collection Pages In Should Be Their Own Page Template",
+    "category": "ideas",
+    "excerpt": "Category/Collection Pages In Should Be Their Own Page Template Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "centralized-product-updates-for-chains-groups-franchises-with-several-sub-accounts",
     "title": "✅ Centralized product updates for chains / groups / franchises with several sub-accounts",
     "category": "ideas",
     "excerpt": "✅ Centralized product updates for chains / groups / franchises with several sub-accounts Status: ope...",
+    "url": null
+  },
+  {
+    "id": "comparing-products-in-ecommerce-stores",
+    "title": "💪 Comparing Products in eCommerce Stores",
+    "category": "ideas",
+    "excerpt": "💪 Comparing Products in eCommerce Stores Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5593,6 +5768,13 @@
     "url": null
   },
   {
+    "id": "dynamic-titles-on-product-collection-pages",
+    "title": "Dynamic Titles on Product Collection Pages",
+    "category": "ideas",
+    "excerpt": "Dynamic Titles on Product Collection Pages Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "e-commerce-accounts-purchase-history",
     "title": "E-Commerce Accounts & Purchase History",
     "category": "ideas",
@@ -5600,10 +5782,24 @@
     "url": null
   },
   {
+    "id": "e-commerce-workflow-triggers-for-conversion-tracking",
+    "title": "✅ E-commerce Workflow Triggers (for conversion tracking)",
+    "category": "ideas",
+    "excerpt": "✅ E-commerce Workflow Triggers for conversion tracking Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ecom-store-integration-with-google-shopping-tiktok-facebook-instagram-shops",
     "title": "🛍️ eCom Store Integration with Google Shopping, TikTok, Facebook & Instagram Shops. 🏪",
     "category": "ideas",
     "excerpt": "🛍️ eCom Store Integration with Google Shopping, TikTok, Facebook & Instagram Shops. 🏪 Status: open...",
+    "url": null
+  },
+  {
+    "id": "ecommerce-order-tracking",
+    "title": "👉 eCommerce -> Order Tracking 🛍️ 🚚 📦",
+    "category": "ideas",
+    "excerpt": "👉 eCommerce -> Order Tracking 🛍️ 🚚 📦 Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5653,6 +5849,13 @@
     "title": "Multi-criteria discount structure (based on segment, location, and brand) across all sales channels.",
     "category": "ideas",
     "excerpt": "Multi-criteria discount structure based on segment, location, and brand across all sales channels. S...",
+    "url": null
+  },
+  {
+    "id": "multi-level-product-collection-categories",
+    "title": "Multi-Level Product Collection/Categories",
+    "category": "ideas",
+    "excerpt": "Multi-Level Product Collection/Categories Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5733,6 +5936,13 @@
     "url": null
   },
   {
+    "id": "subheadline-for-collection-title",
+    "title": "Subheadline for Collection Title",
+    "category": "ideas",
+    "excerpt": "Subheadline for Collection Title Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "tax-gst-not-included-for-shipping-costs",
     "title": "Tax (GST) not included for shipping costs?",
     "category": "ideas",
@@ -5744,6 +5954,13 @@
     "title": "Tighter Printful Integration",
     "category": "ideas",
     "excerpt": "Tighter Printful Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "websites-and-ecommerce-collection-title",
+    "title": "Websites and Ecommerce - Collection Title",
+    "category": "ideas",
+    "excerpt": "Websites and Ecommerce - Collection Title Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6349,6 +6566,13 @@
     "url": null
   },
   {
+    "id": "allow-0-checkout-without-credit-card",
+    "title": "Allow $0 Checkout Without Credit Card",
+    "category": "ideas",
+    "excerpt": "Allow $0 Checkout Without Credit Card Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "allow-alternate-chat-widget-position",
     "title": "Allow alternate chat widget position",
     "category": "ideas",
@@ -6416,6 +6640,13 @@
     "title": "Ditch iFrame for a Proper Form Embed code",
     "category": "ideas",
     "excerpt": "Ditch iFrame for a Proper Form Embed code Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enable-ach-payment-for-our-order-forms-in-ghl",
+    "title": "Enable ACH payment for our order forms in GHL",
+    "category": "ideas",
+    "excerpt": "Enable ACH payment for our order forms in GHL Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6724,6 +6955,20 @@
     "title": "Use Proof Feature for Optins",
     "category": "ideas",
     "excerpt": "Use Proof Feature for Optins Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-cursor-lovable-replit-designs-to-funnels",
+    "title": "Add Cursor/Lovable/Replit Designs to funnels.",
+    "category": "ideas",
+    "excerpt": "Add Cursor/Lovable/Replit Designs to funnels. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "provide-an-easy-copy-and-paste-system-for-transferring-a-funnel-from-a-different-host-into-a-ghl-sub",
+    "title": "Provide an easy copy and paste system for transferring a funnel from a different host into a GHL sub-account",
+    "category": "ideas",
+    "excerpt": "Provide an easy copy and paste system for transferring a funnel from a different host into a GHL sub...",
     "url": null
   },
   {
@@ -7546,6 +7791,13 @@
     "url": null
   },
   {
+    "id": "deliverability-bounced-stats-for-smtp-integrations-missing",
+    "title": "Deliverability & Bounced Stats For SMTP Integrations Missing.",
+    "category": "ideas",
+    "excerpt": "Deliverability & Bounced Stats For SMTP Integrations Missing. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "direct-integration-with-clickup",
     "title": "Direct integration with ClickUp",
     "category": "ideas",
@@ -7637,6 +7889,20 @@
     "url": null
   },
   {
+    "id": "more-email-and-phone-integrations",
+    "title": "More Email and Phone Integrations",
+    "category": "ideas",
+    "excerpt": "More Email and Phone Integrations Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multiple-smtp-per-account-and-the-ability-to-tie-x-smtp-to-x-campaign-and-y-smtp-to-y-campaign",
+    "title": "Multiple SMTP per account and the ability to tie x smtp to x campaign and y smtp to y campaign",
+    "category": "ideas",
+    "excerpt": "Multiple SMTP per account and the ability to tie x smtp to x campaign and y smtp to y campaign Statu...",
+    "url": null
+  },
+  {
     "id": "personal-facebook-posting",
     "title": "Personal Facebook Posting",
     "category": "ideas",
@@ -7648,6 +7914,13 @@
     "title": "Personal/professional facebook integration",
     "category": "ideas",
     "excerpt": "Personal/professional facebook integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "please-make-an-integration-for-trello",
+    "title": "Please make an integration for Trello",
+    "category": "ideas",
+    "excerpt": "Please make an integration for Trello Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7840,6 +8113,13 @@
     "url": null
   },
   {
+    "id": "partially-paid-invoices-does-not-show-balance-due",
+    "title": "Partially Paid Invoices Does Not Show Balance Due",
+    "category": "ideas",
+    "excerpt": "Partially Paid Invoices Does Not Show Balance Due Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "payment-module-permission",
     "title": "Payment module permission",
     "category": "ideas",
@@ -7872,6 +8152,13 @@
     "title": "Staff Time Tracking",
     "category": "ideas",
     "excerpt": "Staff Time Tracking Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "statement-for-invoice",
+    "title": "Statement for Invoice",
+    "category": "ideas",
+    "excerpt": "Statement for Invoice Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8141,6 +8428,13 @@
     "url": null
   },
   {
+    "id": "choose-smtp-server-per-workflow",
+    "title": "Choose SMTP Server Per Workflow",
+    "category": "ideas",
+    "excerpt": "Choose SMTP Server Per Workflow Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "customise-system-generated-emails",
     "title": "Customise system generated emails",
     "category": "ideas",
@@ -8278,6 +8572,13 @@
     "title": "Spam Score in Email Builder",
     "category": "ideas",
     "excerpt": "Spam Score in Email Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "statistics-incorrect-when-using-smtp-services-such-as-amazon-ses",
+    "title": "Statistics incorrect when using SMTP Services such as Amazon SES",
+    "category": "ideas",
+    "excerpt": "Statistics incorrect when using SMTP Services such as Amazon SES Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9737,6 +10038,13 @@
     "url": null
   },
   {
+    "id": "ivr-music-on-hold",
+    "title": "IVR Music On Hold",
+    "category": "ideas",
+    "excerpt": "IVR Music On Hold Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "listen-in-to-live-calls",
     "title": "Listen in to Live Calls",
     "category": "ideas",
@@ -10514,6 +10822,13 @@
     "url": null
   },
   {
+    "id": "ability-to-add-a-timed-element-to-quizzes",
+    "title": "Ability to add a timed element to quizzes",
+    "category": "ideas",
+    "excerpt": "Ability to add a timed element to quizzes Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-add-quiz-score-to-email",
     "title": "Ability to add quiz score to email",
     "category": "ideas",
@@ -10759,6 +11074,13 @@
     "url": null
   },
   {
+    "id": "allow-send-grid-smtp-campaign-reporting",
+    "title": "Allow Send Grid SMTP Campaign Reporting",
+    "category": "ideas",
+    "excerpt": "Allow Send Grid SMTP Campaign Reporting Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "analytics-for-all-widgets",
     "title": "Analytics for All Widgets",
     "category": "ideas",
@@ -10833,6 +11155,13 @@
     "title": "Download Audit Logs",
     "category": "ideas",
     "excerpt": "Download Audit Logs Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "email-stats-delivered-value-is-inaccurate",
+    "title": "Email Stats Delivered Value Is Inaccurate",
+    "category": "ideas",
+    "excerpt": "Email Stats Delivered Value Is Inaccurate Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -11645,6 +11974,27 @@
     "title": "Whitelabel Sub-Accounts",
     "category": "ideas",
     "excerpt": "Whitelabel Sub-Accounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-saas-related-events-in-location-level-audit-log",
+    "title": "Add SaaS related events in Location level Audit Log",
+    "category": "ideas",
+    "excerpt": "Add SaaS related events in Location level Audit Log Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "communication-tool-to-write-with-customers-on-the-platform-similar-to-trello",
+    "title": "Communication tool to write with customers on the platform - Similar to Trello",
+    "category": "ideas",
+    "excerpt": "Communication tool to write with customers on the platform - Similar to Trello Status: open Votes: 0...",
+    "url": null
+  },
+  {
+    "id": "make-ghl-enterprise-ready",
+    "title": "Make GHL Enterprise Ready",
+    "category": "ideas",
+    "excerpt": "Make GHL Enterprise Ready Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12971,6 +13321,13 @@
     "url": null
   },
   {
+    "id": "whitelabel-lead-connector",
+    "title": "WhiteLabel Lead Connector",
+    "category": "ideas",
+    "excerpt": "WhiteLabel Lead Connector Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-customize-the-template-library",
     "title": "✅ Ability to customize the Template Library",
     "category": "ideas",
@@ -13398,6 +13755,13 @@
     "url": null
   },
   {
+    "id": "access-to-voice-ai-api-endpoints-like-retell",
+    "title": "Access to Voice AI API endpoints (like Retell)",
+    "category": "ideas",
+    "excerpt": "Access to Voice AI API endpoints like Retell Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "access-to-voice-ai-api-web-based-not-twilio-lc-when-stress-testing-for-best-prompts",
     "title": "Access to Voice AI API (web based not Twilio/LC) when stress testing for best prompts",
     "category": "ideas",
@@ -13787,6 +14151,41 @@
     "title": "Vertical Thumbnails for Videos",
     "category": "ideas",
     "excerpt": "Vertical Thumbnails for Videos Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-manually-rearrange-website-pages-on-editor-s-dashboard",
+    "title": "Ability to manually rearrange website pages on editor's dashboard.",
+    "category": "ideas",
+    "excerpt": "Ability to manually rearrange website pages on editor's dashboard. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "include-payment-id-in-subscription-fields",
+    "title": "Include payment ID in subscription fields",
+    "category": "ideas",
+    "excerpt": "Include payment ID in subscription fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "social-icons-need-white-ffffff-color-option",
+    "title": "Social Icons - need White #FFFFFF color option",
+    "category": "ideas",
+    "excerpt": "Social Icons - need White FFFFFF color option Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "subscription-trigger-missing-new-status",
+    "title": "Subscription trigger missing \"New\" status",
+    "category": "ideas",
+    "excerpt": "Subscription trigger missing \"New\" status Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "transferring-a-website-from-manus-or-any-where-else-into-ghl",
+    "title": "Transferring a website from Manus(or any where else) into GHL",
+    "category": "ideas",
+    "excerpt": "Transferring a website from Manusor any where else into GHL Status: open Votes: 0 Comments:...",
     "url": null
   },
   {

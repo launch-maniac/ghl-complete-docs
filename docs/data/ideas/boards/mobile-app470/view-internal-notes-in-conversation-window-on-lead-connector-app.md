@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:23.567Z"
+extracted_at: "2025-09-08T03:07:44.348Z"
 ---
 
 # View internal notes in conversation window on lead connector app

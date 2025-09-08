@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:34.928Z"
+extracted_at: "2025-09-08T03:13:53.039Z"
 ---
 
 # Business Account for GoKollab like Udemy: One business with multiple members under it, The business handles the billing etc.)

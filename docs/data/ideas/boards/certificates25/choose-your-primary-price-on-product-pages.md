@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:06:39.360Z"
+extracted_at: "2025-09-08T03:03:58.561Z"
 ---
 
 # 🏷️ Choose Your Primary Price on Product Pages

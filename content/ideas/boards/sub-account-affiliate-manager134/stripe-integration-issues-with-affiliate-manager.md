@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:39.674Z"
+extracted_at: "2025-09-08T03:09:57.673Z"
 ---
 
 # Stripe Integration issues with Affiliate Manager

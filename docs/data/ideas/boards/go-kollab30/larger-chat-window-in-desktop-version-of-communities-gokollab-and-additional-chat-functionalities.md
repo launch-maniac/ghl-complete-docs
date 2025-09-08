@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:34.929Z"
+extracted_at: "2025-09-08T03:13:53.040Z"
 ---
 
 # Larger chat window in desktop version of Communities/Gokollab and additional chat functionalities

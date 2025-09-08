@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:49.896Z"
+extracted_at: "2025-09-08T03:07:11.066Z"
 ---
 
 # Add user permissions that disable the ability to delete your LC phone number?

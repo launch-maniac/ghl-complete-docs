@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:11:31.713Z"
+extracted_at: "2025-09-08T03:08:50.885Z"
 ---
 
 # Speed to lead

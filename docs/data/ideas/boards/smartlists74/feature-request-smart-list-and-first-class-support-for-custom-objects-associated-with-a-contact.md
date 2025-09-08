@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:05.619Z"
+extracted_at: "2025-09-08T03:09:23.944Z"
 ---
 
 # Feature request: Smart list and First class support for Custom Objects associated with a Contact

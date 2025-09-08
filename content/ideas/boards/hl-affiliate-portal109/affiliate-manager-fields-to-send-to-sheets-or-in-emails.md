@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:16.499Z"
+extracted_at: "2025-09-08T03:06:37.001Z"
 ---
 
 # Affiliate Manager Fields to send to Sheets or in Emails

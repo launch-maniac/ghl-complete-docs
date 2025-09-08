@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:11:42.932Z"
+extracted_at: "2025-09-08T03:09:01.870Z"
 ---
 
 # Change the Invites Goal

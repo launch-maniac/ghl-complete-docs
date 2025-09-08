@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:34.929Z"
+extracted_at: "2025-09-08T03:13:53.039Z"
 ---
 
 # ⚠️ Language switch to French not working in GoKollab

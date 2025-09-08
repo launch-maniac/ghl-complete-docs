@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:12.902Z"
+extracted_at: "2025-09-08T03:13:30.567Z"
 ---
 
 # Option to turn-off HIPAA after subscribing

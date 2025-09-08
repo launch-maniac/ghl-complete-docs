@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:38.879Z"
+extracted_at: "2025-09-08T03:12:57.564Z"
 ---
 
 # More POS Card Terminal options other than Stripe

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:12.903Z"
+extracted_at: "2025-09-08T03:13:30.569Z"
 ---
 
 # Feature Request: Self-Hosting Option for Go High Level (e.g. via AWS or Azure) to Support GDPR and Data Residency Requirements

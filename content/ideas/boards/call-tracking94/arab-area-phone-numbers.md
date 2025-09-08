@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:05:43.003Z"
+extracted_at: "2025-09-08T03:03:01.365Z"
 ---
 
 # Arab Area Phone Numbers

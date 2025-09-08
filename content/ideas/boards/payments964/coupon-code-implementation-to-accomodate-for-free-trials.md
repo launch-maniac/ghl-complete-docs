@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:11:09.303Z"
+extracted_at: "2025-09-08T03:08:29.016Z"
 ---
 
 # Coupon Code Implementation to accomodate for free trials.

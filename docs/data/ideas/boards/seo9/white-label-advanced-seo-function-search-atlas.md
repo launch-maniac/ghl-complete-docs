@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:46.206Z"
+extracted_at: "2025-09-08T03:14:04.025Z"
 ---
 
 # White Label "Advanced SEO" function (Search Atlas)

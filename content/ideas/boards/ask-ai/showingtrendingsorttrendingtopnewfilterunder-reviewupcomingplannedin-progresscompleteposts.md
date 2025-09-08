@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: "https://ideas.gohighlevel.com/ask-ai?sort=trending"
-extracted_at: "2025-09-07T07:17:20.199Z"
+extracted_at: "2025-09-08T03:14:38.098Z"
 ---
 
 # ShowingTrendingSortTrendingTopNewFilterUnder ReviewUpcomingPlannedIn ProgressCompleteposts

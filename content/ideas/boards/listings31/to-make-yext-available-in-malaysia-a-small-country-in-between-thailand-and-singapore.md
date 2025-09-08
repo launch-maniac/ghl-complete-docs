@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:14:19.757Z"
+extracted_at: "2025-09-08T03:11:38.122Z"
 ---
 
 # To make Yext available in Malaysia (a small country in between Thailand and Singapore)

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:04.348Z"
+extracted_at: "2025-09-08T03:12:23.563Z"
 ---
 
 # To be able to go back to QR code and edit its functionality

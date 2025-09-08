@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:23.793Z"
+extracted_at: "2025-09-08T03:10:41.996Z"
 ---
 
 # 📌 Roles & Permissions Changing Automatically With New Features (Creating a Management Nightmare)

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:08:31.755Z"
+extracted_at: "2025-09-08T03:05:51.538Z"
 ---
 
 # Hello! I need to select which fanpage the message came from in the "Customer replied/ Replied channel"

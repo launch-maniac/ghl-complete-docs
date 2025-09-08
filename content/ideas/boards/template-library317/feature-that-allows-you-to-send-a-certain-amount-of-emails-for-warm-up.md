@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:12.782Z"
+extracted_at: "2025-09-08T03:10:30.415Z"
 ---
 
 # feature that allows you to send a certain amount of emails for warm up

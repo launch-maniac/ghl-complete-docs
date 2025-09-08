@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:15.378Z"
+extracted_at: "2025-09-08T03:12:34.587Z"
 ---
 
 # Virtual Fields (Fields that are not tied to the CRM but ONLY to the Quizz)

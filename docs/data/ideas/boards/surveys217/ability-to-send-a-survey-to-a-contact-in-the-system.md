@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:50.692Z"
+extracted_at: "2025-09-08T03:10:08.534Z"
 ---
 
 # Ability to send a survey to a contact in the system.

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:47.889Z"
+extracted_at: "2025-09-08T03:02:05.563Z"
 ---
 
 # AI to Read and Understand Images from Clients

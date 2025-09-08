@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:11:31.715Z"
+extracted_at: "2025-09-08T03:08:50.887Z"
 ---
 
 # Revenue Report by Lead Source

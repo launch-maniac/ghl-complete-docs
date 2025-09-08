@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:38.687Z"
+extracted_at: "2025-09-08T03:06:59.336Z"
 ---
 
 # Request: Dynamic Pricing Support for Stripe Invoices in Workflows

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:07:47.025Z"
+extracted_at: "2025-09-08T03:05:06.862Z"
 ---
 
 # Dedicated headers should be overwriteable or a warning should show

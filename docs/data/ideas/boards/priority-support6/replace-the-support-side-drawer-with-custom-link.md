@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:23.736Z"
+extracted_at: "2025-09-08T03:13:41.835Z"
 ---
 
 # Replace the Support Side Drawer with Custom Link

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:12.535Z"
+extracted_at: "2025-09-08T03:07:33.310Z"
 ---
 
 # Assessment Uploaded/Submitted Notifications & Add Upload to Contact Documents

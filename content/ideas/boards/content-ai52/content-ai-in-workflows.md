@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:59.045Z"
+extracted_at: "2025-09-08T03:02:16.668Z"
 ---
 
 # Content AI in workflows.

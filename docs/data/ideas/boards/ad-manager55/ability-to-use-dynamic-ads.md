@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:00.618Z"
+extracted_at: "2025-09-08T03:01:19.814Z"
 ---
 
 # Ability to use dynamic ads

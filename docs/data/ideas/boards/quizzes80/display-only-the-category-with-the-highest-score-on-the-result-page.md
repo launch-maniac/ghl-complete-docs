@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:15.379Z"
+extracted_at: "2025-09-08T03:12:34.587Z"
 ---
 
 # Display only the category with the highest score on the result page

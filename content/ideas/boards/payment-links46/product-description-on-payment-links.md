@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:14:53.318Z"
+extracted_at: "2025-09-08T03:12:12.604Z"
 ---
 
 # Product description on payment links

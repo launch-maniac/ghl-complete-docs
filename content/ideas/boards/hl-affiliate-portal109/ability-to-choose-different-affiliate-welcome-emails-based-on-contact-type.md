@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:16.501Z"
+extracted_at: "2025-09-08T03:06:37.002Z"
 ---
 
 # Ability To Choose Different Affiliate Welcome Emails Based On Contact Type

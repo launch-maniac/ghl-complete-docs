@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:58.201Z"
+extracted_at: "2025-09-08T03:08:17.935Z"
 ---
 
 # Form Elements Should Include Opportunity Custom Fields

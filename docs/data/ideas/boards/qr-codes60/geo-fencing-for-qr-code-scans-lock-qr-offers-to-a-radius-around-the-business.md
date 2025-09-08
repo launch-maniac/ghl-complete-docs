@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:04.352Z"
+extracted_at: "2025-09-08T03:12:23.568Z"
 ---
 
 # Geo-Fencing for QR Code Scans – Lock QR Offers to a Radius Around the Business

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:07:24.337Z"
+extracted_at: "2025-09-08T03:04:43.983Z"
 ---
 
 # Ability to edit contact details (including custom fields) in Dashboard Widgets

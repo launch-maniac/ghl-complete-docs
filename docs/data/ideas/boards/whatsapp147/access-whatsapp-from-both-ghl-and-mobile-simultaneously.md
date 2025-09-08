@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:45.660Z"
+extracted_at: "2025-09-08T03:11:04.493Z"
 ---
 
 # Access WhatsApp from both GHL and mobile simultaneously.

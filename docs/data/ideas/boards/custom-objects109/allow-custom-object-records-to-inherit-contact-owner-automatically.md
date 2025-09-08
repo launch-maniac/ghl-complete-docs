@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:07:01.887Z"
+extracted_at: "2025-09-08T03:04:21.330Z"
 ---
 
 # Allow Custom Object Records to Inherit Contact Owner Automatically

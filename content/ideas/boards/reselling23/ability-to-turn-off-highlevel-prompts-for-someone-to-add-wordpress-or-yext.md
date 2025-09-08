@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:50.285Z"
+extracted_at: "2025-09-08T03:13:08.590Z"
 ---
 
 # Ability to turn off highlevel prompts for someone to add WordPress or Yext

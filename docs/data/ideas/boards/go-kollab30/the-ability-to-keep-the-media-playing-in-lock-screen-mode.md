@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:16:34.927Z"
+extracted_at: "2025-09-08T03:13:53.037Z"
 ---
 
 # The ability to keep the media playing in lock screen mode

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:25.275Z"
+extracted_at: "2025-09-08T03:01:43.111Z"
 ---
 
 # Allow Bot Training to be either per bot or shared

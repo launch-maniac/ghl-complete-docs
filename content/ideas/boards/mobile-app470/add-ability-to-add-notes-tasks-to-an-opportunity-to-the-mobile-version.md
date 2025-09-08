@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:23.563Z"
+extracted_at: "2025-09-08T03:07:44.342Z"
 ---
 
 # Add  ability to add Notes & Tasks to an opportunity to the mobile version

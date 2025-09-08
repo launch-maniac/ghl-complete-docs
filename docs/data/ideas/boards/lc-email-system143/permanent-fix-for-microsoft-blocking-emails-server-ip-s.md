@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:00.788Z"
+extracted_at: "2025-09-08T03:07:22.129Z"
 ---
 
 # Permanent fix for Microsoft blocking emails/server ip's

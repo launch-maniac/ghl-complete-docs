@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:11:09.302Z"
+extracted_at: "2025-09-08T03:08:29.016Z"
 ---
 
 # Integrate MercadoPago for Latinamerican users

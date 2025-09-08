@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:05:10.125Z"
+extracted_at: "2025-09-08T03:02:27.654Z"
 ---
 
 # Customize blog template

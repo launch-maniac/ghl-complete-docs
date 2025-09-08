@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:01.768Z"
+extracted_at: "2025-09-08T03:10:19.414Z"
 ---
 
 # Google Tasks/Calendar Sync for Tasks

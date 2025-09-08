@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:57.070Z"
+extracted_at: "2025-09-08T03:11:15.544Z"
 ---
 
 # GHL Chat Widget - SSO User Context for Agency Usage

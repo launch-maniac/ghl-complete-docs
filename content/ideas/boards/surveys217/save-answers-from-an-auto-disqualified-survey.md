@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:50.695Z"
+extracted_at: "2025-09-08T03:10:08.537Z"
 ---
 
 # Save answers from an auto disqualified survey

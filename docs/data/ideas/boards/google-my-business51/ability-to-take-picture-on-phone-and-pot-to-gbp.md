@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:05.575Z"
+extracted_at: "2025-09-08T03:06:25.923Z"
 ---
 
 # Ability to take picture on phone and pot to GBP

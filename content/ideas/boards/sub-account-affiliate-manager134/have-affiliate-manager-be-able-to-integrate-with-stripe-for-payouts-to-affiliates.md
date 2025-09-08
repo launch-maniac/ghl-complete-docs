@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:39.677Z"
+extracted_at: "2025-09-08T03:09:57.679Z"
 ---
 
 # Have Affiliate Manager be able to integrate with Stripe for payouts to affiliates.

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:27.485Z"
+extracted_at: "2025-09-08T03:06:48.444Z"
 ---
 
 # Connecting Twitter, Snapchat, and TikTok like Facebook

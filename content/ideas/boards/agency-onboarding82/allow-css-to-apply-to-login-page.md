@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:10:47.126Z"
+extracted_at: "2025-09-08T03:08:06.636Z"
 ---
 
 # Allow CSS to Apply to Login Page

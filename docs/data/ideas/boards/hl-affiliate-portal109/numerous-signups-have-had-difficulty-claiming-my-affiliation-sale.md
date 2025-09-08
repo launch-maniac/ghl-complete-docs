@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:09:16.495Z"
+extracted_at: "2025-09-08T03:06:36.995Z"
 ---
 
 # Numerous signups have had difficulty claiming my affiliation sale

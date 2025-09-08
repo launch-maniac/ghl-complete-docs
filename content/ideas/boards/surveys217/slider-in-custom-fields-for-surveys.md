@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:12:50.690Z"
+extracted_at: "2025-09-08T03:10:08.532Z"
 ---
 
 # Slider in Custom Fields for Surveys

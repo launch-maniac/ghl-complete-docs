@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:13:01.771Z"
+extracted_at: "2025-09-08T03:10:19.420Z"
 ---
 
 # BUG: Followers of contacts no longer see the assigned contact in the new Tasks View.
