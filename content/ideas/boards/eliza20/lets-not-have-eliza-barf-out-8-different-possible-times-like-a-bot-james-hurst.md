@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:05:40.222Z"
+extracted_at: "2025-09-09T03:01:35.991Z"
 ---
 
 # Lets not have Eliza barf out 8 different possible times like a bot (James Hurst)

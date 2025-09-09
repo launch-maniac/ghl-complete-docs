@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:01:43.111Z"
+extracted_at: "2025-09-09T02:57:40.878Z"
 ---
 
 # Ability to Delete Knowledge Bases if Voice AI or Chatbot accidently deleted first and still linked.

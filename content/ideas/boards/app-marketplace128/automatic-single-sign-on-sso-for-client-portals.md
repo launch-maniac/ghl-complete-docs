@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:01:08.621Z"
+extracted_at: "2025-09-09T02:57:07.185Z"
 ---
 
 # Automatic Single Sign On (SSO) for Client Portals

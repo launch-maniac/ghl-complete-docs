@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:03:58.560Z"
+extracted_at: "2025-09-09T02:59:54.723Z"
 ---
 
 # 🏷️ Flexible Label for Subscription vs Payment Plan

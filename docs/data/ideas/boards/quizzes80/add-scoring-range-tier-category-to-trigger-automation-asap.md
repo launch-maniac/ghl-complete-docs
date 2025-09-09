@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:15:15.379Z"
+extracted_at: "2025-09-09T03:08:32.220Z"
 ---
 
 # Add Scoring Range/Tier Category to Trigger Automation (ASAP)

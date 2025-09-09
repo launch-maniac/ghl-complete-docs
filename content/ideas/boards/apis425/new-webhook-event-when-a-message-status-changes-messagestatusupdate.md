@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:00:57.576Z"
+extracted_at: "2025-09-09T02:56:56.111Z"
 ---
 
 # New webhook event when a message status changes: MessageStatusUpdate

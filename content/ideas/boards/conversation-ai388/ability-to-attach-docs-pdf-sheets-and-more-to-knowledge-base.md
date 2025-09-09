@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:02:05.564Z"
+extracted_at: "2025-09-09T02:58:03.255Z"
 ---
 
 # Ability to attach Docs, PDF, Sheets and more to knowledge base

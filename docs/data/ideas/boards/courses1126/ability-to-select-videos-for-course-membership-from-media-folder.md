@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:07:33.300Z"
+extracted_at: "2025-09-09T03:03:28.351Z"
 ---
 
 # ABILITY TO SELECT VIDEOS FOR COURSE/MEMBERSHIP FROM MEDIA FOLDER

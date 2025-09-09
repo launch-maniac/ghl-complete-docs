@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:01:19.814Z"
+extracted_at: "2025-09-09T02:57:18.203Z"
 ---
 
 # Percentage and Pay Per Lead in Ads Manager

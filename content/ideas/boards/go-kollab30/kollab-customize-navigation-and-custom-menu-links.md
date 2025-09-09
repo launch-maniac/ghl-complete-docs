@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:13:53.036Z"
+extracted_at: "2025-09-09T03:09:51.332Z"
 ---
 
 # Kollab - Customize Navigation and Custom Menu Links

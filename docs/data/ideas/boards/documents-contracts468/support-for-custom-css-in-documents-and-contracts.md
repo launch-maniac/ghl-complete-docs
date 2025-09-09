@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:04:55.252Z"
+extracted_at: "2025-09-09T03:00:50.363Z"
 ---
 
 # Support for Custom CSS in Documents and Contracts

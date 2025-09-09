@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:07:13.337Z"
+extracted_at: "2025-09-09T03:00:28.059Z"
 ---
 
 # Add Full Group Class Scheduling with Membership Credit Tracking & Attendance for Fitness Studios

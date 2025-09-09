@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:11:38.119Z"
+extracted_at: "2025-09-09T03:07:35.739Z"
 ---
 
 # Yext Listing to integrate with Voice Command Platform

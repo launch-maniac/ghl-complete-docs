@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:13:53.041Z"
+extracted_at: "2025-09-09T03:09:51.337Z"
 ---
 
 # Barcode Scanner Integration with Action Buttons & System Sync for Invisalign Package Tracking

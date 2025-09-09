@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:01:43.110Z"
+extracted_at: "2025-09-09T02:57:40.877Z"
 ---
 
 # Voice AI shouldn't answer "scam likely" and robo calls

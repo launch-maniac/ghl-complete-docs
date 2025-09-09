@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:10:30.412Z"
+extracted_at: "2025-09-09T03:06:28.336Z"
 ---
 
 # Export Marketing Email Templates as HTML

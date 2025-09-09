@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:02:05.565Z"
+extracted_at: "2025-09-09T02:58:03.256Z"
 ---
 
 # chatBot Understand and Goes to sleep when someone replies from direct channels

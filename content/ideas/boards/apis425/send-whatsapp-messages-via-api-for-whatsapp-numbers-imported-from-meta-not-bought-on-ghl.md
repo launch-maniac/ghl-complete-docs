@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:00:57.580Z"
+extracted_at: "2025-09-09T02:56:56.115Z"
 ---
 
 # Send WhatsApp Messages via API for whatsapp numbers imported from META (not bought on GHL)

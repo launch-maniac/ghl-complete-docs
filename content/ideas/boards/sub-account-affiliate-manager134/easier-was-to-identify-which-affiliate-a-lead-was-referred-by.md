@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:09:57.676Z"
+extracted_at: "2025-09-09T03:05:54.140Z"
 ---
 
 # Easier was to Identify Which Affiliate a Lead was Referred By

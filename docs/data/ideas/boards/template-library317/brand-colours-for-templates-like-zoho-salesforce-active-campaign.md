@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:10:30.408Z"
+extracted_at: "2025-09-09T03:06:28.332Z"
 ---
 
 # Brand Colours for templates - like Zoho, Salesforce, Active Campaign

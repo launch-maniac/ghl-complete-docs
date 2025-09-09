@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:10:41.999Z"
+extracted_at: "2025-09-09T03:06:39.569Z"
 ---
 
 # [Permissions] Granular Permissions at the Agency Level for Agency Admins/Users

@@ -511,6 +511,76 @@
     "url": null
   },
   {
+    "id": "ability-to-disable-premium-add-ons-by-default-for-new-subaccounts",
+    "title": "Ability to Disable Premium Add-Ons by Default for New Subaccounts",
+    "category": "ideas",
+    "excerpt": "Ability to Disable Premium Add-Ons by Default for New Subaccounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-dropdown-fields-to-be-updated-with-inputs-from-automations",
+    "title": "Allow Dropdown fields to be updated with inputs from automations",
+    "category": "ideas",
+    "excerpt": "Allow Dropdown fields to be updated with inputs from automations Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "estimate-invoice-proposals",
+    "title": "Estimate, Invoice & Proposals",
+    "category": "ideas",
+    "excerpt": "Estimate, Invoice & Proposals Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "in-service-calendars-enable-passing-processing-charges-to-customers",
+    "title": "In Service Calendars - Enable passing processing charges to customers",
+    "category": "ideas",
+    "excerpt": "In Service Calendars - Enable passing processing charges to customers Status: open Votes: 0 Comments...",
+    "url": null
+  },
+  {
+    "id": "invoice-date-filters",
+    "title": "Invoice Date Filters.",
+    "category": "ideas",
+    "excerpt": "Invoice Date Filters. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "opportunities-smart-list",
+    "title": "Opportunities Smart List",
+    "category": "ideas",
+    "excerpt": "Opportunities Smart List Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "please-include-a-delay-option-for-all-elements-of-a-page-or-entire-rows-columns",
+    "title": "Please include a delay option for all elements of  a page (or entire rows/columns).",
+    "category": "ideas",
+    "excerpt": "Please include a delay option for all elements of a page or entire rows/columns. Status: open Votes:...",
+    "url": null
+  },
+  {
+    "id": "support-for-multiple-business-profiles-in-a-single-sub-account",
+    "title": "Support for Multiple Business Profiles in a Single Sub-Account",
+    "category": "ideas",
+    "excerpt": "Support for Multiple Business Profiles in a Single Sub-Account Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "to-have-a-campaign-level-smtp-from-email-control",
+    "title": "to have a Campaign-Level SMTP / From Email Control",
+    "category": "ideas",
+    "excerpt": "to have a Campaign-Level SMTP / From Email Control Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "update-on-n8n-make-com-replacement-agentic-workflow-builder",
+    "title": "🤖 Update on N8N/Make.com replacement (Agentic Workflow Builder)",
+    "category": "ideas",
+    "excerpt": "🤖 Update on N8N/Make.com replacement Agentic Workflow Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-disable-launchpad",
     "title": "Ability to Disable Launchpad!",
     "category": "ideas",
@@ -928,6 +998,13 @@
     "title": "Voice dictation to create new contact adding all info to correct feilds",
     "category": "ideas",
     "excerpt": "Voice dictation to create new contact adding all info to correct feilds Status: open Votes: 0 Commen...",
+    "url": null
+  },
+  {
+    "id": "add-api-for-communities",
+    "title": "Add API for communities",
+    "category": "ideas",
+    "excerpt": "Add API for communities Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1652,6 +1729,41 @@
     "url": null
   },
   {
+    "id": "ability-to-create-invoice-in-work-flow",
+    "title": "Ability to \"create invoice\" in work flow",
+    "category": "ideas",
+    "excerpt": "Ability to \"create invoice\" in work flow Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-sub-account-admins-not-agency-admins-to-share-automations-between-their-accounts",
+    "title": "🔄 Allow sub-account admins (not agency admins) to share automations between their accounts",
+    "category": "ideas",
+    "excerpt": "🔄 Allow sub-account admins not agency admins to share automations between their accounts Status: op...",
+    "url": null
+  },
+  {
+    "id": "bug-fix-for-account-cancellation-subscription-status-trigger",
+    "title": "Bug fix for Account Cancellation / Subscription Status Trigger",
+    "category": "ideas",
+    "excerpt": "Bug fix for Account Cancellation / Subscription Status Trigger Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "expand-align-available-fields-in-workflows-much-closer-to-api",
+    "title": "Expand/Align Available Fields in Workflows Much Closer to API.",
+    "category": "ideas",
+    "excerpt": "Expand/Align Available Fields in Workflows Much Closer to API. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "make-create-document-from-existing-template-an-option-from-the-blue-plus-sign-on-the-document-and-te",
+    "title": "Make Create Document from existing template an option from the Blue Plus sign on the Document and template screen",
+    "category": "ideas",
+    "excerpt": "Make Create Document from existing template an option from the Blue Plus sign on the Document and te...",
+    "url": null
+  },
+  {
     "id": "ability-to-customise-blog-url",
     "title": "Ability to customise blog URL",
     "category": "ideas",
@@ -1873,6 +1985,27 @@
     "title": "Youtube as the thumbnail",
     "category": "ideas",
     "excerpt": "Youtube as the thumbnail Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "blog-customization",
+    "title": "Blog customization",
+    "category": "ideas",
+    "excerpt": "Blog customization Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "blog-youtube-embeds-responsive",
+    "title": "Blog YouTube Embeds Responsive",
+    "category": "ideas",
+    "excerpt": "Blog YouTube Embeds Responsive Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "seriously-improve-the-blog-builder-we-are-in-the-ai-era",
+    "title": "Seriously, Improve the Blog Builder, we are in the AI era",
+    "category": "ideas",
+    "excerpt": "Seriously, Improve the Blog Builder, we are in the AI era Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2286,6 +2419,27 @@
     "title": "Service V2 Custom Fields in Template Builder",
     "category": "ideas",
     "excerpt": "Service V2 Custom Fields in Template Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-zoom-function-to-class-booking",
+    "title": "Add zoom function to Class Booking",
+    "category": "ideas",
+    "excerpt": "Add zoom function to Class Booking Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "block-incoming-spam-emails",
+    "title": "Block incoming spam emails",
+    "category": "ideas",
+    "excerpt": "Block incoming spam emails Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "collective-booking-in-new-service-calendar-v2",
+    "title": "Collective Booking in New Service Calendar (v2)",
+    "category": "ideas",
+    "excerpt": "Collective Booking in New Service Calendar v2 Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2919,6 +3073,13 @@
     "url": null
   },
   {
+    "id": "client-portal-activity-to-show-in-crm-contact-record",
+    "title": "🔗 Client Portal Activity to Show in CRM Contact Record",
+    "category": "ideas",
+    "excerpt": "🔗 Client Portal Activity to Show in CRM Contact Record Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "community-event-rsvp-count-tracking",
     "title": "Community Event RSVP Count/Tracking",
     "category": "ideas",
@@ -3143,6 +3304,13 @@
     "url": null
   },
   {
+    "id": "browser-notifications-sound",
+    "title": "Browser notifications + sound",
+    "category": "ideas",
+    "excerpt": "Browser notifications + sound Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "communities-chat-in-crm",
     "title": "Communities Chat in CRM",
     "category": "ideas",
@@ -3224,6 +3392,20 @@
     "title": "Live Stream on Community groups",
     "category": "ideas",
     "excerpt": "Live Stream on Community groups Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "live-stream-screenshare-in-group",
+    "title": "Live Stream & Screenshare in group",
+    "category": "ideas",
+    "excerpt": "Live Stream & Screenshare in group Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "login-to-multiple-communities-client-portals",
+    "title": "Login to multiple communities/client portals",
+    "category": "ideas",
+    "excerpt": "Login to multiple communities/client portals Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -3759,6 +3941,76 @@
     "url": null
   },
   {
+    "id": "add-appointment-to-smart-list-filter",
+    "title": "Add \"Appointment\" to Smart List Filter",
+    "category": "ideas",
+    "excerpt": "Add \"Appointment\" to Smart List Filter Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-company-name-on-contact-creation",
+    "title": "Add company name on contact creation",
+    "category": "ideas",
+    "excerpt": "Add company name on contact creation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "contact-deduplication-preferences",
+    "title": "Contact Deduplication Preferences",
+    "category": "ideas",
+    "excerpt": "Contact Deduplication Preferences Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "deduplicate-contacts-with-custom-fields",
+    "title": "Deduplicate contacts with custom fields",
+    "category": "ideas",
+    "excerpt": "Deduplicate contacts with custom fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "deduplication-based-on-custom-fields",
+    "title": "Deduplication based on Custom Fields",
+    "category": "ideas",
+    "excerpt": "Deduplication based on Custom Fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "dnd-incoming-needs-to-be-available-in-workflows-and-there-needs-to-be-an-easier-to-mark-calls-as-spa",
+    "title": "DND Incoming needs to be available in workflows. And there needs to be an easier to mark calls as SPAM",
+    "category": "ideas",
+    "excerpt": "DND Incoming needs to be available in workflows. And there needs to be an easier to mark calls as SP...",
+    "url": null
+  },
+  {
+    "id": "gmail-integration-and-send-from-instead-of-mail-gun",
+    "title": "Gmail Integration and Send from instead of mail gun",
+    "category": "ideas",
+    "excerpt": "Gmail Integration and Send from instead of mail gun Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "set-custom-contact-default-views-eg-notes-tab-instead-of-activity",
+    "title": "Set Custom contact default views (eg. notes tab instead of Activity)",
+    "category": "ideas",
+    "excerpt": "Set Custom contact default views eg. notes tab instead of Activity Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "smart-list-on-snapshot",
+    "title": "Smart List on Snapshot",
+    "category": "ideas",
+    "excerpt": "Smart List on Snapshot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "user-becomes-a-contact-in-the-system-when-sending-internal-email-notification-to-user-in-automation",
+    "title": "User becomes a contact in the system when sending internal email notification to user in automation!!!",
+    "category": "ideas",
+    "excerpt": "User becomes a contact in the system when sending internal email notification to user in automation!...",
+    "url": null
+  },
+  {
     "id": "3-dot-typing-indicator",
     "title": "3-dot Typing Indicator",
     "category": "ideas",
@@ -3952,6 +4204,13 @@
     "title": "Upload image to use as template for Image AI",
     "category": "ideas",
     "excerpt": "Upload image to use as template for Image AI Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "content-ai-translations",
+    "title": "Content AI translations",
+    "category": "ideas",
+    "excerpt": "Content AI translations Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4389,6 +4648,13 @@
     "url": null
   },
   {
+    "id": "specify-a-separate-sending-email-for-each-user-on-user-profile",
+    "title": "Specify a Separate Sending Email for Each User on User Profile",
+    "category": "ideas",
+    "excerpt": "Specify a Separate Sending Email for Each User on User Profile Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "2fa-mfa-for-courses-platform-gokollab",
     "title": "2FA/MFA for Courses platform /GoKollab.",
     "category": "ideas",
@@ -4487,6 +4753,13 @@
     "url": null
   },
   {
+    "id": "customization-options-and-templates-for-courses-membership",
+    "title": "Customization Options and Templates for Courses/Membership",
+    "category": "ideas",
+    "excerpt": "Customization Options and Templates for Courses/Membership Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "downloadable-course-videos-for-members",
     "title": "DOWNLOADABLE COURSE VIDEOS (FOR MEMBERS)",
     "category": "ideas",
@@ -4498,6 +4771,13 @@
     "title": "Fix Commenting on Courses on Mobile",
     "category": "ideas",
     "excerpt": "Fix Commenting on Courses on Mobile Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "gamefying-features-for-the-membership-area-for-customers-experience",
+    "title": "Gamefying features for the membership area for customers experience",
+    "category": "ideas",
+    "excerpt": "Gamefying features for the membership area for customers experience Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4662,6 +4942,13 @@
     "url": null
   },
   {
+    "id": "adding-the-arabic-language",
+    "title": "Adding the Arabic language",
+    "category": "ideas",
+    "excerpt": "Adding the Arabic language Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "attachments-to-notes",
     "title": "Attachments to Notes",
     "category": "ideas",
@@ -4729,6 +5016,20 @@
     "title": "Email Parser to create contacts from inbound email leads (Similar to Follow Up Boss)",
     "category": "ideas",
     "excerpt": "Email Parser to create contacts from inbound email leads Similar to Follow Up Boss Status: open Vote...",
+    "url": null
+  },
+  {
+    "id": "email-sequence-feature",
+    "title": "Email Sequence Feature",
+    "category": "ideas",
+    "excerpt": "Email Sequence Feature Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "employee-time-tracking-gps-time-clock",
+    "title": "Employee time tracking GPS Time Clock",
+    "category": "ideas",
+    "excerpt": "Employee time tracking GPS Time Clock Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4802,10 +5103,24 @@
     "url": null
   },
   {
+    "id": "security-isolate-leads-or-customers",
+    "title": "Security - Isolate Leads or Customers",
+    "category": "ideas",
+    "excerpt": "Security - Isolate Leads or Customers Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "should-be-nice-to-be-able-to-assign-multiple-users-for-a-task",
     "title": "Should be nice to be able to assign multiple users for a task",
     "category": "ideas",
     "excerpt": "Should be nice to be able to assign multiple users for a task Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "sorting-sorting-sorting",
+    "title": "Sorting, Sorting, Sorting",
+    "category": "ideas",
+    "excerpt": "Sorting, Sorting, Sorting Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4827,6 +5142,13 @@
     "title": "✅ Time Registration System",
     "category": "ideas",
     "excerpt": "✅ Time Registration System Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "time-tracking",
+    "title": "Time tracking",
+    "category": "ideas",
+    "excerpt": "Time tracking Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5068,6 +5390,20 @@
     "url": null
   },
   {
+    "id": "assosiation-action-for-custom-object-in-workflow",
+    "title": "Assosiation action for custom object in workflow",
+    "category": "ideas",
+    "excerpt": "Assosiation action for custom object in workflow Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "bulk-delete-option-for-custom-objects",
+    "title": "Bulk Delete Option for Custom Objects",
+    "category": "ideas",
+    "excerpt": "Bulk Delete Option for Custom Objects Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "a-truly-customize-the-dashboard",
     "title": "A Truly Customize the Dashboard",
     "category": "ideas",
@@ -5278,6 +5614,13 @@
     "url": null
   },
   {
+    "id": "ability-to-add-custom-code-html-as-an-element-in-the-documents",
+    "title": "Ability to add custom code HTML as an element in the documents.",
+    "category": "ideas",
+    "excerpt": "Ability to add custom code HTML as an element in the documents. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-add-headers-footers",
     "title": "Ability to add Headers & Footers",
     "category": "ideas",
@@ -5310,6 +5653,13 @@
     "title": "Add custom opportunity fields to Contracts & Documents",
     "category": "ideas",
     "excerpt": "Add custom opportunity fields to Contracts & Documents Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-html-element-in-documents-and-contracts",
+    "title": "Add HTML element in Documents and Contracts",
+    "category": "ideas",
+    "excerpt": "Add HTML element in Documents and Contracts Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5380,6 +5730,13 @@
     "title": "Global sections problems with publishing and versioning",
     "category": "ideas",
     "excerpt": "Global sections problems with publishing and versioning Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "html-element-in-proposals",
+    "title": "HTML Element in proposals",
+    "category": "ideas",
+    "excerpt": "HTML Element in proposals Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5471,6 +5828,13 @@
     "title": "The ability to embed documents and contracts on webpages",
     "category": "ideas",
     "excerpt": "The ability to embed documents and contracts on webpages Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "thryvs-estimate-function",
+    "title": "thryvs estimate function",
+    "category": "ideas",
+    "excerpt": "thryvs estimate function Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5698,6 +6062,13 @@
     "url": null
   },
   {
+    "id": "3rd-party-api-integration-to-dropshipping-printful-printify-etc",
+    "title": "3rd Party API Integration to Dropshipping (Printful, Printify, etc)",
+    "category": "ideas",
+    "excerpt": "3rd Party API Integration to Dropshipping Printful, Printify, etc Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-create-free-shipping-coupon-codes",
     "title": "Ability to create free shipping coupon codes",
     "category": "ideas",
@@ -5807,6 +6178,13 @@
     "title": "🛍️ eCommerce - Store Analytics 📊📈",
     "category": "ideas",
     "excerpt": "🛍️ eCommerce - Store Analytics 📊📈 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "export-products-created-as-csv-file",
+    "title": "Export products created as csv file",
+    "category": "ideas",
+    "excerpt": "Export products created as csv file Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6601,10 +6979,24 @@
     "url": null
   },
   {
+    "id": "better-forms-multi-page-forms-icons-more-design-optios",
+    "title": "Better forms: multi-page forms, icons, more design optios",
+    "category": "ideas",
+    "excerpt": "Better forms: multi-page forms, icons, more design optios Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "company-custom-objects-custom-fields-inside-form-builder",
     "title": "Company & Custom Objects Custom Fields Inside Form Builder",
     "category": "ideas",
     "excerpt": "Company & Custom Objects Custom Fields Inside Form Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "conditional-logic-doesnt-include-text-element",
+    "title": "Conditional logic doesnt include text element",
+    "category": "ideas",
+    "excerpt": "Conditional logic doesnt include text element Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6657,6 +7049,13 @@
     "url": null
   },
   {
+    "id": "feature-request-add-draft-or-inactive-mode-for-forms-in-ghl",
+    "title": "Feature Request: Add \"Draft\" or \"Inactive\" Mode for Forms in GHL",
+    "category": "ideas",
+    "excerpt": "Feature Request: Add \"Draft\" or \"Inactive\" Mode for Forms in GHL Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "form-conditional-logic-for-multi-select-field",
     "title": "Form conditional logic for multi select field",
     "category": "ideas",
@@ -6682,6 +7081,13 @@
     "title": "Google Ads Enhanced Conversion Tracking: Pass Email Information from HL Forms to Website",
     "category": "ideas",
     "excerpt": "Google Ads Enhanced Conversion Tracking: Pass Email Information from HL Forms to Website Status: ope...",
+    "url": null
+  },
+  {
+    "id": "google-tag-manager-embedded-code",
+    "title": "Google Tag Manager Embedded Code",
+    "category": "ideas",
+    "excerpt": "Google Tag Manager Embedded Code Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6727,10 +7133,24 @@
     "url": null
   },
   {
+    "id": "shipping-zones-charges-needs-to-be-applied-to-one-step-and-two-step-order-forms-in-funnels",
+    "title": "Shipping zones charges needs to be applied to one step and two step order forms in funnels",
+    "category": "ideas",
+    "excerpt": "Shipping zones charges needs to be applied to one step and two step order forms in funnels Status: o...",
+    "url": null
+  },
+  {
     "id": "the-ability-to-place-mailto-and-tel-links-into-the-text-form",
     "title": "The ability to place mailto: and tel: links into the text form.",
     "category": "ideas",
     "excerpt": "The ability to place mailto: and tel: links into the text form. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "time-tracker",
+    "title": "Time tracker",
+    "category": "ideas",
+    "excerpt": "Time tracker Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6965,10 +7385,38 @@
     "url": null
   },
   {
+    "id": "allow-published-pages-to-be-set-to-draft",
+    "title": "Allow Published Pages to be set to Draft",
+    "category": "ideas",
+    "excerpt": "Allow Published Pages to be set to Draft Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "log-in-page-plugin-for-a-website",
+    "title": "Log in page plugin for a website",
+    "category": "ideas",
+    "excerpt": "Log in page plugin for a website Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "provide-an-easy-copy-and-paste-system-for-transferring-a-funnel-from-a-different-host-into-a-ghl-sub",
     "title": "Provide an easy copy and paste system for transferring a funnel from a different host into a GHL sub-account",
     "category": "ideas",
     "excerpt": "Provide an easy copy and paste system for transferring a funnel from a different host into a GHL sub...",
+    "url": null
+  },
+  {
+    "id": "rearrange-website-pages-in-the-websites-area",
+    "title": "Rearrange Website Pages in the Websites Area",
+    "category": "ideas",
+    "excerpt": "Rearrange Website Pages in the Websites Area Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "upgrading-builder-to-allow-for-tablet-optimisation",
+    "title": "Upgrading Builder To Allow for Tablet Optimisation",
+    "category": "ideas",
+    "excerpt": "Upgrading Builder To Allow for Tablet Optimisation Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7728,6 +8176,13 @@
     "url": null
   },
   {
+    "id": "affiliate-tracking-for-non-commission-submissions",
+    "title": "Affiliate Tracking for Non-Commission Submissions",
+    "category": "ideas",
+    "excerpt": "Affiliate Tracking for Non-Commission Submissions Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "2-way-sync-with-shopify",
     "title": "2-way sync with Shopify",
     "category": "ideas",
@@ -7819,6 +8274,13 @@
     "url": null
   },
   {
+    "id": "framer-integration",
+    "title": "Framer integration",
+    "category": "ideas",
+    "excerpt": "Framer integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "google-lead-ads",
     "title": "Google Lead Ads",
     "category": "ideas",
@@ -7833,10 +8295,24 @@
     "url": null
   },
   {
+    "id": "integrate-directly-with-microsoft-clarity",
+    "title": "Integrate Directly With Microsoft Clarity",
+    "category": "ideas",
+    "excerpt": "Integrate Directly With Microsoft Clarity Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "integrate-paypal-please",
     "title": "Integrate PayPal please",
     "category": "ideas",
     "excerpt": "Integrate PayPal please Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "integration-with-asana",
+    "title": "Integration with Asana",
+    "category": "ideas",
+    "excerpt": "Integration with Asana Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7872,6 +8348,13 @@
     "title": "integration with linkedin",
     "category": "ideas",
     "excerpt": "integration with linkedin Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "linkedin-features-apollo",
+    "title": "LinkedIn features (Apollo)",
+    "category": "ideas",
+    "excerpt": "LinkedIn features Apollo Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7935,6 +8418,13 @@
     "title": "Retail & Cafe POS Integration",
     "category": "ideas",
     "excerpt": "Retail & Cafe POS Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "show-integration-name-integration-id-in-audit-logs",
+    "title": "Show Integration Name + Integration ID in Audit Logs",
+    "category": "ideas",
+    "excerpt": "Show Integration Name + Integration ID in Audit Logs Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8050,6 +8540,13 @@
     "url": null
   },
   {
+    "id": "estimate-download-option",
+    "title": "Estimate Download Option",
+    "category": "ideas",
+    "excerpt": "Estimate Download Option Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "estimates-support-for-custom-values-fields-and-standard-fields",
     "title": "✅ Estimates - Support for custom values, fields and standard fields",
     "category": "ideas",
@@ -8061,6 +8558,13 @@
     "title": "flexible invoice email templates",
     "category": "ideas",
     "excerpt": "flexible invoice email templates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "granular-permissions-invoice-archive-delete-options-in-payments",
+    "title": "Granular Permissions & Invoice Archive / Delete Options in Payments",
+    "category": "ideas",
+    "excerpt": "Granular Permissions & Invoice Archive / Delete Options in Payments Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8236,6 +8740,13 @@
     "title": "Correct Language Translation",
     "category": "ideas",
     "excerpt": "Correct Language Translation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "custom-outbound-communication-language-for-custom-values",
+    "title": "Custom \"outbound communication language for custom values\"",
+    "category": "ideas",
+    "excerpt": "Custom \"outbound communication language for custom values\" Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9310,6 +9821,48 @@
     "url": null
   },
   {
+    "id": "ability-to-add-images-attachments-to-invoices-and-estimates",
+    "title": "Ability to add images/attachments to Invoices and Estimates",
+    "category": "ideas",
+    "excerpt": "Ability to add images/attachments to Invoices and Estimates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "access-contact-from-opportunity",
+    "title": "Access Contact from Opportunity",
+    "category": "ideas",
+    "excerpt": "Access Contact from Opportunity Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "estimates-invoices-upload-photos-images-on-mobile",
+    "title": "Estimates/Invoices upload photos/Images on Mobile",
+    "category": "ideas",
+    "excerpt": "Estimates/Invoices upload photos/Images on Mobile Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "lead-connector-for-multiple-separate-accounts",
+    "title": "Lead Connector for multiple separate accounts",
+    "category": "ideas",
+    "excerpt": "Lead Connector for multiple separate accounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "mobile-create-estimates-from-opportunity",
+    "title": "[Mobile] Create estimates from Opportunity",
+    "category": "ideas",
+    "excerpt": "Mobile Create estimates from Opportunity Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "website-in-app",
+    "title": "Website in app",
+    "category": "ideas",
+    "excerpt": "Website in app Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-additional-contacts-field-available-for-importing-opportunities",
     "title": "Add Additional Contacts field available for importing Opportunities",
     "category": "ideas",
@@ -9517,6 +10070,41 @@
     "title": "Tasks in Oppotunities",
     "category": "ideas",
     "excerpt": "Tasks in Oppotunities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-associate-opportunities-folders-and-fields-be-specific-to-pipelines",
+    "title": "Ability to associate Opportunities Folders and Fields be specific to pipelines",
+    "category": "ideas",
+    "excerpt": "Ability to associate Opportunities Folders and Fields be specific to pipelines Status: open Votes: 0...",
+    "url": null
+  },
+  {
+    "id": "ability-to-create-saved-filters-smart-lists-for-opportunities",
+    "title": "Ability to Create Saved Filters / Smart Lists for Opportunities",
+    "category": "ideas",
+    "excerpt": "Ability to Create Saved Filters / Smart Lists for Opportunities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-a-dynamic-values-to-opportunity-lead-value",
+    "title": "Add a Dynamic Values to Opportunity Lead Value",
+    "category": "ideas",
+    "excerpt": "Add a Dynamic Values to Opportunity Lead Value Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-edit-of-some-opportunity-standard-fields",
+    "title": "Allow edit of some Opportunity Standard Fields",
+    "category": "ideas",
+    "excerpt": "Allow edit of some Opportunity Standard Fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "new-pipeline-add-edit-view-is-too-congested",
+    "title": "New pipeline add/edit view is too congested",
+    "category": "ideas",
+    "excerpt": "New pipeline add/edit view is too congested Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9751,6 +10339,13 @@
     "url": null
   },
   {
+    "id": "add-wise-payment-processing",
+    "title": "Add Wise Payment Processing",
+    "category": "ideas",
+    "excerpt": "Add Wise Payment Processing Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "automatic-message-with-shared-payment-update-link-when-payment-fails",
     "title": "Automatic Message with Shared Payment Update Link When Payment Fails",
     "category": "ideas",
@@ -9765,17 +10360,17 @@
     "url": null
   },
   {
+    "id": "create-deposit-for-product",
+    "title": "Create Deposit for Product",
+    "category": "ideas",
+    "excerpt": "Create Deposit for Product Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "display-remaining-subscription-months-payments-or-final-expiration-date",
     "title": "Display Remaining Subscription Months, Payments, or Final/Expiration Date",
     "category": "ideas",
     "excerpt": "Display Remaining Subscription Months, Payments, or Final/Expiration Date Status: open Votes: 0 Comm...",
-    "url": null
-  },
-  {
-    "id": "dynamic-pricing-based-on-custom-fields",
-    "title": "Dynamic pricing based on custom fields",
-    "category": "ideas",
-    "excerpt": "Dynamic pricing based on custom fields Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9821,20 +10416,6 @@
     "url": null
   },
   {
-    "id": "horizontal-document-for-signing",
-    "title": "Horizontal Document for Signing",
-    "category": "ideas",
-    "excerpt": "Horizontal Document for Signing Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "ideal-voor-recurring-payments",
-    "title": "Ideal voor recurring payments",
-    "category": "ideas",
-    "excerpt": "Ideal voor recurring payments Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "integrate-mercadopago-for-latinamerican-users",
     "title": "Integrate MercadoPago for Latinamerican users",
     "category": "ideas",
@@ -9856,6 +10437,13 @@
     "url": null
   },
   {
+    "id": "multiple-payment-methods-with-stripe",
+    "title": "Multiple payment methods with Stripe",
+    "category": "ideas",
+    "excerpt": "Multiple payment methods with Stripe Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "multiple-products-per-subscription",
     "title": "Multiple Products Per Subscription",
     "category": "ideas",
@@ -9874,6 +10462,13 @@
     "title": "✅ Payment reminders for subscriptions",
     "category": "ideas",
     "excerpt": "✅ Payment reminders for subscriptions Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "payoneer",
+    "title": "PAYONEER",
+    "category": "ideas",
+    "excerpt": "PAYONEER Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9930,6 +10525,27 @@
     "title": "Tax Settings Should Be Editable",
     "category": "ideas",
     "excerpt": "Tax Settings Should Be Editable Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "dynamic-pricing-based-on-custom-fields",
+    "title": "Dynamic pricing based on custom fields",
+    "category": "ideas",
+    "excerpt": "Dynamic pricing based on custom fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "horizontal-document-for-signing",
+    "title": "Horizontal Document for Signing",
+    "category": "ideas",
+    "excerpt": "Horizontal Document for Signing Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ideal-voor-recurring-payments",
+    "title": "Ideal voor recurring payments",
+    "category": "ideas",
+    "excerpt": "Ideal voor recurring payments Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10829,6 +11445,13 @@
     "url": null
   },
   {
+    "id": "ability-to-add-custom-value-in-dynamic-content-of-result-page",
+    "title": "Ability to add custom value in dynamic content of result page",
+    "category": "ideas",
+    "excerpt": "Ability to add custom value in dynamic content of result page Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-add-quiz-score-to-email",
     "title": "Ability to add quiz score to email",
     "category": "ideas",
@@ -10840,6 +11463,13 @@
     "title": "Ability to create and send PDF report of quiz results",
     "category": "ideas",
     "excerpt": "Ability to create and send PDF report of quiz results Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-have-different-results-pages-and-display-a-specific-results-page-based-on-the-category-th",
+    "title": "Ability to have different results pages, and display a specific results page based on the category the person gets the highest score in.",
+    "category": "ideas",
+    "excerpt": "Ability to have different results pages, and display a specific results page based on the category t...",
     "url": null
   },
   {
@@ -11025,6 +11655,13 @@
     "url": null
   },
   {
+    "id": "trigger-link-in-quiz-builder",
+    "title": "Trigger Link in Quiz Builder",
+    "category": "ideas",
+    "excerpt": "Trigger Link in Quiz Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "virtual-fields-fields-that-are-not-tied-to-the-crm-but-only-to-the-quizz",
     "title": "Virtual Fields (Fields that are not tied to the CRM but ONLY to the Quizz)",
     "category": "ideas",
@@ -11162,6 +11799,13 @@
     "title": "Email Stats Delivered Value Is Inaccurate",
     "category": "ideas",
     "excerpt": "Email Stats Delivered Value Is Inaccurate Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "fully-custom-reports-using-both-standard-and-custom-objects-along-with-custom-fields",
+    "title": "Fully custom reports using both standard and custom objects along with custom fields",
+    "category": "ideas",
+    "excerpt": "Fully custom reports using both standard and custom objects along with custom fields Status: open Vo...",
     "url": null
   },
   {
@@ -11477,6 +12121,13 @@
     "title": "Video Reviews",
     "category": "ideas",
     "excerpt": "Video Reviews Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "optimize-review-request-messages-with-ai-or-a-b-testing",
+    "title": "✅ Optimize Review Request messages with AI or A/B testing",
+    "category": "ideas",
+    "excerpt": "✅ Optimize Review Request messages with AI or A/B testing Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -11998,6 +12649,20 @@
     "url": null
   },
   {
+    "id": "improve-translation-option-custom-translation",
+    "title": "Improve translation + option custom translation",
+    "category": "ideas",
+    "excerpt": "Improve translation + option custom translation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "use-the-company-name-for-the-stripe-client-name",
+    "title": "Use the company name for the Stripe client name",
+    "category": "ideas",
+    "excerpt": "Use the company name for the Stripe client name Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-an-agency-friendly-pricing-model-for-search-atlas-otto",
     "title": "✅ Add an Agency-Friendly Pricing Model for Search Atlas / OTTO",
     "category": "ideas",
@@ -12499,6 +13164,13 @@
     "title": "Add stickers to FB/IG Stories",
     "category": "ideas",
     "excerpt": "Add stickers to FB/IG Stories Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-twitter-post-in-social-planer",
+    "title": "ADD Twitter Post in Social Planer.",
+    "category": "ideas",
+    "excerpt": "ADD Twitter Post in Social Planer. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13174,6 +13846,13 @@
     "url": null
   },
   {
+    "id": "daily-task-summary-should-not-occur-if-number-of-tasks-0",
+    "title": "Daily task summary should not occur if number of tasks = 0",
+    "category": "ideas",
+    "excerpt": "Daily task summary should not occur if number of tasks = 0 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "export-the-task-list-to-csv",
     "title": "Export the Task List to CSV",
     "category": "ideas",
@@ -13339,6 +14018,13 @@
     "title": "Ability to save pop-ups as templates",
     "category": "ideas",
     "excerpt": "Ability to save pop-ups as templates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "access-gmail-to-send-emails-rather-than-mailgun",
+    "title": "Access Gmail to send emails rather than MailGun",
+    "category": "ideas",
+    "excerpt": "Access Gmail to send emails rather than MailGun Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13552,6 +14238,13 @@
     "url": null
   },
   {
+    "id": "add-launchpad-to-user-permissions-remove-dashboard-if-it-s-deselected-under-user-permissions",
+    "title": "Add \"Launchpad\" to User Permissions & Remove \"Dashboard\" if it's deselected under User Permissions",
+    "category": "ideas",
+    "excerpt": "Add \"Launchpad\" to User Permissions & Remove \"Dashboard\" if it's deselected under User Permissions S...",
+    "url": null
+  },
+  {
     "id": "add-role-based-permissions-team-management-for-marketing-teams-in-sub-accounts",
     "title": "📌 Add Role-Based Permissions + Team Management for Marketing Teams in Sub-Accounts",
     "category": "ideas",
@@ -13636,6 +14329,13 @@
     "url": null
   },
   {
+    "id": "different-user-permissions-across-subaccounts",
+    "title": "Different User Permissions Across subaccounts",
+    "category": "ideas",
+    "excerpt": "Different User Permissions Across subaccounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "disable-the-email-notification-for-agency-owner-when-a-new-user-is-created",
     "title": "Disable the email notification for Agency Owner when a new user is created",
     "category": "ideas",
@@ -13647,6 +14347,13 @@
     "title": "Don't Automatically Enable New Features",
     "category": "ideas",
     "excerpt": "Don't Automatically Enable New Features Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enable-users-to-have-different-access-for-each-site",
+    "title": "Enable users to have different access for each site.",
+    "category": "ideas",
+    "excerpt": "Enable users to have different access for each site. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13668,6 +14375,13 @@
     "title": "[Permissions] Granular Permissions at the Agency Level for Agency Admins/Users",
     "category": "ideas",
     "excerpt": "Permissions Granular Permissions at the Agency Level for Agency Admins/Users Status: open Votes: 0 C...",
+    "url": null
+  },
+  {
+    "id": "remove-a-user-s-right-to-delete-an-opportunity",
+    "title": "Remove a User's right to delete an opportunity.",
+    "category": "ideas",
+    "excerpt": "Remove a User's right to delete an opportunity. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13892,6 +14606,13 @@
     "title": "Premium Voice",
     "category": "ideas",
     "excerpt": "Premium Voice Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "transcripts-available-in-german-other-languages",
+    "title": "Transcripts available in german/other languages",
+    "category": "ideas",
+    "excerpt": "Transcripts available in german/other languages Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14189,6 +14910,13 @@
     "url": null
   },
   {
+    "id": "make-rows-and-columns-sticky",
+    "title": "Make rows and columns sticky",
+    "category": "ideas",
+    "excerpt": "Make rows and columns sticky Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "access-whatsapp-from-both-ghl-and-mobile-simultaneously",
     "title": "Access WhatsApp from both GHL and mobile simultaneously.",
     "category": "ideas",
@@ -14396,6 +15124,13 @@
     "title": "WhatsApp: transfer of received media parameters via API",
     "category": "ideas",
     "excerpt": "WhatsApp: transfer of received media parameters via API Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enable-open-in-private-whatsapp-option-when-clicking-a-phone-number-in-the-lead-connector-app",
+    "title": "Enable \"Open in Private WhatsApp\" Option When Clicking a Phone Number in the Lead Connector App",
+    "category": "ideas",
+    "excerpt": "Enable \"Open in Private WhatsApp\" Option When Clicking a Phone Number in the Lead Connector App Stat...",
     "url": null
   },
   {

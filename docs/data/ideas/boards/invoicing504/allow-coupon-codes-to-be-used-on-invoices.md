@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:06:59.338Z"
+extracted_at: "2025-09-09T03:02:54.131Z"
 ---
 
 # Allow coupon codes to be used on invoices

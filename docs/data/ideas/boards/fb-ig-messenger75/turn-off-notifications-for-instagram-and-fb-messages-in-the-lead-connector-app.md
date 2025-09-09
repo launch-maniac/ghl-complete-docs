@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:05:51.528Z"
+extracted_at: "2025-09-09T03:01:47.138Z"
 ---
 
 # Turn off notifications for instagram and FB messages in the lead connector app.

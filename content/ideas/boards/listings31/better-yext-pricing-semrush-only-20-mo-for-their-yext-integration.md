@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:11:38.122Z"
+extracted_at: "2025-09-09T03:07:35.742Z"
 ---
 
 # Better Yext Pricing, SEMRush only $20/mo for their Yext integration

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:01.392Z"
+extracted_at: "2025-09-09T03:07:58.313Z"
 ---
 
 # Translation of the Conversations Module — Portuguese (Brazil)

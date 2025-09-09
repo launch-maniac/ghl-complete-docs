@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:09:46.586Z"
+extracted_at: "2025-09-09T03:05:43.186Z"
 ---
 
 # Statistics in the social planner

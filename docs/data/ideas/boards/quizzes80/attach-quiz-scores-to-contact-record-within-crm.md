@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:34.581Z"
+extracted_at: "2025-09-09T03:08:32.218Z"
 ---
 
 # Attach Quiz Scores to Contact record within CRM.

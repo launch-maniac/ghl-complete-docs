@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:08:06.639Z"
+extracted_at: "2025-09-09T03:04:01.733Z"
 ---
 
 # White Label the GHL system status page

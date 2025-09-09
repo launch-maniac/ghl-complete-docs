@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:05:06.862Z"
+extracted_at: "2025-09-09T03:01:02.457Z"
 ---
 
 # Partial Domain Routing for GoDaddy Domains

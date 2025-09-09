@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:01.391Z"
+extracted_at: "2025-09-09T03:07:58.311Z"
 ---
 
 # All payment data should be translatable. Currently payment links and order forms are not good

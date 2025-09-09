@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:04:32.761Z"
+extracted_at: "2025-09-09T03:00:28.062Z"
 ---
 
 # Email Parser to create contacts from inbound email leads (Similar to Follow Up Boss)

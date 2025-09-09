@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:01.393Z"
+extracted_at: "2025-09-09T03:07:58.314Z"
 ---
 
 # Hungarian Translation of Buttons, Functions and Community

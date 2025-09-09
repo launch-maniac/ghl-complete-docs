@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:14:15.394Z"
+extracted_at: "2025-09-09T03:10:13.782Z"
 ---
 
 # Google Docs Integration

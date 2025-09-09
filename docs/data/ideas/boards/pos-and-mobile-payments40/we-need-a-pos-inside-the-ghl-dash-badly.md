@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:57.557Z"
+extracted_at: "2025-09-09T03:08:54.593Z"
 ---
 
 # We Need A POS Inside The GHL Dash BADLY

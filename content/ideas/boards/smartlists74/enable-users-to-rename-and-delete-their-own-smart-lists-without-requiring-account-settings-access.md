@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:09:23.942Z"
+extracted_at: "2025-09-09T03:05:20.926Z"
 ---
 
 # Enable Users to Rename and Delete Their Own Smart Lists Without Requiring Account Settings Access

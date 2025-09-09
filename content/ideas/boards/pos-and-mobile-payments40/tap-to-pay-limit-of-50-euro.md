@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:57.560Z"
+extracted_at: "2025-09-09T03:08:54.595Z"
 ---
 
 # Tap to pay limit of 50 euro

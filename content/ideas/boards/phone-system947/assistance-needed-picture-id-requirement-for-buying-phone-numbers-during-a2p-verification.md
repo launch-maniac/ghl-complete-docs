@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:07:11.061Z"
+extracted_at: "2025-09-09T03:03:05.593Z"
 ---
 
 # Assistance Needed: Picture ID Requirement for Buying Phone Numbers During A2P Verification

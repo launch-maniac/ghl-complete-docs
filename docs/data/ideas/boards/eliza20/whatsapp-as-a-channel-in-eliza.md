@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:05:40.222Z"
+extracted_at: "2025-09-09T03:01:35.990Z"
 ---
 
 # Whatsapp as a channel in Eliza?

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:08:39.635Z"
+extracted_at: "2025-09-09T03:04:36.036Z"
 ---
 
 # Make Website Input More Intuitive - Prospecting Widget

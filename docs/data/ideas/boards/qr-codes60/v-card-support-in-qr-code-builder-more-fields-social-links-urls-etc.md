@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:12:23.570Z"
+extracted_at: "2025-09-09T03:08:21.292Z"
 ---
 
 # V Card Support in QR Code Builder - More Fields: Social Links, Urls, etc.

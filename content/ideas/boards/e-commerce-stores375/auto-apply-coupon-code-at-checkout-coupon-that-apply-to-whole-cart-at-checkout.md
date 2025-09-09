@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:05:17.954Z"
+extracted_at: "2025-09-09T03:01:13.773Z"
 ---
 
 # Auto apply coupon code at checkout & coupon that apply to whole cart at checkout

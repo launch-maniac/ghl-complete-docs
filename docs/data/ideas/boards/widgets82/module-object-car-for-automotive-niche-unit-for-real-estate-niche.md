@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-08T03:11:15.546Z"
+extracted_at: "2025-09-09T03:07:12.899Z"
 ---
 
 # Module Object (Car for Automotive niche, Unit for Real Estate niche)
