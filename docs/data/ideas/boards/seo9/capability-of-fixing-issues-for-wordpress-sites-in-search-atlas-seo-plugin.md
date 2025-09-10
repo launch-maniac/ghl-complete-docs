@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:10:02.449Z"
+extracted_at: "2025-09-10T03:01:57.405Z"
 ---
 
 # Capability of fixing issues for WordPress Sites in Search Atlas SEO plugin

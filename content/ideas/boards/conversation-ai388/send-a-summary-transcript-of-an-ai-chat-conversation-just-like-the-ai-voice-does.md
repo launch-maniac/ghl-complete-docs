@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T02:58:03.260Z"
+extracted_at: "2025-09-10T02:50:04.247Z"
 ---
 
 # send a summary & transcript of an Ai Chat conversation just like the Ai voice does

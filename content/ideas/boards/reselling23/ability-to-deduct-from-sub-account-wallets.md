@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:09:05.985Z"
+extracted_at: "2025-09-10T03:01:01.303Z"
 ---
 
 # Ability to deduct from sub-account wallets

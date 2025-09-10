@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:05:20.925Z"
+extracted_at: "2025-09-10T02:57:18.485Z"
 ---
 
 # And /  Or exclusions with Smartlists

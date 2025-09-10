@@ -581,6 +581,90 @@
     "url": null
   },
   {
+    "id": "add-affiliate-comission-to-calendar-booking-with-payment",
+    "title": "Add affiliate comission to calendar booking with payment",
+    "category": "ideas",
+    "excerpt": "Add affiliate comission to calendar booking with payment Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-calendar-availability-option-currently-on-the-service-calendar-max-is-12-hours-giove-option-to-a",
+    "title": "Add calendar availability option currently on the service calendar max is 12 hours giove  option to add 24 up this is for hotel booking type of calendr",
+    "category": "ideas",
+    "excerpt": "Add calendar availability option currently on the service calendar max is 12 hours giove option to a...",
+    "url": null
+  },
+  {
+    "id": "call-transfer-not-available-for-users-fix-this",
+    "title": "Call Transfer not Available for Users (Fix this)",
+    "category": "ideas",
+    "excerpt": "Call Transfer not Available for Users Fix this Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "connect-two-ghl-sub-accounts-to-the-same-xero-organisation",
+    "title": "Connect Two GHL sub accounts to the same Xero Organisation",
+    "category": "ideas",
+    "excerpt": "Connect Two GHL sub accounts to the same Xero Organisation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "include-contact-name-when-sharing-from-mobile-app",
+    "title": "Include Contact Name When Sharing From Mobile App",
+    "category": "ideas",
+    "excerpt": "Include Contact Name When Sharing From Mobile App Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "mailgun-routing-to-eu",
+    "title": "Mailgun Routing to EU",
+    "category": "ideas",
+    "excerpt": "Mailgun Routing to EU Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "remove-all-opportunities-in-workflows",
+    "title": "Remove ALL opportunities in workflows",
+    "category": "ideas",
+    "excerpt": "Remove ALL opportunities in workflows Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "remove-setup-guide-from-launchpad-after-1st-subacccount",
+    "title": "Remove Setup Guide from launchpad after 1st subacccount",
+    "category": "ideas",
+    "excerpt": "Remove Setup Guide from launchpad after 1st subacccount Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "require-assigned-user-for-task",
+    "title": "Require Assigned User for Task",
+    "category": "ideas",
+    "excerpt": "Require Assigned User for Task Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "right-now-merge-fields",
+    "title": "RIGHT NOW MERGE FIELDS",
+    "category": "ideas",
+    "excerpt": "RIGHT NOW MERGE FIELDS Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "sync-outlook-attachments-links-for-non-organizer-appointments",
+    "title": "Sync Outlook attachments & links for non-organizer appointments",
+    "category": "ideas",
+    "excerpt": "Sync Outlook attachments & links for non-organizer appointments Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "xero-and-stripe-fees",
+    "title": "Xero and Stripe Fees",
+    "category": "ideas",
+    "excerpt": "Xero and Stripe Fees Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-disable-launchpad",
     "title": "Ability to Disable Launchpad!",
     "category": "ideas",
@@ -791,6 +875,13 @@
     "url": null
   },
   {
+    "id": "white-labeled-support-documents",
+    "title": "White Labeled Support Documents",
+    "category": "ideas",
+    "excerpt": "White Labeled Support Documents Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-delete-knowledge-bases-if-voice-ai-or-chatbot-accidently-deleted-first-and-still-linked",
     "title": "Ability to Delete Knowledge Bases if Voice AI or Chatbot accidently deleted first and still linked.",
     "category": "ideas",
@@ -998,6 +1089,13 @@
     "title": "Voice dictation to create new contact adding all info to correct feilds",
     "category": "ideas",
     "excerpt": "Voice dictation to create new contact adding all info to correct feilds Status: open Votes: 0 Commen...",
+    "url": null
+  },
+  {
+    "id": "keep-getting-robo-calls-ai-voice-should-be-able-to-ignore-those",
+    "title": "Keep getting Robo calls, AI Voice should be able to ignore those.",
+    "category": "ideas",
+    "excerpt": "Keep getting Robo calls, AI Voice should be able to ignore those. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1215,6 +1313,13 @@
     "title": "Whitelabel API V2 Documentation Link",
     "category": "ideas",
     "excerpt": "Whitelabel API V2 Documentation Link Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "update-contact-allow-update-of-secondary-email",
+    "title": "Update Contact - Allow Update of Secondary Email",
+    "category": "ideas",
+    "excerpt": "Update Contact - Allow Update of Secondary Email Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1519,6 +1624,20 @@
     "url": "https://ideas.gohighlevel.com/ask-ai?sort=trending"
   },
   {
+    "id": "dedicated-element-for-codes",
+    "title": "✅ Dedicated element for codes",
+    "category": "ideas",
+    "excerpt": "✅ Dedicated element for codes Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "richer-formatting",
+    "title": "✅ Richer formatting",
+    "category": "ideas",
+    "excerpt": "✅ Richer formatting Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-a-contact-to-any-step-in-a-workflow",
     "title": "Add a contact to any step in a workflow",
     "category": "ideas",
@@ -1761,6 +1880,48 @@
     "title": "Make Create Document from existing template an option from the Blue Plus sign on the Document and template screen",
     "category": "ideas",
     "excerpt": "Make Create Document from existing template an option from the Blue Plus sign on the Document and te...",
+    "url": null
+  },
+  {
+    "id": "add-a-reply-to-automation-action-that-is-able-to-reply-to-previously-sent-emails-from-the-automation",
+    "title": "Add a \"Reply To\" automation action that is able to reply to previously sent emails from the automation, keeping all correspondence in the same email thread.",
+    "category": "ideas",
+    "excerpt": "Add a \"Reply To\" automation action that is able to reply to previously sent emails from the automati...",
+    "url": null
+  },
+  {
+    "id": "bring-back-the-to-field-in-workflows",
+    "title": "Bring back the \"TO\" field in workflows.",
+    "category": "ideas",
+    "excerpt": "Bring back the \"TO\" field in workflows. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "event-management",
+    "title": "Event Management",
+    "category": "ideas",
+    "excerpt": "Event Management Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "extend-task-due-date-past-5-days-in-triggers-and-workflow-builder-matching-the-options-available-whe",
+    "title": "Extend Task Due Date Past 5 days in Triggers and Workflow builder - Matching the Options Available When Creating a Task in Contact Card",
+    "category": "ideas",
+    "excerpt": "Extend Task Due Date Past 5 days in Triggers and Workflow builder - Matching the Options Available W...",
+    "url": null
+  },
+  {
+    "id": "publish-automation-toggle-switch",
+    "title": "Publish Automation Toggle Switch",
+    "category": "ideas",
+    "excerpt": "Publish Automation Toggle Switch Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "voice-notes-sms",
+    "title": "Voice Notes SMS!!�",
+    "category": "ideas",
+    "excerpt": "Voice Notes SMS!!� Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2058,6 +2219,13 @@
     "url": null
   },
   {
+    "id": "bulk-color-change-icon-button-text",
+    "title": "Bulk Color Change Icon, button, text",
+    "category": "ideas",
+    "excerpt": "Bulk Color Change Icon, button, text Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "bulk-create-or-upload-custom-fields-values",
     "title": "Bulk Create or upload Custom Fields/Values",
     "category": "ideas",
@@ -2114,6 +2282,13 @@
     "url": null
   },
   {
+    "id": "bulk-select-custom-fields",
+    "title": "Bulk Select Custom Fields",
+    "category": "ideas",
+    "excerpt": "Bulk Select Custom Fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "bulk-upload-of-images-into-gallery-and-more-customization-of-the-galeries",
     "title": "BULK UPLOAD OF IMAGES INTO GALLERY AND MORE CUSTOMIZATION OF THE GALERIES.",
     "category": "ideas",
@@ -2160,6 +2335,13 @@
     "title": "Duplicates",
     "category": "ideas",
     "excerpt": "Duplicates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "export-tags",
+    "title": "Export Tags",
+    "category": "ideas",
+    "excerpt": "Export Tags Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2443,6 +2625,69 @@
     "url": null
   },
   {
+    "id": "allow-custom-duration-per-booking-for-the-same-service",
+    "title": "Allow Custom Duration Per Booking for the Same Service",
+    "category": "ideas",
+    "excerpt": "Allow Custom Duration Per Booking for the Same Service Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "event-calendar-widget",
+    "title": "Event Calendar Widget",
+    "category": "ideas",
+    "excerpt": "Event Calendar Widget Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "hotel-bookig-system",
+    "title": "Hotel Bookig System",
+    "category": "ideas",
+    "excerpt": "Hotel Bookig System Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "on-my-way-appointment-status-option",
+    "title": "On My way appointment Status option",
+    "category": "ideas",
+    "excerpt": "On My way appointment Status option Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "one-calendar-with-multiple-timeslot",
+    "title": "One calendar with multiple timeslot",
+    "category": "ideas",
+    "excerpt": "One calendar with multiple timeslot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "service-calendar-v2-location-grouping",
+    "title": "Service Calendar V2 - location grouping",
+    "category": "ideas",
+    "excerpt": "Service Calendar V2 - location grouping Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "service-calendar-v2-multiple-attendees-missing",
+    "title": "Service Calendar V2 - multiple attendees missing",
+    "category": "ideas",
+    "excerpt": "Service Calendar V2 - multiple attendees missing Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "unread-conversations-do-not-have-call-recap-transcript-like-the-all-conversations-does",
+    "title": "Unread conversations do not have call recap/transcript like the All Conversations does",
+    "category": "ideas",
+    "excerpt": "Unread conversations do not have call recap/transcript like the All Conversations does Status: open ...",
+    "url": null
+  },
+  {
+    "id": "v2-service-calendar-payment-optional-urgent",
+    "title": "V2 Service calendar Payment Optional!!!! URGENT",
+    "category": "ideas",
+    "excerpt": "V2 Service calendar Payment Optional!!!! URGENT Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-form-tracking-to-call-tracking-and-open-up-insights-into-all-lead-activity",
     "title": "Add Form Tracking to Call Tracking and open up insights into all lead activity.",
     "category": "ideas",
@@ -2468,6 +2713,13 @@
     "title": "Auto-Assign contact to the User that called them first",
     "category": "ideas",
     "excerpt": "Auto-Assign contact to the User that called them first Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "automatic-outreach-tracking-system",
+    "title": "Automatic Outreach Tracking System",
+    "category": "ideas",
+    "excerpt": "Automatic Outreach Tracking System Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -3059,6 +3311,13 @@
     "url": null
   },
   {
+    "id": "bug-community-translation-into-portuguese",
+    "title": "Bug community translation into Portuguese",
+    "category": "ideas",
+    "excerpt": "Bug community translation into Portuguese Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "bug-voided-invoices-show-as-overdue-requesting-payment",
     "title": "BUG: Voided Invoices Show as Overdue (requesting payment)!",
     "category": "ideas",
@@ -3497,6 +3756,41 @@
     "title": "Workflow trigger for community event registration",
     "category": "ideas",
     "excerpt": "Workflow trigger for community event registration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-company-business-name-and-website-option-for-member-profile",
+    "title": "Add Company/Business Name and Website option for Member Profile",
+    "category": "ideas",
+    "excerpt": "Add Company/Business Name and Website option for Member Profile Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enhancement-request-show-recurring-event-schedule-in-emails",
+    "title": "Enhancement Request: Show Recurring Event Schedule in Emails",
+    "category": "ideas",
+    "excerpt": "Enhancement Request: Show Recurring Event Schedule in Emails Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ghl-community-onboarding-pinned-checklist",
+    "title": "GHL Community Onboarding Pinned Checklist",
+    "category": "ideas",
+    "excerpt": "GHL Community Onboarding Pinned Checklist Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "live-streaming-feature-inside-gokollab-communities-zoom-or-native-live",
+    "title": "📡 Live streaming feature inside GoKollab communities (Zoom or native live)",
+    "category": "ideas",
+    "excerpt": "📡 Live streaming feature inside GoKollab communities Zoom or native live Status: open Votes: 0 Comm...",
+    "url": null
+  },
+  {
+    "id": "trigger-automations-when-a-member-confirms-attendance-to-a-group-event",
+    "title": "⚙️ Trigger automations when a member confirms attendance to a group event",
+    "category": "ideas",
+    "excerpt": "⚙️ Trigger automations when a member confirms attendance to a group event Status: open Votes: 0 Comm...",
     "url": null
   },
   {
@@ -3955,6 +4249,27 @@
     "url": null
   },
   {
+    "id": "add-mp3-wav-as-an-option-for-file-upload-custom-field",
+    "title": "Add mp3/wav as an option for \"File Upload\" custom field",
+    "category": "ideas",
+    "excerpt": "Add mp3/wav as an option for \"File Upload\" custom field Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-pictures-to-a-lead",
+    "title": "Add pictures to a lead",
+    "category": "ideas",
+    "excerpt": "Add pictures to a lead Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-tag-count-under-settings-tags",
+    "title": "Add tag count under Settings > Tags",
+    "category": "ideas",
+    "excerpt": "Add tag count under Settings > Tags Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "contact-deduplication-preferences",
     "title": "Contact Deduplication Preferences",
     "category": "ideas",
@@ -3983,10 +4298,38 @@
     "url": null
   },
   {
+    "id": "filter-tags-by-date-tagged",
+    "title": "Filter Tags By Date Tagged",
+    "category": "ideas",
+    "excerpt": "Filter Tags By Date Tagged Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "gmail-integration-and-send-from-instead-of-mail-gun",
     "title": "Gmail Integration and Send from instead of mail gun",
     "category": "ideas",
     "excerpt": "Gmail Integration and Send from instead of mail gun Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "loyalty-program",
+    "title": "Loyalty Program",
+    "category": "ideas",
+    "excerpt": "Loyalty Program Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "merge-contact-when-you-add-a-new-contact-instead-of-saying-no-duplicate-contacts-show-you-the-contac",
+    "title": "Merge Contact: when you add a new contact instead of saying no duplicate contacts show you the contact and have an option to merge and keep a primary and secondary email instantly",
+    "category": "ideas",
+    "excerpt": "Merge Contact: when you add a new contact instead of saying no duplicate contacts show you the conta...",
+    "url": null
+  },
+  {
+    "id": "merge-instagram-contacts-by-name",
+    "title": "Merge Instagram Contacts By Name",
+    "category": "ideas",
+    "excerpt": "Merge Instagram Contacts By Name Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4001,6 +4344,13 @@
     "title": "Smart List on Snapshot",
     "category": "ideas",
     "excerpt": "Smart List on Snapshot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "sort-contacts-by-last-name",
+    "title": "Sort Contacts by Last Name",
+    "category": "ideas",
+    "excerpt": "Sort Contacts by Last Name Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4221,10 +4571,24 @@
     "url": null
   },
   {
+    "id": "add-more-calendars",
+    "title": "Add more calendars",
+    "category": "ideas",
+    "excerpt": "Add more calendars Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-support-for-line-breaks-message-formatting-in-bot",
     "title": "Add Support for Line Breaks & Message Formatting in Bot",
     "category": "ideas",
     "excerpt": "Add Support for Line Breaks & Message Formatting in Bot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ai-appointment-booking-should-lead-to-calender-group",
+    "title": "AI appointment booking should lead to Calender Group",
+    "category": "ideas",
+    "excerpt": "AI appointment booking should lead to Calender Group Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4284,10 +4648,24 @@
     "url": null
   },
   {
+    "id": "chatbot-ai-per-hotel",
+    "title": "Chatbot Ai per Hotel",
+    "category": "ideas",
+    "excerpt": "Chatbot Ai per Hotel Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "chatbot-understand-and-goes-to-sleep-when-someone-replies-from-direct-channels",
     "title": "chatBot Understand and Goes to sleep when someone replies from direct channels",
     "category": "ideas",
     "excerpt": "chatBot Understand and Goes to sleep when someone replies from direct channels Status: open Votes: 0...",
+    "url": null
+  },
+  {
+    "id": "conversation-ai-calendar",
+    "title": "Conversation AI Calendar",
+    "category": "ideas",
+    "excerpt": "Conversation AI Calendar Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4344,6 +4722,20 @@
     "title": "Listen and send audio messages through the WhatsApp channel",
     "category": "ideas",
     "excerpt": "Listen and send audio messages through the WhatsApp channel Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multi-calendar-appointments",
+    "title": "Multi Calendar Appointments",
+    "category": "ideas",
+    "excerpt": "Multi Calendar Appointments Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multiple-calendars-for-booking-bot",
+    "title": "Multiple Calendars for Booking Bot 🙏🏻",
+    "category": "ideas",
+    "excerpt": "Multiple Calendars for Booking Bot 🙏🏻 Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4421,6 +4813,13 @@
     "title": "Upgrade the AI Chatbot to a full lead capture system",
     "category": "ideas",
     "excerpt": "Upgrade the AI Chatbot to a full lead capture system Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "urgent-add-groups-and-services-to-calendar-options-within-the-bot-training-goal-appointment-booking",
+    "title": "URGENT: Add groups and Services to calendar options within the bot training (Goal: Appointment Booking)!",
+    "category": "ideas",
+    "excerpt": "URGENT: Add groups and Services to calendar options within the bot training Goal: Appointment Bookin...",
     "url": null
   },
   {
@@ -4641,6 +5040,20 @@
     "url": null
   },
   {
+    "id": "choose-email-template-from-within-conversation",
+    "title": "Choose Email Template from within conversation",
+    "category": "ideas",
+    "excerpt": "Choose Email Template from within conversation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "email-templates",
+    "title": "Email templates",
+    "category": "ideas",
+    "excerpt": "Email templates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "one-button-export-full-chat-transcription",
     "title": "One Button Export full chat transcription",
     "category": "ideas",
@@ -4694,6 +5107,13 @@
     "title": "Add a native timer to limit quiz response time",
     "category": "ideas",
     "excerpt": "Add a native timer to limit quiz response time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-clone-option-or-duplicate-inside-the-product-duplicate-category-or-lessons-inside-the-same-produ",
+    "title": "Add Clone option or Duplicate inside the Product ( Duplicate Category or lessons inside the same product)",
+    "category": "ideas",
+    "excerpt": "Add Clone option or Duplicate inside the Product Duplicate Category or lessons inside the same produ...",
     "url": null
   },
   {
@@ -4809,6 +5229,13 @@
     "url": null
   },
   {
+    "id": "member-admin-functionality",
+    "title": "Member Admin Functionality",
+    "category": "ideas",
+    "excerpt": "Member Admin Functionality Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "membership-courses-quizzes",
     "title": "Membership Courses - QUIZZES",
     "category": "ideas",
@@ -4851,6 +5278,13 @@
     "url": null
   },
   {
+    "id": "quiz-embed",
+    "title": "Quiz embed",
+    "category": "ideas",
+    "excerpt": "Quiz embed Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "search-bar-inside-courses",
     "title": "Search bar inside courses",
     "category": "ideas",
@@ -4876,6 +5310,13 @@
     "title": "Theme Builder & New Themes Like Kajabi - Needs Tons Of Work!",
     "category": "ideas",
     "excerpt": "Theme Builder & New Themes Like Kajabi - Needs Tons Of Work! Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "thumbnails",
+    "title": "Thumbnails",
+    "category": "ideas",
+    "excerpt": "Thumbnails Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4949,6 +5390,13 @@
     "url": null
   },
   {
+    "id": "allow-workflow-triggers-for-individual-tasks",
+    "title": "Allow workflow triggers for individual tasks",
+    "category": "ideas",
+    "excerpt": "Allow workflow triggers for individual tasks Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "attachments-to-notes",
     "title": "Attachments to Notes",
     "category": "ideas",
@@ -4998,6 +5446,20 @@
     "url": null
   },
   {
+    "id": "date-opportunity-cusctom-field-trigger-same-as-contact-date-custom-field",
+    "title": "DATE Opportunity cusctom field trigger same as contact Date custom field",
+    "category": "ideas",
+    "excerpt": "DATE Opportunity cusctom field trigger same as contact Date custom field Status: open Votes: 0 Comme...",
+    "url": null
+  },
+  {
+    "id": "delete-multiple-custom-fields-bulk-action",
+    "title": "Delete multiple custom fields (bulk action)",
+    "category": "ideas",
+    "excerpt": "Delete multiple custom fields bulk action Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "desktop-pop-up-notifications",
     "title": "Desktop pop up notifications",
     "category": "ideas",
@@ -5033,6 +5495,13 @@
     "url": null
   },
   {
+    "id": "file-manager-bulk-select-files-images-actions-bulk-delete-bulk-move-to-folder",
+    "title": "File Manager: Bulk Select Files/Images Actions (Bulk Delete, Bulk Move to Folder)",
+    "category": "ideas",
+    "excerpt": "File Manager: Bulk Select Files/Images Actions Bulk Delete, Bulk Move to Folder Status: open Votes: ...",
+    "url": null
+  },
+  {
     "id": "formatting-in-multi-line-custom-values",
     "title": "Formatting in multi line custom values",
     "category": "ideas",
@@ -5058,6 +5527,13 @@
     "title": "iMessage CRM Integration",
     "category": "ideas",
     "excerpt": "iMessage CRM Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "in-built-translator",
+    "title": "In-built translator",
+    "category": "ideas",
+    "excerpt": "In-built translator Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5404,6 +5880,13 @@
     "url": null
   },
   {
+    "id": "bunch-addition-of-custom-field-add-multiple-rows-copy-paste-multiple-fields",
+    "title": "Bunch addition of custom field (Add multiple rows + Copy & paste multiple fields)",
+    "category": "ideas",
+    "excerpt": "Bunch addition of custom field Add multiple rows + Copy & paste multiple fields Status: open Votes: ...",
+    "url": null
+  },
+  {
     "id": "a-truly-customize-the-dashboard",
     "title": "A Truly Customize the Dashboard",
     "category": "ideas",
@@ -5443,6 +5926,13 @@
     "title": "Basic Math Operation",
     "category": "ideas",
     "excerpt": "Basic Math Operation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "built-in-project-management-module-for-agencies-clients",
+    "title": "Built-in Project Management Module for Agencies & Clients",
+    "category": "ideas",
+    "excerpt": "Built-in Project Management Module for Agencies & Clients Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5530,6 +6020,13 @@
     "url": null
   },
   {
+    "id": "forms-and-surveys-submission-in-dashboard",
+    "title": "Forms and Surveys submission in Dashboard",
+    "category": "ideas",
+    "excerpt": "Forms and Surveys submission in Dashboard Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "google-drive",
     "title": "Google Drive",
     "category": "ideas",
@@ -5551,13 +6048,6 @@
     "url": null
   },
   {
-    "id": "loyalty-program",
-    "title": "Loyalty Program",
-    "category": "ideas",
-    "excerpt": "Loyalty Program Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "order-columns-by-clicking-headings",
     "title": "Order Columns by Clicking Headings",
     "category": "ideas",
@@ -5569,6 +6059,13 @@
     "title": "Products, memberships and courses in dashboard",
     "category": "ideas",
     "excerpt": "Products, memberships and courses in dashboard Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "profit-and-loss-at-a-glance",
+    "title": "Profit and Loss at a glance",
+    "category": "ideas",
+    "excerpt": "Profit and Loss at a glance Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5597,6 +6094,13 @@
     "title": "Team Hierarchy",
     "category": "ideas",
     "excerpt": "Team Hierarchy Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "url-redirect-analytics",
+    "title": "URL REDIRECT ANALYTICS",
+    "category": "ideas",
+    "excerpt": "URL REDIRECT ANALYTICS Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5849,6 +6353,41 @@
     "title": "User Permissions for Documents and Contracts Mobile App",
     "category": "ideas",
     "excerpt": "User Permissions for Documents and Contracts Mobile App Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-add-discounts-for-each-product-line",
+    "title": "✅ Ability to add discounts for each product line",
+    "category": "ideas",
+    "excerpt": "✅ Ability to add discounts for each product line Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "can-we-get-a-url-variable-for-the-completed-pdf-document",
+    "title": "Can we get a URL variable for the completed pdf document?",
+    "category": "ideas",
+    "excerpt": "Can we get a URL variable for the completed pdf document? Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "easily-access-url-from-templates-sent-via-automation-workflow-to-set-custom-reminders-until-contract",
+    "title": "Easily Access URL from Templates Sent via Automation Workflow to Set Custom Reminders Until Contract is Signed",
+    "category": "ideas",
+    "excerpt": "Easily Access URL from Templates Sent via Automation Workflow to Set Custom Reminders Until Contract...",
+    "url": null
+  },
+  {
+    "id": "forms-in-contracts",
+    "title": "Forms in Contracts",
+    "category": "ideas",
+    "excerpt": "Forms in Contracts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "pdf-replacement-within-a-document-that-is-already-formatted-with-custom-fields-dates-and-signature-b",
+    "title": "PDF Replacement within a document that is already formatted with custom fields, dates, and signature boxes. It's annoying to have to start from scratch instead of just replacing the PDF if it's something simple on the PDF that needs to be changed.",
+    "category": "ideas",
+    "excerpt": "PDF Replacement within a document that is already formatted with custom fields, dates, and signature...",
     "url": null
   },
   {
@@ -6346,6 +6885,27 @@
     "title": "Zoom in on product photos",
     "category": "ideas",
     "excerpt": "Zoom in on product photos Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "continue-shopping-button-on-product-details-page",
+    "title": "Continue shopping button on product details page",
+    "category": "ideas",
+    "excerpt": "Continue shopping button on product details page Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enhanced-woocommerce-integration-include-images-and-full-order-data",
+    "title": "Enhanced WooCommerce Integration: Include Images and Full Order Data",
+    "category": "ideas",
+    "excerpt": "Enhanced WooCommerce Integration: Include Images and Full Order Data Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "printful-integration-i-want-to-like-it-but",
+    "title": "Printful Integration... I want to like it but...",
+    "category": "ideas",
+    "excerpt": "Printful Integration... I want to like it but... Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6902,6 +7462,13 @@
     "url": null
   },
   {
+    "id": "ability-to-create-multiple-related-contacts-from-one-form-please",
+    "title": "Ability to Create Multiple(Related) Contacts from One Form! PLEASE⚠",
+    "category": "ideas",
+    "excerpt": "Ability to Create MultipleRelated Contacts from One Form! PLEASE⚠ Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-create-opportunity-on-form-submission-from-the-form-builder",
     "title": "✅ Ability to create opportunity on form submission (from the form builder)",
     "category": "ideas",
@@ -7056,6 +7623,13 @@
     "url": null
   },
   {
+    "id": "file-upload-custom-field-to-allow-mp4-and-other-video-files",
+    "title": "File Upload - custom field (to allow mp4, and other video files)",
+    "category": "ideas",
+    "excerpt": "File Upload - custom field to allow mp4, and other video files Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "form-conditional-logic-for-multi-select-field",
     "title": "Form conditional logic for multi select field",
     "category": "ideas",
@@ -7105,10 +7679,24 @@
     "url": null
   },
   {
+    "id": "multi-step-forms-to-prevent-form-spam",
+    "title": "Multi-Step Forms to Prevent Form Spam",
+    "category": "ideas",
+    "excerpt": "Multi-Step Forms to Prevent Form Spam Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "name-your-own-price-donations-recurring-payments",
     "title": "Name your own price (donations) recurring payments",
     "category": "ideas",
     "excerpt": "Name your own price donations recurring payments Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "need-conditional-logic-in-forms-to-work-when-connected-to-a-calendar",
+    "title": "Need conditional logic in forms to work when connected to a calendar.",
+    "category": "ideas",
+    "excerpt": "Need conditional logic in forms to work when connected to a calendar. Status: open Votes: 0 Comments...",
     "url": null
   },
   {
@@ -7137,6 +7725,20 @@
     "title": "Shipping zones charges needs to be applied to one step and two step order forms in funnels",
     "category": "ideas",
     "excerpt": "Shipping zones charges needs to be applied to one step and two step order forms in funnels Status: o...",
+    "url": null
+  },
+  {
+    "id": "standalone-forms-forms-for-business-processes",
+    "title": "Standalone Forms - Forms for Business Processes",
+    "category": "ideas",
+    "excerpt": "Standalone Forms - Forms for Business Processes Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "terms-conditions-record",
+    "title": "Terms & Conditions Record",
+    "category": "ideas",
+    "excerpt": "Terms & Conditions Record Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7417,6 +8019,55 @@
     "title": "Upgrading Builder To Allow for Tablet Optimisation",
     "category": "ideas",
     "excerpt": "Upgrading Builder To Allow for Tablet Optimisation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-record-somewhere-of-terms-conditions-checkbox-selection-during-purchase",
+    "title": "Add record (somewhere) of Terms & Conditions checkbox selection during purchase.",
+    "category": "ideas",
+    "excerpt": "Add record somewhere of Terms & Conditions checkbox selection during purchase. Status: open Votes: 0...",
+    "url": null
+  },
+  {
+    "id": "add-shipping-zones-to-funnels",
+    "title": "Add Shipping Zones to Funnels",
+    "category": "ideas",
+    "excerpt": "Add Shipping Zones to Funnels Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "feature-request-true-one-click-upsells-stop-forcing-card-re-entry",
+    "title": "Feature Request: True One-Click Upsells (Stop Forcing Card Re-Entry",
+    "category": "ideas",
+    "excerpt": "Feature Request: True One-Click Upsells Stop Forcing Card Re-Entry Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "further-speed-optimization",
+    "title": "Further Speed Optimization",
+    "category": "ideas",
+    "excerpt": "Further Speed Optimization Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "increase-loading-speed-between-each-actions",
+    "title": "Increase loading speed between each actions",
+    "category": "ideas",
+    "excerpt": "Increase loading speed between each actions Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "integrate-highlevel-funnels-with-woocommerce-products",
+    "title": "Integrate HighLevel funnels with Woocommerce products",
+    "category": "ideas",
+    "excerpt": "Integrate HighLevel funnels with Woocommerce products Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "turn-off-the-flashing-arrow-on-order-bump",
+    "title": "Turn Off the Flashing Arrow On Order Bump",
+    "category": "ideas",
+    "excerpt": "Turn Off the Flashing Arrow On Order Bump Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8456,6 +9107,34 @@
     "url": null
   },
   {
+    "id": "add-woocommerce-products-to-email-template-builder",
+    "title": "Add WooCommerce Products to Email Template Builder",
+    "category": "ideas",
+    "excerpt": "Add WooCommerce Products to Email Template Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "bulk-delete-products",
+    "title": "Bulk Delete Products",
+    "category": "ideas",
+    "excerpt": "Bulk Delete Products Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "google-drive-connections",
+    "title": "Google drive connections",
+    "category": "ideas",
+    "excerpt": "Google drive connections Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "woocommerce-integration-limitations-and-enhancements-needed",
+    "title": "WooCommerce Integration Limitations and Enhancements Needed",
+    "category": "ideas",
+    "excerpt": "WooCommerce Integration Limitations and Enhancements Needed Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-edit-invoice-after-payment-makred",
     "title": "Ability to edit invoice after payment makred",
     "category": "ideas",
@@ -8467,6 +9146,13 @@
     "title": "All invoice elements should be customizable and the email template for invoices as well",
     "category": "ideas",
     "excerpt": "All invoice elements should be customizable and the email template for invoices as well Status: open...",
+    "url": null
+  },
+  {
+    "id": "allow-all-categories-of-custom-fields-in-invoices",
+    "title": "Allow all Categories of Custom Fields in invoices",
+    "category": "ideas",
+    "excerpt": "Allow all Categories of Custom Fields in invoices Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8509,6 +9195,20 @@
     "title": "Contact custom values in Invoice",
     "category": "ideas",
     "excerpt": "Contact custom values in Invoice Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "create-a-2-way-sync-for-quickbooks",
+    "title": "Create a 2-Way Sync for QuickBooks",
+    "category": "ideas",
+    "excerpt": "Create a 2-Way Sync for QuickBooks Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "create-legally-conform-invoices-for-portugal",
+    "title": "create legally conform invoices for portugal",
+    "category": "ideas",
+    "excerpt": "create legally conform invoices for portugal Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8600,6 +9300,13 @@
     "title": "Multiple Coupons Applied On Invoice/Cart",
     "category": "ideas",
     "excerpt": "Multiple Coupons Applied On Invoice/Cart Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multiple-line-item-discounts-on-invoices-proposals-estimates",
+    "title": "Multiple Line Item Discounts on Invoices/Proposals/Estimates",
+    "category": "ideas",
+    "excerpt": "Multiple Line Item Discounts on Invoices/Proposals/Estimates Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8729,6 +9436,13 @@
     "url": null
   },
   {
+    "id": "change-birthday-calendar-widget-language-to-the-account-language",
+    "title": "Change Birthday calendar widget language to the account language!",
+    "category": "ideas",
+    "excerpt": "Change Birthday calendar widget language to the account language! Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "community-translation",
     "title": "Community translation",
     "category": "ideas",
@@ -8803,6 +9517,13 @@
     "title": "it would be greato Add ((((Arabic))) language in the main supported languages",
     "category": "ideas",
     "excerpt": "it would be greato Add Arabic language in the main supported languages Status: open Votes: 0 Comment...",
+    "url": null
+  },
+  {
+    "id": "new-languages-for-high-level-to-be-offered-in-other-countries",
+    "title": "New languages for High Level to be offered in other countries.",
+    "category": "ideas",
+    "excerpt": "New languages for High Level to be offered in other countries. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9415,6 +10136,13 @@
     "url": null
   },
   {
+    "id": "add-thumbnails-for-videos-in-the-library",
+    "title": "Add Thumbnails for videos in the library",
+    "category": "ideas",
+    "excerpt": "Add Thumbnails for videos in the library Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "allow-media-library-to-be-used-everywhere",
     "title": "Allow Media Library To Be Used Everywhere!",
     "category": "ideas",
@@ -9552,6 +10280,13 @@
     "title": "Media Library-PREVIEW IMAGE",
     "category": "ideas",
     "excerpt": "Media Library-PREVIEW IMAGE Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "media-library-thumbnails-for-files-and-viewer-for-video-files",
+    "title": "Media Library Thumbnails for files and Viewer for video files.",
+    "category": "ideas",
+    "excerpt": "Media Library Thumbnails for files and Viewer for video files. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9863,6 +10598,13 @@
     "url": null
   },
   {
+    "id": "mobile-app-email-copy-and-paste",
+    "title": "Mobile App - Email Copy And Paste",
+    "category": "ideas",
+    "excerpt": "Mobile App - Email Copy And Paste Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-additional-contacts-field-available-for-importing-opportunities",
     "title": "Add Additional Contacts field available for importing Opportunities",
     "category": "ideas",
@@ -10105,6 +10847,62 @@
     "title": "New pipeline add/edit view is too congested",
     "category": "ideas",
     "excerpt": "New pipeline add/edit view is too congested Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-creating-a-link-to-a-specific-pipeline-on-the-opportunities-page",
+    "title": "Allow creating a link to a specific pipeline on the opportunities page.",
+    "category": "ideas",
+    "excerpt": "Allow creating a link to a specific pipeline on the opportunities page. Status: open Votes: 0 Commen...",
+    "url": null
+  },
+  {
+    "id": "attach-forms-to-opportunities",
+    "title": "Attach forms to opportunities",
+    "category": "ideas",
+    "excerpt": "Attach forms to opportunities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "bulk-edit-opportunities",
+    "title": "Bulk edit opportunities",
+    "category": "ideas",
+    "excerpt": "Bulk edit opportunities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "clone-opportunities",
+    "title": "Clone Opportunities",
+    "category": "ideas",
+    "excerpt": "Clone Opportunities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "custom-status",
+    "title": "custom status",
+    "category": "ideas",
+    "excerpt": "custom status Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "filter-opportunities-by-stage",
+    "title": "filter opportunities by stage",
+    "category": "ideas",
+    "excerpt": "filter opportunities by stage Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "remove-contact-from-workflow-when-pipeline-stage-changes",
+    "title": "Remove contact from workflow when pipeline stage changes",
+    "category": "ideas",
+    "excerpt": "Remove contact from workflow when pipeline stage changes Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "track-opportunity-close-date-won-date-w-ability-to-edit",
+    "title": "Track Opportunity Close Date / Won Date (w/ ability to edit)",
+    "category": "ideas",
+    "excerpt": "Track Opportunity Close Date / Won Date w/ ability to edit Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10528,6 +11326,13 @@
     "url": null
   },
   {
+    "id": "adding-woocommerce-or-shopify",
+    "title": "Adding Woocommerce or Shopify",
+    "category": "ideas",
+    "excerpt": "Adding Woocommerce or Shopify Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "dynamic-pricing-based-on-custom-fields",
     "title": "Dynamic pricing based on custom fields",
     "category": "ideas",
@@ -10549,6 +11354,20 @@
     "url": null
   },
   {
+    "id": "payments-fix-partially-fulfill-items-to-include-below-1-for-weight",
+    "title": "Payments - Fix Partially Fulfill Items to Include Below \"1\" for Weight",
+    "category": "ideas",
+    "excerpt": "Payments - Fix Partially Fulfill Items to Include Below \"1\" for Weight Status: open Votes: 0 Comment...",
+    "url": null
+  },
+  {
+    "id": "service-calendars-make-unavailble-dates-in-bulk",
+    "title": "Service Calendars- Make Unavailble Dates in Bulk",
+    "category": "ideas",
+    "excerpt": "Service Calendars- Make Unavailble Dates in Bulk Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "track-expenses-p-l-statements",
     "title": "Track Expenses + P&L Statements",
     "category": "ideas",
@@ -10556,10 +11375,24 @@
     "url": null
   },
   {
+    "id": "use-multiple-payment-gateways-at-the-same-time",
+    "title": "use multiple payment gateways at the same time",
+    "category": "ideas",
+    "excerpt": "use multiple payment gateways at the same time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "3-way-calling",
     "title": "3 Way Calling",
     "category": "ideas",
     "excerpt": "3 Way Calling Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "a-speed-dailer-system",
+    "title": "A Speed Dailer System",
+    "category": "ideas",
+    "excerpt": "A Speed Dailer System Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10647,6 +11480,27 @@
     "url": null
   },
   {
+    "id": "display-phone-usage-costs",
+    "title": "Display Phone Usage Costs",
+    "category": "ideas",
+    "excerpt": "Display Phone Usage Costs Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "disposition-options-for-power-dialer",
+    "title": "Disposition options For Power Dialer",
+    "category": "ideas",
+    "excerpt": "Disposition options For Power Dialer Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "germany-no-mobile-nr-for-small-businesses",
+    "title": "Germany - No Mobile Nr for small businesses :(",
+    "category": "ideas",
+    "excerpt": "Germany - No Mobile Nr for small businesses : Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "international-phone-numbers-for-lc",
     "title": "International phone numbers for LC",
     "category": "ideas",
@@ -10724,6 +11578,20 @@
     "url": null
   },
   {
+    "id": "sms-short-code",
+    "title": "SMS Short Code #",
+    "category": "ideas",
+    "excerpt": "SMS Short Code Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "speed-on-audio-recordings",
+    "title": "Speed on Audio Recordings",
+    "category": "ideas",
+    "excerpt": "Speed on Audio Recordings Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "summarizing-calls-transcriptions",
     "title": "Summarizing Calls (Transcriptions)",
     "category": "ideas",
@@ -10735,6 +11603,20 @@
     "title": "Transcribe and Summarize Phone Calls",
     "category": "ideas",
     "excerpt": "Transcribe and Summarize Phone Calls Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "transcription-automations-in-workflows-chatgpt",
+    "title": "Transcription Automations in Workflows (ChatGPT)",
+    "category": "ideas",
+    "excerpt": "Transcription Automations in Workflows ChatGPT Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "trigger-ivr-from-ring-pool-not-just-individual-phone-numbers",
+    "title": "Trigger IVR from Ring Pool, not just individual phone numbers.",
+    "category": "ideas",
+    "excerpt": "Trigger IVR from Ring Pool, not just individual phone numbers. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -11676,10 +12558,31 @@
     "url": null
   },
   {
+    "id": "majority-wins-quiz-logic-like-typeform-match-mode-with-url-redirect",
+    "title": "Majority-Wins Quiz Logic (Like Typeform Match Mode with URL redirect)",
+    "category": "ideas",
+    "excerpt": "Majority-Wins Quiz Logic Like Typeform Match Mode with URL redirect Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "map-quiz-categories-to-contacts-with-results",
+    "title": "Map Quiz categories to contacts with results",
+    "category": "ideas",
+    "excerpt": "Map Quiz categories to contacts with results Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "integrate-rcs-messaging",
     "title": "Integrate RCS Messaging",
     "category": "ideas",
     "excerpt": "Integrate RCS Messaging Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-sort-opportunities-based-on-the-engagement-score-make-engagement-the-score-visible-on-opp",
+    "title": "Ability to Sort Opportunities Based On the Engagement Score + Make Engagement the Score Visible on Opportunities Directly",
+    "category": "ideas",
+    "excerpt": "Ability to Sort Opportunities Based On the Engagement Score + Make Engagement the Score Visible on O...",
     "url": null
   },
   {
@@ -11799,6 +12702,13 @@
     "title": "Email Stats Delivered Value Is Inaccurate",
     "category": "ideas",
     "excerpt": "Email Stats Delivered Value Is Inaccurate Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "engagement-score-on-contact-record",
+    "title": "Engagement Score On Contact Record",
+    "category": "ideas",
+    "excerpt": "Engagement Score On Contact Record Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12663,6 +13573,41 @@
     "url": null
   },
   {
+    "id": "0-saas-plan",
+    "title": "$0 SaaS Plan",
+    "category": "ideas",
+    "excerpt": "$0 SaaS Plan Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "fix-message-failures-due-to-wallet-balance-reaching-0-this-is-the-default-setting-and-these-failures",
+    "title": "Fix Message Failures Due to Wallet Balance Reaching $0 🚨 (This Is the Default Setting and These Failures Are Making Clients Angry)",
+    "category": "ideas",
+    "excerpt": "Fix Message Failures Due to Wallet Balance Reaching $0 🚨 This Is the Default Setting and These Fail...",
+    "url": null
+  },
+  {
+    "id": "internal-agency-view-only-sub-account-naming",
+    "title": "Internal (Agency View Only) Sub-Account Naming",
+    "category": "ideas",
+    "excerpt": "Internal Agency View Only Sub-Account Naming Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "stop-auto-recharge-when-account-is-disabled",
+    "title": "Stop auto recharge when account is disabled",
+    "category": "ideas",
+    "excerpt": "Stop auto recharge when account is disabled Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "white-label-customer-loyalty-solution",
+    "title": "White Label Customer Loyalty Solution",
+    "category": "ideas",
+    "excerpt": "White Label Customer Loyalty Solution Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-an-agency-friendly-pricing-model-for-search-atlas-otto",
     "title": "✅ Add an Agency-Friendly Pricing Model for Search Atlas / OTTO",
     "category": "ideas",
@@ -13146,6 +14091,20 @@
     "url": null
   },
   {
+    "id": "upload-csv-for-bulk-update-custom-fields",
+    "title": "Upload CSV for Bulk Update Custom Fields",
+    "category": "ideas",
+    "excerpt": "Upload CSV for Bulk Update Custom Fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "view-assets-of-a-snapshot",
+    "title": "View Assets of a Snapshot",
+    "category": "ideas",
+    "excerpt": "View Assets of a Snapshot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-insert-link-in-stories-instagram",
     "title": "Ability to insert link in stories Instagram",
     "category": "ideas",
@@ -13360,6 +14319,34 @@
     "title": "X (twitter) Premium Post Length Support",
     "category": "ideas",
     "excerpt": "X twitter Premium Post Length Support Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "improved-scheduling-csv-to-eliminate-errors-manual-fixes-for-community-posting",
+    "title": "Improved Scheduling CSV to Eliminate Errors/Manual Fixes for Community Posting",
+    "category": "ideas",
+    "excerpt": "Improved Scheduling CSV to Eliminate Errors/Manual Fixes for Community Posting Status: open Votes: 0...",
+    "url": null
+  },
+  {
+    "id": "instagram-reel-thumbnails",
+    "title": "Instagram Reel THUMBNAILS",
+    "category": "ideas",
+    "excerpt": "Instagram Reel THUMBNAILS Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "social-planner-approval-process",
+    "title": "Social Planner Approval Process",
+    "category": "ideas",
+    "excerpt": "Social Planner Approval Process Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "social-planner-customize-for-each-channel",
+    "title": "Social Planner Customize for Each Channel",
+    "category": "ideas",
+    "excerpt": "Social Planner Customize for Each Channel Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13783,6 +14770,13 @@
     "url": null
   },
   {
+    "id": "ability-to-include-task-id-in-webhook-from-workflow",
+    "title": "Ability to include task ID in webhook from workflow",
+    "category": "ideas",
+    "excerpt": "Ability to include task ID in webhook from workflow Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-ability-to-reply-or-comment-on-the-task-assigned-to-you",
     "title": "Add ability to reply or comment on the task assigned to you",
     "category": "ideas",
@@ -13794,6 +14788,13 @@
     "title": "Add custom fields to Tasks",
     "category": "ideas",
     "excerpt": "Add custom fields to Tasks Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-overdue-task-as-a-workflow-trigger",
+    "title": "Add \"Overdue Task\" as a Workflow Trigger",
+    "category": "ideas",
+    "excerpt": "Add \"Overdue Task\" as a Workflow Trigger Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13825,10 +14826,10 @@
     "url": null
   },
   {
-    "id": "built-in-project-management-module-for-agencies-clients",
-    "title": "Built-in Project Management Module for Agencies & Clients",
+    "id": "bulk-import-task",
+    "title": "Bulk Import Task",
     "category": "ideas",
-    "excerpt": "Built-in Project Management Module for Agencies & Clients Status: open Votes: 0 Comments:...",
+    "excerpt": "Bulk Import Task Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13986,6 +14987,13 @@
     "url": null
   },
   {
+    "id": "task-updated-workflow-trigger",
+    "title": "\"Task Updated\" Workflow Trigger",
+    "category": "ideas",
+    "excerpt": "\"Task Updated\" Workflow Trigger Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "the-ability-for-users-with-only-assigned-data-to-assign-tasks-to-other-users",
     "title": "The ability for USERS with \"Only Assigned Data\" to assign tasks to other users.",
     "category": "ideas",
@@ -14004,6 +15012,13 @@
     "title": "WhiteLabel Lead Connector",
     "category": "ideas",
     "excerpt": "WhiteLabel Lead Connector Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "workflow-filters-based-on-tasks-body-title-assignee",
+    "title": "Workflow filters based on tasks (body, title, assignee)",
+    "category": "ideas",
+    "excerpt": "Workflow filters based on tasks body, title, assignee Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14350,6 +15365,13 @@
     "url": null
   },
   {
+    "id": "email-deliverability-issue-need-different-send-email-from-login-email",
+    "title": "email deliverability issue: need different send email from login email",
+    "category": "ideas",
+    "excerpt": "email deliverability issue: need different send email from login email Status: open Votes: 0 Comment...",
+    "url": null
+  },
+  {
     "id": "enable-users-to-have-different-access-for-each-site",
     "title": "Enable users to have different access for each site.",
     "category": "ideas",
@@ -14487,6 +15509,13 @@
     "title": "Add arabic voice AI",
     "category": "ideas",
     "excerpt": "Add arabic voice AI Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-more-brazilian-portuguese-voices-to-voice-ai",
+    "title": "Add more Brazilian Portuguese voices to Voice AI.",
+    "category": "ideas",
+    "excerpt": "Add more Brazilian Portuguese voices to Voice AI. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14910,10 +15939,31 @@
     "url": null
   },
   {
+    "id": "add-tablet-custom-breakpoints-to-ghl-site-builder",
+    "title": "Add Tablet & Custom Breakpoints to GHL Site Builder",
+    "category": "ideas",
+    "excerpt": "Add Tablet & Custom Breakpoints to GHL Site Builder Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "make-rows-and-columns-sticky",
     "title": "Make rows and columns sticky",
     "category": "ideas",
     "excerpt": "Make rows and columns sticky Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "optional-dark-mode",
+    "title": "Optional Dark Mode",
+    "category": "ideas",
+    "excerpt": "Optional Dark Mode Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "pwa-for-websites",
+    "title": "PWA For Websites",
+    "category": "ideas",
+    "excerpt": "PWA For Websites Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15127,6 +16177,13 @@
     "url": null
   },
   {
+    "id": "auto-append-sign-off-signature-to-whatsapp-replies",
+    "title": "🚀 Auto-Append sign-off / Signature to WhatsApp Replies",
+    "category": "ideas",
+    "excerpt": "🚀 Auto-Append sign-off / Signature to WhatsApp Replies Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "enable-open-in-private-whatsapp-option-when-clicking-a-phone-number-in-the-lead-connector-app",
     "title": "Enable \"Open in Private WhatsApp\" Option When Clicking a Phone Number in the Lead Connector App",
     "category": "ideas",
@@ -15159,6 +16216,13 @@
     "title": "Add unread message badge",
     "category": "ideas",
     "excerpt": "Add unread message badge Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "before-after-image-slider",
+    "title": "Before & After Image Slider",
+    "category": "ideas",
+    "excerpt": "Before & After Image Slider Status: open Votes: 0 Comments:...",
     "url": null
   },
   {

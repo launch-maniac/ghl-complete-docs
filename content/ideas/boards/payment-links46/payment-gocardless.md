@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:08:09.568Z"
+extracted_at: "2025-09-10T03:00:06.076Z"
 ---
 
 # Payment GoCardless

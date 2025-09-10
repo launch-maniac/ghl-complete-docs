@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:02:20.618Z"
+extracted_at: "2025-09-10T02:54:19.477Z"
 ---
 
 # How to Set Up and Manage Multiple Locations for a Client (restaurant) on Google Business Profile and GoHighLevel?

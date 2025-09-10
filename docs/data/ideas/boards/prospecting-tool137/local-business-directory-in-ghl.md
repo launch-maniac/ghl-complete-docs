@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:04:36.037Z"
+extracted_at: "2025-09-10T02:56:34.146Z"
 ---
 
 # Local Business Directory in GHL

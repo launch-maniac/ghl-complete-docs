@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:05:54.138Z"
+extracted_at: "2025-09-10T02:57:51.923Z"
 ---
 
 # Change Affiliate %☝️or ⬇️ from Date Forward - 4 Examples & 2 Options:

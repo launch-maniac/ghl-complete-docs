@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:08:43.326Z"
+extracted_at: "2025-09-10T03:00:39.769Z"
 ---
 
 # Reviews AI to respond to all Review Platforms

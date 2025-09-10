@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-07T07:04:00.622Z"
+extracted_at: "2025-09-10T02:49:19.924Z"
 ---
 
 # Be able to create adset budget campaigns with multiple adsets and ads

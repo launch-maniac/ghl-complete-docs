@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:09:51.337Z"
+extracted_at: "2025-09-10T03:01:46.401Z"
 ---
 
 # May we PLEASE have a way to sell digital products (not only courses) in Gokollab....It's own dedicated tab

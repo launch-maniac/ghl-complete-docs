@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:08:54.592Z"
+extracted_at: "2025-09-10T03:00:50.393Z"
 ---
 
 # Mobile payments in "opportunities"

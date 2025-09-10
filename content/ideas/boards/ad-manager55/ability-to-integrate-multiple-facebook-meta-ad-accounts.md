@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T02:57:18.203Z"
+extracted_at: "2025-09-10T02:49:19.919Z"
 ---
 
 # Ability to Integrate Multiple Facebook/Meta Ad Accounts

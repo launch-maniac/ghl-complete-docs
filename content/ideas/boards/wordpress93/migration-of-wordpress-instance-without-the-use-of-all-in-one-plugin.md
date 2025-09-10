@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:07:24.069Z"
+extracted_at: "2025-09-10T02:59:21.810Z"
 ---
 
 # Migration of wordpress instance without the use of all in one plugin

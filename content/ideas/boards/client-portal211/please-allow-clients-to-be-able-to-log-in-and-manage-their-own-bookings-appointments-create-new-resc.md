@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T02:59:09.935Z"
+extracted_at: "2025-09-10T02:51:11.052Z"
 ---
 
 # Please allow clients to be able to log in and manage their own bookings/appointments - create new, rescheduling, cancellations. It would be nice to be able to let them self manage details like address, payments, etc.. View basic information from CRM like service history.

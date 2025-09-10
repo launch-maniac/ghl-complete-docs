@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:01:24.986Z"
+extracted_at: "2025-09-10T02:53:24.259Z"
 ---
 
 # Default "From Name and Email" address should be the Assigned User for all outgoing emails/notifications

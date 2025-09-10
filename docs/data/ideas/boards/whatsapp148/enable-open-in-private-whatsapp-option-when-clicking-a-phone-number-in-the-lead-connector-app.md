@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:07:01.877Z"
+extracted_at: "2025-09-10T02:58:59.518Z"
 ---
 
 # Enable "Open in Private WhatsApp" Option When Clicking a Phone Number in the Lead Connector App

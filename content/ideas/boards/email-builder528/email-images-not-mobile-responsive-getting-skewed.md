@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:01:24.986Z"
+extracted_at: "2025-09-10T02:53:24.258Z"
 ---
 
 # Email images not mobile responsive - getting skewed

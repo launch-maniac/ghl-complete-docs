@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T02:59:09.937Z"
+extracted_at: "2025-09-10T02:51:11.054Z"
 ---
 
 # 🔗 Client Portal Activity to Show in CRM Contact Record

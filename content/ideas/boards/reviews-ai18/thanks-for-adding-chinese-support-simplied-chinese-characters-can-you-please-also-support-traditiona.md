@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:08:43.327Z"
+extracted_at: "2025-09-10T03:00:39.769Z"
 ---
 
 # Thanks for adding Chinese support (Simplied Chinese characters). Can you please also support traditional Chinese zh_TW please?

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T02:57:52.004Z"
+extracted_at: "2025-09-10T02:49:53.210Z"
 ---
 
 # Voice AI Agent Workflow Triggers Based on Customer Responses

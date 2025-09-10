@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:07:35.746Z"
+extracted_at: "2025-09-10T02:59:32.917Z"
 ---
 
 # Affiliate program for Yext

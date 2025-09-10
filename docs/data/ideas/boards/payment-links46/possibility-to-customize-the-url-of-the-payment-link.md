@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:08:09.563Z"
+extracted_at: "2025-09-10T03:00:06.072Z"
 ---
 
 # Possibility to customize the URL of the payment link.

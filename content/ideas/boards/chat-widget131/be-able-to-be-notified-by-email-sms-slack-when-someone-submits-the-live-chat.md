@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:07:47.107Z"
+extracted_at: "2025-09-10T02:59:43.930Z"
 ---
 
 # Be able to be notified by email/sms/slack when someone submits the live chat

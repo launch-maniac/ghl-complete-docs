@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:01:58.351Z"
+extracted_at: "2025-09-10T02:53:57.193Z"
 ---
 
 # Google Ads Enhanced Conversion Tracking: Pass Email Information from HL Forms to Website

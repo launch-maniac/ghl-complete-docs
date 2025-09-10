@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:02:54.127Z"
+extracted_at: "2025-09-10T02:54:52.909Z"
 ---
 
 # Contact custom values in Invoice

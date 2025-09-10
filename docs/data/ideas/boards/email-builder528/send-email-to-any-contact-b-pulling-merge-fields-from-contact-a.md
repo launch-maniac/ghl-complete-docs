@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-09T03:01:24.987Z"
+extracted_at: "2025-09-10T02:53:24.259Z"
 ---
 
 # Send email to any contact B pulling merge fields from Contact A
