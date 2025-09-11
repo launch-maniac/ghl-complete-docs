@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:59:32.915Z"
+extracted_at: "2025-09-11T03:05:50.640Z"
 ---
 
 # YEXT in Portugal

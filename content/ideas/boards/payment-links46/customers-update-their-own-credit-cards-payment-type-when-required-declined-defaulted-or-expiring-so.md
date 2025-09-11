@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:00:06.077Z"
+extracted_at: "2025-09-11T03:06:23.466Z"
 ---
 
 # Customers Update Their Own Credit Cards/Payment Type  - When Required, Declined, Defaulted or Expiring Soon

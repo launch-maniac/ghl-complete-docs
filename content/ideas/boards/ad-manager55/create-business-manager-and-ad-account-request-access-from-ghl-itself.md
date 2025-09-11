@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:49:19.914Z"
+extracted_at: "2025-09-11T02:55:40.867Z"
 ---
 
 # Create Business manager and ad account & request access from GHL itself

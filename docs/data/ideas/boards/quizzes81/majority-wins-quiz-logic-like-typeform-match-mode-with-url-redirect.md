@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:00:28.370Z"
+extracted_at: "2025-09-11T03:06:45.683Z"
 ---
 
 # Majority-Wins Quiz Logic (Like Typeform Match Mode with URL redirect)

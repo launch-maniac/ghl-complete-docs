@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:51:54.950Z"
+extracted_at: "2025-09-11T02:58:16.176Z"
 ---
 
 # Course completion date in Custom fields

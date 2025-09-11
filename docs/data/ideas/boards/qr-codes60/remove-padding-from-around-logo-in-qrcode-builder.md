@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:00:17.462Z"
+extracted_at: "2025-09-11T03:06:34.390Z"
 ---
 
 # Remove padding from around logo in QRCode builder

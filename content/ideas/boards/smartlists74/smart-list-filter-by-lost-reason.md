@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:57:18.484Z"
+extracted_at: "2025-09-11T03:03:37.443Z"
 ---
 
 # Smart List Filter by “Lost Reason”

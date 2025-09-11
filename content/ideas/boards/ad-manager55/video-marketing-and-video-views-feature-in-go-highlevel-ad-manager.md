@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:49:19.917Z"
+extracted_at: "2025-09-11T02:55:40.871Z"
 ---
 
 # Video marketing and video views feature in go highlevel ad manager

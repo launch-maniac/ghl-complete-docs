@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:53:46.328Z"
+extracted_at: "2025-09-11T03:00:06.547Z"
 ---
 
 # Add GIPHY Integration to IG/FB Responses to easily insert animated GIFs

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:51:00.122Z"
+extracted_at: "2025-09-11T02:57:19.535Z"
 ---
 
 # Option to Set Call Status on Outbound calls, as the Manual Call Queue (Power Dialer) Offers

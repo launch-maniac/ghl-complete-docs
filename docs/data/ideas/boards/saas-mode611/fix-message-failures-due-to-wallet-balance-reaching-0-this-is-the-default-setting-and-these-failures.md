@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:57:07.181Z"
+extracted_at: "2025-09-11T03:03:26.355Z"
 ---
 
 # Fix Message Failures Due to Wallet Balance Reaching $0 🚨 (This Is the Default Setting and These Failures Are Making Clients Angry)

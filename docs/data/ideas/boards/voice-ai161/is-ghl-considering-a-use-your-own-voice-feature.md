@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:49:53.211Z"
+extracted_at: "2025-09-11T02:56:13.607Z"
 ---
 
 # Is GHL considering a "use your own voice" feature?

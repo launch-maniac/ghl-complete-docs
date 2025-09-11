@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:54:19.480Z"
+extracted_at: "2025-09-11T03:00:39.964Z"
 ---
 
 # Lead Connector disable features on app

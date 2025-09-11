@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:52:39.548Z"
+extracted_at: "2025-09-11T02:58:59.854Z"
 ---
 
 # Fixing selected columns reset on dashboards

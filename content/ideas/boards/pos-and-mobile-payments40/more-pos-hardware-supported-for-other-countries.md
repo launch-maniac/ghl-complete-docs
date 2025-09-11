@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:00:50.399Z"
+extracted_at: "2025-09-11T03:07:07.869Z"
 ---
 
 # More POS Hardware supported for other countries.

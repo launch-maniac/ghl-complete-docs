@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:00:17.464Z"
+extracted_at: "2025-09-11T03:06:34.392Z"
 ---
 
 # Allow Custom Values in QR Codes & QR Codes in Snapshots

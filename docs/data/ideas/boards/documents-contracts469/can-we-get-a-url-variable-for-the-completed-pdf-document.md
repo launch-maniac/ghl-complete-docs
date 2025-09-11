@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:52:50.173Z"
+extracted_at: "2025-09-11T02:59:11.122Z"
 ---
 
 # Can we get a URL variable for the completed pdf document?

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:57:51.925Z"
+extracted_at: "2025-09-11T03:04:10.773Z"
 ---
 
 # Workflow - Add Affiliate comission within workflows.

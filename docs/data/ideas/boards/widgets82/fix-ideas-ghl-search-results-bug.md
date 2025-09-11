@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:59:10.952Z"
+extracted_at: "2025-09-11T03:05:28.556Z"
 ---
 
 # Fix ideas.ghl search results bug

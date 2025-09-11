@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:57:29.553Z"
+extracted_at: "2025-09-11T03:03:48.680Z"
 ---
 
 # Global Smart List in Snapshots

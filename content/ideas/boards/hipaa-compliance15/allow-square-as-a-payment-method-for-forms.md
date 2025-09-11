@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T03:01:24.368Z"
+extracted_at: "2025-09-11T03:07:40.902Z"
 ---
 
 # Allow Square as a payment method for Forms

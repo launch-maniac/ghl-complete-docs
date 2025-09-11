@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-10T02:58:25.778Z"
+extracted_at: "2025-09-11T03:04:44.362Z"
 ---
 
 # Ability to save pop-ups as templates
