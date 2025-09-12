@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:04:55.534Z"
+extracted_at: "2025-09-12T02:56:57.225Z"
 ---
 
 # Add "Launchpad" to User Permissions & Remove "Dashboard" if it's deselected under User Permissions

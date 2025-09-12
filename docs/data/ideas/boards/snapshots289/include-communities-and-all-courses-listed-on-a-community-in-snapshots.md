@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:03:48.681Z"
+extracted_at: "2025-09-12T02:55:49.019Z"
 ---
 
 # Include Communities and all courses listed on a community in Snapshots

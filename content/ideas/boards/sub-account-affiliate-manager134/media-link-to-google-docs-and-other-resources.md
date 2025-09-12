@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:04:10.772Z"
+extracted_at: "2025-09-12T02:56:11.945Z"
 ---
 
 # Media Link to Google Docs and other Resources

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:59:22.072Z"
+extracted_at: "2025-09-12T02:51:22.870Z"
 ---
 
 # Assign specific domains to each workflow or ensure that the "from email" matches the root domain without randomization to avoid deliverability issues with multiple root domains in GoHighLevel.

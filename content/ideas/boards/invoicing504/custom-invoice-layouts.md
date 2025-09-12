@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:01:13.604Z"
+extracted_at: "2025-09-12T02:53:13.112Z"
 ---
 
 # Custom Invoice Layouts 🎨

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:01:24.867Z"
+extracted_at: "2025-09-12T02:53:24.241Z"
 ---
 
 # DND on a per phone and per email basis - to solve both A2P and Merge Contacts

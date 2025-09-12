@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:58:59.858Z"
+extracted_at: "2025-09-12T02:51:00.466Z"
 ---
 
 # Profit and Loss at a glance

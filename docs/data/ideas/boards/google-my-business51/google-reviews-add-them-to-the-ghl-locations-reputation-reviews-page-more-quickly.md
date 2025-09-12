@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:00:39.959Z"
+extracted_at: "2025-09-12T02:52:40.133Z"
 ---
 
 # Google reviews - add them to the GHL locations' Reputation / Reviews page more quickly

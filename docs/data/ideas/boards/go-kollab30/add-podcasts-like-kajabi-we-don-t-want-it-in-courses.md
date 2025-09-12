@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:08:02.913Z"
+extracted_at: "2025-09-12T03:00:08.521Z"
 ---
 
 # Add podcasts like Kajabi... We DON'T want it in courses

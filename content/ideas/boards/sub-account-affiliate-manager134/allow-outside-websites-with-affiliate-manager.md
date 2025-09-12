@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:04:10.769Z"
+extracted_at: "2025-09-12T02:56:11.942Z"
 ---
 
 # Allow Outside Websites with Affiliate Manager

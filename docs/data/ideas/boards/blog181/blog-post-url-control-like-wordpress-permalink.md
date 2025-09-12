@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:56:46.524Z"
+extracted_at: "2025-09-12T02:48:44.875Z"
 ---
 
 # Blog post URL control like Wordpress Permalink

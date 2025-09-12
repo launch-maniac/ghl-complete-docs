@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:03:37.441Z"
+extracted_at: "2025-09-12T02:55:37.608Z"
 ---
 
 # Save Smart List (Contacts) Columns

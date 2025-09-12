@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:01:02.722Z"
+extracted_at: "2025-09-12T02:53:02.160Z"
 ---
 
 # Add WooCommerce Products to Email Template Builder

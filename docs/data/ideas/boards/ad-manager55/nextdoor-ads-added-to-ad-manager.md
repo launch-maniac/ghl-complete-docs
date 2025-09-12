@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:55:40.872Z"
+extracted_at: "2025-09-12T02:47:38.796Z"
 ---
 
 # NextDoor Ads Added To Ad Manager

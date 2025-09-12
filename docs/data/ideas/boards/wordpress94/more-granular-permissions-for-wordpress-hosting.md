@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:05:39.645Z"
+extracted_at: "2025-09-12T02:57:42.048Z"
 ---
 
 # More Granular Permissions for WordPress Hosting

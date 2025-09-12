@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:06:12.486Z"
+extracted_at: "2025-09-12T02:58:15.865Z"
 ---
 
 # Incomplete or Wrong Translation

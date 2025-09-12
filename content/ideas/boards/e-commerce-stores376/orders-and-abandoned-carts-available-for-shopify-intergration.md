@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:59:33.200Z"
+extracted_at: "2025-09-12T02:51:34.200Z"
 ---
 
 # Orders and abandoned carts available for Shopify Intergration

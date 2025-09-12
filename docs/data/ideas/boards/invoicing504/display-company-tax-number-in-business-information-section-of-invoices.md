@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:01:13.605Z"
+extracted_at: "2025-09-12T02:53:13.113Z"
 ---
 
 # Display Company Tax Number in Business Information Section of Invoices

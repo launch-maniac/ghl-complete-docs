@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:06:01.394Z"
+extracted_at: "2025-09-12T02:58:04.963Z"
 ---
 
 # Send attachment in web chat

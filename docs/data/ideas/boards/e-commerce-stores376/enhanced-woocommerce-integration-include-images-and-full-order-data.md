@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T02:59:33.201Z"
+extracted_at: "2025-09-12T02:51:34.200Z"
 ---
 
 # Enhanced WooCommerce Integration: Include Images and Full Order Data

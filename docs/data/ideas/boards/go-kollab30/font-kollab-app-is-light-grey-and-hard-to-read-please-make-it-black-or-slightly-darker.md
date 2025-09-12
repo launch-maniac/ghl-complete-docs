@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-11T03:08:02.916Z"
+extracted_at: "2025-09-12T03:00:08.525Z"
 ---
 
 # Font kollab app is light grey and hard to read -> please make it black or slightly darker

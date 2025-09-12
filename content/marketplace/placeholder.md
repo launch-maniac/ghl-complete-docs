@@ -1,7 +1,7 @@
 ---
 title: "Marketplace Documentation Placeholder"
 category: "marketplace"
-extracted_at: "2025-09-11T03:09:11.247Z"
+extracted_at: "2025-09-12T03:01:17.516Z"
 ---
 
 # GoHighLevel Marketplace Documentation
