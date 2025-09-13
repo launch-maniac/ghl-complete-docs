@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:53:57.295Z"
+extracted_at: "2025-09-13T02:47:29.810Z"
 ---
 
 # Ability to Use WhatsApp in Mobile App for Review Request

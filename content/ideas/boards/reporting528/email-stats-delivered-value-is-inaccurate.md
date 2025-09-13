@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:55:04.648Z"
+extracted_at: "2025-09-13T02:48:35.958Z"
 ---
 
 # Email Stats Delivered Value Is Inaccurate

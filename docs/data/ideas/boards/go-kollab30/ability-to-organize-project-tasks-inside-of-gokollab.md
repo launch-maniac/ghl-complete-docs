@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T03:00:08.524Z"
+extracted_at: "2025-09-13T02:53:35.515Z"
 ---
 
 # Ability to organize Project Tasks inside of GoKollab.

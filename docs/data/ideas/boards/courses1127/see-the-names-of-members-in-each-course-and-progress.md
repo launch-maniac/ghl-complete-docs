@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:53:46.429Z"
+extracted_at: "2025-09-13T02:47:18.693Z"
 ---
 
 # See the names of members in each course (and progress)

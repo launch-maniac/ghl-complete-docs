@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:48:11.893Z"
+extracted_at: "2025-09-13T02:41:43.753Z"
 ---
 
 # Take Deposits over the phone

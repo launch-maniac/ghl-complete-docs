@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T03:00:08.523Z"
+extracted_at: "2025-09-13T02:53:35.514Z"
 ---
 
 # GoKollab's Landing Page Looks nice, but is HAAARRRDDD to use. It's not user friendly🥺. Please help make it have a better UX (User experience)

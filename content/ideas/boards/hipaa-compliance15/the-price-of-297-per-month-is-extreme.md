@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:59:46.370Z"
+extracted_at: "2025-09-13T02:53:13.624Z"
 ---
 
 # $$$ The price of $297 per month is EXTREME! $$$

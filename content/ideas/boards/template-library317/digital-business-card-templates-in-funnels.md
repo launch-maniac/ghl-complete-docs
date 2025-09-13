@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:56:45.639Z"
+extracted_at: "2025-09-13T02:50:17.200Z"
 ---
 
 # Digital Business Card Templates In Funnels

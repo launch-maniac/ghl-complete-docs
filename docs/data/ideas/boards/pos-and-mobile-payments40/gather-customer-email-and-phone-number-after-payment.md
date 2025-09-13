@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:59:12.162Z"
+extracted_at: "2025-09-13T02:52:40.767Z"
 ---
 
 # Gather customer email and phone number after payment

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:54:53.532Z"
+extracted_at: "2025-09-13T02:48:25.014Z"
 ---
 
 # Geofarming / Circle Prospecting in GHL

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:53:46.429Z"
+extracted_at: "2025-09-13T02:47:18.693Z"
 ---
 
 # [courses] Receive an email notification when a customer adds a comment to a course

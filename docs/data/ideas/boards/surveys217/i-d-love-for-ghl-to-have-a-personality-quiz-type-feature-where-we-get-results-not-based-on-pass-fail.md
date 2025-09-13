@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:56:22.921Z"
+extracted_at: "2025-09-13T02:49:54.277Z"
 ---
 
 # I'd love for GHL to have a personality quiz type feature. Where we get results not based on pass/fail but what personality type they have based on their answers. Thanks!

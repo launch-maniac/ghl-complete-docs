@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:52:07.098Z"
+extracted_at: "2025-09-13T02:45:38.616Z"
 ---
 
 # LINE App Integration to High Level

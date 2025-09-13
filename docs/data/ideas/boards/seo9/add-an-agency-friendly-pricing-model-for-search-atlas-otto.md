@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T03:00:19.583Z"
+extracted_at: "2025-09-13T02:53:46.710Z"
 ---
 
 # ✅ Add an Agency-Friendly Pricing Model for Search Atlas / OTTO

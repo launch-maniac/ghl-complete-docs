@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:58:59.983Z"
+extracted_at: "2025-09-13T02:52:29.731Z"
 ---
 
 # Review AI Responds to Customer in weird foreign language!!!

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:56:45.641Z"
+extracted_at: "2025-09-13T02:50:17.201Z"
 ---
 
 # Clone a Message Template (snippets) on a sub account

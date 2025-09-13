@@ -280,6 +280,20 @@
     "url": null
   },
   {
+    "id": "ads-for-promoting-the-google-business-page-on-google-maps",
+    "title": "Ads for promoting the Google business page on google maps",
+    "category": "ideas",
+    "excerpt": "Ads for promoting the Google business page on google maps Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "be-able-to-create-engagement-campaigns",
+    "title": "Be able to create engagement campaigns",
+    "category": "ideas",
+    "excerpt": "Be able to create engagement campaigns Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-calculate-cost-per-lead-integrated-from-facebook-or-google-ad-and-use-it-as-a-metric-on-d",
     "title": "Ability to calculate cost per lead (integrated from Facebook or Google Ad) and use it as a metric on Dasboard with a graph view.",
     "category": "ideas",
@@ -746,6 +760,55 @@
     "title": "URGENT: Better Metrics in the Custom Reports",
     "category": "ideas",
     "excerpt": "URGENT: Better Metrics in the Custom Reports Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "automate-payment-action-add-card-on-file",
+    "title": "Automate Payment Action 'Add Card on File'",
+    "category": "ideas",
+    "excerpt": "Automate Payment Action 'Add Card on File' Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "contact-replied-to-messenger",
+    "title": "Contact Replied to Messenger",
+    "category": "ideas",
+    "excerpt": "Contact Replied to Messenger Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "progress-bar-for-surveys-also-on-the-desktop",
+    "title": "Progress bar for surveys also on the desktop",
+    "category": "ideas",
+    "excerpt": "Progress bar for surveys also on the desktop Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "qr-code-metadata-tags",
+    "title": "QR Code Metadata - Tags",
+    "category": "ideas",
+    "excerpt": "QR Code Metadata - Tags Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "qr-code-redirects-deep-links",
+    "title": "QR Code Redirects + Deep Links",
+    "category": "ideas",
+    "excerpt": "QR Code Redirects + Deep Links Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "tags-feature-in-community-profiles",
+    "title": "Tags feature in community profiles",
+    "category": "ideas",
+    "excerpt": "Tags feature in community profiles Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "upsell-add-on-services-at-checkout-for-service-based-business",
+    "title": "Upsell & Add-On Services at Checkout (for service based business)",
+    "category": "ideas",
+    "excerpt": "Upsell & Add-On Services at Checkout for service based business Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1540,6 +1603,13 @@
     "url": null
   },
   {
+    "id": "bulk-actions-for-additional-email-conversation-providers",
+    "title": "Bulk Actions for Additional Email Conversation Providers",
+    "category": "ideas",
+    "excerpt": "Bulk Actions for Additional Email Conversation Providers Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "developer-communication-in-app-notifications-product-updates-others",
     "title": "Developer communication: In-App notifications, Product Updates, Others",
     "category": "ideas",
@@ -1551,13 +1621,6 @@
     "title": "Developer partner program",
     "category": "ideas",
     "excerpt": "Developer partner program Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "developer-sandbox-account-and-real-time-testing-environment",
-    "title": "Developer: Sandbox account and real-time testing environment",
-    "category": "ideas",
-    "excerpt": "Developer: Sandbox account and real-time testing environment Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1596,10 +1659,10 @@
     "url": null
   },
   {
-    "id": "funnel-widgets-marketplace",
-    "title": "Funnel widgets marketplace",
+    "id": "fix-app-filtering",
+    "title": "Fix App Filtering",
     "category": "ideas",
-    "excerpt": "Funnel widgets marketplace Status: open Votes: 0 Comments:...",
+    "excerpt": "Fix App Filtering Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -1687,13 +1750,6 @@
     "url": null
   },
   {
-    "id": "single-sign-on-sso",
-    "title": "Single Sign On (SSO)",
-    "category": "ideas",
-    "excerpt": "Single Sign On SSO Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "snapshot-marketplace-w-licensed-snapshots",
     "title": "Snapshot Marketplace w/Licensed Snapshots",
     "category": "ideas",
@@ -1733,6 +1789,27 @@
     "title": "Whitelabel Kollab App For Communities",
     "category": "ideas",
     "excerpt": "Whitelabel Kollab App For Communities Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "developer-sandbox-account-and-real-time-testing-environment",
+    "title": "Developer: Sandbox account and real-time testing environment",
+    "category": "ideas",
+    "excerpt": "Developer: Sandbox account and real-time testing environment Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "funnel-widgets-marketplace",
+    "title": "Funnel widgets marketplace",
+    "category": "ideas",
+    "excerpt": "Funnel widgets marketplace Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "single-sign-on-sso",
+    "title": "Single Sign On (SSO)",
+    "category": "ideas",
+    "excerpt": "Single Sign On SSO Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2079,6 +2156,13 @@
     "url": null
   },
   {
+    "id": "disable-deactivate-workflow-steps",
+    "title": "Disable/Deactivate Workflow Steps",
+    "category": "ideas",
+    "excerpt": "Disable/Deactivate Workflow Steps Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "export-import-workflow-as-a-json-file",
     "title": "⬇️ Export/Import workflow as a JSON file",
     "category": "ideas",
@@ -2097,6 +2181,20 @@
     "title": "Trigger for Reschedule",
     "category": "ideas",
     "excerpt": "Trigger for Reschedule Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "turn-your-workflow-into-a-smart-ai-blueprint-with-json-export",
+    "title": "Turn Your Workflow Into a Smart AI Blueprint with JSON Export",
+    "category": "ideas",
+    "excerpt": "Turn Your Workflow Into a Smart AI Blueprint with JSON Export Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "wait-for-task-completed-in-the-workflow",
+    "title": "\"Wait\" for task completed in the workflow",
+    "category": "ideas",
+    "excerpt": "\"Wait\" for task completed in the workflow Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2349,6 +2447,13 @@
     "title": "Blog YouTube Embeds Responsive",
     "category": "ideas",
     "excerpt": "Blog YouTube Embeds Responsive Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "enable-structured-data-json-ld-support-for-individual-blog-posts",
+    "title": "Enable Structured Data (JSON-LD) Support for Individual Blog Posts",
+    "category": "ideas",
+    "excerpt": "Enable Structured Data JSON-LD Support for Individual Blog Posts Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -2975,6 +3080,27 @@
     "url": null
   },
   {
+    "id": "add-a-event-calendar",
+    "title": "Add A Event Calendar",
+    "category": "ideas",
+    "excerpt": "Add A Event Calendar Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "calendar-troubleshoot-manual-override-slot-troubleshooting-tool",
+    "title": "[Calendar Troubleshoot] Manual Override Slot Troubleshooting Tool",
+    "category": "ideas",
+    "excerpt": "Calendar Troubleshoot Manual Override Slot Troubleshooting Tool Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "v2-service-menus-not-supported-on-lead-connector-ios-app",
+    "title": "V2 Service Menus Not Supported on Lead Connector iOS App",
+    "category": "ideas",
+    "excerpt": "V2 Service Menus Not Supported on Lead Connector iOS App Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-form-tracking-to-call-tracking-and-open-up-insights-into-all-lead-activity",
     "title": "Add Form Tracking to Call Tracking and open up insights into all lead activity.",
     "category": "ideas",
@@ -3423,6 +3549,13 @@
     "url": null
   },
   {
+    "id": "ai-live-chat-push-form",
+    "title": "AI Live Chat push Form",
+    "category": "ideas",
+    "excerpt": "AI Live Chat push Form Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ai-voice-transfer-calls",
     "title": "Ai Voice - Transfer Calls",
     "category": "ideas",
@@ -3507,6 +3640,13 @@
     "url": null
   },
   {
+    "id": "email-transcript-option-for-chat-conversations",
+    "title": "\"Email Transcript\" Option for Chat Conversations",
+    "category": "ideas",
+    "excerpt": "\"Email Transcript\" Option for Chat Conversations Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "gdpr-compliance-for-chat-widget",
     "title": "GDPR Compliance for Chat Widget",
     "category": "ideas",
@@ -3553,6 +3693,13 @@
     "title": "Live Handover from AI Chat to Live Chat with notifications",
     "category": "ideas",
     "excerpt": "Live Handover from AI Chat to Live Chat with notifications Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "make-please-share-contact-details-editable",
+    "title": "Make \"Please share contact details\" editable!!",
+    "category": "ideas",
+    "excerpt": "Make \"Please share contact details\" editable!! Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -3840,6 +3987,20 @@
     "title": "Stop users from signing up to  the assessments portal if they are not a member",
     "category": "ideas",
     "excerpt": "Stop users from signing up to the assessments portal if they are not a member Status: open Votes: 0 ...",
+    "url": null
+  },
+  {
+    "id": "see-who-has-created-a-login-in-the-client-portal",
+    "title": "See who has created a login in the client portal",
+    "category": "ideas",
+    "excerpt": "See who has created a login in the client portal Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "support-for-multilingual-system-emails-e-g-portal-verification-emails",
+    "title": "Support for Multilingual System Emails (e.g., Portal Verification Emails)",
+    "category": "ideas",
+    "excerpt": "Support for Multilingual System Emails e.g., Portal Verification Emails Status: open Votes: 0 Commen...",
     "url": null
   },
   {
@@ -4162,6 +4323,13 @@
     "title": "Only courses members pay for show up in their libraries",
     "category": "ideas",
     "excerpt": "Only courses members pay for show up in their libraries Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-kollab-community-dms-to-automations",
+    "title": "Add Kollab/Community DMs to automations",
+    "category": "ideas",
+    "excerpt": "Add Kollab/Community DMs to automations Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -4760,10 +4928,31 @@
     "url": null
   },
   {
+    "id": "full-history-of-audit-logs",
+    "title": "Full history of audit logs",
+    "category": "ideas",
+    "excerpt": "Full history of audit logs Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "merge-instagram-contacts-by-uuid-username-ig-uuid",
     "title": "Merge Instagram Contacts By UUID / Username / IG UUID",
     "category": "ideas",
     "excerpt": "Merge Instagram Contacts By UUID / Username / IG UUID Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "subaccount-logo-display",
+    "title": "Subaccount Logo Display",
+    "category": "ideas",
+    "excerpt": "Subaccount Logo Display Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "support-importing-contacts-with-multiple-labeled-phone-numbers-emails",
+    "title": "Support Importing Contacts with Multiple Labeled Phone Numbers & Emails",
+    "category": "ideas",
+    "excerpt": "Support Importing Contacts with Multiple Labeled Phone Numbers & Emails Status: open Votes: 0 Commen...",
     "url": null
   },
   {
@@ -4778,6 +4967,20 @@
     "title": "TCPA SMS requirement",
     "category": "ideas",
     "excerpt": "TCPA SMS requirement Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "timestamp-of-date-time-a-new-lead-came-through-and-the-response-time-of-when-someone-called-them",
+    "title": "Timestamp of date/time a new lead came through, and the \"response time\" of when someone called them",
+    "category": "ideas",
+    "excerpt": "Timestamp of date/time a new lead came through, and the \"response time\" of when someone called them ...",
+    "url": null
+  },
+  {
+    "id": "update-reassign-mark-complete-and-delete-tasks-using-workflows",
+    "title": "👉 Update, Reassign, Mark Complete and Delete Tasks using Workflows 📄⚙️",
+    "category": "ideas",
+    "excerpt": "👉 Update, Reassign, Mark Complete and Delete Tasks using Workflows 📄⚙️ Status: open Votes: 0 Comme...",
     "url": null
   },
   {
@@ -5257,6 +5460,13 @@
     "url": null
   },
   {
+    "id": "allow-us-to-schedule-automatic-crawls-for-data-sources-for-new-updates",
+    "title": "Allow us to Schedule Automatic Crawls for Data Sources for New Updates",
+    "category": "ideas",
+    "excerpt": "Allow us to Schedule Automatic Crawls for Data Sources for New Updates Status: open Votes: 0 Comment...",
+    "url": null
+  },
+  {
     "id": "issue-with-add-contact-info-function-in-conversation-ai-agent",
     "title": "🛠 Issue with \"Add Contact Info\" Function in Conversation AI Agent",
     "category": "ideas",
@@ -5548,6 +5758,13 @@
     "title": "SPAM FOLDER FOR CONVERSTIONS",
     "category": "ideas",
     "excerpt": "SPAM FOLDER FOR CONVERSTIONS Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-users-to-filter-conversations-inbox-for-contact-reply",
+    "title": "Allow users to filter Conversations/Inbox for Contact Reply",
+    "category": "ideas",
+    "excerpt": "Allow users to filter Conversations/Inbox for Contact Reply Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -5880,6 +6097,13 @@
     "url": null
   },
   {
+    "id": "add-google-doc-links-to-file-section-membership-lessons",
+    "title": "Add Google Doc links to File Section (Membership Lessons)",
+    "category": "ideas",
+    "excerpt": "Add Google Doc links to File Section Membership Lessons Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "allow-multiple-videos-in-lessons",
     "title": "Allow Multiple Videos In Lessons",
     "category": "ideas",
@@ -5908,10 +6132,45 @@
     "url": null
   },
   {
+    "id": "drip-for-lessons-subcategory",
+    "title": "Drip for lessons/subcategory",
+    "category": "ideas",
+    "excerpt": "Drip for lessons/subcategory Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "german-translation-says-end-course-instead-of-start-course",
+    "title": "German translation says \"End Course\" instead of \"Start Course\"",
+    "category": "ideas",
+    "excerpt": "German translation says \"End Course\" instead of \"Start Course\" Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "mark-as-complete-button-in-courses-should-automatically-move-onto-the-next-step",
+    "title": "'Mark as Complete' button in courses should automatically move onto the next step",
+    "category": "ideas",
+    "excerpt": "'Mark as Complete' button in courses should automatically move onto the next step Status: open Votes...",
+    "url": null
+  },
+  {
     "id": "see-the-names-of-members-in-each-course-and-progress",
     "title": "See the names of members in each course (and progress)",
     "category": "ideas",
     "excerpt": "See the names of members in each course and progress Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "survey-style-quizzes",
+    "title": "Survey Style Quizzes",
+    "category": "ideas",
+    "excerpt": "Survey Style Quizzes Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "unlock-course-lessons-via-automation-please",
+    "title": "Unlock course lessons via automation. PLEASE",
+    "category": "ideas",
+    "excerpt": "Unlock course lessons via automation. PLEASE Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6237,6 +6496,13 @@
     "url": null
   },
   {
+    "id": "bing-webmaster-tools",
+    "title": "Bing Webmaster Tools",
+    "category": "ideas",
+    "excerpt": "Bing Webmaster Tools Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "changing-field-labels-on-forms-surveys-changes-custom-field-names",
     "title": "Changing Field Labels on Forms & Surveys Changes Custom Field Names",
     "category": "ideas",
@@ -6272,6 +6538,13 @@
     "url": null
   },
   {
+    "id": "google-maps-everywhere-within-ghl-admin",
+    "title": "Google Maps everywhere within GHL admin",
+    "category": "ideas",
+    "excerpt": "Google Maps everywhere within GHL admin Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "hidden-system-tags",
     "title": "Hidden System Tags",
     "category": "ideas",
@@ -6279,10 +6552,24 @@
     "url": null
   },
   {
+    "id": "in-app-notification-sounds-on-web-broswer",
+    "title": "In App Notification Sounds on Web Broswer",
+    "category": "ideas",
+    "excerpt": "In App Notification Sounds on Web Broswer Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "lc-ramp-up-model-v2",
     "title": "LC Ramp Up Model V2",
     "category": "ideas",
     "excerpt": "LC Ramp Up Model V2 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "lc-support-portal-as-a-default-custom-menu-link",
+    "title": "👉 LC Support Portal -> as a default Custom Menu Link ℹ️ 📄",
+    "category": "ideas",
+    "excerpt": "👉 LC Support Portal -> as a default Custom Menu Link ℹ️ 📄 Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6748,6 +7035,13 @@
     "url": null
   },
   {
+    "id": "response-time-for-messages-in-the-conversation",
+    "title": "Response time for messages in the conversation",
+    "category": "ideas",
+    "excerpt": "Response time for messages in the conversation Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "reviews-widget-in-dashboard",
     "title": "Reviews widget in dashboard",
     "category": "ideas",
@@ -7084,6 +7378,13 @@
     "url": null
   },
   {
+    "id": "document-execution-logic",
+    "title": "Document execution logic",
+    "category": "ideas",
+    "excerpt": "Document execution logic Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "easily-access-url-from-templates-sent-via-automation-workflow-to-set-custom-reminders-until-contract",
     "title": "Easily Access URL from Templates Sent via Automation Workflow to Set Custom Reminders Until Contract is Signed",
     "category": "ideas",
@@ -7130,6 +7431,20 @@
     "title": "RFQ (Request for Quote) Doc that can email a Different Recipient (companies pitching for work)",
     "category": "ideas",
     "excerpt": "RFQ Request for Quote Doc that can email a Different Recipient companies pitching for work Status: o...",
+    "url": null
+  },
+  {
+    "id": "signature-certificate-page-and-pdf-to-be-sent-to-company-in-email-not-just-client",
+    "title": "**Signature Certificate Page and PDF to be sent to company in email, not just client",
+    "category": "ideas",
+    "excerpt": "Signature Certificate Page and PDF to be sent to company in email, not just client Status: open Vote...",
+    "url": null
+  },
+  {
+    "id": "versioning-for-documents-contracts-templates",
+    "title": "Versioning for Documents & Contracts Templates",
+    "category": "ideas",
+    "excerpt": "Versioning for Documents & Contracts Templates Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -7651,6 +7966,13 @@
     "url": null
   },
   {
+    "id": "could-we-enable-csv-file-downloads-for-both-subscription-based-and-one-time-purchases",
+    "title": "Could we enable CSV file downloads for both subscription-based and one-time purchases?",
+    "category": "ideas",
+    "excerpt": "Could we enable CSV file downloads for both subscription-based and one-time purchases? Status: open ...",
+    "url": null
+  },
+  {
     "id": "e-commerce-bump-and-related-items",
     "title": "E-Commerce Bump and Related Items",
     "category": "ideas",
@@ -7690,6 +8012,13 @@
     "title": "Printful Integration... I want to like it but...",
     "category": "ideas",
     "excerpt": "Printful Integration... I want to like it but... Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "warehouse-fulfillment-centers-integrations",
+    "title": "Warehouse Fulfillment Centers Integrations",
+    "category": "ideas",
+    "excerpt": "Warehouse Fulfillment Centers Integrations Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8071,6 +8400,55 @@
     "url": null
   },
   {
+    "id": "add-emoji-feature-across-funnels-sites-emails-and-more",
+    "title": "Add Emoji Feature Across Funnels, Sites, Emails, and More",
+    "category": "ideas",
+    "excerpt": "Add Emoji Feature Across Funnels, Sites, Emails, and More Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "customizable-countdown-timer-labels",
+    "title": "Customizable Countdown Timer Labels",
+    "category": "ideas",
+    "excerpt": "Customizable Countdown Timer Labels Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "double-opt-in",
+    "title": "Double Opt-In",
+    "category": "ideas",
+    "excerpt": "Double Opt-In Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "make-trigger-link-short-code-viewable-from-trigger-link-page",
+    "title": "Make trigger link short code viewable from trigger link page",
+    "category": "ideas",
+    "excerpt": "Make trigger link short code viewable from trigger link page Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "opens-and-clicks-on-emails-are-not-accurate",
+    "title": "Opens and Clicks on emails are NOT accurate",
+    "category": "ideas",
+    "excerpt": "Opens and Clicks on emails are NOT accurate Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "schedule-send-email-campaigns-in-contact-s-timezone",
+    "title": "Schedule send email campaigns in contact's timezone",
+    "category": "ideas",
+    "excerpt": "Schedule send email campaigns in contact's timezone Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "send-campaign-at-best-time",
+    "title": "Send Campaign at best time",
+    "category": "ideas",
+    "excerpt": "Send Campaign at best time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-attach-voicenote-to-instagram-dm",
     "title": "Ability to attach voicenote to Instagram DM",
     "category": "ideas",
@@ -8159,6 +8537,13 @@
     "title": "Facebook Messenger - SMS Switch",
     "category": "ideas",
     "excerpt": "Facebook Messenger - SMS Switch Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "fb-ig-conversations-ads-partner-app-or-json-code-integration",
+    "title": "FB/IG Conversations ads 'Partner App' or JSON code integration",
+    "category": "ideas",
+    "excerpt": "FB/IG Conversations ads 'Partner App' or JSON code integration Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8617,6 +9002,13 @@
     "url": null
   },
   {
+    "id": "allow-brand-board-to-be-accessed-in-forms",
+    "title": "Allow Brand Board to be Accessed in Forms",
+    "category": "ideas",
+    "excerpt": "Allow Brand Board to be Accessed in Forms Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "allow-multiple-file-upload-to-populate-all-links-in-emails-or-compressed-zip-file",
     "title": "Allow Multiple File Upload To Populate All Links in Emails, or compressed ZIP file",
     "category": "ideas",
@@ -8631,10 +9023,38 @@
     "url": null
   },
   {
+    "id": "conditional-logic-for-text-boxes-not-fields-in-forms-ie-headings-sections-etc",
+    "title": "Conditional Logic for Text Boxes (not Fields) in Forms (ie. Headings, sections, etc)",
+    "category": "ideas",
+    "excerpt": "Conditional Logic for Text Boxes not Fields in Forms ie. Headings, sections, etc Status: open Votes:...",
+    "url": null
+  },
+  {
+    "id": "copy-form-survey-elements",
+    "title": "Copy form/survey elements",
+    "category": "ideas",
+    "excerpt": "Copy form/survey elements Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "create-websites-forms-funnels-with-ai-like-in-loveable",
+    "title": "Create Websites, forms, funnels with AI like in Loveable",
+    "category": "ideas",
+    "excerpt": "Create Websites, forms, funnels with AI like in Loveable Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "custom-fields-grouping-management",
     "title": "Custom Fields Grouping/Management",
     "category": "ideas",
     "excerpt": "Custom Fields Grouping/Management Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "duplicates-based-on-custom-fields",
+    "title": "Duplicates based on custom fields",
+    "category": "ideas",
+    "excerpt": "Duplicates based on custom fields Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8652,10 +9072,24 @@
     "url": null
   },
   {
+    "id": "pay-what-you-want-minimum-price",
+    "title": "Pay What You Want - Minimum Price",
+    "category": "ideas",
+    "excerpt": "Pay What You Want - Minimum Price Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "please-make-the-address-field-a-single-line-like-the-attached-screenshot-not-sure-if-it-s-the-curren",
     "title": "Please make the address field a single line like the attached screenshot. Not sure if it's the current address field but since it;s added to a client form, leads have stopped",
     "category": "ideas",
     "excerpt": "Please make the address field a single line like the attached screenshot. Not sure if it's the curre...",
+    "url": null
+  },
+  {
+    "id": "view-form-submission-under-contact",
+    "title": "View form submission under Contact",
+    "category": "ideas",
+    "excerpt": "View form submission under Contact Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8999,6 +9433,34 @@
     "title": "Find and Replace in Funnels and Website builder.",
     "category": "ideas",
     "excerpt": "Find and Replace in Funnels and Website builder. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "click-to-whatsapp-count-as-conversion-in-funnel-analytics",
+    "title": "Click to Whatsapp count as conversion in funnel analytics",
+    "category": "ideas",
+    "excerpt": "Click to Whatsapp count as conversion in funnel analytics Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "funnel-conversion-tracking-for-split-tests",
+    "title": "📊 Funnel Conversion Tracking for Split Tests",
+    "category": "ideas",
+    "excerpt": "📊 Funnel Conversion Tracking for Split Tests Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "spin-to-win",
+    "title": "Spin to WIN!",
+    "category": "ideas",
+    "excerpt": "Spin to WIN! Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "track-button-clicks-as-opt-ins-in-a-b-testing-just-like-leadpages",
+    "title": "Track Button Clicks as Opt-ins in A/B Testing (Just like LeadPages)",
+    "category": "ideas",
+    "excerpt": "Track Button Clicks as Opt-ins in A/B Testing Just like LeadPages Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10164,6 +10626,41 @@
     "url": null
   },
   {
+    "id": "add-telegram-vote-here",
+    "title": "Add Telegram 🩵 Vote here 👇",
+    "category": "ideas",
+    "excerpt": "Add Telegram 🩵 Vote here 👇 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "bing-places-integration-similar-to-google-business-profile",
+    "title": "Bing Places Integration Similar to Google Business Profile",
+    "category": "ideas",
+    "excerpt": "Bing Places Integration Similar to Google Business Profile Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "document-integration-with-microsoft-onedrive-and-sharepoint",
+    "title": "document integration with Microsoft OneDrive and Sharepoint",
+    "category": "ideas",
+    "excerpt": "document integration with Microsoft OneDrive and Sharepoint Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "highlevel-toast-integration",
+    "title": "HighLevel & Toast integration",
+    "category": "ideas",
+    "excerpt": "HighLevel & Toast integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "yelp-integration",
+    "title": "Yelp Integration",
+    "category": "ideas",
+    "excerpt": "Yelp Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-control-email-and-sms-notifications-for-invoices",
     "title": "Ability to Control Email and SMS Notifications for Invoices",
     "category": "ideas",
@@ -10175,6 +10672,27 @@
     "title": "Ability to edit invoice after payment makred",
     "category": "ideas",
     "excerpt": "Ability to edit invoice after payment makred Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-offer-product-item-selection-on-invoices-like-contracts-proposals",
+    "title": "Ability To Offer Product/Item Selection On Invoices Like Contracts/Proposals",
+    "category": "ideas",
+    "excerpt": "Ability To Offer Product/Item Selection On Invoices Like Contracts/Proposals Status: open Votes: 0 C...",
+    "url": null
+  },
+  {
+    "id": "ability-to-print-invoices-estimates-documents-directly",
+    "title": "Ability to print invoices, estimates, documents directly",
+    "category": "ideas",
+    "excerpt": "Ability to print invoices, estimates, documents directly Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "adopt-german-law-to-invoices",
+    "title": "Adopt German Law to invoices",
+    "category": "ideas",
+    "excerpt": "Adopt German Law to invoices Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10353,6 +10871,13 @@
     "url": null
   },
   {
+    "id": "make-products-optional-in-estimates",
+    "title": "Make Products Optional in Estimates",
+    "category": "ideas",
+    "excerpt": "Make Products Optional in Estimates Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "multiple-coupons-applied-on-invoice-cart",
     "title": "Multiple Coupons Applied On Invoice/Cart",
     "category": "ideas",
@@ -10378,6 +10903,13 @@
     "title": "🙈🫣Option to Hide Item Prices in Invoices & Estimates🙈🫣",
     "category": "ideas",
     "excerpt": "🙈🫣Option to Hide Item Prices in Invoices & Estimates🙈🫣 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "optional-items-in-estimates",
+    "title": "Optional Items in Estimates",
+    "category": "ideas",
+    "excerpt": "Optional Items in Estimates Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -11466,6 +11998,13 @@
     "url": null
   },
   {
+    "id": "enable-json-file-uploads-in-media-storage",
+    "title": "🚨Enable JSON file uploads in Media Storage 📂🚨",
+    "category": "ideas",
+    "excerpt": "🚨Enable JSON file uploads in Media Storage 📂🚨 Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "2fa-otp-for-mobile-app",
     "title": "2FA OTP for mobile app",
     "category": "ideas",
@@ -12117,6 +12656,27 @@
     "url": null
   },
   {
+    "id": "company-view-see-all-opportunities-by-company",
+    "title": "Company View: See All Opportunities by Company",
+    "category": "ideas",
+    "excerpt": "Company View: See All Opportunities by Company Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "filter-opportunities-by-tags",
+    "title": "Filter Opportunities by Tags",
+    "category": "ideas",
+    "excerpt": "Filter Opportunities by Tags Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "opportunities-need-to-be-more-b2b-friendly",
+    "title": "Opportunities need to be more b2b friendly",
+    "category": "ideas",
+    "excerpt": "Opportunities need to be more b2b friendly Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-create-product-when-creating-payment-link-similar-to-stripe",
     "title": "Ability To Create Product When Creating  Payment Link Similar To Stripe",
     "category": "ideas",
@@ -12684,17 +13244,31 @@
     "url": null
   },
   {
+    "id": "ability-to-bulk-import-collections",
+    "title": "Ability to bulk import collections",
+    "category": "ideas",
+    "excerpt": "Ability to bulk import collections Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "legal-tax-id-numbers-in-invoices",
+    "title": "LEGAL tax ID numbers in invoices",
+    "category": "ideas",
+    "excerpt": "LEGAL tax ID numbers in invoices Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "more-option-then-strip-in-agency-level",
+    "title": "More option then Strip in Agency Level",
+    "category": "ideas",
+    "excerpt": "More option then Strip in Agency Level Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "3-way-calling",
     "title": "3 Way Calling",
     "category": "ideas",
     "excerpt": "3 Way Calling Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "a-speed-dailer-system",
-    "title": "A Speed Dailer System",
-    "category": "ideas",
-    "excerpt": "A Speed Dailer System Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12719,13 +13293,6 @@
     "url": null
   },
   {
-    "id": "add-middle-east-countries",
-    "title": "Add Middle East countries",
-    "category": "ideas",
-    "excerpt": "Add Middle East countries Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "add-pause-between-loops-on-say-or-play-message",
     "title": "Add pause between loops on \"say or play message\"",
     "category": "ideas",
@@ -12740,13 +13307,6 @@
     "url": null
   },
   {
-    "id": "add-user-permissions-that-disable-the-ability-to-delete-your-lc-phone-number",
-    "title": "Add user permissions that disable the ability to delete your LC phone number?",
-    "category": "ideas",
-    "excerpt": "Add user permissions that disable the ability to delete your LC phone number? Status: open Votes: 0 ...",
-    "url": null
-  },
-  {
     "id": "assistance-needed-picture-id-requirement-for-buying-phone-numbers-during-a2p-verification",
     "title": "Assistance Needed: Picture ID Requirement for Buying Phone Numbers During A2P Verification",
     "category": "ideas",
@@ -12754,10 +13314,10 @@
     "url": null
   },
   {
-    "id": "better-porting-process-and-procedure-for-lc-phone",
-    "title": "Better Porting Process and Procedure for LC Phone",
+    "id": "better-filters-in-power-dialer-list",
+    "title": "Better filters in Power Dialer list",
     "category": "ideas",
-    "excerpt": "Better Porting Process and Procedure for LC Phone Status: open Votes: 0 Comments:...",
+    "excerpt": "Better filters in Power Dialer list Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12768,17 +13328,185 @@
     "url": null
   },
   {
-    "id": "call-recorded-options-call-recorded-message-record-own-message",
-    "title": "Call recorded options, call recorded message & record own message",
-    "category": "ideas",
-    "excerpt": "Call recorded options, call recorded message & record own message Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "call-routing-being-able-to-select-specific-times-to-route-calls-from-one-line-to-another",
     "title": "Call routing - Being able to select specific times to route calls from one line to another",
     "category": "ideas",
     "excerpt": "Call routing - Being able to select specific times to route calls from one line to another Status: o...",
+    "url": null
+  },
+  {
+    "id": "cannot-assign-a-number-to-multiple-users",
+    "title": "Cannot assign a number to multiple users.",
+    "category": "ideas",
+    "excerpt": "Cannot assign a number to multiple users. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "connect-our-own-phone-number",
+    "title": "Connect Our Own Phone Number",
+    "category": "ideas",
+    "excerpt": "Connect Our Own Phone Number Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "german-number-with-sms-capabilites",
+    "title": "German number with SMS capabilites",
+    "category": "ideas",
+    "excerpt": "German number with SMS capabilites Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ivr-connect-to-user-on-desktop-or-mobile-app",
+    "title": "IVR connect to user on Desktop or Mobile app",
+    "category": "ideas",
+    "excerpt": "IVR connect to user on Desktop or Mobile app Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ivr-music-on-hold",
+    "title": "IVR Music On Hold",
+    "category": "ideas",
+    "excerpt": "IVR Music On Hold Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "lc-phone-round-robin",
+    "title": "LC Phone Round Robin",
+    "category": "ideas",
+    "excerpt": "LC Phone Round Robin Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "offer-call-transfer-feature",
+    "title": "Offer Call Transfer Feature",
+    "category": "ideas",
+    "excerpt": "Offer Call Transfer Feature Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "offer-other-phone-services-other-than-twilio-or-lc-phone-twilio-backend",
+    "title": "Offer other phone services; other than Twilio or LC Phone (twilio backend)",
+    "category": "ideas",
+    "excerpt": "Offer other phone services; other than Twilio or LC Phone twilio backend Status: open Votes: 0 Comme...",
+    "url": null
+  },
+  {
+    "id": "option-to-change-hold-music",
+    "title": "Option to change hold music",
+    "category": "ideas",
+    "excerpt": "Option to change hold music Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "option-to-turn-off-voicemails-i-m-surprised-there-is-no-option-to-turn-off-voicemails-for-incoming-c",
+    "title": "Option to turn off voicemails. I'm surprised there is no option to turn off voicemails for incoming calls. We purchase timed calls (these are leads that we pay only if it goes over a certain duration) and we have some prospects leaving long voicemails of 5m or over. We'd like to completely turn off voicemail ability or limit voicemail duration to a certain number of seconds.",
+    "category": "ideas",
+    "excerpt": "Option to turn off voicemails. I'm surprised there is no option to turn off voicemails for incoming ...",
+    "url": null
+  },
+  {
+    "id": "power-dialer-redial-option",
+    "title": "Power Dialer - Redial option",
+    "category": "ideas",
+    "excerpt": "Power Dialer - Redial option Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "routing-to-multiple-phone-numbers-at-the-same-time",
+    "title": "Routing to Multiple Phone numbers at the same time",
+    "category": "ideas",
+    "excerpt": "Routing to Multiple Phone numbers at the same time Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "selecting-phone-number",
+    "title": "Selecting Phone number",
+    "category": "ideas",
+    "excerpt": "Selecting Phone number Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "sms-monthly-limits",
+    "title": "SMS Monthly Limits",
+    "category": "ideas",
+    "excerpt": "SMS Monthly Limits Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "sms-short-code",
+    "title": "SMS Short Code #",
+    "category": "ideas",
+    "excerpt": "SMS Short Code Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "transcribe-and-summarize-phone-calls",
+    "title": "Transcribe and Summarize Phone Calls",
+    "category": "ideas",
+    "excerpt": "Transcribe and Summarize Phone Calls Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "transfer-calls-to-users-internal-team-or-call-center",
+    "title": "Transfer Calls to Users (internal team or Call Center)",
+    "category": "ideas",
+    "excerpt": "Transfer Calls to Users internal team or Call Center Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "trigger-ivr-from-ring-pool-not-just-individual-phone-numbers",
+    "title": "Trigger IVR from Ring Pool, not just individual phone numbers.",
+    "category": "ideas",
+    "excerpt": "Trigger IVR from Ring Pool, not just individual phone numbers. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "use-existing-number",
+    "title": "Use Existing Number",
+    "category": "ideas",
+    "excerpt": "Use Existing Number Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "warm-transfers-to-lc-phone-numbers",
+    "title": "Warm transfers to LC Phone numbers?",
+    "category": "ideas",
+    "excerpt": "Warm transfers to LC Phone numbers? Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "a-speed-dailer-system",
+    "title": "A Speed Dailer System",
+    "category": "ideas",
+    "excerpt": "A Speed Dailer System Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-middle-east-countries",
+    "title": "Add Middle East countries",
+    "category": "ideas",
+    "excerpt": "Add Middle East countries Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-user-permissions-that-disable-the-ability-to-delete-your-lc-phone-number",
+    "title": "Add user permissions that disable the ability to delete your LC phone number?",
+    "category": "ideas",
+    "excerpt": "Add user permissions that disable the ability to delete your LC phone number? Status: open Votes: 0 ...",
+    "url": null
+  },
+  {
+    "id": "better-porting-process-and-procedure-for-lc-phone",
+    "title": "Better Porting Process and Procedure for LC Phone",
+    "category": "ideas",
+    "excerpt": "Better Porting Process and Procedure for LC Phone Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "call-recorded-options-call-recorded-message-record-own-message",
+    "title": "Call recorded options, call recorded message & record own message",
+    "category": "ideas",
+    "excerpt": "Call recorded options, call recorded message & record own message Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12800,13 +13528,6 @@
     "title": "Client receive text responses on their cell phone",
     "category": "ideas",
     "excerpt": "Client receive text responses on their cell phone Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "connect-our-own-phone-number",
-    "title": "Connect Our Own Phone Number",
-    "category": "ideas",
-    "excerpt": "Connect Our Own Phone Number Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12859,13 +13580,6 @@
     "url": null
   },
   {
-    "id": "ivr-music-on-hold",
-    "title": "IVR Music On Hold",
-    "category": "ideas",
-    "excerpt": "IVR Music On Hold Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "ivr-twilio-hosted",
     "title": "IVR Twilio Hosted",
     "category": "ideas",
@@ -12894,24 +13608,10 @@
     "url": null
   },
   {
-    "id": "offer-other-phone-services-other-than-twilio-or-lc-phone-twilio-backend",
-    "title": "Offer other phone services; other than Twilio or LC Phone (twilio backend)",
-    "category": "ideas",
-    "excerpt": "Offer other phone services; other than Twilio or LC Phone twilio backend Status: open Votes: 0 Comme...",
-    "url": null
-  },
-  {
     "id": "on-hold-phone-calls-with-ability-to-play-uploaded-music-recording-mp3",
     "title": "On Hold Phone Calls with ability to play uploaded Music/Recording mp3",
     "category": "ideas",
     "excerpt": "On Hold Phone Calls with ability to play uploaded Music/Recording mp3 Status: open Votes: 0 Comments...",
-    "url": null
-  },
-  {
-    "id": "option-to-turn-off-voicemails-i-m-surprised-there-is-no-option-to-turn-off-voicemails-for-incoming-c",
-    "title": "Option to turn off voicemails. I'm surprised there is no option to turn off voicemails for incoming calls. We purchase timed calls (these are leads that we pay only if it goes over a certain duration) and we have some prospects leaving long voicemails of 5m or over. We'd like to completely turn off voicemail ability or limit voicemail duration to a certain number of seconds.",
-    "category": "ideas",
-    "excerpt": "Option to turn off voicemails. I'm surprised there is no option to turn off voicemails for incoming ...",
     "url": null
   },
   {
@@ -12957,24 +13657,10 @@
     "url": null
   },
   {
-    "id": "power-dialer-redial-option",
-    "title": "Power Dialer - Redial option",
-    "category": "ideas",
-    "excerpt": "Power Dialer - Redial option Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "rebilling-phone-without-saas-mode",
     "title": "Rebilling Phone without SAAS mode",
     "category": "ideas",
     "excerpt": "Rebilling Phone without SAAS mode Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "selecting-phone-number",
-    "title": "Selecting Phone number",
-    "category": "ideas",
-    "excerpt": "Selecting Phone number Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12992,13 +13678,6 @@
     "url": null
   },
   {
-    "id": "sms-short-code",
-    "title": "SMS Short Code #",
-    "category": "ideas",
-    "excerpt": "SMS Short Code Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "speed-on-audio-recordings",
     "title": "Speed on Audio Recordings",
     "category": "ideas",
@@ -13013,24 +13692,10 @@
     "url": null
   },
   {
-    "id": "transcribe-and-summarize-phone-calls",
-    "title": "Transcribe and Summarize Phone Calls",
-    "category": "ideas",
-    "excerpt": "Transcribe and Summarize Phone Calls Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "transcription-automations-in-workflows-chatgpt",
     "title": "Transcription Automations in Workflows (ChatGPT)",
     "category": "ideas",
     "excerpt": "Transcription Automations in Workflows ChatGPT Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "trigger-ivr-from-ring-pool-not-just-individual-phone-numbers",
-    "title": "Trigger IVR from Ring Pool, not just individual phone numbers.",
-    "category": "ideas",
-    "excerpt": "Trigger IVR from Ring Pool, not just individual phone numbers. Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13052,20 +13717,6 @@
     "title": "🔴 URGENT - SPAIN PHONE NUMBERS",
     "category": "ideas",
     "excerpt": "🔴 URGENT - SPAIN PHONE NUMBERS Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "use-existing-number",
-    "title": "Use Existing Number",
-    "category": "ideas",
-    "excerpt": "Use Existing Number Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "warm-transfers-to-lc-phone-numbers",
-    "title": "Warm transfers to LC Phone numbers?",
-    "category": "ideas",
-    "excerpt": "Warm transfers to LC Phone numbers? Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -13157,6 +13808,13 @@
     "title": "More POS Hardware supported for other countries.",
     "category": "ideas",
     "excerpt": "More POS Hardware supported for other countries. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "multiple-service-checkout",
+    "title": "Multiple Service Checkout",
+    "category": "ideas",
+    "excerpt": "Multiple Service Checkout Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14028,6 +14686,13 @@
     "url": null
   },
   {
+    "id": "add-a-search-bar-at-the-top-of-the-dashboard",
+    "title": "Add a Search Bar at the top of the Dashboard",
+    "category": "ideas",
+    "excerpt": "Add a Search Bar at the top of the Dashboard Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-form-submission-details-to-the-dashboard-report",
     "title": "Add Form submission details to the dashboard report",
     "category": "ideas",
@@ -14189,10 +14854,24 @@
     "url": null
   },
   {
+    "id": "increase-history-of-log-events-after-30-days",
+    "title": "Increase history of log events after 30 days",
+    "category": "ideas",
+    "excerpt": "Increase history of log events after 30 days Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "need-reporting-on-custom-fields",
     "title": "Need reporting on custom fields",
     "category": "ideas",
     "excerpt": "Need reporting on custom fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "one-time-booking-link-add-to-sms-text-templates",
+    "title": "One Time Booking Link - Add to SMS/Text Templates",
+    "category": "ideas",
+    "excerpt": "One Time Booking Link - Add to SMS/Text Templates Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14277,6 +14956,13 @@
     "title": "Track Lead Stage Duration",
     "category": "ideas",
     "excerpt": "Track Lead Stage Duration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "trigger-link-clicked-report",
+    "title": "Trigger link clicked report",
+    "category": "ideas",
+    "excerpt": "Trigger link clicked report Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15050,10 +15736,52 @@
     "url": null
   },
   {
+    "id": "ability-to-create-a-sub-agency-sub-accounts",
+    "title": "Ability to Create a Sub-Agency-Sub-accounts",
+    "category": "ideas",
+    "excerpt": "Ability to Create a Sub-Agency-Sub-accounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-have-ach-payments-for-saas",
+    "title": "Ability to have ACH payments for SAAS",
+    "category": "ideas",
+    "excerpt": "Ability to have ACH payments for SAAS Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "archive-subaccounts",
+    "title": "Archive subaccounts",
+    "category": "ideas",
+    "excerpt": "Archive subaccounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "client-facing-knowledge-base-within-sub-accounts",
+    "title": "Client Facing Knowledge Base within Sub-Accounts",
+    "category": "ideas",
+    "excerpt": "Client Facing Knowledge Base within Sub-Accounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "dummy-data-sub-account",
+    "title": "Dummy data/sub-account",
+    "category": "ideas",
+    "excerpt": "Dummy data/sub-account Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "fix-message-failures-due-to-wallet-balance-reaching-0-this-is-the-default-setting-and-these-failures",
     "title": "Fix Message Failures Due to Wallet Balance Reaching $0 🚨 (This Is the Default Setting and These Failures Are Making Clients Angry)",
     "category": "ideas",
     "excerpt": "Fix Message Failures Due to Wallet Balance Reaching $0 🚨 This Is the Default Setting and These Fail...",
+    "url": null
+  },
+  {
+    "id": "for-european-users-double-opt-in",
+    "title": "For European Users: Double Opt-In",
+    "category": "ideas",
+    "excerpt": "For European Users: Double Opt-In Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15071,10 +15799,24 @@
     "url": null
   },
   {
+    "id": "sort-subaccounts-by-date-created",
+    "title": "Sort Subaccounts by Date Created",
+    "category": "ideas",
+    "excerpt": "Sort Subaccounts by Date Created Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "stop-auto-recharge-when-account-is-disabled",
     "title": "Stop auto recharge when account is disabled",
     "category": "ideas",
     "excerpt": "Stop auto recharge when account is disabled Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "track-sales-agent-response-time",
+    "title": "Track sales agent response time",
+    "category": "ideas",
+    "excerpt": "Track sales agent response time Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15435,13 +16177,6 @@
     "url": null
   },
   {
-    "id": "create-a-duplicate-sub-account-option",
-    "title": "Create a \"Duplicate\" Sub-Account Option",
-    "category": "ideas",
-    "excerpt": "Create a \"Duplicate\" Sub-Account Option Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "custom-field-folders-in-snapshots",
     "title": "Custom Field Folders in Snapshots",
     "category": "ideas",
@@ -15463,13 +16198,6 @@
     "url": null
   },
   {
-    "id": "delete-a-snapshot",
-    "title": "Delete a Snapshot",
-    "category": "ideas",
-    "excerpt": "Delete a Snapshot Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "delete-loaded-snapshot-from-an-account",
     "title": "Delete loaded snapshot from an account",
     "category": "ideas",
@@ -15477,17 +16205,17 @@
     "url": null
   },
   {
+    "id": "delete-subaccounts-from-snapshot-push-update",
+    "title": "Delete Subaccounts from Snapshot Push Update",
+    "category": "ideas",
+    "excerpt": "Delete Subaccounts from Snapshot Push Update Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "engagement-score-rules",
     "title": "Engagement Score Rules",
     "category": "ideas",
     "excerpt": "Engagement Score Rules Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "example-data-in-new-sub-accounts",
-    "title": "Example data in new sub-accounts",
-    "category": "ideas",
-    "excerpt": "Example data in new sub-accounts Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15526,6 +16254,13 @@
     "url": null
   },
   {
+    "id": "snapshot-insights-history-and-audit-logs",
+    "title": "Snapshot Insights,History and audit logs",
+    "category": "ideas",
+    "excerpt": "Snapshot Insights,History and audit logs Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "snapshot-preview",
     "title": "Snapshot Preview",
     "category": "ideas",
@@ -15537,13 +16272,6 @@
     "title": "Snapshot Revisions",
     "category": "ideas",
     "excerpt": "Snapshot Revisions Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
-    "id": "snapshot-to-individual-folders-named-after-snapshot",
-    "title": "Snapshot to Individual folders Named after snapshot",
-    "category": "ideas",
-    "excerpt": "Snapshot to Individual folders Named after snapshot Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15582,17 +16310,45 @@
     "url": null
   },
   {
-    "id": "unlink-a-subaccount",
-    "title": "Unlink a subaccount",
-    "category": "ideas",
-    "excerpt": "Unlink a subaccount Status: open Votes: 0 Comments:...",
-    "url": null
-  },
-  {
     "id": "upload-csv-for-bulk-update-custom-fields",
     "title": "Upload CSV for Bulk Update Custom Fields",
     "category": "ideas",
     "excerpt": "Upload CSV for Bulk Update Custom Fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "create-a-duplicate-sub-account-option",
+    "title": "Create a \"Duplicate\" Sub-Account Option",
+    "category": "ideas",
+    "excerpt": "Create a \"Duplicate\" Sub-Account Option Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "delete-a-snapshot",
+    "title": "Delete a Snapshot",
+    "category": "ideas",
+    "excerpt": "Delete a Snapshot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "example-data-in-new-sub-accounts",
+    "title": "Example data in new sub-accounts",
+    "category": "ideas",
+    "excerpt": "Example data in new sub-accounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "snapshot-to-individual-folders-named-after-snapshot",
+    "title": "Snapshot to Individual folders Named after snapshot",
+    "category": "ideas",
+    "excerpt": "Snapshot to Individual folders Named after snapshot Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "unlink-a-subaccount",
+    "title": "Unlink a subaccount",
+    "category": "ideas",
+    "excerpt": "Unlink a subaccount Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -15876,6 +16632,27 @@
     "url": null
   },
   {
+    "id": "internal-notes-in-posts",
+    "title": "Internal Notes in Posts",
+    "category": "ideas",
+    "excerpt": "Internal Notes in Posts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "remove-shorts",
+    "title": "remove #shorts",
+    "category": "ideas",
+    "excerpt": "remove shorts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "social-media-planner-integrations",
+    "title": "Social Media Planner Integrations",
+    "category": "ideas",
+    "excerpt": "Social Media Planner Integrations Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-prevent-self-referrals-affiliate-fraud-prevention",
     "title": "Ability to prevent self referrals (Affiliate Fraud Prevention)",
     "category": "ideas",
@@ -16121,6 +16898,13 @@
     "url": null
   },
   {
+    "id": "allow-quiz-survey-scoring-to-be-passed-to-a-custom-value",
+    "title": "Allow Quiz / Survey scoring to be passed to a custom value",
+    "category": "ideas",
+    "excerpt": "Allow Quiz / Survey scoring to be passed to a custom value Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "being-able-to-hit-enter-top-submit-for-and-survey-information",
     "title": "Being able to hit ENTER top submit for and survey information!",
     "category": "ideas",
@@ -16289,6 +17073,27 @@
     "url": null
   },
   {
+    "id": "survey-reporting-analytics-view-images",
+    "title": "✅ Survey reporting analytics (view images)",
+    "category": "ideas",
+    "excerpt": "✅ Survey reporting analytics view images Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "survey-results",
+    "title": "Survey Results",
+    "category": "ideas",
+    "excerpt": "Survey Results Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "survey-sliders",
+    "title": "Survey Sliders",
+    "category": "ideas",
+    "excerpt": "Survey Sliders Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "survey-submission",
     "title": "Survey Submission",
     "category": "ideas",
@@ -16300,6 +17105,13 @@
     "title": "Table format with columns for more data",
     "category": "ideas",
     "excerpt": "Table format with columns for more data Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "template-survey-question-types-instead-of-questions",
+    "title": "Template Survey Question Types instead of Questions",
+    "category": "ideas",
+    "excerpt": "Template Survey Question Types instead of Questions Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -16566,6 +17378,20 @@
     "title": "Workflow filters based on tasks (body, title, assignee)",
     "category": "ideas",
     "excerpt": "Workflow filters based on tasks body, title, assignee Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "add-a-tasks-to-the-menu",
+    "title": "Add a Tasks to the Menu.",
+    "category": "ideas",
+    "excerpt": "Add a Tasks to the Menu. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "recurring-monthly-tasks-on-particular-days",
+    "title": "Recurring Monthly Tasks On Particular Days",
+    "category": "ideas",
+    "excerpt": "Recurring Monthly Tasks On Particular Days Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -17304,6 +18130,13 @@
     "url": null
   },
   {
+    "id": "please-we-need-in-germany-voice-ai-in-german-language",
+    "title": "Please we need in germany, Voice Ai in German Language",
+    "category": "ideas",
+    "excerpt": "Please we need in germany, Voice Ai in German Language Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "take-deposits-over-the-phone",
     "title": "Take Deposits over the phone",
     "category": "ideas",
@@ -17623,6 +18456,27 @@
     "title": "MOBILE WEBSITE : Not responsive mobile website editor in 2024!",
     "category": "ideas",
     "excerpt": "MOBILE WEBSITE : Not responsive mobile website editor in 2024! Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "allow-us-to-create-websites-with-code-htl-css-javascript-like-with-the-email-builder-add-an-ai-coder",
+    "title": "Allow us to Create Websites with Code (HTL, CSS Javascript) like with the Email Builder + Add an AI coder like Lovable, Databutton, and Bolt.new",
+    "category": "ideas",
+    "excerpt": "Allow us to Create Websites with Code HTL, CSS Javascript like with the Email Builder + Add an AI co...",
+    "url": null
+  },
+  {
+    "id": "language-switcher-sites",
+    "title": "language switcher sites",
+    "category": "ideas",
+    "excerpt": "language switcher sites Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "toggle-whether-menu-items-show-in-mobile-desktop",
+    "title": "Toggle Whether Menu Items Show in Mobile/Desktop",
+    "category": "ideas",
+    "excerpt": "Toggle Whether Menu Items Show in Mobile/Desktop Status: open Votes: 0 Comments:...",
     "url": null
   },
   {

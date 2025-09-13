@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:52:40.137Z"
+extracted_at: "2025-09-13T02:46:11.937Z"
 ---
 
 # Add Google Reviews Reporting Info from the Reputation Section to the main dashboard

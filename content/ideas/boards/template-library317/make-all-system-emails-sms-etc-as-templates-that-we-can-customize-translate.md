@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:56:45.636Z"
+extracted_at: "2025-09-13T02:50:17.195Z"
 ---
 
 # Make all system emails, sms etc as templates that we can customize / translate

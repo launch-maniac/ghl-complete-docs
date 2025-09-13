@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:51:56.161Z"
+extracted_at: "2025-09-13T02:45:27.322Z"
 ---
 
 # Translate Languages in Eliza

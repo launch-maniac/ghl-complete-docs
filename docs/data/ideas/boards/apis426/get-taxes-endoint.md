@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-12T02:47:16.987Z"
+extracted_at: "2025-09-13T02:40:48.735Z"
 ---
 
 # Get Taxes Endoint
