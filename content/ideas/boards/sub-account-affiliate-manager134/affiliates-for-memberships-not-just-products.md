@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:49:42.893Z"
+extracted_at: "2025-09-14T03:06:11.905Z"
 ---
 
 # Affiliates for Memberships not just Products

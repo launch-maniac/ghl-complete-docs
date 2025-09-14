@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:45:27.325Z"
+extracted_at: "2025-09-14T03:01:56.291Z"
 ---
 
 # Ai bot should not reach out if client booked a call already

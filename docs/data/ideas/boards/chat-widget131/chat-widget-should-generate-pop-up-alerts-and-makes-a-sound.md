@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:34.558Z"
+extracted_at: "2025-09-14T03:08:05.671Z"
 ---
 
 # chat widget Should generate pop up alerts and makes a sound.

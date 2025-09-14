@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:45:38.610Z"
+extracted_at: "2025-09-14T03:02:07.483Z"
 ---
 
 # FB/IG Conversations ads 'Partner App' or JSON code integration

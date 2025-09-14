@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:45:38.613Z"
+extracted_at: "2025-09-14T03:02:07.487Z"
 ---
 
 # (Trigger, Action and Condition) to check if the user/contact which has DM or Commented on Instagram post account "Follows your Instagram account" for triggering the automation.

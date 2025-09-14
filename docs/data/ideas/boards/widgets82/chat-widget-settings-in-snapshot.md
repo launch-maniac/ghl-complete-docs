@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:01.117Z"
+extracted_at: "2025-09-14T03:07:31.694Z"
 ---
 
 # Chat Widget Settings in Snapshot

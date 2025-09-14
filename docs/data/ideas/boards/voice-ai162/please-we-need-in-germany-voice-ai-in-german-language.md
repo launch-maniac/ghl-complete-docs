@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:41:43.754Z"
+extracted_at: "2025-09-14T02:58:09.589Z"
 ---
 
 # Please we need in germany, Voice Ai in German Language

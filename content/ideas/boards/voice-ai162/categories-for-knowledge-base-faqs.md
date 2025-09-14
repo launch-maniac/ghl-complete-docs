@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:41:43.753Z"
+extracted_at: "2025-09-14T02:58:09.587Z"
 ---
 
 # Categories for Knowledge Base FAQs

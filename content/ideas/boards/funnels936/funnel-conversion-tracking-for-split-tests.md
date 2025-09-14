@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:46:00.935Z"
+extracted_at: "2025-09-14T03:02:29.668Z"
 ---
 
 # 📊 Funnel Conversion Tracking for Split Tests

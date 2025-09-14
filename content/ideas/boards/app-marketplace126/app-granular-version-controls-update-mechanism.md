@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:40:59.943Z"
+extracted_at: "2025-09-14T02:57:25.469Z"
 ---
 
 # App granular version controls & update mechanism

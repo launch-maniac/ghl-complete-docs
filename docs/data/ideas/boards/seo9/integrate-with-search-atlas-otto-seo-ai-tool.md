@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:53:46.709Z"
+extracted_at: "2025-09-14T03:10:18.550Z"
 ---
 
 # Integrate with Search Atlas OTTO SEO AI Tool

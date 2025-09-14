@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:52:51.854Z"
+extracted_at: "2025-09-14T03:09:23.656Z"
 ---
 
 # 🔄 Streamlined Product Management in GHL: Smarter Control from Agency to Subaccounts

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:56.698Z"
+extracted_at: "2025-09-14T03:08:27.563Z"
 ---
 
 # ✅ Design more like Stripe

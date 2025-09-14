@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:43:24.343Z"
+extracted_at: "2025-09-14T02:59:51.428Z"
 ---
 
 # Company from prospect

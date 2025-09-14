@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:47:51.946Z"
+extracted_at: "2025-09-14T03:04:20.491Z"
 ---
 
 # Project Manager - Integrated

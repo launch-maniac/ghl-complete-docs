@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:47:29.810Z"
+extracted_at: "2025-09-14T03:03:58.545Z"
 ---
 
 # "Tags" in Opportunity Details

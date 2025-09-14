@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:56.695Z"
+extracted_at: "2025-09-14T03:08:27.561Z"
 ---
 
 # Accept Square and Paypal for calendar class bookings

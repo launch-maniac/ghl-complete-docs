@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:50:17.201Z"
+extracted_at: "2025-09-14T03:06:45.828Z"
 ---
 
 # Move Multiple Email Templates Into a Folder At Once

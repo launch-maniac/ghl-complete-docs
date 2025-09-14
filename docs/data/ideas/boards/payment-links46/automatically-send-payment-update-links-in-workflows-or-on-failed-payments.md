@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:56.700Z"
+extracted_at: "2025-09-14T03:08:27.567Z"
 ---
 
 # Automatically send payment update links in workflows or on failed payments

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:34.577Z"
+extracted_at: "2025-09-14T03:08:05.676Z"
 ---
 
 # Chat widget needs to know what page the user is on!!!

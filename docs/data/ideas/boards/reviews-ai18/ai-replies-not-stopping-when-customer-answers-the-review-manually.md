@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:52:29.730Z"
+extracted_at: "2025-09-14T03:09:00.911Z"
 ---
 
 # AI Replies not stopping when customer answers the Review manually

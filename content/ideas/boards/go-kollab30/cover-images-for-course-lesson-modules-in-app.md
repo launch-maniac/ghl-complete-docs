@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:53:35.511Z"
+extracted_at: "2025-09-14T03:10:07.568Z"
 ---
 
 # Cover Images for Course Lesson Modules in APP

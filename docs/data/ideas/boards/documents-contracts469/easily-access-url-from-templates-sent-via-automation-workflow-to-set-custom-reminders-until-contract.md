@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:44:42.029Z"
+extracted_at: "2025-09-14T03:01:09.614Z"
 ---
 
 # Easily Access URL from Templates Sent via Automation Workflow to Set Custom Reminders Until Contract is Signed

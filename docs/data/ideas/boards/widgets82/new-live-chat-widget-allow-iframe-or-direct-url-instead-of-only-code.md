@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:51:01.124Z"
+extracted_at: "2025-09-14T03:07:31.700Z"
 ---
 
 # New Live Chat Widget - Allow Iframe or Direct URL instead of only code

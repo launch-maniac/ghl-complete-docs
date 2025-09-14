@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:52:40.766Z"
+extracted_at: "2025-09-14T03:09:12.613Z"
 ---
 
 # App POS tax option

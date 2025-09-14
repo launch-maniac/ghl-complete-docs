@@ -812,6 +812,13 @@
     "url": null
   },
   {
+    "id": "let-us-reassign-staff-member-after-online-service-booking-has-been-made",
+    "title": "Let us reassign staff member after online service booking has been made.",
+    "category": "ideas",
+    "excerpt": "Let us reassign staff member after online service booking has been made. Status: open Votes: 0 Comme...",
+    "url": null
+  },
+  {
     "id": "ability-to-disable-launchpad",
     "title": "Ability to Disable Launchpad!",
     "category": "ideas",
@@ -2205,6 +2212,13 @@
     "url": null
   },
   {
+    "id": "send-multiple-docs-at-once-in-workflows",
+    "title": "Send Multiple Docs at Once in Workflows",
+    "category": "ideas",
+    "excerpt": "Send Multiple Docs at Once in Workflows Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-customise-blog-url",
     "title": "Ability to customise blog URL",
     "category": "ideas",
@@ -3101,6 +3115,34 @@
     "url": null
   },
   {
+    "id": "ability-to-edit-services-after-booking",
+    "title": "Ability to Edit Services After Booking",
+    "category": "ideas",
+    "excerpt": "Ability to Edit Services After Booking Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "edit-start-end-time-directly-in-service-appointment-panel",
+    "title": "Edit Start & End Time Directly in Service Appointment Panel",
+    "category": "ideas",
+    "excerpt": "Edit Start & End Time Directly in Service Appointment Panel Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "please-provide-a-shortcut-to-access-the-contact-directly-from-the-service-calendar-appointment-panel",
+    "title": "Please provide a shortcut to access the contact directly from the Service Calendar appointment panel.",
+    "category": "ideas",
+    "excerpt": "Please provide a shortcut to access the contact directly from the Service Calendar appointment panel...",
+    "url": null
+  },
+  {
+    "id": "staff-pages",
+    "title": "Staff Pages",
+    "category": "ideas",
+    "excerpt": "Staff Pages Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-form-tracking-to-call-tracking-and-open-up-insights-into-all-lead-activity",
     "title": "Add Form Tracking to Call Tracking and open up insights into all lead activity.",
     "category": "ideas",
@@ -3315,6 +3357,13 @@
     "title": "Option to Set Call Status on Outbound calls, as the Manual Call Queue (Power Dialer) Offers",
     "category": "ideas",
     "excerpt": "Option to Set Call Status on Outbound calls, as the Manual Call Queue Power Dialer Offers Status: op...",
+    "url": null
+  },
+  {
+    "id": "qualified-lead-call-reporting-option-as-trigger-in-automation",
+    "title": "\"Qualified Lead\" Call Reporting Option as Trigger in Automation",
+    "category": "ideas",
+    "excerpt": "\"Qualified Lead\" Call Reporting Option as Trigger in Automation Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -3990,6 +4039,13 @@
     "url": null
   },
   {
+    "id": "ability-to-hide-turn-off-invite-members-button-in-groups-so-members-can-t-just-invite-anyone-they-wa",
+    "title": "Ability to hide/turn off 'Invite Members' button in groups so members can't just invite anyone they want.",
+    "category": "ideas",
+    "excerpt": "Ability to hide/turn off 'Invite Members' button in groups so members can't just invite anyone they ...",
+    "url": null
+  },
+  {
     "id": "see-who-has-created-a-login-in-the-client-portal",
     "title": "See who has created a login in the client portal",
     "category": "ideas",
@@ -4550,6 +4606,20 @@
     "url": null
   },
   {
+    "id": "global-nested-variables-for-company-object",
+    "title": "Global/Nested Variables for Company Object",
+    "category": "ideas",
+    "excerpt": "Global/Nested Variables for Company Object Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "instant-notes-company-personal-not-account",
+    "title": "Instant Notes (Company/personal, not account)",
+    "category": "ideas",
+    "excerpt": "Instant Notes Company/personal, not account Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "ability-to-add-change-picture-of-contact",
     "title": "Ability to Add/Change Picture of Contact",
     "category": "ideas",
@@ -4981,6 +5051,55 @@
     "title": "👉 Update, Reassign, Mark Complete and Delete Tasks using Workflows 📄⚙️",
     "category": "ideas",
     "excerpt": "👉 Update, Reassign, Mark Complete and Delete Tasks using Workflows 📄⚙️ Status: open Votes: 0 Comme...",
+    "url": null
+  },
+  {
+    "id": "ability-to-add-images-or-files-to-a-contact-or-opportunity",
+    "title": "Ability to add images or files to a contact or opportunity",
+    "category": "ideas",
+    "excerpt": "Ability to add images or files to a contact or opportunity Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "assign-company-to-user",
+    "title": "Assign Company To User",
+    "category": "ideas",
+    "excerpt": "Assign Company To User Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "assign-multiple-companies-to-a-single-contact",
+    "title": "Assign multiple companies to a single contact",
+    "category": "ideas",
+    "excerpt": "Assign multiple companies to a single contact Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "company-based-vs-client-based",
+    "title": "Company Based VS Client Based",
+    "category": "ideas",
+    "excerpt": "Company Based VS Client Based Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "internal-comments-workflow-integration",
+    "title": "Internal Comments Workflow Integration",
+    "category": "ideas",
+    "excerpt": "Internal Comments Workflow Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "joint-functionality-between-contact-companies",
+    "title": "Joint Functionality Between Contact + Companies",
+    "category": "ideas",
+    "excerpt": "Joint Functionality Between Contact + Companies Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "upload-photos-for-existing-contacts",
+    "title": "Upload photos for existing contacts",
+    "category": "ideas",
+    "excerpt": "Upload photos for existing contacts Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -6174,6 +6293,34 @@
     "url": null
   },
   {
+    "id": "editing-course-lesson-outline",
+    "title": "Editing Course - Lesson Outline",
+    "category": "ideas",
+    "excerpt": "Editing Course - Lesson Outline Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "import-e-learning-authoring-projects-html5-scorm-xapi",
+    "title": "Import E-learning Authoring Projects (HTML5, Scorm & xAPI)",
+    "category": "ideas",
+    "excerpt": "Import E-learning Authoring Projects HTML5, Scorm & xAPI Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "take-out-the-banner-image-in-the-memberships-dashboard",
+    "title": "Take out the banner image in the memberships dashboard",
+    "category": "ideas",
+    "excerpt": "Take out the banner image in the memberships dashboard Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "turn-off-ability-to-join-group-natively-so-access-can-only-be-given-through-a-workflow-or-the-crm-co",
+    "title": "Turn off ability to join group natively so access can only be given through a workflow or the CRM contact record..",
+    "category": "ideas",
+    "excerpt": "Turn off ability to join group natively so access can only be given through a workflow or the CRM co...",
+    "url": null
+  },
+  {
     "id": "ability-to-add-gradient-colors-in-brand-board",
     "title": "Ability to Add Gradient Colors in Brand Board",
     "category": "ideas",
@@ -6535,6 +6682,13 @@
     "title": "Find a contact by address search",
     "category": "ideas",
     "excerpt": "Find a contact by address search Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "give-current-time-for-each-contact-under-the-dropdown-for-their-timezone",
+    "title": "Give Current Time for each contact under the dropdown for their timezone",
+    "category": "ideas",
+    "excerpt": "Give Current Time for each contact under the dropdown for their timezone Status: open Votes: 0 Comme...",
     "url": null
   },
   {
@@ -7336,6 +7490,13 @@
     "url": null
   },
   {
+    "id": "add-document-uploaded-trigger-in-workflow",
+    "title": "Add \"document uploaded\" trigger in workflow",
+    "category": "ideas",
+    "excerpt": "Add \"document uploaded\" trigger in workflow Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-documents-to-client-via-workflow",
     "title": "Add Documents to Client via Workflow",
     "category": "ideas",
@@ -7952,6 +8113,13 @@
     "url": null
   },
   {
+    "id": "add-special-instructions-customize-box-to-ecomm-product",
+    "title": "Add \"Special Instructions/ Customize\" Box to Ecomm Product",
+    "category": "ideas",
+    "excerpt": "Add \"Special Instructions/ Customize\" Box to Ecomm Product Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "bundle-physical-products",
     "title": "Bundle Physical Products",
     "category": "ideas",
@@ -7977,6 +8145,13 @@
     "title": "E-Commerce Bump and Related Items",
     "category": "ideas",
     "excerpt": "E-Commerce Bump and Related Items Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "e-commerce-store-items-with-no-quantity",
+    "title": "E-Commerce Store - Items with No Quantity",
+    "category": "ideas",
+    "excerpt": "E-Commerce Store - Items with No Quantity Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8012,6 +8187,13 @@
     "title": "Printful Integration... I want to like it but...",
     "category": "ideas",
     "excerpt": "Printful Integration... I want to like it but... Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "product-page-listing-variants-enhancements-for-ghl-ecom-store",
+    "title": "*Product Page/Listing/Variants Enhancements for GHL Ecom Store*",
+    "category": "ideas",
+    "excerpt": "Product Page/Listing/Variants Enhancements for GHL Ecom Store Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -8404,6 +8586,13 @@
     "title": "Add Emoji Feature Across Funnels, Sites, Emails, and More",
     "category": "ideas",
     "excerpt": "Add Emoji Feature Across Funnels, Sites, Emails, and More Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "company-newsletter",
+    "title": "Company newsletter",
+    "category": "ideas",
+    "excerpt": "Company newsletter Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -9002,6 +9191,13 @@
     "url": null
   },
   {
+    "id": "allow-automation-to-set-tags",
+    "title": "Allow Automation to set Tags",
+    "category": "ideas",
+    "excerpt": "Allow Automation to set Tags Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "allow-brand-board-to-be-accessed-in-forms",
     "title": "Allow Brand Board to be Accessed in Forms",
     "category": "ideas",
@@ -9069,6 +9265,13 @@
     "title": "Give a sound play option on form submissions and button clicks.",
     "category": "ideas",
     "excerpt": "Give a sound play option on form submissions and button clicks. Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "hide-show-for-all-elements-in-forms",
+    "title": "✅ Hide/show for all elements in Forms",
+    "category": "ideas",
+    "excerpt": "✅ Hide/show for all elements in Forms Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10633,6 +10836,13 @@
     "url": null
   },
   {
+    "id": "agencyanalytics-for-google-local-service-ads",
+    "title": "agencyanalytics for google local service ads",
+    "category": "ideas",
+    "excerpt": "agencyanalytics for google local service ads Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "bing-places-integration-similar-to-google-business-profile",
     "title": "Bing Places Integration Similar to Google Business Profile",
     "category": "ideas",
@@ -10672,6 +10882,13 @@
     "title": "Ability to edit invoice after payment makred",
     "category": "ideas",
     "excerpt": "Ability to edit invoice after payment makred Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "ability-to-have-a-saas-plan-purchased-with-invoices-documents",
+    "title": "Ability To Have A SAAS plan purchased with invoices/documents",
+    "category": "ideas",
+    "excerpt": "Ability To Have A SAAS plan purchased with invoices/documents Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -10973,6 +11190,13 @@
     "title": "Sync products and services with QuickBooks and Xero",
     "category": "ideas",
     "excerpt": "Sync products and services with QuickBooks and Xero Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "the-ability-to-edit-an-invoice-after-a-payment-has-been-made",
+    "title": "The ability to edit an invoice after a payment has been made",
+    "category": "ideas",
+    "excerpt": "The ability to edit an invoice after a payment has been made Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -11484,6 +11708,13 @@
     "title": "Email Marketing - open/click Tracker",
     "category": "ideas",
     "excerpt": "Email Marketing - open/click Tracker Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "fallbacktodefault-please-allow-us-to-enable-this-by-default-on-new-sub-accounts",
+    "title": "fallbackToDefault - please allow us to enable this by default on new sub accounts",
+    "category": "ideas",
+    "excerpt": "fallbackToDefault - please allow us to enable this by default on new sub accounts Status: open Votes...",
     "url": null
   },
   {
@@ -12264,10 +12495,38 @@
     "url": null
   },
   {
+    "id": "company-information-on-mobile-app",
+    "title": "Company Information on Mobile App",
+    "category": "ideas",
+    "excerpt": "Company Information on Mobile App Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "incoming-call-notifications",
+    "title": "Incoming Call Notifications",
+    "category": "ideas",
+    "excerpt": "Incoming Call Notifications Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "mobile-app-email-copy-and-paste",
     "title": "Mobile App - Email Copy And Paste",
     "category": "ideas",
     "excerpt": "Mobile App - Email Copy And Paste Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "mobile-app-ui-ux",
+    "title": "Mobile App UI/UX",
+    "category": "ideas",
+    "excerpt": "Mobile App UI/UX Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "search-function-on-mobile-app",
+    "title": "Search function on mobile app",
+    "category": "ideas",
+    "excerpt": "Search function on mobile app Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -12653,6 +12912,13 @@
     "title": "Sorting Opportunities using custom fields",
     "category": "ideas",
     "excerpt": "Sorting Opportunities using custom fields Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "company-name-dropdown-to-link-opportunity-to-company-not-just-the-name",
+    "title": "Company Name Dropdown to Link Opportunity to Company: not just the name",
+    "category": "ideas",
+    "excerpt": "Company Name Dropdown to Link Opportunity to Company: not just the name Status: open Votes: 0 Commen...",
     "url": null
   },
   {
@@ -13265,6 +13531,55 @@
     "url": null
   },
   {
+    "id": "ability-to-add-multiple-stripe-and-paypal-accounts-to-1-location",
+    "title": "Ability to add multiple Stripe and Paypal Accounts to 1 location",
+    "category": "ideas",
+    "excerpt": "Ability to add multiple Stripe and Paypal Accounts to 1 location Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "better-design-for-service-calendars",
+    "title": "Better Design for Service Calendars",
+    "category": "ideas",
+    "excerpt": "Better Design for Service Calendars Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "client-portal-for-actual-clients-for-services",
+    "title": "Client Portal for Actual Clients for Services",
+    "category": "ideas",
+    "excerpt": "Client Portal for Actual Clients for Services Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "company-subscriptions",
+    "title": "Company Subscriptions",
+    "category": "ideas",
+    "excerpt": "Company Subscriptions Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "show-1-location-only-in-services",
+    "title": "Show 1 location only in Services",
+    "category": "ideas",
+    "excerpt": "Show 1 location only in Services Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "stripe-payment-notifications-via-slack-integration",
+    "title": "Stripe Payment Notifications via Slack Integration",
+    "category": "ideas",
+    "excerpt": "Stripe Payment Notifications via Slack Integration Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "subscription-dashboard-needs-to-show-what-the-subscription-is-for",
+    "title": "Subscription Dashboard Needs to Show What The Subscription Is For",
+    "category": "ideas",
+    "excerpt": "Subscription Dashboard Needs to Show What The Subscription Is For Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "3-way-calling",
     "title": "3 Way Calling",
     "category": "ideas",
@@ -13325,6 +13640,13 @@
     "title": "Business Name As Caller ID",
     "category": "ideas",
     "excerpt": "Business Name As Caller ID Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "call-notes",
+    "title": "Call Notes",
+    "category": "ideas",
+    "excerpt": "Call Notes Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -14207,6 +14529,13 @@
     "title": "Would love a “Create Opportunity” button in the prospecting tool. Maybe create a contact, too, if you have the point of contact fields filled?",
     "category": "ideas",
     "excerpt": "Would love a “Create Opportunity” button in the prospecting tool. Maybe create a contact, too, if yo...",
+    "url": null
+  },
+  {
+    "id": "include-local-services-ads-in-the-techno-stack-in-the-prospecting-report",
+    "title": "Include Local Services Ads in the Techno Stack in the Prospecting Report",
+    "category": "ideas",
+    "excerpt": "Include Local Services Ads in the Techno Stack in the Prospecting Report Status: open Votes: 0 Comme...",
     "url": null
   },
   {
@@ -15834,6 +16163,27 @@
     "url": null
   },
   {
+    "id": "allow-freelancer-agency-297-plan-to-download-list-of-subaccounts",
+    "title": "Allow Freelancer Agency ($297 plan) to Download List of Subaccounts",
+    "category": "ideas",
+    "excerpt": "Allow Freelancer Agency $297 plan to Download List of Subaccounts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "coupons-for-saas-plans",
+    "title": "Coupons For Saas Plans",
+    "category": "ideas",
+    "excerpt": "Coupons For Saas Plans Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "custom-billing-cycles-on-saas-configurator-plans-pricing",
+    "title": "Custom Billing Cycles on SaaS Configurator Plans & Pricing",
+    "category": "ideas",
+    "excerpt": "Custom Billing Cycles on SaaS Configurator Plans & Pricing Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
     "id": "add-an-agency-friendly-pricing-model-for-search-atlas-otto",
     "title": "✅ Add an Agency-Friendly Pricing Model for Search Atlas / OTTO",
     "category": "ideas",
@@ -16632,6 +16982,13 @@
     "url": null
   },
   {
+    "id": "drag-and-drop-media-for-social-planner-that-automatically-saves-to-the-media-storage",
+    "title": "Drag and drop media for social planner that automatically saves to the media storage",
+    "category": "ideas",
+    "excerpt": "Drag and drop media for social planner that automatically saves to the media storage Status: open Vo...",
+    "url": null
+  },
+  {
     "id": "internal-notes-in-posts",
     "title": "Internal Notes in Posts",
     "category": "ideas",
@@ -16643,6 +17000,13 @@
     "title": "remove #shorts",
     "category": "ideas",
     "excerpt": "remove shorts Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "require-approval-for-social-planner",
+    "title": "Require Approval For Social Planner",
+    "category": "ideas",
+    "excerpt": "Require Approval For Social Planner Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -16972,6 +17336,13 @@
     "title": "Disqualify should still submit the survey",
     "category": "ideas",
     "excerpt": "Disqualify should still submit the survey Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "duplicate-slide-feature-for-surveys",
+    "title": "Duplicate Slide Feature for Surveys",
+    "category": "ideas",
+    "excerpt": "Duplicate Slide Feature for Surveys Status: open Votes: 0 Comments:...",
     "url": null
   },
   {
@@ -18708,6 +19079,13 @@
     "title": "WhatsApp Group Chat Support + Mobile App Access",
     "category": "ideas",
     "excerpt": "WhatsApp Group Chat Support + Mobile App Access Status: open Votes: 0 Comments:...",
+    "url": null
+  },
+  {
+    "id": "the-whatsapp-usage-cost-shown-under-the-rebilling-section-is-different-from-the-costs-shown-under-ma",
+    "title": "The WhatsApp usage cost shown under the Rebilling section is different from the costs shown under Marketing and Utility categories. This makes it confusing, as the same WhatsApp usage appears with different charges depending on where you look. Please improve this so the pricing is consistent and easy to understand.",
+    "category": "ideas",
+    "excerpt": "The WhatsApp usage cost shown under the Rebilling section is different from the costs shown under Ma...",
     "url": null
   },
   {

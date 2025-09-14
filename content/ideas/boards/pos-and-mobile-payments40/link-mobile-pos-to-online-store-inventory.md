@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:52:40.765Z"
+extracted_at: "2025-09-14T03:09:12.610Z"
 ---
 
 # Link Mobile POS to Online Store Inventory

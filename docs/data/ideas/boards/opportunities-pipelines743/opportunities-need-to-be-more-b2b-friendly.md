@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:48:03.064Z"
+extracted_at: "2025-09-14T03:04:31.876Z"
 ---
 
 # Opportunities need to be more b2b friendly

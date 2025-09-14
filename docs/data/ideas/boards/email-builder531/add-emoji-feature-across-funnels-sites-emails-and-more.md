@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:45:16.126Z"
+extracted_at: "2025-09-14T03:01:45.047Z"
 ---
 
 # Add Emoji Feature Across Funnels, Sites, Emails, and More

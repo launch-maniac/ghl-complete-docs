@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:53:13.626Z"
+extracted_at: "2025-09-14T03:09:45.564Z"
 ---
 
 # 🕑 Automatically Log Off Users After 15 Minutes Inactivity

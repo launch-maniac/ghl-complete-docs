@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:46:45.377Z"
+extracted_at: "2025-09-14T03:03:14.740Z"
 ---
 
 # Invoice Refund record

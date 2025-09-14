@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-13T02:50:28.187Z"
+extracted_at: "2025-09-14T03:06:56.448Z"
 ---
 
 # Remove a User's right to delete an opportunity.
