@@ -18,6 +18,7 @@ on:
           - help
           - ideas
           - marketplace
+          - api
           - github
         default: all
 
@@ -80,6 +81,11 @@ jobs:
       - name: 🛍️ Extract Marketplace Docs
         if: github.event.inputs.source == null || contains(fromJson('["all", "marketplace"]'), github.event.inputs.source)
         run: npm run extract:marketplace
+        continue-on-error: true
+      
+      - name: 🔧 Extract API Documentation
+        if: github.event.inputs.source == null || contains(fromJson('["all", "api"]'), github.event.inputs.source)
+        run: npm run extract:api
         continue-on-error: true
       
       - name: 🔄 Process Content
