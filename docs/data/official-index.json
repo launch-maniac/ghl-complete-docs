@@ -2,32 +2,7 @@
   "name": "official",
   "path": "/home/runner/work/ghl-complete-docs/ghl-complete-docs/content/official",
   "documents": [],
-  "subcategories": {
-    "gohighlevel-api-docs": {
-      "name": "gohighlevel-api-docs",
-      "path": "gohighlevel-api-docs",
-      "documents": [],
-      "documentCount": 0
-    },
-    "gohighlevel-examples": {
-      "name": "gohighlevel-examples",
-      "path": "gohighlevel-examples",
-      "documents": [],
-      "documentCount": 0
-    },
-    "gohighlevel-sdk": {
-      "name": "gohighlevel-sdk",
-      "path": "gohighlevel-sdk",
-      "documents": [],
-      "documentCount": 0
-    },
-    "webhook-examples": {
-      "name": "webhook-examples",
-      "path": "webhook-examples",
-      "documents": [],
-      "documentCount": 0
-    }
-  },
+  "subcategories": {},
   "stats": {
     "totalDocuments": 0,
     "lastUpdated": null,

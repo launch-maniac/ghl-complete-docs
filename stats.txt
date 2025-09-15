@@ -6,9 +6,9 @@
 
 📊 DOCUMENTATION STATISTICS
 ==================================================
-Generated: 9/15/2025, 5:11:21 AM
+Generated: 9/15/2025, 5:14:54 AM
 Total Documents: 2860
-Last Updated: 9/15/2025, 5:11:06 AM
+Last Updated: 9/15/2025, 5:14:41 AM
 Errors: 0
 
 📁 BY CATEGORY:
@@ -21,16 +21,16 @@ Errors: 0
     Documents: 2859
     Subcategories: 1
     Size: NaN undefined
-    Last Update: 9/15/2025, 5:10:54 AM
+    Last Update: 9/15/2025, 5:14:08 AM
   MARKETPLACE:
     Documents: 1
     Subcategories: 0
     Size: 850 B
-    Last Update: 9/15/2025, 5:11:06 AM
+    Last Update: 9/15/2025, 5:14:41 AM
   OFFICIAL:
     Documents: 0
-    Subcategories: 4
-    Size: NaN undefined
+    Subcategories: 0
+    Size: 0 B
     Last Update: Never
 
 📝 SUMMARY FOR COMMIT:

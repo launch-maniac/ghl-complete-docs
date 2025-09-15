@@ -1,10 +1,10 @@
 {
-  "generated": "2025-09-15T05:11:09.512Z",
+  "generated": "2025-09-15T05:14:44.064Z",
   "version": "1.0.0",
   "stats": {
     "totalDocuments": 2860,
     "categories": 4,
-    "generatedAt": "2025-09-15T05:11:10.319Z",
+    "generatedAt": "2025-09-15T05:14:44.857Z",
     "errors": 0
   },
   "categories": {
@@ -136348,7 +136348,7 @@
           "subcategory": null,
           "filePath": "marketplace/placeholder.md",
           "url": null,
-          "extractedAt": "2025-09-15T05:11:06.530Z",
+          "extractedAt": "2025-09-15T05:14:41.953Z",
           "lastUpdated": null,
           "wordCount": 91,
           "excerpt": "GoHighLevel Marketplace Documentation This is a placeholder for marketplace documentation. The marketplace documentation may be: - Protected behind authentication - Not publicly accessible -...",
@@ -136369,7 +136369,7 @@
       "subcategories": {},
       "stats": {
         "totalDocuments": 1,
-        "lastUpdated": "2025-09-15T05:11:06.530Z",
+        "lastUpdated": "2025-09-15T05:14:41.953Z",
         "avgWordCount": 91
       }
     },
@@ -136377,32 +136377,7 @@
       "name": "official",
       "path": "/home/runner/work/ghl-complete-docs/ghl-complete-docs/content/official",
       "documents": [],
-      "subcategories": {
-        "gohighlevel-api-docs": {
-          "name": "gohighlevel-api-docs",
-          "path": "gohighlevel-api-docs",
-          "documents": [],
-          "documentCount": 0
-        },
-        "gohighlevel-examples": {
-          "name": "gohighlevel-examples",
-          "path": "gohighlevel-examples",
-          "documents": [],
-          "documentCount": 0
-        },
-        "gohighlevel-sdk": {
-          "name": "gohighlevel-sdk",
-          "path": "gohighlevel-sdk",
-          "documents": [],
-          "documentCount": 0
-        },
-        "webhook-examples": {
-          "name": "webhook-examples",
-          "path": "webhook-examples",
-          "documents": [],
-          "documentCount": 0
-        }
-      },
+      "subcategories": {},
       "stats": {
         "totalDocuments": 0,
         "lastUpdated": null,
@@ -203985,7 +203960,7 @@
       "subcategory": null,
       "filePath": "marketplace/placeholder.md",
       "url": null,
-      "extractedAt": "2025-09-15T05:11:06.530Z",
+      "extractedAt": "2025-09-15T05:14:41.953Z",
       "lastUpdated": null,
       "wordCount": 91,
       "excerpt": "GoHighLevel Marketplace Documentation This is a placeholder for marketplace documentation. The marketplace documentation may be: - Protected behind authentication - Not publicly accessible -...",
