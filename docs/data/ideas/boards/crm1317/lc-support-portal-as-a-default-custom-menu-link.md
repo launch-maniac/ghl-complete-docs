@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:14:33.207Z"
+extracted_at: "2025-09-15T03:05:27.449Z"
 ---
 
 # 👉 LC Support Portal -> as a default Custom Menu Link ℹ️ 📄

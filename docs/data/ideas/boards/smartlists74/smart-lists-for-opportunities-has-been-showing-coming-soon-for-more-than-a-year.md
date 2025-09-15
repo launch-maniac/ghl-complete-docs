@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:19:20.870Z"
+extracted_at: "2025-09-15T03:10:17.764Z"
 ---
 
 # Smart Lists for Opportunities has been showing coming soon for more than a year.

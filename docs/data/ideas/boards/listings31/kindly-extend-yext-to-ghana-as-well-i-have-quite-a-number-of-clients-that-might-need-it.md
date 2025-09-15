@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:21:32.902Z"
+extracted_at: "2025-09-15T03:12:32.785Z"
 ---
 
 # Kindly extend Yext to Ghana as well. I have quite a number of clients that might need it

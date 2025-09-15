@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-15T01:24:41.988Z",
+  "generated": "2025-09-15T03:15:42.943Z",
   "stats": {
     "boards": 76,
     "posts": 2062,
@@ -203,11 +203,19 @@
       ]
     },
     "ad-reporting-and-attribution2108": {
+      "postCount": 2,
+      "posts": [
+        "forms-for-templates-too",
+        "nmi-subscription-share-payment-update-link-doesn-t-actually-update-subscription"
+      ]
+    },
+    "ad-reporting-and-attribution2110": {
       "postCount": 30,
       "posts": [
         "ability-to-calculate-cost-per-lead-integrated-from-facebook-or-google-ad-and-use-it-as-a-metric-on-d",
         "add-adjustable-wait-time-between-manual-calls-in-power-dialer",
         "add-affiliate-comission-to-calendar-booking-with-payment",
+        "add-notifications-under-conversations-inbox-chat",
         "add-team-lead-role-with-limited-to-team-s-data-access-only",
         "add-terms-of-service-to-new-service-calendar",
         "appointment-description-notes-visible-in-mobile-app",
@@ -216,7 +224,7 @@
         "cancellation-watch-wait-list-for-service-calendar-bookings",
         "connecting-google-calendar-is-not-white-labelled",
         "contact-replied-to-messenger",
-        "custom-fields-to-the-invoices-and-estimates",
+        "create-field-sorting-smart-lists",
         "forms-for-templates-too",
         "hello-it-would-be-so-helpful-if-you-guys-could-have-a-delay-option-on-emails-so-that-when-i-press-se",
         "include-contact-name-when-sharing-from-mobile-app",
@@ -233,8 +241,7 @@
         "update-on-n8n-make-com-replacement-agentic-workflow-builder",
         "update-to-services-calendar-v2",
         "upload-images-to-media-library-via-form-submission",
-        "upsell-add-on-services-at-checkout-for-service-based-business",
-        "urgent-better-metrics-in-the-custom-reports"
+        "upsell-add-on-services-at-checkout-for-service-based-business"
       ]
     },
     "agency-onboarding82": {
@@ -945,33 +952,12 @@
       ]
     },
     "certificates25": {
-      "postCount": 25,
+      "postCount": 4,
       "posts": [
-        "ability-to-generate-a-unique-certificate-serial-number",
-        "add-another-page-to-the-certificate-of-completion-that-will-include-the-course-outcomes",
         "add-customized-certificate-template-to-the-templates",
         "certificate-background-adjusted-to-the-page-size",
-        "certificate-url",
-        "certificate-whitelabel-domain",
-        "choose-your-primary-price-on-product-pages",
-        "clearer-instalment-labelling-and-fix-the-month-bug",
-        "course-certificate-update-workflow-action-for-expiration-date",
-        "course-completion-date-in-custom-fields",
-        "create-customer-swag-for-certified-admins-recognition-to-drive-sales",
         "custom-certificate-sizes",
-        "directory-for-certified-learners",
-        "document-signature-not-legal-relevant",
-        "download-format-option-for-certificates",
-        "edit-certificates",
-        "feature-request-improve-contact-selection-certificate-sending-flow",
-        "flexible-label-for-subscription-vs-payment-plan",
-        "interactive-playground",
-        "more-customization-options-for-certificates-and-canva-import",
-        "need-full-name-to-show-on-the-list-of-issued-certificates",
-        "pop-up-review-form-when-manually-issuing-certificates",
-        "qr-code-on-certificates-for-easy-verification",
-        "staff-coversations-permissions",
-        "status-badges"
+        "more-customization-options-for-certificates-and-canva-import"
       ]
     },
     "chat-widget130": {
@@ -1010,43 +996,17 @@
       ]
     },
     "chat-widget131": {
-      "postCount": 35,
+      "postCount": 9,
       "posts": [
         "ability-to-assign-chat-individual-or-round-robin",
-        "ability-to-customize-please-share-contact-details-prompt",
-        "ability-to-send-chat-transcript-via-email",
-        "ability-to-upload-attachments-in-live-chat",
-        "add-notification-sounds-when-someone-message-us-through-chat-widget",
-        "ai-chatbot-with-support-for-multiple-european-languages",
-        "ai-live-chat-push-form",
         "ai-voice-transfer-calls",
         "be-able-to-be-notified-by-email-sms-slack-when-someone-submits-the-live-chat",
-        "block-spam-chats",
-        "chat-widget-ice-breakers",
-        "chat-widget-menu-option",
-        "chat-widget-needs-to-know-what-page-the-user-is-on",
         "chat-widget-notification",
         "chat-widget-satisfaction-survey-results",
-        "chat-widget-should-generate-pop-up-alerts-and-makes-a-sound",
-        "cta-suggestion-for-chat-widget",
-        "delay-option-for-chat-bubble",
-        "disable-typing-when-form-is-enabled",
-        "email-transcript-option-for-chat-conversations",
-        "gdpr-compliance-for-chat-widget",
         "increase-maximum-messages-an-ai-can-send-please-at-least-to-50",
-        "live-chat-paths",
         "live-chat-source-identification",
-        "live-chat-widget-headless-ui",
         "live-chat-widget",
-        "live-handover-from-ai-chat-to-live-chat-with-notifications",
-        "make-please-share-contact-details-editable",
-        "make-the-chat-widget-a-draggable-feature",
-        "page-tracking-see-which-page-the-visitor-is-on",
-        "preset-buttons-for-tasks-within-chat",
-        "send-attachment-in-web-chat",
-        "utilize-message-text-snippets-in-live-chat",
-        "utm-tracking-for-live-chat",
-        "video-chat-bubble"
+        "utilize-message-text-snippets-in-live-chat"
       ]
     },
     "client-portal211": {
@@ -1382,10 +1342,11 @@
       ]
     },
     "contacts1752": {
-      "postCount": 31,
+      "postCount": 32,
       "posts": [
         "ability-to-add-change-picture-of-contact",
         "ability-to-add-images-or-files-to-a-contact-or-opportunity",
+        "ability-to-have-a-rich-text-field-for-task-descriptions",
         "add-inactive-contact-status",
         "add-mp3-wav-as-an-option-for-file-upload-custom-field",
         "add-website-url-as-custom-field-type",
@@ -1402,6 +1363,7 @@
         "customer-service-report-builder-with-selectable-notes-images",
         "deduplication-based-on-custom-fields",
         "enable-edit-delete-in-internal-comments-in-contacts",
+        "export-notes",
         "find-all-duplicate-contacts-and-then-merge",
         "google-map-location-field",
         "hideable-custom-fields-custom-field-folders-instead-of-hide-empty-fields",
@@ -1410,7 +1372,6 @@
         "make-first-name-not-a-required-field",
         "more-detailed-activity-feed",
         "placeholders-for-empty-custom-fields",
-        "restrict-company-visibility-to-unassigned-user",
         "set-last-notes-as-default-tab-in-contact-view",
         "sort-contacts-by-last-name",
         "tags-where-used",
@@ -2845,7 +2806,6 @@
         "automatically-map-fb-lead-form-prefill-questions",
         "bing-ads-microsoft-ads-integration",
         "bing-places-integration-similar-to-google-business-profile",
-        "connect-ghl-with-wechat",
         "connect-multiple-instagram-accounts",
         "document-integration-with-microsoft-onedrive-and-sharepoint",
         "estimates-that-require-a-deposit-on-mobile-app",
@@ -2861,6 +2821,7 @@
         "linkedin-features-apollo",
         "linkedin-message-integration",
         "mercado-pago-as-a-new-integration-for-latam",
+        "plivio-twilio-alternative",
         "proton-mail-protonmail-email-and-calendar-integration",
         "show-integration-name-integration-id-in-audit-logs",
         "telegram-locals-com-parlor-truthsocial-gettr-integration",
@@ -3549,11 +3510,11 @@
       "posts": [
         "ability-to-add-multiple-stripe-and-paypal-accounts-to-1-location",
         "ability-to-bulk-import-collections",
+        "ability-to-delete-orders",
         "better-design-for-service-calendars",
         "client-portal-for-actual-clients-for-services",
         "company-subscriptions",
         "coupon-code-implementation-to-accomodate-for-free-trials",
-        "create-deposit-for-product",
         "generate-single-use-coupons",
         "gift-cards",
         "granular-permissions",
@@ -3580,7 +3541,7 @@
       ]
     },
     "phone-system944": {
-      "postCount": 39,
+      "postCount": 40,
       "posts": [
         "3-way-calling",
         "ability-to-have-incoming-calls-show-caller-id-as-their-contact-info",
@@ -3619,6 +3580,7 @@
         "transcribe-and-summarize-phone-calls",
         "transfer-calls-to-users-internal-team-or-call-center",
         "trigger-ivr-from-ring-pool-not-just-individual-phone-numbers",
+        "twilio-alternative",
         "use-existing-number",
         "warm-transfers-to-lc-phone-numbers"
       ]

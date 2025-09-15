@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:20:27.240Z"
+extracted_at: "2025-09-15T03:11:24.957Z"
 ---
 
 # Make profile pictures appear in your emails when sending them through GHL

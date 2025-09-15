@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:20:27.240Z"
+extracted_at: "2025-09-15T03:11:24.957Z"
 ---
 
 # Access Gmail to send emails rather than MailGun

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:14:11.411Z"
+extracted_at: "2025-09-15T03:05:05.503Z"
 ---
 
 # Ability to add images or files to a contact or opportunity

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:19:54.139Z"
+extracted_at: "2025-09-15T03:10:51.711Z"
 ---
 
 # Affiliate Manager - Show Referral Name on Payout Screen

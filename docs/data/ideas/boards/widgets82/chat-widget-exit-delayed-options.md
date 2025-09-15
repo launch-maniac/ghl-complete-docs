@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:21:10.575Z"
+extracted_at: "2025-09-15T03:12:10.012Z"
 ---
 
 # 👉 Chat Widget -> Exit & Delayed options 💬

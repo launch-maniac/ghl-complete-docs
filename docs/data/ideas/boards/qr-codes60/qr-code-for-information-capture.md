@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:22:17.284Z"
+extracted_at: "2025-09-15T03:13:17.542Z"
 ---
 
 # QR code for information capture

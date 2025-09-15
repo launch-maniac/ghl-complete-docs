@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:20:48.937Z"
+extracted_at: "2025-09-15T03:11:48.092Z"
 ---
 
 # Tables in blogs

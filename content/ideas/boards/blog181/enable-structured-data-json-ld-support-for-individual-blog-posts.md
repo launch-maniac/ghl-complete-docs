@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:12:32.803Z"
+extracted_at: "2025-09-15T03:03:26.058Z"
 ---
 
 # Enable Structured Data (JSON-LD) Support for Individual Blog Posts

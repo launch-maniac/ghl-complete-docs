@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:15:49.948Z"
+extracted_at: "2025-09-15T03:06:45.599Z"
 ---
 
 # Facebook Marketplace Messages Auto Responder

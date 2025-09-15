@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:22:05.865Z"
+extracted_at: "2025-09-15T03:13:06.105Z"
 ---
 
 # Paypal refunds always show failed, but actually work

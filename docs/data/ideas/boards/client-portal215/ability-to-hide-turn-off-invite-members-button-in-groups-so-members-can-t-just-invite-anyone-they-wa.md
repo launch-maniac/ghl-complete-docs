@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:13:16.307Z"
+extracted_at: "2025-09-15T03:04:10.196Z"
 ---
 
 # Ability to hide/turn off 'Invite Members' button in groups so members can't just invite anyone they want.

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:15:39.106Z"
+extracted_at: "2025-09-15T03:06:34.769Z"
 ---
 
 # Single-sign on between Eliza and HighLevel platforms

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:16:23.840Z"
+extracted_at: "2025-09-15T03:07:19.294Z"
 ---
 
 # Identifying Locations in GHL's GMB Multiple Locations Connected To Same Page Error

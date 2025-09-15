@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:17:53.400Z"
+extracted_at: "2025-09-15T03:08:47.953Z"
 ---
 
 # Bulk Image Management - the ability to bulk move or delete items in the Media Library

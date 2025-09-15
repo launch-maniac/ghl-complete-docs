@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:22:05.863Z"
+extracted_at: "2025-09-15T03:13:06.104Z"
 ---
 
 # bussiness management tool and client monitoring

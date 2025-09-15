@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:13:05.511Z"
+extracted_at: "2025-09-15T03:03:59.096Z"
 ---
 
 # Make Call Transcripts Accessible In Automations

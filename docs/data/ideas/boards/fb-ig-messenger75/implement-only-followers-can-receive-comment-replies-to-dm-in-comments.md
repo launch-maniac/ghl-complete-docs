@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:15:49.949Z"
+extracted_at: "2025-09-15T03:06:45.600Z"
 ---
 
 # Implement "Only Followers Can Receive Comment Replies to DM" in Comments

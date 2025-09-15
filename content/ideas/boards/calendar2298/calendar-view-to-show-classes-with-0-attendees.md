@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T01:12:54.683Z"
+extracted_at: "2025-09-15T03:03:48.009Z"
 ---
 
 # Calendar View to show Classes with 0 attendees
