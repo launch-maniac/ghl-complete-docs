@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:12:44.138Z"
+extracted_at: "2025-09-15T05:07:57.243Z"
 ---
 
 # Live Handover from AI Chat to Live Chat with notifications

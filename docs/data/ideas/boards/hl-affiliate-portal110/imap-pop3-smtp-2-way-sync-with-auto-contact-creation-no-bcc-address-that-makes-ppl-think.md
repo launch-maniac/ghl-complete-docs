@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:07:30.354Z"
+extracted_at: "2025-09-15T05:02:47.642Z"
 ---
 
 # IMAP/POP3/SMTP 2-way sync with auto contact creation (no bcc address that makes ppl think)

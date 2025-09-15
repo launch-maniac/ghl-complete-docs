@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:03:14.930Z"
+extracted_at: "2025-09-15T04:58:33.767Z"
 ---
 
 # Content AI translations

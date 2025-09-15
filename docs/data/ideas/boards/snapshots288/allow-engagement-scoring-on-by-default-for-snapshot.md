@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:10:29.142Z"
+extracted_at: "2025-09-15T05:05:44.338Z"
 ---
 
 # Allow Engagement Scoring On By Default for Snapshot

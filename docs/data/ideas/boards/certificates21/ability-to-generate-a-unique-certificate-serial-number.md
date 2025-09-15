@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:04:54.334Z"
+extracted_at: "2025-09-15T05:00:12.791Z"
 ---
 
 # Ability to Generate a Unique Certificate Serial Number

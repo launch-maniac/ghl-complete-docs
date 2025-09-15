@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-15T03:15:42.943Z",
+  "generated": "2025-09-15T05:10:55.115Z",
   "stats": {
     "boards": 76,
     "posts": 2062,
@@ -1602,6 +1602,7 @@
       "posts": [
         "ability-to-add-cc-on-an-email-reply-in-conversations",
         "ability-to-forward-emails-in-ghl",
+        "ability-to-mention-a-user-in-an-internal-chat",
         "ability-to-see-when-an-email-was-opened",
         "allow-users-to-filter-conversations-inbox-for-contact-reply",
         "better-ui-for-conversations",
@@ -1612,16 +1613,15 @@
         "download-sms-conversations",
         "email-templates",
         "enable-2-way-email-sync-using-imap-pop3-smtp",
-        "enable-outgoing-messages-via-ig-to-appear-in-ghl-conversations",
         "filter-conversations-by-pipeline-stage-user-assigned-tag-etc",
-        "integrate-third-party-phone-systems-such-as-gotoconnect-or-ringcentral-improve-api-to-add-conversati",
         "internal-chat-multiple-chats-with-same-users",
-        "internal-chat-removes-all-the-text-i-am-typing-when-someone-sends-a-message",
         "mark-as-spam-in-conversations",
         "move-voice-ai-summary-to-conversations",
         "number-of-unread-messages-in-conversations-menu-bar",
         "outlook-to-actually-two-way-sync-in-conversations-like-gmail-does",
+        "rich-text-formatting-for-internal-chat-bold-italics-code-lists-etc",
         "search-past-conversations-for-specific-text",
+        "search-within-internal-chat",
         "send-as-all-users-can-pick-from-a-list-of-verified-email-addresses-for-manual-as-well-as-automated-o",
         "send-as-dropdown",
         "show-next-sms-scheduled-via-workflow-in-conversation-window",
@@ -3586,7 +3586,7 @@
       ]
     },
     "phone-system947": {
-      "postCount": 35,
+      "postCount": 34,
       "posts": [
         "a-speed-dailer-system",
         "add-middle-east-countries",
@@ -3621,7 +3621,6 @@
         "summarizing-calls-transcriptions",
         "transcription-automations-in-workflows-chatgpt",
         "twilio-alphanumeric-sender-id",
-        "twilio-alternative",
         "urgent-spain-phone-numbers"
       ]
     },
@@ -3730,10 +3729,10 @@
         "api-endpoints-for-prospecting-tool",
         "auto-generate-marketing-audit-report-via-workflow-action",
         "beta-prospecting",
+        "booking-koala-integration",
         "boosting-ai-sales-with-prospecting-tool",
         "convert-prospecting-to-won-lost",
         "enhance-pain-for-potential-clients",
-        "fix-inaccurate-listings-that-are-unrelated-businesses",
         "geofarming-circle-prospecting-in-ghl",
         "grouping-prospects",
         "include-local-services-ads-in-the-techno-stack-in-the-prospecting-report",

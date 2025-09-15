@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:05:27.447Z"
+extracted_at: "2025-09-15T05:00:45.878Z"
 ---
 
 # [Folders] Organize added domains under settings

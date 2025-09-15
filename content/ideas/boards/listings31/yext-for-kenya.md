@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:12:32.785Z"
+extracted_at: "2025-09-15T05:07:45.990Z"
 ---
 
 # YEXT for Kenya

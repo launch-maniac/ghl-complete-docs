@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:10:51.710Z"
+extracted_at: "2025-09-15T05:06:06.688Z"
 ---
 
 # Allow Affiliates to Have Open Parameter In URL To Insert Tracking Their Own Tracking Codes

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:10:40.299Z"
+extracted_at: "2025-09-15T05:05:55.516Z"
 ---
 
 # Social Media Planner Integrations

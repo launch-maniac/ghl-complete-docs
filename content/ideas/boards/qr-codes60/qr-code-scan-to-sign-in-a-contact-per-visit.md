@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:13:17.539Z"
+extracted_at: "2025-09-15T05:08:30.465Z"
 ---
 
 # QR Code scan to sign in a contact per visit

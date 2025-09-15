@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:10:51.707Z"
+extracted_at: "2025-09-15T05:06:06.686Z"
 ---
 
 # Affiliate Payout Threshold Setting

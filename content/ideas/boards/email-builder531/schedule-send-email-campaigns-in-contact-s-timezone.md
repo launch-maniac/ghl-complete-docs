@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:06:23.788Z"
+extracted_at: "2025-09-15T05:01:41.234Z"
 ---
 
 # Schedule send email campaigns in contact's timezone

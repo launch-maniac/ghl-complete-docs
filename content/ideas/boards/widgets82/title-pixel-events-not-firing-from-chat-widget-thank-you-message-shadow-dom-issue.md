@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:12:10.014Z"
+extracted_at: "2025-09-15T05:07:23.967Z"
 ---
 
 # Title: Pixel Events Not Firing from Chat Widget Thank You Message (Shadow DOM Issue)

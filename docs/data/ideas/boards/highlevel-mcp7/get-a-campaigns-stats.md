@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:15:41.941Z"
+extracted_at: "2025-09-15T05:10:54.113Z"
 ---
 
 # Get a Campaigns Stats

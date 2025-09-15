@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:11:36.937Z"
+extracted_at: "2025-09-15T05:06:50.650Z"
 ---
 
 # 📌 Add Role-Based Permissions + Team Management for Marketing Teams in Sub-Accounts

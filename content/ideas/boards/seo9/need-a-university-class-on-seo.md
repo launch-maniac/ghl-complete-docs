@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:14:58.691Z"
+extracted_at: "2025-09-15T05:10:09.337Z"
 ---
 
 # Need a University Class on SEO

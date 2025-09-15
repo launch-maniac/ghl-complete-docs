@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:07:08.434Z"
+extracted_at: "2025-09-15T05:02:25.462Z"
 ---
 
 # Click to Whatsapp count as conversion in funnel analytics

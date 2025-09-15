@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:05:38.666Z"
+extracted_at: "2025-09-15T05:00:56.923Z"
 ---
 
 # Order Columns by Clicking Headings

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:11:02.898Z"
+extracted_at: "2025-09-15T05:06:17.859Z"
 ---
 
 # Being able to hit ENTER top submit for and survey information!

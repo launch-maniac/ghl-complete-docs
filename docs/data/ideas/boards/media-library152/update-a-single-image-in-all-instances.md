@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:08:47.952Z"
+extracted_at: "2025-09-15T05:04:05.179Z"
 ---
 
 # Update a single image in all instances

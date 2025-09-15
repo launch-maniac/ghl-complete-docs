@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:03:59.093Z"
+extracted_at: "2025-09-15T04:59:18.095Z"
 ---
 
 # "Qualified Lead" Call Reporting Option as Trigger in Automation

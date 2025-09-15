@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:13:40.406Z"
+extracted_at: "2025-09-15T05:08:52.248Z"
 ---
 
 # Separate Reviews AI from Reputation Management for Reselling SaaS

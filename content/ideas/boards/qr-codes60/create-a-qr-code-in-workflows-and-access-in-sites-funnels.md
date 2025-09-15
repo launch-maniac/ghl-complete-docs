@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:13:17.542Z"
+extracted_at: "2025-09-15T05:08:30.469Z"
 ---
 
 # Create a QR code in Workflows and access in sites & funnels

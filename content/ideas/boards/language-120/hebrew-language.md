@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:12:55.140Z"
+extracted_at: "2025-09-15T05:08:08.449Z"
 ---
 
 # hebrew language

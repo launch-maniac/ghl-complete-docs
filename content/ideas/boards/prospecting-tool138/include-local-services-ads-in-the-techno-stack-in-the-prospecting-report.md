@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:09:32.994Z"
+extracted_at: "2025-09-15T05:04:48.968Z"
 ---
 
 # Include Local Services Ads in the Techno Stack in the Prospecting Report

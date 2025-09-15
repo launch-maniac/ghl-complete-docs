@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:12:44.135Z"
+extracted_at: "2025-09-15T05:07:57.240Z"
 ---
 
 # Disable typing when form is enabled

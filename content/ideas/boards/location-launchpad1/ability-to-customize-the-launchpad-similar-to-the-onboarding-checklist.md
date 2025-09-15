@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:14:14.368Z"
+extracted_at: "2025-09-15T05:09:25.834Z"
 ---
 
 # Ability to customize the launchpad, similar to the onboarding checklist

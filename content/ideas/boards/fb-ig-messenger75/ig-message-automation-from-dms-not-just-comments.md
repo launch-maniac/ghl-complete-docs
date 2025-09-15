@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:06:45.602Z"
+extracted_at: "2025-09-15T05:02:03.548Z"
 ---
 
 # IG message automation from DMs not just comments

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:05:50.162Z"
+extracted_at: "2025-09-15T05:01:07.818Z"
 ---
 
 # Add "document uploaded" trigger in workflow

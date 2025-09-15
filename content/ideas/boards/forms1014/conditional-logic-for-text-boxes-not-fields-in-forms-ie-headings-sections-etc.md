@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:06:56.814Z"
+extracted_at: "2025-09-15T05:02:14.562Z"
 ---
 
 # Conditional Logic for Text Boxes (not Fields) in Forms (ie. Headings, sections, etc)

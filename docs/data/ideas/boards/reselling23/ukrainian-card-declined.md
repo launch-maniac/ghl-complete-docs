@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:14:03.489Z"
+extracted_at: "2025-09-15T05:09:14.734Z"
 ---
 
 # Ukrainian Card declined

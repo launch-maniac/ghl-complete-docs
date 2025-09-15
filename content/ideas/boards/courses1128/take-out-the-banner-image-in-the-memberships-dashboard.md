@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:08:26.013Z"
+extracted_at: "2025-09-15T05:03:43.308Z"
 ---
 
 # Take out the banner image in the memberships dashboard

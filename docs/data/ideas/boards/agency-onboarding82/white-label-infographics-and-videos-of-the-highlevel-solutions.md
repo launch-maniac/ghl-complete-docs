@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:08:59.266Z"
+extracted_at: "2025-09-15T05:04:15.940Z"
 ---
 
 # White Label Infographics and Videos of the HighLevel Solutions

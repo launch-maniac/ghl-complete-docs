@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:13:17.538Z"
+extracted_at: "2025-09-15T05:08:30.463Z"
 ---
 
 # QR CODE FOR RESTAURANT COUPONS OFFERS or to TRACK that I sent traffic to the restaurant and get compensated for the volume that client actually spent

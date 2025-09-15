@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-15T03:02:41.149Z"
+extracted_at: "2025-09-15T04:58:00.357Z"
 ---
 
 # Allowing the AI of AI employee to be multilingual
