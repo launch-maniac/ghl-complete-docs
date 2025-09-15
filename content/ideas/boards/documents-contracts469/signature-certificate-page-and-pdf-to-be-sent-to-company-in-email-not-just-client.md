@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:01:09.612Z"
+extracted_at: "2025-09-15T01:14:55.962Z"
 ---
 
 # **Signature Certificate Page and PDF to be sent to company in email, not just client

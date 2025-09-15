@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:07:31.696Z"
+extracted_at: "2025-09-15T01:21:10.573Z"
 ---
 
 # ADA Compliance

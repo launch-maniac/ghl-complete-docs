@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T02:58:43.902Z"
+extracted_at: "2025-09-15T01:12:32.801Z"
 ---
 
 # Seriously, Improve the Blog Builder, we are in the AI era

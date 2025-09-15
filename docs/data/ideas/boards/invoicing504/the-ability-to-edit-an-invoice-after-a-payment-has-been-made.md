@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:03:14.740Z"
+extracted_at: "2025-09-15T01:16:56.831Z"
 ---
 
 # The ability to edit an invoice after a payment has been made

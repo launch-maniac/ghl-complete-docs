@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:02:40.995Z"
+extracted_at: "2025-09-15T01:16:23.841Z"
 ---
 
 # Forward inbound gmails to GHL sub account (support panel for clients)

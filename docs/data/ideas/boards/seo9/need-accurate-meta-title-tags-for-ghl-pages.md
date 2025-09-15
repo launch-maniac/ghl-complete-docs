@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:10:18.550Z"
+extracted_at: "2025-09-15T01:23:56.106Z"
 ---
 
 # Need Accurate META Title Tags for GHL Pages

@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:11:02.681Z"
+extracted_at: "2025-09-15T01:24:40.986Z"
 ---
 
 # OAuth for MCP

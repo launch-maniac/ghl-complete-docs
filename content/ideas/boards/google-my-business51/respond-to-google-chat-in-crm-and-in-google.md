@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:02:40.993Z"
+extracted_at: "2025-09-15T01:16:23.839Z"
 ---
 
 # Respond to Google Chat in CRM and in Google

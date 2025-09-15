@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:04:20.490Z"
+extracted_at: "2025-09-15T01:18:04.252Z"
 ---
 
 # Ability to select multiple sub accounts when creating brand and campaigns for A2P Registration

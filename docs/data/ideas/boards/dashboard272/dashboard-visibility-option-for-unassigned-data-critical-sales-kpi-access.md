@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:00:58.410Z"
+extracted_at: "2025-09-15T01:14:44.626Z"
 ---
 
 # Dashboard Visibility Option for Unassigned Data (Critical Sales KPI Access)

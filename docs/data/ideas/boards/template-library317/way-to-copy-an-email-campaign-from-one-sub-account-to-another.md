@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:06:45.820Z"
+extracted_at: "2025-09-15T01:20:27.242Z"
 ---
 
 # Way to copy an email campaign from one sub-account to another

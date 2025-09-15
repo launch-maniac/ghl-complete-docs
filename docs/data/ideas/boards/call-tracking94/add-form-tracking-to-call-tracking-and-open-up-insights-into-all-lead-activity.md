@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T02:59:17.324Z"
+extracted_at: "2025-09-15T01:13:05.511Z"
 ---
 
 # Add Form Tracking to Call Tracking and open up insights into all lead activity.

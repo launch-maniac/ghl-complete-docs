@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:09:00.912Z"
+extracted_at: "2025-09-15T01:22:39.555Z"
 ---
 
 # FROM AGENCY ACCOUNT DEACTIVATE AI BY DEFOULT FOR ALL NEW SUBACCOUNTS

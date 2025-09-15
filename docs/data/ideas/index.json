@@ -1,8 +1,8 @@
 {
-  "generated": "2025-09-14T03:11:03.683Z",
+  "generated": "2025-09-15T01:24:41.988Z",
   "stats": {
     "boards": 76,
-    "posts": 2066,
+    "posts": 2062,
     "comments": 0,
     "errors": 0
   },
@@ -197,6 +197,12 @@
       ]
     },
     "ad-reporting-and-attribution2106": {
+      "postCount": 1,
+      "posts": [
+        "let-us-reassign-staff-member-after-online-service-booking-has-been-made"
+      ]
+    },
+    "ad-reporting-and-attribution2108": {
       "postCount": 30,
       "posts": [
         "ability-to-calculate-cost-per-lead-integrated-from-facebook-or-google-ad-and-use-it-as-a-metric-on-d",
@@ -211,11 +217,11 @@
         "connecting-google-calendar-is-not-white-labelled",
         "contact-replied-to-messenger",
         "custom-fields-to-the-invoices-and-estimates",
-        "documents-and-contracts",
-        "form-notification",
+        "forms-for-templates-too",
         "hello-it-would-be-so-helpful-if-you-guys-could-have-a-delay-option-on-emails-so-that-when-i-press-se",
         "include-contact-name-when-sharing-from-mobile-app",
         "let-us-reassign-staff-member-after-online-service-booking-has-been-made",
+        "nmi-subscription-share-payment-update-link-doesn-t-actually-update-subscription",
         "progress-bar-for-surveys-also-on-the-desktop",
         "qr-code-metadata-tags",
         "qr-code-redirects-deep-links",
@@ -303,38 +309,44 @@
       ]
     },
     "ai-employee76": {
+      "postCount": 1,
+      "posts": [
+        "keep-getting-robo-calls-ai-voice-should-be-able-to-ignore-those"
+      ]
+    },
+    "ai-employee77": {
       "postCount": 30,
       "posts": [
-        "ability-to-delete-knowledge-bases-if-voice-ai-or-chatbot-accidently-deleted-first-and-still-linked",
+        "ability-to-add-pauses-in-speech",
+        "add-custom-llm",
+        "ai-agent-toggle-does-not-remove-feature-from-dashboard",
         "ai-companion-copilot-agent",
         "ai-employee-update-the-database-with-voice-prompts-like-siri",
-        "ai-property-comping-offer-price-tool",
+        "ai-voice-agents-need-working-files-for-reference-example-business-information-file-for-reference",
         "allow-bot-training-to-be-either-per-bot-or-shared",
         "allow-voice-ai-to-book-appointments-as-unconfirmed-instead-of-forcing-confirmed-status",
-        "allow-voice-ai-to-connect-to-sip-asterisk-phone-systems-or-allow-standard-desk-phone-sip-to-connect-",
-        "allow-voice-ai-to-schedule-appointments-based-on-the-actual-connected-calendar",
+        "allowing-the-ai-of-ai-employee-to-be-multilingual",
         "combine-voice-ai-and-conversation-ai-together",
-        "consolidate-ai-employee-with-entire-platform",
         "copy-paste-to-add-plain-text-to-knowledge-base",
-        "cross-platform-ai-employee-integration",
         "custom-openai-endpoints-allowing-for-custom-ai-providers-tools-cost-savings",
         "dynamic-language-for-review-response-to-use-message-language-instead-of-the-person-s-name",
         "enable-voice-ai-to-make-warm-transfers",
         "essential-feature-let-ai-send-files-jpg-pdf-video-etc",
         "facebook-image-carousel",
         "for-sdrs-ai-live-call-coaching-and-prompts",
-        "formations",
         "keep-getting-robo-calls-ai-voice-should-be-able-to-ignore-those",
+        "live-chat-summary-transcript-email",
         "make-ai-employee-a-saas-feature",
         "n8n-hosting-like-hostinger",
         "need-ability-to-choose-of-rings-to-answer-incoming-calls-for-ai-employee",
         "option-to-disable-summer-of-ai",
         "outbound-calling-ai-agent",
+        "populate-custom-fields-from-voice-ai",
         "transcript-summary-with-detailed-view-in-custom-field",
         "use-brand-voice-to-train-all-ai-agents",
         "video-ai",
-        "voice-ai-shouldn-t-answer-scam-likely-and-robo-calls",
-        "voice-dictation-to-create-new-contact-adding-all-info-to-correct-feilds"
+        "voice-ai-longer-conversations",
+        "voice-ai-shouldn-t-answer-scam-likely-and-robo-calls"
       ]
     },
     "apis425": {
@@ -378,10 +390,10 @@
       "posts": [
         "add-api-for-communities",
         "add-notes-to-appointment-via-api",
+        "add-outbound-msg-to-conversation",
         "agency-level-api",
         "agency-level-in-new-oauth-api",
         "ai-snapshot-builder-gpt-powered-snapshot-creation-deployment-tool",
-        "allow-direct-api-feed-for-product-catalog",
         "api-endpoint-for-funnel-stats",
         "api-for-custom-objects",
         "api-post-and-update-appointments",
@@ -389,7 +401,6 @@
         "audit-logs-improvements",
         "batch-update-custom-values",
         "become-an-api-first-company",
-        "collections-are-missing-from-the-api",
         "custom-provider-messaging",
         "dnd-status-for-channels",
         "fix-internal-sms-for-custom-conversation-providers",
@@ -398,18 +409,19 @@
         "get-taxes-endoint",
         "give-us-access-to-voice-ai-api",
         "instagram-id-s-in-contact-retrieving",
+        "isolate-outbound-voicemails-from-recorded-calls",
         "location-id-in-custom-pages-test-prod-url-capability",
         "new-webhook-event-when-a-message-status-changes-messagestatusupdate",
         "openapi-postman-collection-api-v2",
-        "send-whatsapp-messages-via-api-for-whatsapp-numbers-imported-from-meta-not-bought-on-ghl",
         "update-contact-allow-update-of-secondary-email",
         "urgent-export-done-by-data-keep-audit-over-60-days",
         "webhook-whatsapp-audio-and-images-files",
-        "whitelabel-api-v2-documentation-link"
+        "whitelabel-api-v2-documentation-link",
+        "wise-api"
       ]
     },
     "app-marketplace126": {
-      "postCount": 40,
+      "postCount": 41,
       "posts": [
         "ability-to-review-rate-an-app",
         "ability-to-share-private-app-seamlessly",
@@ -435,6 +447,7 @@
         "fix-app-filtering",
         "iframe-to-module-federation-of-apps",
         "in-app-purchases",
+        "include-call-duration-in-outbound-call-webhook",
         "introduce-app-collections",
         "lemon-squeezy-integration",
         "lovely",
@@ -823,15 +836,24 @@
       ]
     },
     "calendar2297": {
+      "postCount": 4,
+      "posts": [
+        "ability-to-edit-services-after-booking",
+        "edit-start-end-time-directly-in-service-appointment-panel",
+        "please-provide-a-shortcut-to-access-the-contact-directly-from-the-service-calendar-appointment-panel",
+        "staff-pages"
+      ]
+    },
+    "calendar2298": {
       "postCount": 30,
       "posts": [
         "ability-to-customize-new-service-calendar",
         "ability-to-edit-services-after-booking",
-        "add-a-event-calendar",
         "add-cancel-status-of-appointments-to-goal-event-action-in-workflows",
         "add-reason-for-canceling-field-to-appointment-detail",
         "allow-custom-duration-per-booking-for-the-same-service",
         "calendar-troubleshoot-manual-override-slot-troubleshooting-tool",
+        "calendar-view-to-show-classes-with-0-attendees",
         "calendars-calendar-view",
         "calender-for-rental-service",
         "charge-taxes-fees-on-service-calendars",
@@ -896,6 +918,32 @@
         "upload-custom-mp3-wav-to-call-recording"
       ]
     },
+    "certificates21": {
+      "postCount": 21,
+      "posts": [
+        "ability-to-generate-a-unique-certificate-serial-number",
+        "add-another-page-to-the-certificate-of-completion-that-will-include-the-course-outcomes",
+        "certificate-url",
+        "certificate-whitelabel-domain",
+        "choose-your-primary-price-on-product-pages",
+        "clearer-instalment-labelling-and-fix-the-month-bug",
+        "course-certificate-update-workflow-action-for-expiration-date",
+        "course-completion-date-in-custom-fields",
+        "create-customer-swag-for-certified-admins-recognition-to-drive-sales",
+        "directory-for-certified-learners",
+        "document-signature-not-legal-relevant",
+        "download-format-option-for-certificates",
+        "edit-certificates",
+        "feature-request-improve-contact-selection-certificate-sending-flow",
+        "flexible-label-for-subscription-vs-payment-plan",
+        "interactive-playground",
+        "need-full-name-to-show-on-the-list-of-issued-certificates",
+        "pop-up-review-form-when-manually-issuing-certificates",
+        "qr-code-on-certificates-for-easy-verification",
+        "staff-coversations-permissions",
+        "status-badges"
+      ]
+    },
     "certificates25": {
       "postCount": 25,
       "posts": [
@@ -924,6 +972,41 @@
         "qr-code-on-certificates-for-easy-verification",
         "staff-coversations-permissions",
         "status-badges"
+      ]
+    },
+    "chat-widget130": {
+      "postCount": 30,
+      "posts": [
+        "ability-to-customize-please-share-contact-details-prompt",
+        "ability-to-send-chat-transcript-via-email",
+        "ability-to-upload-attachments-in-live-chat",
+        "add-notification-sounds-when-someone-message-us-through-chat-widget",
+        "ai-chatbot-with-support-for-multiple-european-languages",
+        "ai-live-chat-push-form",
+        "block-spam-chats",
+        "chat-widget-ice-breakers",
+        "chat-widget-menu-option",
+        "chat-widget-needs-to-know-what-page-the-user-is-on",
+        "chat-widget-should-generate-pop-up-alerts-and-makes-a-sound",
+        "connect-to-brand-board-colors",
+        "cta-suggestion-for-chat-widget",
+        "delay-option-for-chat-bubble",
+        "disable-typing-when-form-is-enabled",
+        "email-transcript-option-for-chat-conversations",
+        "enable-selective-live-chat-widget-for-sub-accounts-without-breaking-builder-pages",
+        "gdpr-compliance-for-chat-widget",
+        "google-autofill-address-in-the-live-chat",
+        "internal-support-chat-for-agency-to-sub-accounts-commnunities-chat",
+        "live-chat-paths",
+        "live-chat-widget-headless-ui",
+        "live-handover-from-ai-chat-to-live-chat-with-notifications",
+        "make-please-share-contact-details-editable",
+        "make-the-chat-widget-a-draggable-feature",
+        "page-tracking-see-which-page-the-visitor-is-on",
+        "preset-buttons-for-tasks-within-chat",
+        "send-attachment-in-web-chat",
+        "utm-tracking-for-live-chat",
+        "video-chat-bubble"
       ]
     },
     "chat-widget131": {
@@ -1112,15 +1195,21 @@
       ]
     },
     "communities947": {
-      "postCount": 30,
+      "postCount": 1,
+      "posts": [
+        "add-kollab-community-dms-to-automations"
+      ]
+    },
+    "communities948": {
+      "postCount": 29,
       "posts": [
         "ability-to-customize-the-community-invite-welcome-email",
         "ability-to-edit-the-reminder-emails-for-events-inside-the-communities",
         "ability-to-go-live-from-community-group",
         "add-company-business-name-and-website-option-for-member-profile",
-        "add-kollab-community-dms-to-automations",
         "additional-member-level-moderator-etc",
         "auto-dm-new-members",
+        "auto-posting-for-communities",
         "community-chat-notification",
         "community-course-automations",
         "community-do-not-require-profile-photos",
@@ -1129,6 +1218,7 @@
         "course-ux-like-skool-asap",
         "enhancement-request-show-recurring-event-schedule-in-emails",
         "ghl-community-onboarding-pinned-checklist",
+        "hide-the-total-number-of-members-that-show-to-all-members",
         "leave-the-gokollab-group-that-is-subscribed-to",
         "live-chat-for-communities",
         "live-stream-screenshare-in-group",
@@ -1136,8 +1226,6 @@
         "one-step-invitation-to-portal-and-group",
         "poll-inside-communities",
         "quizzes-polls",
-        "slack-importer",
-        "support-scorm-file-import-for-e-learning-courses",
         "trigger-automations-when-a-member-confirms-attendance-to-a-group-event",
         "turn-off-leaderboard",
         "ui-web-app-update-other-improvements",
@@ -1294,10 +1382,11 @@
       ]
     },
     "contacts1752": {
-      "postCount": 30,
+      "postCount": 31,
       "posts": [
         "ability-to-add-change-picture-of-contact",
         "ability-to-add-images-or-files-to-a-contact-or-opportunity",
+        "add-inactive-contact-status",
         "add-mp3-wav-as-an-option-for-file-upload-custom-field",
         "add-website-url-as-custom-field-type",
         "additional-contact-fields-on-quick-add-contact-form",
@@ -1309,18 +1398,18 @@
         "company-based-vs-client-based",
         "company-name-and-business-name-not-aligned",
         "consistent-color-for-all-save-buttons",
+        "conversation-sms-delay-with-cancel-or-confirmation-before-sending-sms",
         "customer-service-report-builder-with-selectable-notes-images",
         "deduplication-based-on-custom-fields",
         "enable-edit-delete-in-internal-comments-in-contacts",
         "find-all-duplicate-contacts-and-then-merge",
-        "full-history-of-audit-logs",
         "google-map-location-field",
         "hideable-custom-fields-custom-field-folders-instead-of-hide-empty-fields",
         "internal-comments-workflow-integration",
         "joint-functionality-between-contact-companies",
         "make-first-name-not-a-required-field",
-        "make-the-support-window-in-hl-be-moveable",
         "more-detailed-activity-feed",
+        "placeholders-for-empty-custom-fields",
         "restrict-company-visibility-to-unassigned-user",
         "set-last-notes-as-default-tab-in-contact-view",
         "sort-contacts-by-last-name",
@@ -1445,36 +1534,42 @@
       ]
     },
     "conversation-ai391": {
-      "postCount": 31,
+      "postCount": 2,
+      "posts": [
+        "allow-us-to-schedule-automatic-crawls-for-data-sources-for-new-updates",
+        "issue-with-add-contact-info-function-in-conversation-ai-agent"
+      ]
+    },
+    "conversation-ai392": {
+      "postCount": 30,
       "posts": [
         "ability-to-attach-docs-pdf-sheets-and-more-to-knowledge-base",
         "add-more-calendars",
+        "add-support-for-line-breaks-message-formatting-in-bot",
         "ai-appointment-booking-should-lead-to-calender-group",
         "ai-recognise-respond-to-images-sent-via-chat",
         "ai-to-read-and-understand-images-from-clients",
         "ai-to-respond-in-structured-format-for-product-details",
         "ai-view-and-analyze-image",
         "allow-booking-for-group-calendar-or-service-calendar",
-        "allow-us-to-schedule-automatic-crawls-for-data-sources-for-new-updates",
         "assign-conversation-ai-bot-to-specific-phone-number",
         "book-into-calendar-group-multi-calendars",
         "chatbot-understand-and-goes-to-sleep-when-someone-replies-from-direct-channels",
+        "conversation-ai-ai-bots-need-to-forget-previous-conversations",
         "conversation-ai-calendar",
         "conversation-ai-email-option",
-        "conversation-ai-for-specific-pages-only",
         "custom-values-inside-chatbot-s-q-a",
+        "enable-system-custom-values-in-knowledge-bases",
         "issue-with-add-contact-info-function-in-conversation-ai-agent",
         "let-conversation-ai-send-you-system-notifications",
-        "listen-and-send-audio-messages-through-the-whatsapp-channel",
         "multi-calendar-appointments",
         "multiple-calendars-for-booking-bot",
         "paragraph-heading-and-bullet-formatting-in-chat-responses",
         "proper-readable-conversation-ai-sentence-and-list-formatting",
-        "round-robin-human-hand-off",
         "send-a-summary-transcript-of-an-ai-chat-conversation-just-like-the-ai-voice-does",
         "send-images-through-conversational-ai",
         "sender-loves-a-text-message-and-chatbot-responds",
-        "that-ai-can-receive-images-as-chatgpt-would-and-that-it-can-read-and-respond-to-them",
+        "the-ability-of-bot-to-pull-live-data-from-websites-and-share-links-in-real-time",
         "train-conversation-ai-on-previous-conversations",
         "update-conversation-ai-llm-gpt-5",
         "urgent-add-groups-and-services-to-calendar-options-within-the-bot-training-goal-appointment-booking"
@@ -1647,20 +1742,20 @@
     "courses1128": {
       "postCount": 30,
       "posts": [
+        "a-user-to-update-their-credit-card-details-directly-in-the-membership-area",
         "ability-to-bulk-upload-load-videos-from-media-files",
         "ability-to-link-directly-to-lessons",
         "ability-to-select-videos-for-course-membership-from-media-folder",
         "add-a-native-timer-to-limit-quiz-response-time",
         "add-clone-option-or-duplicate-inside-the-product-duplicate-category-or-lessons-inside-the-same-produ",
-        "add-google-doc-links-to-file-section-membership-lessons",
-        "add-human-readable-product-slugs-in-offers",
+        "all-courses-my-courses-to-have-better-name",
         "allow-category-and-lesson-thumbnails-to-be-uploaded-to-media-storage-folder",
+        "better-account-managment-for-communites-courses",
         "class-check-in-attendance-tracking",
         "coaching-program-product-1-1-group-coaching-https-www-loom-com-share-e798c1bc690d4b2b96a0b5e69b928cd",
         "courses-receive-an-email-notification-when-a-customer-adds-a-comment-to-a-course",
         "drip-for-lessons-subcategory",
         "editing-course-lesson-outline",
-        "german-translation-says-end-course-instead-of-start-course",
         "import-e-learning-authoring-projects-html5-scorm-xapi",
         "live-stream-live-chat",
         "mark-as-complete-button-in-courses-should-automatically-move-onto-the-next-step",
@@ -1728,8 +1823,9 @@
       ]
     },
     "crm1317": {
-      "postCount": 36,
+      "postCount": 40,
       "posts": [
+        "add-folders-in-the-sub-account-drop-down-menu",
         "add-full-group-class-scheduling-with-membership-credit-tracking-attendance-for-fitness-studios",
         "add-gamification-elements-to-consumption-of-course-content",
         "adding-the-arabic-language",
@@ -1739,6 +1835,7 @@
         "attachments-to-notes",
         "better-tasks-ui-inside-pipeline-view-see-overdue-dates-colour-coded",
         "bing-webmaster-tools",
+        "black-label-crm",
         "bulk-actions-delete-turn-off-etc-for-workflows-custom-fields-and-custom-values",
         "changing-field-labels-on-forms-surveys-changes-custom-field-names",
         "color-coded-opportunities-in-pipelines",
@@ -1749,6 +1846,8 @@
         "dynamic-tags-smart-tags",
         "email-parser-to-create-contacts-from-inbound-email-leads-similar-to-follow-up-boss",
         "find-a-contact-by-address-search",
+        "folders-in-agency-admin-for-sub-accounts",
+        "folders-organize-added-domains-under-settings",
         "give-current-time-for-each-contact-under-the-dropdown-for-their-timezone",
         "google-maps-everywhere-within-ghl-admin",
         "helpdesk-ticketing",
@@ -1814,6 +1913,14 @@
       ]
     },
     "custom-objects111": {
+      "postCount": 3,
+      "posts": [
+        "associate-object-with-an-existing-contact-automatically",
+        "bunch-addition-of-custom-field-add-multiple-rows-copy-paste-multiple-fields",
+        "permissions-for-objects"
+      ]
+    },
+    "custom-objects112": {
       "postCount": 30,
       "posts": [
         "ability-to-associate-custom-object-with-company-instead-of-contact",
@@ -1829,6 +1936,7 @@
         "contact-filters-can-t-see-custom-objects",
         "custom-object-custom-field-variables-in-emails",
         "custom-objects-in-dashboard",
+        "custom-objects",
         "edit-custom-objects-like-a-spreadshseet",
         "file-storage-in-each-custom-object",
         "find-object-workflow-action",
@@ -1837,7 +1945,6 @@
         "need-more-triggers-actions-for-custom-objects",
         "notes-in-custom-objects",
         "opportunity-to-opportunity-relationships",
-        "option-of-no-duplication-for-primary-field-data",
         "permissions-for-objects",
         "remove-3-custom-object-limit",
         "remove-associations-from-custom-objects-via-automations",
@@ -1849,7 +1956,7 @@
       ]
     },
     "dashboard272": {
-      "postCount": 36,
+      "postCount": 37,
       "posts": [
         "a-truly-customize-the-dashboard",
         "ability-to-edit-contact-details-including-custom-fields-in-dashboard-widgets",
@@ -1873,6 +1980,7 @@
         "fixing-selected-columns-reset-on-dashboards",
         "forms-and-surveys-submission-in-dashboard",
         "google-drive",
+        "google-reviews-on-main-dashboard",
         "in-dashboard-allow-date-tag-added-to-be-used-as-the-date-range-where-tag-added-is-the-condition",
         "lost-reason-data-report",
         "loyalty-program",
@@ -1950,9 +2058,9 @@
         "export-estimates-to-pdf",
         "forms-in-contracts",
         "global-acceptance-of-electronic-signature-service-is-limited-expand",
+        "have-contracts-generate-a-url-for-signer-1-and-signer-2-etc-that-can-be-used-in-sms-workflows-webpag",
         "improved-documents-and-contract-form-fill-flow",
         "insert-a-fillable-form-into-a-proposal-document",
-        "only-assigned-data-applied-to-documents-contracts",
         "organization-templates",
         "pdf-replacement-within-a-document-that-is-already-formatted-with-custom-fields-dates-and-signature-b",
         "pre-populate-linked-contract-fields-from-contact-opportunity-before-signing",
@@ -1969,7 +2077,7 @@
       ]
     },
     "domains73": {
-      "postCount": 30,
+      "postCount": 34,
       "posts": [
         "ability-to-change-name-servers-for-ghl-registered-domains",
         "add-edu-domains",
@@ -1978,8 +2086,10 @@
         "agency-dns-templates-for-purchased-or-connected-domains",
         "allow-use-of-custom-values-in-url-redirects",
         "assign-specific-domains-to-each-workflow-or-ensure-that-the-from-email-matches-the-root-domain-witho",
+        "best-practices-for-reselling-domains-with-gohighlevel",
         "connect-new-domain-to-all-sites",
         "copy-url-redirects",
+        "customized-pricing-for-domains",
         "deactivate-delete-purchased-domains",
         "dedicated-headers-should-be-overwriteable-or-a-warning-should-show",
         "deeper-integration-with-cloudflare",
@@ -1991,9 +2101,11 @@
         "host-domain-emails-on-hl",
         "just-bought-my-first-domain-via-ghl-no-email-service-why",
         "mail-hosting",
+        "need-ability-to-resell-domains-without-saas-mode",
         "need-to-have-option-to-add-email-hosting-with-the-domain-purchase-and-use-for-email-sending",
         "one-domain-for-entire-agency-sub-accounts",
         "partial-domain-routing-for-godaddy-domains",
+        "purchase-domains-from-the-mobile-app",
         "sort-or-organize-url-redirects",
         "squarespace-domain-to-gohighlevel",
         "subdomain-logo-in-emails",
@@ -2287,7 +2399,7 @@
       ]
     },
     "forms1014": {
-      "postCount": 35,
+      "postCount": 36,
       "posts": [
         "ability-to-add-tags-directly-in-forms-and-surveys",
         "access-raw-html-form-code",
@@ -2313,6 +2425,7 @@
         "form-conditional-logic-for-multi-select-field",
         "form-notification",
         "forms-allow-custom-values-to-be-updated-with-forms",
+        "forms-and-surveys-auto-populate-contact-details-when-clicked-from-ghl-email",
         "give-a-sound-play-option-on-form-submissions-and-button-clicks",
         "google-ads-enhanced-conversion-tracking-pass-email-information-from-hl-forms-to-website",
         "hide-show-for-all-elements-in-forms",
@@ -2320,7 +2433,7 @@
         "name-your-own-price-donations-recurring-payments",
         "pay-what-you-want-minimum-price",
         "please-make-the-address-field-a-single-line-like-the-attached-screenshot-not-sure-if-it-s-the-curren",
-        "quiz-results-sent-via-email",
+        "regex-for-form-fields",
         "the-ability-to-place-mailto-and-tel-links-into-the-text-form",
         "upload-videos-in-forms",
         "view-form-submission-under-contact"
@@ -2401,12 +2514,13 @@
       ]
     },
     "funnels936": {
-      "postCount": 30,
+      "postCount": 32,
       "posts": [
         "add-cursor-lovable-replit-designs-to-funnels",
         "allow-published-pages-to-be-set-to-draft",
         "allow-trigger-links-for-button-clicks-in-funnels",
         "auto-apply-coupons",
+        "can-you-add-funnel-and-website-templates-for-authors-speakers-and-podcasters",
         "click-to-whatsapp-count-as-conversion-in-funnel-analytics",
         "clone-reuse-pop-ups-with-saved-sections",
         "conditional-display-of-elements-based-on-custom-values",
@@ -2427,6 +2541,7 @@
         "order-forms-need-major-redesign",
         "progress-bar-for-funnels",
         "provide-an-easy-copy-and-paste-system-for-transferring-a-funnel-from-a-different-host-into-a-ghl-sub",
+        "rearrange-order-of-products-on-an-order-form",
         "rearrange-website-pages-in-the-websites-area",
         "spin-to-win",
         "tablet-view-for-funnel-and-website-builder",
@@ -2466,6 +2581,41 @@
         "notification-for-new-post-in-group",
         "option-for-users-to-delete-their-account-data-gdpr",
         "spanish-translation-community-registration",
+        "the-ability-to-keep-the-media-playing-in-lock-screen-mode",
+        "urgent-request-for-improvements-to-ensure-a-clear-accessible-and-functional-user-experience"
+      ]
+    },
+    "go-kollab31": {
+      "postCount": 30,
+      "posts": [
+        "ability-to-assign-community-members-to-a-private-channel-in-gokollab",
+        "ability-to-organize-project-tasks-inside-of-gokollab",
+        "add-affiliate-dashboard-section-inside-go-kollab-app-just-like-courses",
+        "add-affiliate-dashboard-to-gokollab-app",
+        "add-podcasts-like-kajabi-we-don-t-want-it-in-courses",
+        "add-voice-messages-to-gokollab-groups",
+        "allow-businesses-to-purchase-courses-inn-bulk-for-their-teams-like-udemy",
+        "arabic-translation-community-registration-improvements",
+        "automate-private-messages-in-gokollab-communities-via-workflows",
+        "barcode-scanner-integration-with-action-buttons-system-sync-for-invisalign-package-tracking",
+        "bugs-on-bugs-on-bugs",
+        "bullet-point-spacing-issue-in-group-posts",
+        "business-account-for-gokollab-like-udemy-one-business-with-multiple-members-under-it-the-business-ha",
+        "cover-images-for-course-lesson-modules-in-app",
+        "display-1-1-booking-links-directly-under-member-profiles",
+        "ease-of-user-login-and-accessing-community-easier",
+        "font-kollab-app-is-light-grey-and-hard-to-read-please-make-it-black-or-slightly-darker",
+        "gokollab-iframe-bug-infinite-loading-when-accessing-course-via-discover-page",
+        "gokollab-s-landing-page-looks-nice-but-is-haaarrrddd-to-use-it-s-not-user-friendly-please-help-make-",
+        "hide-the-discover-feed-in-gokollab",
+        "kollab-customize-navigation-and-custom-menu-links",
+        "language-switch-to-french-not-working-in-gokollab",
+        "larger-chat-window-in-desktop-version-of-communities-gokollab-and-additional-chat-functionalities",
+        "massive-payment-gateway-update-required",
+        "may-we-please-have-a-way-to-sell-digital-products-not-only-courses-in-gokollab-it-s-own-dedicated-ta",
+        "mobile-links-broken-in-courses-and-courses-attachment-don-t-download-on-iphone",
+        "notification-for-new-post-in-group",
+        "option-for-users-to-delete-their-account-data-gdpr",
         "the-ability-to-keep-the-media-playing-in-lock-screen-mode",
         "urgent-request-for-improvements-to-ensure-a-clear-accessible-and-functional-user-experience"
       ]
@@ -2675,12 +2825,22 @@
       ]
     },
     "integrations701": {
+      "postCount": 6,
+      "posts": [
+        "add-telegram-vote-here",
+        "agencyanalytics-for-google-local-service-ads",
+        "bing-places-integration-similar-to-google-business-profile",
+        "document-integration-with-microsoft-onedrive-and-sharepoint",
+        "highlevel-toast-integration",
+        "yelp-integration"
+      ]
+    },
+    "integrations702": {
       "postCount": 29,
       "posts": [
         "add-telegram-as-a-conversation-channel",
         "add-telegram-vote-here",
         "add-woocommerce-products-to-email-template-builder",
-        "agency-level-report-of-active-integrations",
         "agencyanalytics-for-google-local-service-ads",
         "automatically-map-fb-lead-form-prefill-questions",
         "bing-ads-microsoft-ads-integration",
@@ -2690,11 +2850,11 @@
         "document-integration-with-microsoft-onedrive-and-sharepoint",
         "estimates-that-require-a-deposit-on-mobile-app",
         "expand-the-n8n-integration",
+        "feedback-suggestion-for-highlevel-as-the-ai-operating-system",
         "gmb-integration-enhancements",
         "google-lead-ads",
         "gps-tracking-job-photos-and-job-dispatch-for-local-service-businesses",
         "highlevel-toast-integration",
-        "integrate-ring-central",
         "integration-with-3cx-phone-system",
         "integration-with-janeapp",
         "integration-with-linkedin",
@@ -2703,13 +2863,14 @@
         "mercado-pago-as-a-new-integration-for-latam",
         "proton-mail-protonmail-email-and-calendar-integration",
         "show-integration-name-integration-id-in-audit-logs",
+        "telegram-locals-com-parlor-truthsocial-gettr-integration",
         "tiktok-messages-link-to-conversations",
         "woocommerce-integration-limitations-and-enhancements-needed",
         "yelp-integration"
       ]
     },
     "invoicing504": {
-      "postCount": 48,
+      "postCount": 49,
       "posts": [
         "ability-to-control-email-and-sms-notifications-for-invoices",
         "ability-to-edit-invoice-after-payment-makred",
@@ -2719,9 +2880,9 @@
         "adopt-german-law-to-invoices",
         "all-invoice-elements-should-be-customizable-and-the-email-template-for-invoices-as-well",
         "allow-all-categories-of-custom-fields-in-invoices",
+        "allow-contact-to-proactively-update-credit-card-on-recurring-invoice",
         "allow-coupon-codes-to-be-used-on-invoices",
         "allow-edit-of-description-of-recurring-invoices",
-        "allow-for-custom-billing-frequency-in-payments",
         "automated-reminder-emails-for-scheduled-payments",
         "automatic-invoice-template-based-on-variable-product-selection-by-customer-in-ecommerce-shop-or-one-",
         "automatic-taxes-add-eu-reverse-charge",
@@ -2749,6 +2910,7 @@
         "option-to-hide-invoice-line-items-and-show-only-a-description-with-the-total-amount",
         "option-to-hide-item-prices-in-invoices-estimates",
         "optional-items-in-estimates",
+        "order-confirmation-summary",
         "partially-paid-invoices-does-not-show-balance-due",
         "payment-module-permission",
         "quickbooks-payments-integration",
@@ -2809,7 +2971,6 @@
         "better-german-translation",
         "change-birthday-calendar-widget-language-to-the-account-language",
         "custom-outbound-communication-language-for-custom-values",
-        "czech-language",
         "czech-platform-language-request-europe-prague-user-availability-timezone",
         "french-translation-list-of-mistakes",
         "french-translation",
@@ -2825,6 +2986,7 @@
         "spanish-translation",
         "task-error-french-translation",
         "timezone-allow-users-to-set-their-own-timezone-independent-of-account-timezone-that-will-reflect-acc",
+        "translation-ability-in-checkout-forms-and-payment-links",
         "translation-in-different-languages",
         "translation-into-french",
         "translation-of-the-conversations-module-portuguese-brazil",
@@ -3026,15 +3188,21 @@
       ]
     },
     "media-library151": {
+      "postCount": 1,
+      "posts": [
+        "enable-json-file-uploads-in-media-storage"
+      ]
+    },
+    "media-library152": {
       "postCount": 30,
       "posts": [
-        "ability-to-add-media-folders-and-images-to-a-snapshot",
         "ability-to-move-existing-folder-into-another-folder",
         "add-thumbnails-for-videos-in-the-library",
         "allow-media-library-to-be-used-everywhere",
         "allow-media-library-uploads-for-courses",
         "allow-ogg-audio-file-for-whatsapp",
         "bulk-delete",
+        "bulk-image-management-the-ability-to-bulk-move-or-delete-items-in-the-media-library",
         "bulk-upload-of-images-into-gallery-and-more-customization-of-the-galeries",
         "canva-integration",
         "enable-json-file-uploads-in-media-storage",
@@ -3044,9 +3212,9 @@
         "improve-image-quality",
         "increase-the-media-library-api-file-size-upload-limit-to-at-least-100-mb",
         "increase-vide-file-size-limit-50mb-is-nothing",
-        "integration-with-canva-stock-image-video-and-gif-library",
         "link-to-media-library-folder",
         "media-library-enhancements",
+        "media-library-folders-in-snapshots",
         "media-library-media-tagging-enhanced-search-version-control",
         "media-library-preview-image",
         "media-library-thumbnails-for-files-and-viewer-for-video-files",
@@ -3057,7 +3225,7 @@
         "password-protected-gallery-with-downloadable-images-high-res",
         "save-ics-files-in-the-media-library",
         "showcase-the-real-size-of-an-image",
-        "video-marketing-features"
+        "update-a-single-image-in-all-instances"
       ]
     },
     "mobile-app470": {
@@ -3110,13 +3278,13 @@
       "postCount": 30,
       "posts": [
         "2fa-otp-for-mobile-app",
-        "ability-to-add-images-attachments-to-invoices-and-estimates",
         "ability-to-add-photos-to-the-notes-section-in-mobile-app",
         "ability-to-see-if-an-email-has-been-opened-on-the-app",
         "ability-to-use-whatsapp-in-mobile-app-for-review-request",
         "access-contact-from-opportunity",
         "access-multiple-businesses-in-kollab-app-without-logging-out",
         "add-ability-to-add-notes-tasks-to-an-opportunity-to-the-mobile-version",
+        "bulk-sms-text-from-app",
         "company-information-on-mobile-app",
         "create-deep-link-for-the-ios-and-android-apps",
         "custom-menu-links-in-mobile-app",
@@ -3126,13 +3294,13 @@
         "lead-connector-for-multiple-separate-accounts",
         "mobile-app-email-copy-and-paste",
         "mobile-app-ui-ux",
-        "mobile-create-estimates-from-opportunity",
         "multi-select-photo-upload-for-custom-fields-in-mobile-app",
         "multiple-calendar-views-on-app",
         "notification",
         "retain-filters-on-mobile-app-opportunities",
         "save-time-direct-contact-link-in-opportunity-card",
         "search-function-on-mobile-app",
+        "select-outbound-number",
         "tags-in-opportunity-details",
         "use-estimate-templates-on-mobile-app",
         "user-permission-documents-and-contracts-mobile-app",
@@ -3236,9 +3404,9 @@
         "need-ability-to-edit-opportunity-created-date",
         "new-pipeline-add-edit-view-is-too-congested",
         "new-way-to-see-opportunities-calendar-view",
-        "on-the-opportunities-card-can-the-source-field-be-a-customizable-pull-down-list",
         "opportunities-need-to-be-more-b2b-friendly",
         "opportunity-tags",
+        "outbound-calls-when-data-wifi-signal-is-poor",
         "remove-contact-from-workflow-when-pipeline-stage-changes",
         "required-fields",
         "restrict-pipelines-that-users-can-see",
@@ -3365,6 +3533,18 @@
       ]
     },
     "payments978": {
+      "postCount": 7,
+      "posts": [
+        "ability-to-add-multiple-stripe-and-paypal-accounts-to-1-location",
+        "better-design-for-service-calendars",
+        "client-portal-for-actual-clients-for-services",
+        "company-subscriptions",
+        "show-1-location-only-in-services",
+        "stripe-payment-notifications-via-slack-integration",
+        "subscription-dashboard-needs-to-show-what-the-subscription-is-for"
+      ]
+    },
+    "payments979": {
       "postCount": 30,
       "posts": [
         "ability-to-add-multiple-stripe-and-paypal-accounts-to-1-location",
@@ -3374,7 +3554,6 @@
         "company-subscriptions",
         "coupon-code-implementation-to-accomodate-for-free-trials",
         "create-deposit-for-product",
-        "enhance-payment-links-with-the-ability-to-add-css-and-customise-the-layout",
         "generate-single-use-coupons",
         "gift-cards",
         "granular-permissions",
@@ -3383,6 +3562,7 @@
         "legal-tax-id-numbers-in-invoices",
         "manual-subscription-billing-date-control-let-us-choose-when-people-pay",
         "multiple-products-per-subscription",
+        "nmi-subscription-share-payment-update-link-doesn-t-actually-update-subscription",
         "option-to-have-two-recurring-payments-when-checkout",
         "payment-reminders-for-subscriptions",
         "paypal-credit-card-or-debit-card-button",
@@ -3400,7 +3580,7 @@
       ]
     },
     "phone-system944": {
-      "postCount": 31,
+      "postCount": 39,
       "posts": [
         "3-way-calling",
         "ability-to-have-incoming-calls-show-caller-id-as-their-contact-info",
@@ -3414,18 +3594,26 @@
         "call-notes",
         "call-routing-being-able-to-select-specific-times-to-route-calls-from-one-line-to-another",
         "cannot-assign-a-number-to-multiple-users",
+        "cell-bridge-for-outbound-calls",
         "connect-our-own-phone-number",
+        "dynamic-phone-outbound-phonenumber",
+        "dynamically-change-outbound-number",
         "german-number-with-sms-capabilites",
+        "identify-ghl-outbound-numbers-as-spam",
         "ivr-connect-to-user-on-desktop-or-mobile-app",
         "ivr-music-on-hold",
         "lc-phone-round-robin",
+        "mulitple-outbound-numbers",
         "offer-call-transfer-feature",
         "offer-other-phone-services-other-than-twilio-or-lc-phone-twilio-backend",
         "option-to-change-hold-music",
         "option-to-turn-off-voicemails-i-m-surprised-there-is-no-option-to-turn-off-voicemails-for-incoming-c",
+        "outbound-call-option-of-connected-to-voicemail",
+        "outbound-conversation-ai-phone-calls",
         "power-dialer-redial-option",
         "routing-to-multiple-phone-numbers-at-the-same-time",
         "selecting-phone-number",
+        "separate-inbound-and-outbound-call-recording-message",
         "sms-monthly-limits",
         "sms-short-code",
         "transcribe-and-summarize-phone-calls",
@@ -3976,6 +4164,7 @@
         "custom-billing-cycles-on-saas-configurator-plans-pricing",
         "customize-launchpad",
         "dummy-data-sub-account",
+        "fix-the-stability-so-we-don-t-have-downtime-every-month",
         "for-european-users-double-opt-in",
         "internal-agency-view-only-sub-account-naming",
         "let-us-add-our-own-live-chat-help-desk-script",
@@ -3986,12 +4175,11 @@
         "release-phone-numbers-when-sub-accounts-cancel-their-subscription",
         "saas-ability-for-agency-to-create-different-brands-that-offer-different-price-features",
         "saas-mode-v2",
+        "schedule-posts-into-our-ghl-communities-channels-groups-using-post-scheduler",
         "sort-subaccounts-by-date-created",
         "track-sales-agent-response-time",
         "use-the-company-name-for-the-stripe-client-name",
-        "white-label-customer-loyalty-solution",
         "whitelabel-branding",
-        "whitelabel-knowledge-base",
         "whitelabel-status-monitor-or-uptime-monitor-page",
         "whitelabel-sub-accounts"
       ]
@@ -4341,13 +4529,14 @@
       ]
     },
     "template-library317": {
-      "postCount": 31,
+      "postCount": 32,
       "posts": [
         "ability-to-customize-the-template-library",
         "ability-to-save-pop-ups-as-templates",
         "access-gmail-to-send-emails-rather-than-mailgun",
         "add-ability-to-add-emoji-s-directly-from-the-campaign-editor-text-and-email",
         "add-non-google-fonts-in-the-brand-board",
+        "b2b-or-other-consulting-professional-services-website-template",
         "backup-notifications-via-email-or-text",
         "brand-colours-for-templates-like-zoho-salesforce-active-campaign",
         "carry-email-subject-into-campaign-email-subject",
@@ -4460,17 +4649,17 @@
       ]
     },
     "voice-ai162": {
-      "postCount": 30,
+      "postCount": 31,
       "posts": [
         "ability-to-send-call-summary-and-call-recording-after-call",
         "access-to-voice-ai-api-endpoints-like-retell",
-        "add-more-brazilian-portuguese-voices-to-voice-ai",
         "ai-outbound-calls",
         "ai-voice-11elevenlabs",
         "ai-voice-cloning-train-or-upload-a-custom-ai-voice",
         "allow-call-transfers-to-extensions",
         "allow-transfers-to-another-voice-ai-bot-without-a-phone-number",
         "answer-length-ring-selection",
+        "background-noise-cancellation-on-ai-voice-calls",
         "beyond-words-expressions-in-voice-ai",
         "categories-for-knowledge-base-faqs",
         "contact-recognition-contextual-greeting-for-ai-receptionist",
@@ -4483,6 +4672,7 @@
         "is-ghl-considering-a-use-your-own-voice-feature",
         "multiple-calendar-booking-for-voice-ai-conversational-ai",
         "please-we-need-in-germany-voice-ai-in-german-language",
+        "premium-voice",
         "take-deposits-over-the-phone",
         "the-ability-of-bot-to-pull-live-data-from-websites-and-share-links-in-real-time",
         "transcripts-available-in-german-other-languages",
@@ -4565,14 +4755,22 @@
       ]
     },
     "website1130": {
+      "postCount": 3,
+      "posts": [
+        "allow-us-to-create-websites-with-code-htl-css-javascript-like-with-the-email-builder-add-an-ai-coder",
+        "language-switcher-sites",
+        "toggle-whether-menu-items-show-in-mobile-desktop"
+      ]
+    },
+    "website1131": {
       "postCount": 30,
       "posts": [
         "add-tablet-custom-breakpoints-to-ghl-site-builder",
         "agency-dashboard-show-hide-button",
         "ai-website-creation-like-elementor-divi-wix-figma-or-better",
-        "allow-us-to-create-websites-with-code-htl-css-javascript-like-with-the-email-builder-add-an-ai-coder",
         "arrange-website-pages-drag-drop",
         "better-cloudflare-integration-or-ability-to-use-other-nameservers-for-region-ip-blocking-for-website",
+        "clone-import-kajabi-website-pages-into-high-level",
         "custom-animation-creator-for-website-builder-sections-rows-columns-and-elements",
         "custom-user-types",
         "directory-builder",
@@ -4592,9 +4790,9 @@
         "please-fix-navigation-menu-after-you-clone-a-new-page-from-another-subaccount-you-have-to-re-setup-a",
         "please-fix-testimonials-scroll-bars",
         "request-for-a-feature-automatic-import-of-media-and-content-from-client-websites",
-        "request-opt-in-control-for-updates-with-examples",
         "social-icons-need-white-ffffff-color-option",
         "subscription-trigger-missing-new-status",
+        "tables-in-blogs",
         "toggle-whether-menu-items-show-in-mobile-desktop",
         "track-visitor-activity-on-a-3rd-party-website"
       ]
@@ -4664,8 +4862,8 @@
         "receiving-whatsapp-images-in-highlevel-workflow-api",
         "receiving-whatsapp-images-in-workflow-api",
         "save-attachments-to-contact-document",
+        "select-whatsapp-template-folders-when-manually-sending-message-templates",
         "send-prerecorded-voice-note-via-whatsapp-templates-workflows",
-        "support-schedule-drip-mode-for-whatsapp-bulk-action",
         "the-whatsapp-usage-cost-shown-under-the-rebilling-section-is-different-from-the-costs-shown-under-ma",
         "urgent-replies-received-through-emoji-reactions",
         "whatsapp-audio-and-image-issue",

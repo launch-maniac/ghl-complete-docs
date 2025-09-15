@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:06:23.232Z"
+extracted_at: "2025-09-15T01:20:04.979Z"
 ---
 
 # Table format with columns for more data

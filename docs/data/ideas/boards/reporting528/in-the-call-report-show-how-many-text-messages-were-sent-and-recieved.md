@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:05:05.361Z"
+extracted_at: "2025-09-15T01:18:47.650Z"
 ---
 
 # In The Call Report Show How Many Text Messages Were Sent and Recieved

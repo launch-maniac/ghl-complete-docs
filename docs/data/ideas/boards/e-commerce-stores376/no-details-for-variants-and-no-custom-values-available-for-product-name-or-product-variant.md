@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:01:33.973Z"
+extracted_at: "2025-09-15T01:15:17.397Z"
 ---
 
 # No details for variants and no custom values available for product name or product variant

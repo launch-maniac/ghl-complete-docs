@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:09:12.615Z"
+extracted_at: "2025-09-15T01:22:50.492Z"
 ---
 
 # Square hardware connection on mobile app not working

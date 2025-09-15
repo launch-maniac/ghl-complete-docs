@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:06:56.447Z"
+extracted_at: "2025-09-15T01:20:37.971Z"
 ---
 
 # Timesheet & Payroll management Features

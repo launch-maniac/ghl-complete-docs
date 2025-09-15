@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:03:58.544Z"
+extracted_at: "2025-09-15T01:17:42.527Z"
 ---
 
 # Company Information on Mobile App

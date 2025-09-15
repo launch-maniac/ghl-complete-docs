@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T03:02:07.489Z"
+extracted_at: "2025-09-15T01:15:49.950Z"
 ---
 
 # Block Facebook and Instagram Spammers

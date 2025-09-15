@@ -5,7 +5,7 @@ status: "open"
 votes: 0
 comments: 0
 url: ""
-extracted_at: "2025-09-14T02:59:51.430Z"
+extracted_at: "2025-09-15T01:13:38.634Z"
 ---
 
 # Global/Nested Variables for Company Object
