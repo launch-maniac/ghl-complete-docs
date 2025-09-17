@@ -1,0 +1,84 @@
+{
+  "name": "ghl-complete-docs",
+  "version": "2.0.0",
+  "description": "Complete GoHighLevel documentation extraction and intelligence system with AI-powered search, video tutorials, interactive API explorer, and comprehensive monitoring",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/extract/run-all.js",
+    "extract:help": "node scripts/extract/help-scraper.js",
+    "extract:ideas": "node scripts/extract/ideas-scraper.js",
+    "extract:marketplace": "node scripts/extract/marketplace-scraper.js",
+    "extract:api": "node scripts/extract/api-scraper.js",
+    "extract:videos": "node scripts/extract/video-scraper.js",
+    "extract:github": "node scripts/extract/github-repo-scraper.js",
+    "extract:all": "npm run extract:help && npm run extract:ideas && npm run extract:marketplace && npm run extract:api && npm run extract:videos && npm run extract:github",
+    "sync:github": "node scripts/extract/github-repo-scraper.js",
+    "process:all": "node scripts/processing/content-processor.js",
+    "db:update": "node scripts/database/update-database.js",
+    "db:optimize": "node scripts/database/optimize-database.js",
+    "build:search": "node scripts/search/build-index.js",
+    "stats": "node scripts/analytics/generate-stats.js",
+    "monitor": "node scripts/monitoring/error-monitor.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run extract:all && npm run process:all && npm run build:search",
+    "serve": "python3 -m http.server 8000 --directory docs",
+    "deploy": "npm run extract:all && npm run process:all && npm run build:search && npm run stats"
+  },
+  "keywords": [
+    "gohighlevel",
+    "documentation",
+    "api",
+    "scraping",
+    "automation",
+    "search",
+    "tutorials",
+    "crm",
+    "marketing"
+  ],
+  "author": "Launch Maniac",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "fs-extra": "^11.0.0",
+    "turndown": "^7.1.0",
+    "fuse.js": "^7.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.6.0",
+    "node-fetch": "^3.3.0",
+    "jsdom": "^23.0.0",
+    "marked": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/launch-maniac/ghl-complete-docs.git"
+  },
+  "homepage": "https://brain.launchmaniac.com",
+  "bugs": {
+    "url": "https://github.com/launch-maniac/ghl-complete-docs/issues"
+  },
+  "config": {
+    "extraction": {
+      "rateLimit": 2000,
+      "timeout": 30000,
+      "retries": 3
+    },
+    "monitoring": {
+      "errorThreshold": 5,
+      "alertWebhook": false,
+      "githubIssues": true
+    },
+    "search": {
+      "semanticExpansion": true,
+      "intentDetection": true,
+      "analytics": true
+    }
+  }
+}

@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoHighLevel API Explorer - Interactive Testing Tool</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .api-explorer {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .explorer-header {
+            background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .explorer-grid {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 30px;
+            height: calc(100vh - 200px);
+        }
+
+        .endpoints-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            overflow-y: auto;
+        }
+
+        .testing-panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .endpoint-category {
+            margin-bottom: 20px;
+        }
+
+        .category-title {
+            font-weight: bold;
+            color: var(--color-primary);
+            padding: 10px 0;
+            border-bottom: 2px solid var(--color-secondary);
+            margin-bottom: 10px;
+        }
+
+        .endpoint-item {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+
+        .endpoint-item:hover {
+            background: #f8f9fa;
+            border-left-color: var(--color-secondary);
+        }
+
+        .endpoint-item.active {
+            background: var(--color-light);
+            border-left-color: var(--color-secondary);
+        }
+
+        .endpoint-method {
+            font-weight: bold;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-right: 8px;
+        }
+
+        .method-get { background: #d4edda; color: #155724; }
+        .method-post { background: #cce5ff; color: #0056b3; }
+        .method-put { background: #fff3cd; color: #856404; }
+        .method-delete { background: #f8d7da; color: #721c24; }
+
+        .auth-section {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: var(--color-primary);
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: var(--color-secondary);
+        }
+
+        .form-textarea {
+            width: 100%;
+            min-height: 120px;
+            padding: 10px;
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 13px;
+            resize: vertical;
+        }
+
+        .btn {
+            background: var(--color-secondary);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #0090b3;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+        }
+
+        .btn-secondary:hover {
+            background: #545b62;
+        }
+
+        .response-section {
+            flex: 1;
+            margin-top: 20px;
+        }
+
+        .response-headers {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 12px;
+        }
+
+        .response-body {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 15px;
+            border-radius: 6px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 13px;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+        }
+
+        .status-indicator {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        .status-200 { background: #d4edda; color: #155724; }
+        .status-400 { background: #fff3cd; color: #856404; }
+        .status-401 { background: #f8d7da; color: #721c24; }
+        .status-500 { background: #f8d7da; color: #721c24; }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .endpoint-docs {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .docs-title {
+            font-weight: bold;
+            color: var(--color-primary);
+            margin-bottom: 10px;
+        }
+
+        .docs-description {
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        .params-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        .params-table th,
+        .params-table td {
+            padding: 8px 12px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .params-table th {
+            background: #f8f9fa;
+            font-weight: bold;
+        }
+
+        .required {
+            color: #dc3545;
+            font-weight: bold;
+        }
+
+        @media (max-width: 1024px) {
+            .explorer-grid {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+            
+            .endpoints-panel {
+                order: 2;
+                max-height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="api-explorer">
+        <div class="explorer-header">
+            <h1>🔧 GoHighLevel API Explorer</h1>
+            <p>Interactive testing tool for HighLevel API v2.0 endpoints with real-time authentication and response analysis</p>
+        </div>
+
+        <div class="explorer-grid">
+            <div class="endpoints-panel">
+                <h3>API Endpoints</h3>
+                
+                <div class="endpoint-category">
+                    <div class="category-title">Authentication</div>
+                    <div class="endpoint-item" data-endpoint="oauth">
+                        <span class="endpoint-method method-post">POST</span>
+                        OAuth Token
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-title">Contacts</div>
+                    <div class="endpoint-item" data-endpoint="contacts-list">
+                        <span class="endpoint-method method-get">GET</span>
+                        List Contacts
+                    </div>
+                    <div class="endpoint-item" data-endpoint="contacts-create">
+                        <span class="endpoint-method method-post">POST</span>
+                        Create Contact
+                    </div>
+                    <div class="endpoint-item" data-endpoint="contacts-get">
+                        <span class="endpoint-method method-get">GET</span>
+                        Get Contact
+                    </div>
+                    <div class="endpoint-item" data-endpoint="contacts-update">
+                        <span class="endpoint-method method-put">PUT</span>
+                        Update Contact
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-title">Conversations</div>
+                    <div class="endpoint-item" data-endpoint="conversations-list">
+                        <span class="endpoint-method method-get">GET</span>
+                        List Conversations
+                    </div>
+                    <div class="endpoint-item" data-endpoint="conversations-send">
+                        <span class="endpoint-method method-post">POST</span>
+                        Send Message
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-title">Calendar</div>
+                    <div class="endpoint-item" data-endpoint="calendar-events">
+                        <span class="endpoint-method method-get">GET</span>
+                        Get Events
+                    </div>
+                    <div class="endpoint-item" data-endpoint="calendar-create">
+                        <span class="endpoint-method method-post">POST</span>
+                        Create Appointment
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-title">Opportunities</div>
+                    <div class="endpoint-item" data-endpoint="opportunities-list">
+                        <span class="endpoint-method method-get">GET</span>
+                        List Opportunities
+                    </div>
+                    <div class="endpoint-item" data-endpoint="opportunities-create">
+                        <span class="endpoint-method method-post">POST</span>
+                        Create Opportunity
+                    </div>
+                </div>
+
+                <div class="endpoint-category">
+                    <div class="category-title">Workflows</div>
+                    <div class="endpoint-item" data-endpoint="workflows-list">
+                        <span class="endpoint-method method-get">GET</span>
+                        List Workflows
+                    </div>
+                    <div class="endpoint-item" data-endpoint="workflows-trigger">
+                        <span class="endpoint-method method-post">POST</span>
+                        Trigger Workflow
+                    </div>
+                </div>
+            </div>
+
+            <div class="testing-panel">
+                <div class="auth-section">
+                    <h3>Authentication</h3>
+                    <div class="form-group">
+                        <label class="form-label">API Key / Access Token</label>
+                        <input type="password" class="form-input" id="apiKey" placeholder="Enter your API key or access token">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Location ID (if required)</label>
+                        <input type="text" class="form-input" id="locationId" placeholder="Enter location ID">
+                    </div>
+                </div>
+
+                <div class="endpoint-docs" id="endpointDocs">
+                    <div class="docs-title">Select an endpoint to get started</div>
+                    <div class="docs-description">
+                        Choose an API endpoint from the left panel to see documentation, parameters, and test the request.
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Request URL</label>
+                    <input type="text" class="form-input" id="requestUrl" readonly>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Request Headers</label>
+                    <textarea class="form-textarea" id="requestHeaders" placeholder="Additional headers (JSON format)">
+{
+  "Content-Type": "application/json"
+}
+                    </textarea>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Request Body</label>
+                    <textarea class="form-textarea" id="requestBody" placeholder="Request body (JSON format)"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn" onclick="sendRequest()">Send Request</button>
+                    <button class="btn btn-secondary" onclick="clearRequest()">Clear</button>
+                </div>
+
+                <div class="response-section">
+                    <h3>Response</h3>
+                    <div class="loading" id="loading">
+                        <div>⏳ Sending request...</div>
+                    </div>
+                    <div id="responseContainer" style="display: none;">
+                        <div class="response-headers" id="responseHeaders"></div>
+                        <div class="response-body" id="responseBody"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="api-explorer.js"></script>
+</body>
+</html>

@@ -19,6 +19,7 @@ on:
           - ideas
           - marketplace
           - api
+          - videos
           - github
         default: all
 
@@ -86,6 +87,11 @@ jobs:
       - name: 🔧 Extract API Documentation
         if: github.event.inputs.source == null || contains(fromJson('["all", "api"]'), github.event.inputs.source)
         run: npm run extract:api
+        continue-on-error: true
+      
+      - name: 🎥 Extract Video Tutorials
+        if: github.event.inputs.source == null || contains(fromJson('["all", "videos"]'), github.event.inputs.source)
+        run: npm run extract:videos
         continue-on-error: true
       
       - name: 🔄 Process Content

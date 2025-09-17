@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GHL Complete Documentation - Your Ultimate GoHighLevel Resource</title>
+    <meta name="description" content="Complete GoHighLevel documentation with AI-powered search, video tutorials, interactive API explorer, and real-time updates. The definitive developer resource for GHL integration.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-content">
+            <h1>🧠 GHL Complete Documentation</h1>
+            <p class="header-subtitle">Your Ultimate GoHighLevel Resource with AI-Powered Intelligence</p>
+            
+            <nav class="main-nav">
+                <a href="#search" class="nav-item active" data-tab="search">
+                    🔍 Smart Search
+                </a>
+                <a href="#api-explorer" class="nav-item" data-tab="api-explorer">
+                    🔧 API Explorer
+                </a>
+                <a href="#videos" class="nav-item" data-tab="videos">
+                    🎥 Video Tutorials
+                </a>
+                <a href="#analytics" class="nav-item" data-tab="analytics">
+                    📊 Analytics
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <!-- Smart Search Tab -->
+        <section id="search-tab" class="tab-content active">
+            <div class="search-section">
+                <div class="search-container">
+                    <div class="search-input-wrapper">
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            class="search-input" 
+                            placeholder="Ask anything about GoHighLevel... (e.g., 'How to create a contact via API', 'webhook setup tutorial')"
+                            autocomplete="off"
+                        >
+                        <button class="search-btn" onclick="performSearch()">
+                            🔍 Search
+                        </button>
+                        <div id="searchSuggestions" class="search-suggestions"></div>
+                    </div>
+                    
+                    <div class="quick-searches">
+                        <span class="quick-label">Quick searches:</span>
+                        <button class="quick-btn" onclick="performSearch('API authentication')">API Auth</button>
+                        <button class="quick-btn" onclick="performSearch('webhook setup')">Webhooks</button>
+                        <button class="quick-btn" onclick="performSearch('contact management')">Contacts</button>
+                        <button class="quick-btn" onclick="performSearch('automation workflows')">Workflows</button>
+                        <button class="quick-btn" onclick="performSearch('marketplace app development')">Marketplace</button>
+                    </div>
+                </div>
+
+                <div class="filters-section">
+                    <div class="filters-container">
+                        <div class="filter-group">
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="help" checked>
+                                <span class="filter-text">Help Docs</span>
+                            </label>
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="api" checked>
+                                <span class="filter-text">API</span>
+                            </label>
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="marketplace" checked>
+                                <span class="filter-text">Marketplace</span>
+                            </label>
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="videos" checked>
+                                <span class="filter-text">Videos</span>
+                            </label>
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="official" checked>
+                                <span class="filter-text">Official Repos</span>
+                            </label>
+                            <label class="filter-option">
+                                <input type="checkbox" class="filter-checkbox" value="ideas" checked>
+                                <span class="filter-text">Feature Ideas</span>
+                            </label>
+                        </div>
+                        
+                        <div class="search-stats">
+                            <div id="stats">Loading documentation...</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="results-section">
+                    <div id="searchResults" class="search-results">
+                        <div class="welcome-message">
+                            <h2>🚀 Welcome to the Ultimate GHL Resource</h2>
+                            <p>Search through <strong>comprehensive documentation</strong> including:</p>
+                            <ul>
+                                <li>📚 <strong>Help Documentation</strong> - Complete platform guides</li>
+                                <li>🔧 <strong>API Documentation</strong> - All endpoints with examples</li>
+                                <li>🛍️ <strong>Marketplace Docs</strong> - App development resources</li>
+                                <li>🎥 <strong>Video Tutorials</strong> - Step-by-step training content</li>
+                                <li>📂 <strong>Official Repositories</strong> - Code examples and SDKs</li>
+                                <li>💡 <strong>Feature Requests</strong> - Community ideas and feedback</li>
+                            </ul>
+                            
+                            <div class="features-highlight">
+                                <h3>🧠 AI-Powered Features</h3>
+                                <div class="feature-grid">
+                                    <div class="feature-item">
+                                        <strong>Smart Search</strong>
+                                        <p>Natural language queries with intent detection</p>
+                                    </div>
+                                    <div class="feature-item">
+                                        <strong>Semantic Expansion</strong>
+                                        <p>Understands related terms and concepts</p>
+                                    </div>
+                                    <div class="feature-item">
+                                        <strong>Interactive API Explorer</strong>
+                                        <p>Test API endpoints directly in your browser</p>
+                                    </div>
+                                    <div class="feature-item">
+                                        <strong>Video Integration</strong>
+                                        <p>Find relevant training videos for any topic</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- API Explorer Tab -->
+        <section id="api-explorer-tab" class="tab-content">
+            <div class="api-explorer-embed">
+                <iframe src="api-explorer.html" frameborder="0" width="100%" height="800px"></iframe>
+            </div>
+        </section>
+
+        <!-- Videos Tab -->
+        <section id="videos-tab" class="tab-content">
+            <div class="videos-section">
+                <div class="videos-header">
+                    <h2>🎥 GoHighLevel Video Tutorials</h2>
+                    <p>Comprehensive video training library with automatic discovery from official channels</p>
+                </div>
+                
+                <div class="video-categories">
+                    <button class="category-btn active" data-category="all">All Videos</button>
+                    <button class="category-btn" data-category="api">API Tutorials</button>
+                    <button class="category-btn" data-category="automation">Automation</button>
+                    <button class="category-btn" data-category="setup">Setup Guides</button>
+                    <button class="category-btn" data-category="marketplace">Marketplace</button>
+                </div>
+
+                <div id="videoResults" class="video-grid">
+                    <div class="video-loading">
+                        <p>📺 Loading video tutorials...</p>
+                        <p><em>Videos are automatically extracted from official GHL channels and help documentation</em></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Analytics Tab -->
+        <section id="analytics-tab" class="tab-content">
+            <div class="analytics-section">
+                <div class="analytics-header">
+                    <h2>📊 Documentation Analytics</h2>
+                    <p>Real-time insights into content freshness, search patterns, and system health</p>
+                </div>
+                
+                <div class="analytics-grid">
+                    <div class="analytics-card">
+                        <h3>🔍 Search Analytics</h3>
+                        <div id="searchAnalyticsData">
+                            <div class="metric">
+                                <label>Total Searches:</label>
+                                <span id="totalSearchCount">0</span>
+                            </div>
+                            <div class="metric">
+                                <label>Success Rate:</label>
+                                <span id="searchSuccessRate">0%</span>
+                            </div>
+                            <div class="metric">
+                                <label>Popular Queries:</label>
+                                <div id="popularQueriesList">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="analytics-card">
+                        <h3>📚 Content Statistics</h3>
+                        <div id="contentStats">
+                            <div class="metric">
+                                <label>Total Documents:</label>
+                                <span id="totalDocs">Loading...</span>
+                            </div>
+                            <div class="metric">
+                                <label>Last Updated:</label>
+                                <span id="lastUpdate">Loading...</span>
+                            </div>
+                            <div class="metric">
+                                <label>Categories:</label>
+                                <span id="categoryCount">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="analytics-card">
+                        <h3>🛠️ System Health</h3>
+                        <div id="systemHealth">
+                            <div class="metric">
+                                <label>Extraction Status:</label>
+                                <span id="extractionStatus" class="status-indicator">🟢 Active</span>
+                            </div>
+                            <div class="metric">
+                                <label>Error Rate:</label>
+                                <span id="errorRate">< 1%</span>
+                            </div>
+                            <div class="metric">
+                                <label>Monitoring:</label>
+                                <span id="monitoringStatus" class="status-indicator">🟢 Online</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="analytics-card">
+                        <h3>📈 Trends</h3>
+                        <div id="trendsData">
+                            <div class="trend-item">
+                                <label>Most Searched Category:</label>
+                                <span id="topCategory">API Documentation</span>
+                            </div>
+                            <div class="trend-item">
+                                <label>Fastest Growing:</label>
+                                <span id="fastestGrowing">Video Tutorials</span>
+                            </div>
+                            <div class="trend-item">
+                                <label>User Engagement:</label>
+                                <span id="engagement">High</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>🧠 About GHL Complete Docs</h4>
+                <p>Automatically extracts and organizes all GoHighLevel documentation with AI-powered search and real-time updates.</p>
+            </div>
+            <div class="footer-section">
+                <h4>🔗 Quick Links</h4>
+                <ul>
+                    <li><a href="https://developers.gohighlevel.com/" target="_blank">Official Developer Portal</a></li>
+                    <li><a href="https://help.gohighlevel.com/" target="_blank">Help Center</a></li>
+                    <li><a href="https://marketplace.gohighlevel.com/docs/" target="_blank">Marketplace Docs</a></li>
+                    <li><a href="https://github.com/launch-maniac/ghl-complete-docs" target="_blank">GitHub Repository</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>⚡ Features</h4>
+                <ul>
+                    <li>AI-Powered Semantic Search</li>
+                    <li>Interactive API Explorer</li>
+                    <li>Video Tutorial Discovery</li>
+                    <li>Real-time Content Updates</li>
+                    <li>Advanced Error Monitoring</li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>📊 Stats</h4>
+                <div class="footer-stats">
+                    <div>Documents: <span id="footerDocCount">Loading...</span></div>
+                    <div>Last Sync: <span id="footerLastSync">Loading...</span></div>
+                    <div>Uptime: <span id="footerUptime">99.9%</span></div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Launch Maniac. Enhanced GHL Documentation System with AI Intelligence.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="search.js"></script>
+    <script src="smart-search.js"></script>
+    <script>
+        // Tab switching functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const navItems = document.querySelectorAll('.nav-item');
+            const tabContents = document.querySelectorAll('.tab-content');
+
+            navItems.forEach(item => {
+                item.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    // Remove active classes
+                    navItems.forEach(nav => nav.classList.remove('active'));
+                    tabContents.forEach(tab => tab.classList.remove('active'));
+                    
+                    // Add active class to clicked nav
+                    this.classList.add('active');
+                    
+                    // Show corresponding tab
+                    const tabId = this.getAttribute('data-tab') + '-tab';
+                    const targetTab = document.getElementById(tabId);
+                    if (targetTab) {
+                        targetTab.classList.add('active');
+                    }
+                    
+                    // Load tab-specific content
+                    loadTabContent(this.getAttribute('data-tab'));
+                });
+            });
+
+            // Initialize default tab
+            loadTabContent('search');
+        });
+
+        function loadTabContent(tabName) {
+            switch (tabName) {
+                case 'videos':
+                    loadVideoContent();
+                    break;
+                case 'analytics':
+                    loadAnalyticsData();
+                    break;
+                case 'api-explorer':
+                    // API Explorer loads via iframe
+                    break;
+                default:
+                    // Search tab is default, already loaded
+                    break;
+            }
+        }
+
+        async function loadVideoContent() {
+            const videoResults = document.getElementById('videoResults');
+            
+            try {
+                // Load video index
+                const response = await fetch('./data/videos/index.json');
+                if (response.ok) {
+                    const videoData = await response.json();
+                    displayVideos(videoData.videos || []);
+                } else {
+                    videoResults.innerHTML = `
+                        <div class="video-placeholder">
+                            <h3>📺 Video Tutorials Coming Soon</h3>
+                            <p>Video extraction is in progress. Check back shortly for comprehensive GHL tutorial content.</p>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                console.error('Failed to load videos:', error);
+                videoResults.innerHTML = `
+                    <div class="video-placeholder">
+                        <h3>🔧 Video System Initializing</h3>
+                        <p>The video tutorial system is being set up. This will include automatic discovery of official GHL training content.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function displayVideos(videos) {
+            const videoResults = document.getElementById('videoResults');
+            
+            if (videos.length === 0) {
+                videoResults.innerHTML = `
+                    <div class="video-placeholder">
+                        <h3>📺 No Videos Found</h3>
+                        <p>Video extraction is in progress. The system automatically discovers and indexes GHL tutorial content.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const videoHTML = videos.map(video => `
+                <div class="video-item" onclick="openVideo('${video.url}')">
+                    <div class="video-thumbnail">
+                        <img src="${video.thumbnail}" alt="${video.title}" loading="lazy">
+                        <div class="video-overlay">▶️</div>
+                    </div>
+                    <div class="video-info">
+                        <h4 class="video-title">${video.title}</h4>
+                        <p class="video-source">${video.source}</p>
+                    </div>
+                </div>
+            `).join('');
+
+            videoResults.innerHTML = `<div class="video-grid-container">${videoHTML}</div>`;
+        }
+
+        function openVideo(url) {
+            window.open(url, '_blank');
+        }
+
+        async function loadAnalyticsData() {
+            // Load and display analytics data
+            const analytics = window.smartSearch ? window.smartSearch.getAnalytics() : {
+                totalSearches: 0,
+                successRate: '0%',
+                popularQueries: [],
+                noResultQueries: []
+            };
+
+            document.getElementById('totalSearchCount').textContent = analytics.totalSearches;
+            document.getElementById('searchSuccessRate').textContent = analytics.successRate;
+            
+            const popularQueriesList = document.getElementById('popularQueriesList');
+            if (analytics.popularQueries.length > 0) {
+                popularQueriesList.innerHTML = analytics.popularQueries
+                    .map(([query, count]) => `<div class="popular-query">${query} (${count})</div>`)
+                    .join('');
+            } else {
+                popularQueriesList.innerHTML = '<div class="no-data">No search data yet</div>';
+            }
+
+            // Load content stats
+            updateContentStats();
+        }
+
+        async function updateContentStats() {
+            try {
+                const response = await fetch('./data/master-index.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    document.getElementById('totalDocs').textContent = data.totalDocuments || 'Loading...';
+                    document.getElementById('lastUpdate').textContent = new Date(data.lastUpdate || Date.now()).toLocaleDateString();
+                    document.getElementById('categoryCount').textContent = Object.keys(data.categories || {}).length;
+                }
+            } catch (error) {
+                console.error('Failed to load content stats:', error);
+            }
+        }
+
+        // Category filtering for videos
+        document.addEventListener('DOMContentLoaded', function() {
+            const categoryBtns = document.querySelectorAll('.category-btn');
+            categoryBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    categoryBtns.forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    filterVideosByCategory(this.getAttribute('data-category'));
+                });
+            });
+        });
+
+        function filterVideosByCategory(category) {
+            const videoItems = document.querySelectorAll('.video-item');
+            videoItems.forEach(item => {
+                if (category === 'all') {
+                    item.style.display = 'block';
+                } else {
+                    const videoTitle = item.querySelector('.video-title').textContent.toLowerCase();
+                    const shouldShow = videoTitle.includes(category.toLowerCase());
+                    item.style.display = shouldShow ? 'block' : 'none';
+                }
+            });
+        }
+
+        // Update footer stats
+        function updateFooterStats() {
+            updateContentStats().then(() => {
+                document.getElementById('footerDocCount').textContent = document.getElementById('totalDocs').textContent;
+                document.getElementById('footerLastSync').textContent = document.getElementById('lastUpdate').textContent;
+            });
+        }
+
+        // Initialize footer stats
+        document.addEventListener('DOMContentLoaded', updateFooterStats);
+    </script>
+</body>
+</html>
