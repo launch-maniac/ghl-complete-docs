@@ -2,10 +2,38 @@ const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
 const path = require('path');
 const TurndownService = require('turndown');
+const https = require('https');
+
+// Polyfill fetch for Node.js environments that don't have it
+if (typeof fetch === 'undefined') {
+  global.fetch = function(url, options = {}) {
+    return new Promise((resolve, reject) => {
+      const req = https.request(url, {
+        method: options.method || 'GET',
+        headers: options.headers || {}
+      }, (res) => {
+        let data = '';
+        res.on('data', chunk => data += chunk);
+        res.on('end', () => {
+          resolve({
+            ok: res.statusCode >= 200 && res.statusCode < 300,
+            status: res.statusCode,
+            json: () => Promise.resolve(JSON.parse(data)),
+            text: () => Promise.resolve(data)
+          });
+        });
+      });
+      req.on('error', reject);
+      if (options.body) req.write(options.body);
+      req.end();
+    });
+  };
+}
 
 class VideoTutorialScraper {
   constructor() {
     this.outputDir = path.join(__dirname, '../../content/videos');
+    this.expiredDir = path.join(__dirname, '../../content/videos/expired');
     this.turndown = new TurndownService({
       headingStyle: 'atx',
       codeBlockStyle: 'fenced',
@@ -15,7 +43,22 @@ class VideoTutorialScraper {
       channels: 0,
       videos: 0,
       playlists: 0,
+      expired: 0,
+      updated: 0,
       errors: 0
+    };
+    
+    // Video freshness configuration
+    this.freshnessConfig = {
+      maxAgeMonths: 6,           // Videos older than 6 months are flagged
+      warningAgeMonths: 4,       // Videos 4-6 months old get warning
+      criticalTopics: [          // These topics have shorter freshness windows
+        'api v2', 'oauth', 'marketplace', 'new features', 'updates'
+      ],
+      criticalMaxAgeMonths: 3,   // Critical topics expire after 3 months
+      evergreen: [               // These topics don't expire
+        'basic setup', 'fundamentals', 'getting started', 'intro'
+      ]
     };
     
     // GHL-related video sources
@@ -53,8 +96,12 @@ class VideoTutorialScraper {
   }
 
   async scrape() {
-    console.log('🎥 Starting Video Tutorial extraction...');
+    console.log('🎥 Starting Video Tutorial extraction with freshness monitoring...');
     await fs.ensureDir(this.outputDir);
+    await fs.ensureDir(this.expiredDir);
+    
+    // First, clean up expired videos
+    await this.cleanupExpiredVideos();
     
     const browser = await puppeteer.launch({
       headless: 'new',
@@ -132,16 +179,23 @@ class VideoTutorialScraper {
                                 element.querySelector('#video-title') ||
                                 element.querySelector('.ytd-video-meta-block #video-title');
             
+            // Try to get publish date from various selectors
+            const dateElement = element.querySelector('#metadata-line span:nth-child(2)') ||
+                               element.querySelector('.ytd-video-meta-block #metadata-line span:last-child') ||
+                               element.querySelector('[aria-label*="ago"]');
+            
             if (href && titleElement) {
               const title = titleElement.textContent?.trim() || titleElement.getAttribute('aria-label');
               const videoId = href.match(/v=([^&]+)/)?.[1];
+              const publishedText = dateElement?.textContent?.trim() || '';
               
               if (title && videoId) {
                 videos.push({
                   id: videoId,
                   title: title,
                   url: href,
-                  thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`
+                  thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+                  publishedText: publishedText
                 });
               }
             }
@@ -159,9 +213,14 @@ class VideoTutorialScraper {
         
         console.log(`    🎯 ${relevantVideos.length} relevant videos`);
         
-        // Save video metadata
+        // Enrich and save video metadata with freshness analysis
         for (const video of relevantVideos) {
-          await this.saveVideoMetadata(video, source.name);
+          const enrichedVideo = await this.enrichVideoMetadata(video, source.name);
+          if (enrichedVideo && !this.isVideoExpired(enrichedVideo)) {
+            await this.saveVideoMetadata(enrichedVideo, source.name);
+          } else if (enrichedVideo) {
+            await this.moveToExpired(enrichedVideo, 'Age limit exceeded');
+          }
         }
         
         this.stats.videos += relevantVideos.length;
@@ -310,17 +369,36 @@ class VideoTutorialScraper {
         source: source,
         embeddedIn: video.embeddedIn || null,
         extractedAt: new Date().toISOString(),
+        publishedDate: video.publishedDate,
+        freshnessStatus: video.freshnessStatus,
+        contentCategory: video.contentCategory,
         category: 'video-tutorial',
         type: 'youtube'
       };
 
-      // Create markdown content
+      // Create enhanced markdown content with freshness indicators
+      const publishedDateStr = video.publishedDate ? video.publishedDate.toISOString() : 'unknown';
+      const freshnessStatus = video.freshnessStatus || { status: 'unknown', message: 'Date not available' };
+      
+      // Add visual freshness indicator
+      let freshnessEmoji = '❓';
+      switch (freshnessStatus.status) {
+        case 'fresh': freshnessEmoji = '🟢'; break;
+        case 'warning': freshnessEmoji = '🟡'; break;
+        case 'expired': freshnessEmoji = '🔴'; break;
+      }
+
       const frontmatter = `---
 title: "${video.title.replace(/"/g, '\\"')}"
 video_id: "${video.id}"
 url: "${video.url}"
 thumbnail: "${video.thumbnail}"
 source: "${source}"
+published_date: "${publishedDateStr}"
+freshness_status: "${freshnessStatus.status}"
+freshness_message: "${freshnessStatus.message}"
+content_category: "${video.contentCategory || 'standard'}"
+age_in_months: "${freshnessStatus.ageInMonths || 'unknown'}"
 category: "videos"
 type: "tutorial"
 platform: "youtube"
@@ -328,18 +406,42 @@ extracted_at: "${new Date().toISOString()}"
 ${video.embeddedIn ? `embedded_in: "${video.embeddedIn}"` : ''}
 ---
 
-# ${video.title}
+# ${freshnessEmoji} ${video.title}
 
 **Video ID:** \`${video.id}\`  
 **Source:** ${source}  
-**Platform:** YouTube
+**Platform:** YouTube  
+**Published:** ${video.publishedDate ? video.publishedDate.toLocaleDateString() : 'Unknown'}  
+**Content Type:** ${video.contentCategory || 'Standard'}
+
+## ${freshnessEmoji} Freshness Status
+**${freshnessStatus.message}**
+
+${freshnessStatus.status === 'warning' ? '⚠️ **Warning:** This video is approaching the age limit and may contain outdated information. Please verify with latest documentation.' : ''}
+${freshnessStatus.status === 'expired' ? '🚨 **Expired:** This video has exceeded the freshness threshold and may contain significantly outdated information. Please check for newer alternatives.' : ''}
+${freshnessStatus.status === 'fresh' ? '✅ This video contains current information and is within the freshness window.' : ''}
 
 ## Quick Access
 - [🎥 Watch on YouTube](${video.url})
 - [📷 Thumbnail](${video.thumbnail})
+${video.embeddedIn ? `- [📄 Original Context](${video.embeddedIn})` : ''}
+
+## Content Guidelines
+${video.contentCategory === 'critical' ? '⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.' : ''}
+${video.contentCategory === 'evergreen' ? '🌿 **Evergreen Content:** This video covers fundamental concepts that remain relevant over time.' : ''}
+${video.contentCategory === 'standard' ? '📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.' : ''}
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+
+${freshnessStatus.status !== 'fresh' ? `
+## Alternative Resources
+Since this video may be outdated, consider these current resources:
+- [📚 Latest Help Documentation](https://help.gohighlevel.com/)
+- [🔧 Current API Documentation](https://marketplace.gohighlevel.com/docs/)
+- [👥 Developer Community](https://developers.gohighlevel.com/)
+- [🎥 Recent Video Tutorials](./index.html) - Check for newer videos on this topic
+` : ''}
 
 ## Related Resources
 - Check the [GoHighLevel Support Portal](https://help.gohighlevel.com/) for additional documentation
@@ -347,7 +449,8 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from ${source} on ${new Date().toLocaleDateString()}*
+*Video content extracted from ${source} on ${new Date().toLocaleDateString()}*  
+*Freshness monitored: Videos expire after ${video.contentCategory === 'critical' ? '3' : video.contentCategory === 'evergreen' ? 'never' : '6'} months*
 `;
 
       // Save to file
@@ -375,8 +478,20 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
     const index = {
       generated: new Date().toISOString(),
       stats: this.stats,
+      freshnessConfig: this.freshnessConfig,
       sources: this.videoSources.map(s => ({ name: s.name, type: s.type })),
-      videos: []
+      videos: [],
+      freshnessSummary: {
+        fresh: 0,
+        warning: 0,
+        expired: 0,
+        unknown: 0,
+        byCategory: {
+          critical: { fresh: 0, warning: 0, expired: 0 },
+          standard: { fresh: 0, warning: 0, expired: 0 },
+          evergreen: { fresh: 0, warning: 0, expired: 0 }
+        }
+      }
     };
 
     try {
@@ -392,14 +507,31 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
           const videoIdMatch = content.match(/video_id: "(.+)"/);
           const urlMatch = content.match(/url: "(.+)"/);
           const sourceMatch = content.match(/source: "(.+)"/);
+          const publishedMatch = content.match(/published_date: "(.+)"/);
+          const freshnessStatusMatch = content.match(/freshness_status: "(.+)"/);
+          const contentCategoryMatch = content.match(/content_category: "(.+)"/);
+          const ageMatch = content.match(/age_in_months: "(.+)"/);
           
           if (titleMatch && videoIdMatch && urlMatch) {
+            const freshnessStatus = freshnessStatusMatch ? freshnessStatusMatch[1] : 'unknown';
+            const contentCategory = contentCategoryMatch ? contentCategoryMatch[1] : 'standard';
+            
+            // Update freshness summary stats
+            index.freshnessSummary[freshnessStatus]++;
+            if (index.freshnessSummary.byCategory[contentCategory]) {
+              index.freshnessSummary.byCategory[contentCategory][freshnessStatus]++;
+            }
+            
             index.videos.push({
               filename: file,
               title: titleMatch[1],
               videoId: videoIdMatch[1],
               url: urlMatch[1],
               source: sourceMatch ? sourceMatch[1] : 'Unknown',
+              publishedDate: publishedMatch ? publishedMatch[1] : null,
+              freshnessStatus: freshnessStatus,
+              contentCategory: contentCategory,
+              ageInMonths: ageMatch ? ageMatch[1] : null,
               slug: file.replace('.md', '')
             });
           }
@@ -414,6 +546,233 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
       index,
       { spaces: 2 }
     );
+  }
+
+  async cleanupExpiredVideos() {
+    console.log('🧹 Cleaning up expired videos...');
+    
+    try {
+      const files = await fs.readdir(this.outputDir);
+      const videoFiles = files.filter(f => f.endsWith('.md') && f !== 'index.md');
+      
+      for (const file of videoFiles) {
+        const filePath = path.join(this.outputDir, file);
+        const content = await fs.readFile(filePath, 'utf8');
+        
+        // Extract metadata from frontmatter
+        const publishedMatch = content.match(/published_date: "(.+)"/);
+        const titleMatch = content.match(/title: "(.+)"/);
+        
+        if (publishedMatch && titleMatch) {
+          const publishedDate = new Date(publishedMatch[1]);
+          const title = titleMatch[1];
+          
+          if (this.isVideoExpiredByDate(publishedDate, title)) {
+            console.log(`  📅 Moving expired video: ${title}`);
+            await this.moveToExpired({ title, publishedDate }, 'Routine expiry check');
+            await fs.remove(filePath);
+            this.stats.expired++;
+          }
+        }
+      }
+      
+      console.log(`✅ Expired video cleanup complete: ${this.stats.expired} videos moved`);
+    } catch (error) {
+      console.error('❌ Error during expired video cleanup:', error.message);
+    }
+  }
+
+  async enrichVideoMetadata(video, source) {
+    try {
+      // Try to extract publish date from the publishedText
+      const publishedDate = this.parsePublishedDate(video.publishedText);
+      
+      // If we couldn't parse the date from the page, try to get it via oembed API
+      if (!publishedDate) {
+        const oembedData = await this.getVideoOembedData(video.id);
+        if (oembedData && oembedData.upload_date) {
+          video.publishedDate = new Date(oembedData.upload_date);
+        }
+      } else {
+        video.publishedDate = publishedDate;
+      }
+      
+      // Calculate freshness status
+      video.freshnessStatus = this.calculateFreshnessStatus(video);
+      
+      // Determine content category for expiry rules
+      video.contentCategory = this.categorizeVideoContent(video.title);
+      
+      return video;
+    } catch (error) {
+      console.error(`    ⚠️ Error enriching video ${video.id}:`, error.message);
+      return video; // Return original video if enrichment fails
+    }
+  }
+
+  parsePublishedDate(publishedText) {
+    if (!publishedText) return null;
+    
+    const now = new Date();
+    const text = publishedText.toLowerCase();
+    
+    // Handle "X ago" format
+    const agoMatch = text.match(/(\d+)\s*(minute|hour|day|week|month|year)s?\s*ago/);
+    if (agoMatch) {
+      const value = parseInt(agoMatch[1]);
+      const unit = agoMatch[2];
+      
+      const date = new Date(now);
+      switch (unit) {
+        case 'minute':
+          date.setMinutes(date.getMinutes() - value);
+          break;
+        case 'hour':
+          date.setHours(date.getHours() - value);
+          break;
+        case 'day':
+          date.setDate(date.getDate() - value);
+          break;
+        case 'week':
+          date.setDate(date.getDate() - (value * 7));
+          break;
+        case 'month':
+          date.setMonth(date.getMonth() - value);
+          break;
+        case 'year':
+          date.setFullYear(date.getFullYear() - value);
+          break;
+      }
+      return date;
+    }
+    
+    // Try to parse as regular date
+    const parsedDate = new Date(publishedText);
+    if (!isNaN(parsedDate.getTime())) {
+      return parsedDate;
+    }
+    
+    return null;
+  }
+
+  async getVideoOembedData(videoId) {
+    try {
+      // Use YouTube's oembed API to get video metadata
+      const response = await fetch(`https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`);
+      if (response.ok) {
+        return await response.json();
+      }
+    } catch (error) {
+      console.log(`    ⚠️ Could not fetch oembed data for ${videoId}`);
+    }
+    return null;
+  }
+
+  categorizeVideoContent(title) {
+    const titleLower = title.toLowerCase();
+    
+    // Check for critical topics that expire faster
+    for (const topic of this.freshnessConfig.criticalTopics) {
+      if (titleLower.includes(topic.toLowerCase())) {
+        return 'critical';
+      }
+    }
+    
+    // Check for evergreen content
+    for (const topic of this.freshnessConfig.evergreen) {
+      if (titleLower.includes(topic.toLowerCase())) {
+        return 'evergreen';
+      }
+    }
+    
+    return 'standard';
+  }
+
+  calculateFreshnessStatus(video) {
+    if (!video.publishedDate) {
+      return { status: 'unknown', message: 'Unable to determine video age' };
+    }
+    
+    const now = new Date();
+    const ageInMonths = (now - video.publishedDate) / (1000 * 60 * 60 * 24 * 30.44);
+    
+    const category = video.contentCategory || 'standard';
+    let maxAge, warningAge;
+    
+    switch (category) {
+      case 'critical':
+        maxAge = this.freshnessConfig.criticalMaxAgeMonths;
+        warningAge = maxAge * 0.75; // 75% of max age
+        break;
+      case 'evergreen':
+        return { status: 'fresh', message: 'Evergreen content - always relevant' };
+      default:
+        maxAge = this.freshnessConfig.maxAgeMonths;
+        warningAge = this.freshnessConfig.warningAgeMonths;
+    }
+    
+    if (ageInMonths >= maxAge) {
+      return { 
+        status: 'expired', 
+        message: `Video is ${ageInMonths.toFixed(1)} months old (max: ${maxAge})`,
+        ageInMonths: ageInMonths.toFixed(1)
+      };
+    } else if (ageInMonths >= warningAge) {
+      return { 
+        status: 'warning', 
+        message: `Video is ${ageInMonths.toFixed(1)} months old (approaching expiry)`,
+        ageInMonths: ageInMonths.toFixed(1)
+      };
+    } else {
+      return { 
+        status: 'fresh', 
+        message: `Video is ${ageInMonths.toFixed(1)} months old (fresh)`,
+        ageInMonths: ageInMonths.toFixed(1)
+      };
+    }
+  }
+
+  isVideoExpired(video) {
+    if (!video.publishedDate) {
+      return false; // Don't expire videos without date info
+    }
+    
+    const category = video.contentCategory || 'standard';
+    if (category === 'evergreen') {
+      return false; // Evergreen content never expires
+    }
+    
+    const now = new Date();
+    const ageInMonths = (now - video.publishedDate) / (1000 * 60 * 60 * 24 * 30.44);
+    const maxAge = category === 'critical' 
+      ? this.freshnessConfig.criticalMaxAgeMonths 
+      : this.freshnessConfig.maxAgeMonths;
+    
+    return ageInMonths >= maxAge;
+  }
+
+  isVideoExpiredByDate(publishedDate, title) {
+    const video = { publishedDate, title, contentCategory: this.categorizeVideoContent(title) };
+    return this.isVideoExpired(video);
+  }
+
+  async moveToExpired(video, reason) {
+    try {
+      const expiredEntry = {
+        video: video,
+        expiredAt: new Date().toISOString(),
+        reason: reason,
+        originalSource: video.source || 'unknown'
+      };
+      
+      const expiredFile = path.join(this.expiredDir, `expired-${Date.now()}.json`);
+      await fs.writeJson(expiredFile, expiredEntry, { spaces: 2 });
+      
+      console.log(`  📅 Moved to expired: ${video.title} (${reason})`);
+      this.stats.expired++;
+    } catch (error) {
+      console.error(`    ❌ Error moving video to expired:`, error.message);
+    }
   }
 
   async delay(ms) {

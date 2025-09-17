@@ -6,6 +6,7 @@
     <title>GHL Complete Documentation - Your Ultimate GoHighLevel Resource</title>
     <meta name="description" content="Complete GoHighLevel documentation with AI-powered search, video tutorials, interactive API explorer, and real-time updates. The definitive developer resource for GHL integration.">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="video-freshness.css">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
 </head>
 <body>
@@ -152,11 +153,21 @@
                 </div>
                 
                 <div class="video-categories">
-                    <button class="category-btn active" data-category="all">All Videos</button>
-                    <button class="category-btn" data-category="api">API Tutorials</button>
-                    <button class="category-btn" data-category="automation">Automation</button>
-                    <button class="category-btn" data-category="setup">Setup Guides</button>
-                    <button class="category-btn" data-category="marketplace">Marketplace</button>
+                    <div class="category-filters">
+                        <button class="category-btn active" data-category="all">All Videos</button>
+                        <button class="category-btn" data-category="api">API Tutorials</button>
+                        <button class="category-btn" data-category="automation">Automation</button>
+                        <button class="category-btn" data-category="setup">Setup Guides</button>
+                        <button class="category-btn" data-category="marketplace">Marketplace</button>
+                    </div>
+                    
+                    <div class="freshness-filters">
+                        <span style="font-weight: 500; margin-right: 8px;">Freshness:</span>
+                        <button class="freshness-btn fresh active" data-freshness="fresh">🟢 Fresh</button>
+                        <button class="freshness-btn warning active" data-freshness="warning">🟡 Warning</button>
+                        <button class="freshness-btn expired" data-freshness="expired">🔴 Expired</button>
+                        <button class="freshness-btn unknown active" data-freshness="unknown">❓ Unknown</button>
+                    </div>
                 </div>
 
                 <div id="videoResults" class="video-grid">
@@ -380,24 +391,53 @@
                 videoResults.innerHTML = `
                     <div class="video-placeholder">
                         <h3>📺 No Videos Found</h3>
-                        <p>Video extraction is in progress. The system automatically discovers and indexes GHL tutorial content.</p>
+                        <p>Video extraction is in progress. The system automatically discovers and indexes GHL tutorial content with automatic freshness monitoring.</p>
                     </div>
                 `;
                 return;
             }
 
-            const videoHTML = videos.map(video => `
-                <div class="video-item" onclick="openVideo('${video.url}')">
-                    <div class="video-thumbnail">
-                        <img src="${video.thumbnail}" alt="${video.title}" loading="lazy">
-                        <div class="video-overlay">▶️</div>
+            // Sort videos by freshness status (fresh first, then warning, then others)
+            const sortedVideos = videos.sort((a, b) => {
+                const freshnessOrder = { 'fresh': 0, 'warning': 1, 'unknown': 2, 'expired': 3 };
+                return (freshnessOrder[a.freshnessStatus] || 2) - (freshnessOrder[b.freshnessStatus] || 2);
+            });
+
+            const videoHTML = sortedVideos.map(video => {
+                const freshnessEmoji = {
+                    'fresh': '🟢',
+                    'warning': '🟡', 
+                    'expired': '🔴',
+                    'unknown': '❓'
+                }[video.freshnessStatus] || '❓';
+
+                const freshnessClass = `freshness-${video.freshnessStatus || 'unknown'}`;
+                const publishedDate = video.publishedDate ? new Date(video.publishedDate).toLocaleDateString() : 'Unknown';
+                const ageText = video.ageInMonths ? `${video.ageInMonths} months old` : '';
+
+                return `
+                    <div class="video-item ${freshnessClass}" onclick="openVideo('${video.url}')">
+                        <div class="video-thumbnail">
+                            <img src="${video.thumbnail}" alt="${video.title}" loading="lazy">
+                            <div class="video-overlay">▶️</div>
+                            <div class="freshness-indicator" title="Freshness Status: ${video.freshnessStatus || 'unknown'}">${freshnessEmoji}</div>
+                        </div>
+                        <div class="video-info">
+                            <h4 class="video-title">${video.title}</h4>
+                            <div class="video-meta">
+                                <span class="video-source">${video.source}</span>
+                                <span class="video-date">${publishedDate}</span>
+                                ${ageText ? `<span class="video-age">${ageText}</span>` : ''}
+                            </div>
+                            <div class="video-category">
+                                ${video.contentCategory === 'critical' ? '⚡ Critical' : 
+                                  video.contentCategory === 'evergreen' ? '🌿 Evergreen' : 
+                                  '📚 Standard'}
+                            </div>
+                        </div>
                     </div>
-                    <div class="video-info">
-                        <h4 class="video-title">${video.title}</h4>
-                        <p class="video-source">${video.source}</p>
-                    </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
 
             videoResults.innerHTML = `<div class="video-grid-container">${videoHTML}</div>`;
         }
@@ -445,29 +485,74 @@
             }
         }
 
-        // Category filtering for videos
+        // Category and freshness filtering for videos
         document.addEventListener('DOMContentLoaded', function() {
             const categoryBtns = document.querySelectorAll('.category-btn');
+            const freshnessBtns = document.querySelectorAll('.freshness-btn');
+            
             categoryBtns.forEach(btn => {
                 btn.addEventListener('click', function() {
                     categoryBtns.forEach(b => b.classList.remove('active'));
                     this.classList.add('active');
-                    filterVideosByCategory(this.getAttribute('data-category'));
+                    filterVideos();
+                });
+            });
+            
+            freshnessBtns.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    filterVideos();
                 });
             });
         });
 
-        function filterVideosByCategory(category) {
+        function filterVideos() {
+            const activeCategory = document.querySelector('.category-btn.active')?.getAttribute('data-category') || 'all';
+            const activeFreshness = Array.from(document.querySelectorAll('.freshness-btn.active')).map(btn => 
+                btn.getAttribute('data-freshness')
+            );
+            
             const videoItems = document.querySelectorAll('.video-item');
+            let visibleCount = 0;
+            
             videoItems.forEach(item => {
-                if (category === 'all') {
-                    item.style.display = 'block';
-                } else {
-                    const videoTitle = item.querySelector('.video-title').textContent.toLowerCase();
-                    const shouldShow = videoTitle.includes(category.toLowerCase());
-                    item.style.display = shouldShow ? 'block' : 'none';
-                }
+                const videoTitle = item.querySelector('.video-title').textContent.toLowerCase();
+                const videoFreshness = item.classList.toString().match(/freshness-(\w+)/)?.[1] || 'unknown';
+                
+                // Category filter
+                const categoryMatch = activeCategory === 'all' || videoTitle.includes(activeCategory.toLowerCase());
+                
+                // Freshness filter
+                const freshnessMatch = activeFreshness.includes(videoFreshness);
+                
+                const shouldShow = categoryMatch && freshnessMatch;
+                item.style.display = shouldShow ? 'block' : 'none';
+                
+                if (shouldShow) visibleCount++;
             });
+            
+            // Update video count display
+            updateVideoCount(visibleCount, videoItems.length);
+        }
+        
+        function updateVideoCount(visible, total) {
+            let countDisplay = document.getElementById('videoCount');
+            if (!countDisplay) {
+                countDisplay = document.createElement('div');
+                countDisplay.id = 'videoCount';
+                countDisplay.style.cssText = 'text-align: center; margin: 16px 0; color: #666; font-size: 14px;';
+                document.querySelector('.video-categories').appendChild(countDisplay);
+            }
+            
+            countDisplay.textContent = `Showing ${visible} of ${total} videos`;
+            
+            if (visible === 0) {
+                countDisplay.innerHTML = `
+                    <div style="color: #999; font-style: italic;">
+                        No videos match your filters. Try adjusting the freshness or category filters.
+                    </div>
+                `;
+            }
         }
 
         // Update footer stats
