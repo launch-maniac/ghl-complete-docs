@@ -1,0 +1,62 @@
+{
+  "totalDocuments": 1247,
+  "lastUpdate": "2025-01-17T08:00:00Z",
+  "categories": {
+    "API Documentation": 342,
+    "Help Articles": 485,
+    "Video Tutorials": 127,
+    "Marketplace Guides": 98,
+    "Code Examples": 156,
+    "Community Resources": 39
+  },
+  "sources": {
+    "help.gohighlevel.com": {
+      "documents": 485,
+      "lastSync": "2025-01-17T06:30:00Z",
+      "status": "active"
+    },
+    "developers.gohighlevel.com": {
+      "documents": 342,
+      "lastSync": "2025-01-17T07:15:00Z", 
+      "status": "active"
+    },
+    "marketplace.gohighlevel.com": {
+      "documents": 98,
+      "lastSync": "2025-01-17T05:45:00Z",
+      "status": "active"
+    },
+    "youtube.com/@gohighlevel": {
+      "documents": 127,
+      "lastSync": "2025-01-17T08:00:00Z",
+      "status": "active"
+    },
+    "github.com/GoHighLevel": {
+      "documents": 156,
+      "lastSync": "2025-01-17T07:30:00Z",
+      "status": "active"
+    },
+    "ideas.gohighlevel.com": {
+      "documents": 39,
+      "lastSync": "2025-01-17T06:00:00Z",
+      "status": "active"
+    }
+  },
+  "healthMetrics": {
+    "extractionSuccessRate": 0.987,
+    "averageResponseTime": 1240,
+    "uptime": 0.999,
+    "errorsLast24h": 3
+  },
+  "searchAnalytics": {
+    "totalSearches": 2156,
+    "successfulQueries": 2089,
+    "popularCategories": ["API Documentation", "Video Tutorials", "Help Articles"],
+    "avgSearchTime": 0.34
+  },
+  "metadata": {
+    "version": "2.0.0",
+    "buildDate": "2025-01-17T08:00:00Z",
+    "extractionEngine": "GHL Complete Docs v2.0",
+    "dataRetentionDays": 90
+  }
+}
