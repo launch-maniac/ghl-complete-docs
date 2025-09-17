@@ -61,28 +61,18 @@ class VideoTutorialScraper {
       ]
     };
     
-    // GHL-related video sources
+    // Focus on official GoHighLevel channel for last 180 days
     this.videoSources = [
       {
         type: 'youtube_channel',
-        name: 'GoHighLevel Official',
+        name: 'GoHighLevel Official - Last 180 Days',
         urls: [
-          'https://www.youtube.com/@GoHighLevel/videos',
-          'https://www.youtube.com/@GoHighLevel/playlists'
+          'https://www.youtube.com/@gohighlevel/videos'
         ],
-        searchTerms: ['gohighlevel', 'highlevel', 'api', 'tutorial', 'training']
-      },
-      {
-        type: 'youtube_search',
-        name: 'GHL API Tutorials',
-        searchQueries: [
-          'GoHighLevel API tutorial',
-          'GoHighLevel API v2 guide',
-          'HighLevel API integration',
-          'GoHighLevel automation tutorial',
-          'GoHighLevel webhook setup',
-          'GoHighLevel marketplace development'
-        ]
+        channelHandle: '@gohighlevel',
+        daysBack: 180,
+        searchTerms: ['api', 'tutorial', 'training', 'update', 'new', 'feature', 'guide'],
+        priority: 'high'
       },
       {
         type: 'platform_videos',
@@ -109,6 +99,10 @@ class VideoTutorialScraper {
         '--no-sandbox', 
         '--disable-setuid-sandbox',
         '--disable-dev-shm-usage',
+        '--disable-gpu',
+        '--disable-extensions',
+        '--no-first-run',
+        '--disable-default-apps',
         '--disable-web-security',
         '--disable-features=VizDisplayCompositor'
       ]
@@ -206,8 +200,22 @@ class VideoTutorialScraper {
 
         console.log(`    📑 Found ${videos.length} videos`);
         
+        // Filter for videos within the last 180 days (if specified)
+        let filteredVideos = videos;
+        if (source.daysBack) {
+          const cutoffDate = new Date();
+          cutoffDate.setDate(cutoffDate.getDate() - source.daysBack);
+          
+          filteredVideos = videos.filter(video => {
+            const videoDate = this.parseYouTubeDate(video.publishedText);
+            return !videoDate || videoDate >= cutoffDate; // Include if date unknown or within range
+          });
+          
+          console.log(`    📅 ${filteredVideos.length} videos within last ${source.daysBack} days`);
+        }
+        
         // Filter for GHL-related content
-        const relevantVideos = videos.filter(video => 
+        const relevantVideos = filteredVideos.filter(video => 
           this.isRelevantToGHL(video.title)
         );
         
@@ -777,6 +785,11 @@ Since this video may be outdated, consider these current resources:
 
   async delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  // Alias for parsePublishedDate to maintain consistency  
+  parseYouTubeDate(publishedText) {
+    return this.parsePublishedDate(publishedText);
   }
 }
 
