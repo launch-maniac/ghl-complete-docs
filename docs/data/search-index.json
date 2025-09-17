@@ -1,0 +1,237 @@
+[
+  {
+    "id": "api-authentication",
+    "title": "API Authentication",
+    "content": "Learn how to authenticate with the GoHighLevel API using OAuth 2.0, API keys, and access tokens. Includes examples for server-to-server and user-based authentication flows.",
+    "category": "API Documentation",
+    "url": "https://developers.gohighlevel.com/docs/authentication",
+    "type": "documentation",
+    "tags": ["api", "auth", "oauth", "token", "security"],
+    "lastUpdated": "2025-01-15"
+  },
+  {
+    "id": "webhook-configuration",
+    "title": "Webhook Configuration",
+    "content": "Set up webhooks to receive real-time notifications from GoHighLevel for contacts, opportunities, appointments, and more. Complete guide with payload examples.",
+    "category": "API Documentation",
+    "url": "https://developers.gohighlevel.com/docs/webhooks",
+    "type": "documentation", 
+    "tags": ["webhook", "callback", "notification", "event", "trigger"],
+    "lastUpdated": "2025-01-14"
+  },
+  {
+    "id": "contact-management-api",
+    "title": "Contact Management API",
+    "content": "Create, update, delete, and search contacts using the GoHighLevel API. Includes bulk operations and custom field management.",
+    "category": "API Documentation",
+    "url": "https://developers.gohighlevel.com/docs/contacts",
+    "type": "documentation",
+    "tags": ["contact", "crm", "customer", "lead", "management"],
+    "lastUpdated": "2025-01-16"
+  },
+  {
+    "id": "opportunity-pipeline",
+    "title": "Opportunity Pipeline Management",
+    "content": "Manage deals and opportunities through your sales pipeline. Track stages, values, and automate follow-ups.",
+    "category": "Help Articles",
+    "url": "https://help.gohighlevel.com/opportunities",
+    "type": "documentation",
+    "tags": ["opportunity", "deal", "pipeline", "sales", "funnel"],
+    "lastUpdated": "2025-01-13"
+  },
+  {
+    "id": "automation-workflows",
+    "title": "Automation Workflows",
+    "content": "Build powerful automation workflows to streamline your business processes. Create triggers, actions, and conditions for marketing automation.",
+    "category": "Help Articles", 
+    "url": "https://help.gohighlevel.com/workflows",
+    "type": "documentation",
+    "tags": ["automation", "workflow", "trigger", "action", "marketing"],
+    "lastUpdated": "2025-01-12"
+  },
+  {
+    "id": "calendar-booking",
+    "title": "Calendar and Booking System",
+    "content": "Set up calendar booking pages, manage appointments, and automate scheduling workflows. Configure availability and booking rules.",
+    "category": "Help Articles",
+    "url": "https://help.gohighlevel.com/calendar",
+    "type": "documentation",
+    "tags": ["calendar", "booking", "appointment", "schedule", "meeting"],
+    "lastUpdated": "2025-01-11"
+  },
+  {
+    "id": "email-marketing",
+    "title": "Email Marketing Campaigns",
+    "content": "Create and manage email marketing campaigns. Design templates, set up sequences, and track performance metrics.",
+    "category": "Help Articles",
+    "url": "https://help.gohighlevel.com/email-marketing",
+    "type": "documentation",
+    "tags": ["email", "marketing", "campaign", "template", "sequence"],
+    "lastUpdated": "2025-01-10"
+  },
+  {
+    "id": "sms-marketing",
+    "title": "SMS Marketing and Automation",
+    "content": "Send SMS messages, create text campaigns, and set up SMS automation workflows. Manage compliance and opt-outs.",
+    "category": "Help Articles",
+    "url": "https://help.gohighlevel.com/sms-marketing", 
+    "type": "documentation",
+    "tags": ["sms", "text", "messaging", "mobile", "automation"],
+    "lastUpdated": "2025-01-09"
+  },
+  {
+    "id": "marketplace-app-development",
+    "title": "Marketplace App Development",
+    "content": "Develop and publish apps on the GoHighLevel marketplace. Learn about the app ecosystem, OAuth flows, and marketplace guidelines.",
+    "category": "Marketplace Guides",
+    "url": "https://marketplace.gohighlevel.com/docs/development",
+    "type": "documentation",
+    "tags": ["marketplace", "app", "development", "integration", "publish"],
+    "lastUpdated": "2025-01-08"
+  },
+  {
+    "id": "white-label-setup",
+    "title": "White Label Configuration",
+    "content": "Set up white label branding for your GoHighLevel account. Customize logos, colors, domains, and client-facing interfaces.",
+    "category": "Marketplace Guides",
+    "url": "https://marketplace.gohighlevel.com/docs/white-label",
+    "type": "documentation",
+    "tags": ["white-label", "branding", "customization", "domain", "theme"],
+    "lastUpdated": "2025-01-07"
+  },
+  {
+    "id": "getting-started-tutorial",
+    "title": "Getting Started with GoHighLevel",
+    "content": "Complete tutorial for new users to get started with the platform. Covers account setup, basic configuration, and first campaign creation.",
+    "category": "YouTube Videos",
+    "url": "https://youtube.com/watch?v=ghl-getting-started",
+    "type": "video",
+    "tags": ["tutorial", "getting-started", "beginner", "setup", "introduction"],
+    "lastUpdated": "2025-01-17",
+    "duration": "15:30"
+  },
+  {
+    "id": "api-integration-video",
+    "title": "API Integration Tutorial",
+    "content": "Step-by-step video guide for integrating with GoHighLevel API. Covers authentication, making requests, and handling responses.",
+    "category": "YouTube Videos",
+    "url": "https://youtube.com/watch?v=ghl-api-tutorial", 
+    "type": "video",
+    "tags": ["api", "integration", "tutorial", "development", "coding"],
+    "lastUpdated": "2025-01-16",
+    "duration": "22:45"
+  },
+  {
+    "id": "workflow-automation-video",
+    "title": "Advanced Workflow Automation",
+    "content": "Learn how to create sophisticated automation workflows for lead nurturing, follow-ups, and customer journey mapping.",
+    "category": "YouTube Videos",
+    "url": "https://youtube.com/watch?v=ghl-workflows",
+    "type": "video",
+    "tags": ["workflow", "automation", "advanced", "marketing", "nurturing"],
+    "lastUpdated": "2025-01-15",
+    "duration": "28:12"
+  },
+  {
+    "id": "webhook-setup-video",
+    "title": "Webhook Setup and Testing",
+    "content": "Visual guide to setting up webhooks in GoHighLevel. Includes testing, debugging, and common troubleshooting tips.",
+    "category": "YouTube Videos",
+    "url": "https://youtube.com/watch?v=ghl-webhooks",
+    "type": "video", 
+    "tags": ["webhook", "setup", "testing", "debugging", "integration"],
+    "lastUpdated": "2025-01-14",
+    "duration": "18:20"
+  },
+  {
+    "id": "funnel-builder-guide",
+    "title": "Funnel Builder Masterclass",
+    "content": "Complete guide to building high-converting funnels using GoHighLevel's funnel builder. Includes templates and optimization tips.",
+    "category": "YouTube Videos",
+    "url": "https://youtube.com/watch?v=ghl-funnels",
+    "type": "video",
+    "tags": ["funnel", "builder", "conversion", "template", "optimization"],
+    "lastUpdated": "2025-01-13",
+    "duration": "35:45"
+  },
+  {
+    "id": "node-sdk",
+    "title": "Node.js SDK Documentation",
+    "content": "Official Node.js SDK for GoHighLevel API. Includes installation, configuration, and usage examples for all major endpoints.",
+    "category": "Code Examples",
+    "url": "https://github.com/gohighlevel/nodejs-sdk",
+    "type": "code",
+    "tags": ["nodejs", "sdk", "javascript", "library", "npm"],
+    "lastUpdated": "2025-01-12"
+  },
+  {
+    "id": "python-examples",
+    "title": "Python API Examples",
+    "content": "Python code examples for common GoHighLevel API operations. Includes authentication, CRUD operations, and webhook handling.",
+    "category": "Code Examples",
+    "url": "https://github.com/gohighlevel/python-examples",
+    "type": "code",
+    "tags": ["python", "examples", "api", "crud", "webhook"],
+    "lastUpdated": "2025-01-11"
+  },
+  {
+    "id": "php-integration",
+    "title": "PHP Integration Guide",
+    "content": "PHP examples and best practices for integrating with GoHighLevel. Includes OAuth implementation and common use cases.",
+    "category": "Code Examples",
+    "url": "https://github.com/gohighlevel/php-integration",
+    "type": "code",
+    "tags": ["php", "integration", "oauth", "examples", "web"],
+    "lastUpdated": "2025-01-10"
+  },
+  {
+    "id": "mobile-app-integration",
+    "title": "Mobile App Integration",
+    "content": "Guidelines and examples for integrating GoHighLevel with mobile applications. Covers React Native and native iOS/Android.",
+    "category": "Code Examples",
+    "url": "https://github.com/gohighlevel/mobile-examples",
+    "type": "code",
+    "tags": ["mobile", "react-native", "ios", "android", "app"],
+    "lastUpdated": "2025-01-09"
+  },
+  {
+    "id": "webhook-middleware",
+    "title": "Webhook Middleware Examples",
+    "content": "Reusable middleware and utilities for handling GoHighLevel webhooks in various frameworks and languages.",
+    "category": "Code Examples",
+    "url": "https://github.com/gohighlevel/webhook-middleware",
+    "type": "code",
+    "tags": ["webhook", "middleware", "framework", "utility", "reusable"],
+    "lastUpdated": "2025-01-08"
+  },
+  {
+    "id": "feature-request-custom-fields",
+    "title": "Enhanced Custom Fields",
+    "content": "Community request for more flexible custom field types including file uploads, rich text, and conditional visibility.",
+    "category": "Community Resources",
+    "url": "https://ideas.gohighlevel.com/custom-fields",
+    "type": "feature-request",
+    "tags": ["custom-fields", "enhancement", "request", "community", "feature"],
+    "lastUpdated": "2025-01-07"
+  },
+  {
+    "id": "feature-request-api-v3",
+    "title": "API v3 GraphQL Support",
+    "content": "Feature request for GraphQL support in the next version of the GoHighLevel API for more efficient data fetching.",
+    "category": "Community Resources", 
+    "url": "https://ideas.gohighlevel.com/graphql-api",
+    "type": "feature-request",
+    "tags": ["api", "graphql", "v3", "efficiency", "data-fetching"],
+    "lastUpdated": "2025-01-06"
+  },
+  {
+    "id": "troubleshooting-common-issues",
+    "title": "Common Integration Issues",
+    "content": "Troubleshooting guide for common API integration issues including rate limiting, authentication errors, and webhook failures.",
+    "category": "Community Resources",
+    "url": "https://help.gohighlevel.com/troubleshooting",
+    "type": "troubleshooting",
+    "tags": ["troubleshooting", "issues", "errors", "debugging", "help"],
+    "lastUpdated": "2025-01-05"
+  }
+]
