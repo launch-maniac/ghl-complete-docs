@@ -8,23 +8,30 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 async function initializeSearch() {
+    console.log('🚀 Initializing search system...');
     try {
         // Load search data
+        console.log('📡 Fetching search index from ./data/search-index.json');
         const response = await fetch('./data/search-index.json');
+        console.log('📡 Fetch response status:', response.status, response.ok);
+        
         if (response.ok) {
             searchData = await response.json();
-            console.log(`Search index loaded: ${searchData.length} documents`);
+            console.log(`✅ Search index loaded: ${searchData.length} documents`);
+            console.log('📄 Sample document:', searchData[0]);
         } else {
-            console.log('Search index not found, using fallback data');
+            console.log('⚠️ Search index not found, using fallback data');
             searchData = getFallbackSearchData();
         }
         
         // Update stats
         updateSearchStats();
+        console.log('✅ Search initialization complete');
     } catch (error) {
-        console.error('Failed to load search data:', error);
+        console.error('❌ Failed to load search data:', error);
         searchData = getFallbackSearchData();
         updateSearchStats();
+        console.log('✅ Search initialization complete with fallback data');
     }
 }
 
@@ -90,22 +97,34 @@ function getFallbackSearchData() {
 }
 
 function performSearch(query = null) {
+    console.log('🔍 performSearch called with query:', query);
+    
     const searchInput = document.getElementById('searchInput');
     const searchQuery = query || searchInput.value.trim();
     
+    console.log('📝 Final search query:', searchQuery);
+    console.log('📚 Search data available:', searchData.length, 'documents');
+    
     if (!searchQuery) {
+        console.log('⚠️ Empty query, showing welcome message');
         displayWelcomeMessage();
         return;
     }
     
-    console.log('Performing search for:', searchQuery);
+    console.log('🔍 Performing search for:', searchQuery);
     
     // Simple search implementation
     const results = searchData.filter(doc => {
         const searchText = (doc.title + ' ' + doc.content + ' ' + doc.category).toLowerCase();
         const queryLower = searchQuery.toLowerCase();
-        return searchText.includes(queryLower);
+        const matches = searchText.includes(queryLower);
+        if (matches) {
+            console.log('✅ Match found:', doc.title);
+        }
+        return matches;
     });
+    
+    console.log('📊 Search results:', results.length, 'found');
     
     displaySearchResults(results, searchQuery);
     
