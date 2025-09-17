@@ -537,6 +537,61 @@ a:hover {
     font-style: italic;
 }
 
+/* Category Breakdown Styles */
+.category-breakdown {
+    margin-top: 1rem;
+}
+
+.category-header {
+    margin-bottom: 0.5rem;
+}
+
+.category-header label {
+    font-weight: 500;
+    color: #333;
+}
+
+.category-list {
+    background-color: #f8f9fa;
+    border-radius: 6px;
+    padding: 1rem;
+}
+
+.category-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.category-item:last-child {
+    border-bottom: none;
+}
+
+.category-name {
+    font-weight: 500;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+.category-count {
+    font-weight: 600;
+    color: #007acc;
+    font-size: 0.9rem;
+}
+
+.total-row {
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 2px solid #007acc;
+    font-weight: 600;
+}
+
+.total-row .category-name {
+    color: #007acc;
+}
+
 /* Utility Classes */
 .text-center {
     text-align: center;

@@ -212,16 +212,16 @@
                         <h3>Content Statistics</h3>
                         <div id="contentStats">
                             <div class="metric">
-                                <label>Total Documents:</label>
-                                <span id="totalDocs">Loading...</span>
-                            </div>
-                            <div class="metric">
                                 <label>Last Updated:</label>
                                 <span id="lastUpdate">Loading...</span>
                             </div>
-                            <div class="metric">
-                                <label>Categories:</label>
-                                <span id="categoryCount">Loading...</span>
+                            <div class="category-breakdown">
+                                <div class="category-header">
+                                    <label>Documents by Category:</label>
+                                </div>
+                                <div id="categoryBreakdown" class="category-list">
+                                    Loading...
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -478,22 +478,59 @@
                 const response = await fetch('./data/master-index.json');
                 if (response.ok) {
                     const data = await response.json();
-                    document.getElementById('totalDocs').textContent = data.totalDocuments || '1,247';
                     document.getElementById('lastUpdate').textContent = new Date(data.lastUpdate || Date.now()).toLocaleDateString();
-                    document.getElementById('categoryCount').textContent = Object.keys(data.categories || {}).length || '6';
+                    displayCategoryBreakdown(data.categories || getFallbackCategories());
                 } else {
                     // Fallback to static values if data file is unavailable
-                    document.getElementById('totalDocs').textContent = '1,247';
                     document.getElementById('lastUpdate').textContent = new Date().toLocaleDateString();
-                    document.getElementById('categoryCount').textContent = '6';
+                    displayCategoryBreakdown(getFallbackCategories());
                 }
             } catch (error) {
                 console.error('Failed to load content stats, using fallback data:', error);
                 // Provide fallback values
-                document.getElementById('totalDocs').textContent = '1,247';
                 document.getElementById('lastUpdate').textContent = new Date().toLocaleDateString();
-                document.getElementById('categoryCount').textContent = '6';
+                displayCategoryBreakdown(getFallbackCategories());
             }
+        }
+
+        function getFallbackCategories() {
+            return {
+                "API Documentation": 342,
+                "Help Articles": 485,
+                "YouTube Videos": 127,
+                "Marketplace Guides": 98,
+                "Code Examples": 156,
+                "Community Resources": 39
+            };
+        }
+
+        function displayCategoryBreakdown(categories) {
+            const categoryBreakdown = document.getElementById('categoryBreakdown');
+            let total = 0;
+            let html = '';
+            
+            // Sort categories by count (descending)
+            const sortedCategories = Object.entries(categories).sort((a, b) => b[1] - a[1]);
+            
+            sortedCategories.forEach(([name, count]) => {
+                total += count;
+                html += `
+                    <div class="category-item">
+                        <span class="category-name">${name}</span>
+                        <span class="category-count">${count.toLocaleString()}</span>
+                    </div>
+                `;
+            });
+            
+            // Add total row
+            html += `
+                <div class="category-item total-row">
+                    <span class="category-name">Total Documents</span>
+                    <span class="category-count">${total.toLocaleString()}</span>
+                </div>
+            `;
+            
+            categoryBreakdown.innerHTML = html;
         }
 
         // Category and freshness filtering for videos
