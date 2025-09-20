@@ -66,6 +66,11 @@ class MarketplaceScraper {
           url: 'https://highlevel.stoplight.io/docs/integrations/',
           type: 'integrations-api',
           crawlSubpages: true
+        },
+        {
+          url: 'https://ideas.gohighlevel.com/changelog',
+          type: 'changelog',
+          crawlSubpages: true
         }
       ];
 
