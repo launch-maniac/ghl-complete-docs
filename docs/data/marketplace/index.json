@@ -1,9 +1,13 @@
 {
-  "generated": "2025-09-20T16:21:59.168Z",
+  "generated": "2025-09-20T21:27:05.392Z",
   "stats": {
     "categories": 0,
-    "docs": 93,
-    "errors": 0
+    "docs": 22,
+    "errors": 27,
+    "successful": 27,
+    "failed": [],
+    "retries": 0,
+    "startTime": 1758403351468
   },
   "documents": [
     {
@@ -126,11 +130,39 @@
       "slug": "community-subpage-view-the-api-2-0-docs"
     },
     {
+      "filename": "contacts-subpage-back-to-home.md",
+      "title": "back to home",
+      "type": "contacts-subpage",
+      "url": "https://help.gohighlevel.com/",
+      "slug": "contacts-subpage-back-to-home"
+    },
+    {
       "filename": "developer-help-the-page-you-were-looking-for-doesn-t-exist-404.md",
       "title": "The page you were looking for doesn't exist (404)",
       "type": "developer-help",
       "url": "https://help.gohighlevel.com/support/solutions/48000668553",
       "slug": "developer-help-the-page-you-were-looking-for-doesn-t-exist-404"
+    },
+    {
+      "filename": "developer-portal-subpage-api-2-0-docs.md",
+      "title": "API 2.0 Docs",
+      "type": "developer-portal-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview",
+      "slug": "developer-portal-subpage-api-2-0-docs"
+    },
+    {
+      "filename": "developer-portal-subpage-documentation.md",
+      "title": "Documentation",
+      "type": "developer-portal-subpage",
+      "url": "https://marketplace.gohighlevel.com/docs/",
+      "slug": "developer-portal-subpage-documentation"
+    },
+    {
+      "filename": "developer-portal-subpage-learn-more-about-our-api.md",
+      "title": "Learn More About Our API",
+      "type": "developer-portal-subpage",
+      "url": "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api",
+      "slug": "developer-portal-subpage-learn-more-about-our-api"
     },
     {
       "filename": "developer-resources-developer-resources-14.md",
@@ -236,6 +268,20 @@
       "type": "developer-resources-subpage",
       "url": "https://help.gohighlevel.com/support/solutions/articles/155000003278-unlocking-customization-enhancing-marketplace-apps-with-custom-javascript",
       "slug": "developer-resources-subpage-unlocking-customization-enhancing-marketplace-apps-w"
+    },
+    {
+      "filename": "funnels-subpage-back-to-home.md",
+      "title": "back to home",
+      "type": "funnels-subpage",
+      "url": "https://help.gohighlevel.com/",
+      "slug": "funnels-subpage-back-to-home"
+    },
+    {
+      "filename": "getting-started-subpage-back-to-home.md",
+      "title": "back to home",
+      "type": "getting-started-subpage",
+      "url": "https://help.gohighlevel.com/",
+      "slug": "getting-started-subpage-back-to-home"
     },
     {
       "filename": "integrations-api-standard-response-fields-integrations-api.md",
@@ -504,6 +550,13 @@
       "slug": "integrations-api-subpage-scopes"
     },
     {
+      "filename": "integrations-api-subpage-sign-in.md",
+      "title": "Sign in",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/auth",
+      "slug": "integrations-api-subpage-sign-in"
+    },
+    {
       "filename": "integrations-api-subpage-standard-response-fields.md",
       "title": "Standard Response Fields",
       "type": "integrations-api-subpage",
@@ -642,6 +695,20 @@
       "type": "marketplace-docs-subpage",
       "url": "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc",
       "slug": "marketplace-docs-subpage-start-building-now"
+    },
+    {
+      "filename": "reputation-subpage-back-to-home.md",
+      "title": "back to home",
+      "type": "reputation-subpage",
+      "url": "https://help.gohighlevel.com/",
+      "slug": "reputation-subpage-back-to-home"
+    },
+    {
+      "filename": "settings-subpage-back-to-home.md",
+      "title": "back to home",
+      "type": "settings-subpage",
+      "url": "https://help.gohighlevel.com/",
+      "slug": "settings-subpage-back-to-home"
     }
   ]
 }
