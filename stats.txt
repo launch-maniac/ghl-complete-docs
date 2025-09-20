@@ -1,0 +1,5 @@
+
+> ghl-complete-docs@2.0.0 stats
+> echo "Generating statistics... (placeholder)"
+
+Generating statistics... (placeholder)
