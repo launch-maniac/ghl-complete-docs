@@ -12,7 +12,7 @@
     "db:update": "echo \"Updating database... (placeholder)\"",
     "db:optimize": "echo \"Optimizing database... (placeholder)\"",
     "build:search": "echo \"Building search index... (placeholder)\"",
-    "stats": "echo \"Generating statistics... (placeholder)\"",
+    "stats": "node scripts/analytics/generate-stats.js",
     "monitor": "node scripts/monitoring/error-monitor.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npm run extract:all",
