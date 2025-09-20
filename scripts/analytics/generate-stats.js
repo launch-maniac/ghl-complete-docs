@@ -1,5 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
+const { getEmojiWithSpace } = require('../utils/emoji');
 
 class StatsGenerator {
   constructor() {
@@ -9,7 +10,7 @@ class StatsGenerator {
   }
 
   async generateStats() {
-    console.log('📊 Generating documentation statistics...');
+    console.log(`${getEmojiWithSpace('📊', 'GENERATING')}Generating documentation statistics...`);
 
     const stats = {
       totalDocuments: 0,
@@ -52,11 +53,11 @@ class StatsGenerator {
       // Output summary for workflow
       this.outputSummary(stats);
 
-      console.log(`✅ Stats generated: ${stats.totalDocuments} total documents`);
+      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Stats generated: ${stats.totalDocuments} total documents`);
       return stats;
 
     } catch (error) {
-      console.error('❌ Error generating stats:', error);
+      console.error(`${getEmojiWithSpace('❌', 'ERROR')}Error generating stats:`, error);
       throw error;
     }
   }
@@ -107,7 +108,7 @@ class StatsGenerator {
               stats.categories[categoryName] = indexData.stats.docs;
             }
           } catch (error) {
-            console.log(`⚠️ Could not read index file: ${itemPath}`);
+            console.log(`${getEmojiWithSpace('⚠️', 'WARNING')}Could not read index file: ${itemPath}`);
           }
         }
       }
@@ -162,7 +163,7 @@ class StatsGenerator {
   }
 
   outputSummary(stats) {
-    console.log('\n📈 DOCUMENTATION STATISTICS');
+    console.log(`\n${getEmojiWithSpace('📈', 'REPORT')}DOCUMENTATION STATISTICS`);
     console.log('=' .repeat(50));
     console.log(`Total Documents: ${stats.totalDocuments}`);
     console.log(`Last Updated: ${new Date(stats.lastUpdate).toLocaleString()}`);
@@ -171,14 +172,14 @@ class StatsGenerator {
     Object.entries(stats.categories)
       .sort(([,a], [,b]) => b - a)
       .forEach(([category, count]) => {
-        console.log(`  • ${category}: ${count} documents`);
+        console.log(`  ${getEmojiWithSpace('•', '•')}${category}: ${count} documents`);
       });
 
     console.log('\nSources:');
     Object.entries(stats.sources)
       .sort(([,a], [,b]) => b.documents - a.documents)
       .forEach(([source, data]) => {
-        console.log(`  • ${source}: ${data.documents} documents`);
+        console.log(`  ${getEmojiWithSpace('•', '•')}${source}: ${data.documents} documents`);
       });
 
     console.log('=' .repeat(50));
@@ -189,11 +190,11 @@ class StatsGenerator {
 if (require.main === module) {
   new StatsGenerator().generateStats()
     .then(() => {
-      console.log('✅ Statistics generation completed');
+      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Statistics generation completed`);
       process.exit(0);
     })
     .catch(error => {
-      console.error('❌ Statistics generation failed:', error);
+      console.error(`${getEmojiWithSpace('❌', 'ERROR')}Statistics generation failed:`, error);
       process.exit(1);
     });
 }

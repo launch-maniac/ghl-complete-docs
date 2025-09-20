@@ -1,0 +1,137 @@
+{
+  "generated": "2025-09-20T18:41:52.586Z",
+  "stats": {
+    "channels": 1,
+    "videos": 6,
+    "playlists": 0,
+    "expired": 0,
+    "updated": 0,
+    "errors": 0
+  },
+  "freshnessConfig": {
+    "maxAgeMonths": 6,
+    "warningAgeMonths": 4,
+    "criticalTopics": [
+      "api v2",
+      "oauth",
+      "marketplace",
+      "new features",
+      "updates"
+    ],
+    "criticalMaxAgeMonths": 3,
+    "evergreen": [
+      "basic setup",
+      "fundamentals",
+      "getting started",
+      "intro"
+    ]
+  },
+  "sources": [
+    {
+      "name": "GoHighLevel Official - Last 180 Days",
+      "type": "youtube_channel"
+    },
+    {
+      "name": "GHL Support Portal Embedded",
+      "type": "platform_videos"
+    }
+  ],
+  "videos": [
+    {
+      "filename": "03tmrzjjv1q-airtable-integration-live.md",
+      "title": "AirTable Integration Live!",
+      "videoId": "03tmrZJJv1Q",
+      "url": "https://www.youtube.com/watch?v=03tmrZJJv1Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "03tmrzjjv1q-airtable-integration-live"
+    },
+    {
+      "filename": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system.md",
+      "title": "How to Manage Duplicate Contacts in Your CRM System",
+      "videoId": "5VmZ5iSKj-U",
+      "url": "https://www.youtube.com/watch?v=5VmZ5iSKj-U",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system"
+    },
+    {
+      "filename": "62vb4uteb1m-how-to-generate-custom-code-with-ai-in-workflows.md",
+      "title": "How to Generate Custom Code with AI in Workflows",
+      "videoId": "62vB4utEb1M",
+      "url": "https://www.youtube.com/watch?v=62vB4utEb1M",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "62vb4uteb1m-how-to-generate-custom-code-with-ai-in-workflows"
+    },
+    {
+      "filename": "k6-n-eildwu-notion-integration-is-live.md",
+      "title": "Notion Integration is Live!",
+      "videoId": "K6_N_eiLDWU",
+      "url": "https://www.youtube.com/watch?v=K6_N_eiLDWU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "k6-n-eildwu-notion-integration-is-live"
+    },
+    {
+      "filename": "or-qgu3k2fw-clickup-integration-live.md",
+      "title": "ClickUp Integration Live!",
+      "videoId": "or_Qgu3k2fw",
+      "url": "https://www.youtube.com/watch?v=or_Qgu3k2fw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "or-qgu3k2fw-clickup-integration-live"
+    },
+    {
+      "filename": "sp77csl2xv4-google-contacts-integration-now-live.md",
+      "title": "Google Contacts Integration Now Live!",
+      "videoId": "sP77CsL2Xv4",
+      "url": "https://www.youtube.com/watch?v=sP77CsL2Xv4&pp=0gcJCeAJAYcqIYzv",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "unknown",
+      "freshnessStatus": "unknown",
+      "contentCategory": "standard",
+      "ageInMonths": "unknown",
+      "slug": "sp77csl2xv4-google-contacts-integration-now-live"
+    }
+  ],
+  "freshnessSummary": {
+    "fresh": 0,
+    "warning": 0,
+    "expired": 0,
+    "unknown": 6,
+    "byCategory": {
+      "critical": {
+        "fresh": 0,
+        "warning": 0,
+        "expired": 0
+      },
+      "standard": {
+        "fresh": 0,
+        "warning": 0,
+        "expired": 0,
+        "unknown": null
+      },
+      "evergreen": {
+        "fresh": 0,
+        "warning": 0,
+        "expired": 0
+      }
+    }
+  }
+}

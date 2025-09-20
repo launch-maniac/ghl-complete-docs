@@ -3,6 +3,8 @@ const fs = require('fs-extra');
 const path = require('path');
 const TurndownService = require('turndown');
 const https = require('https');
+const os = require('os');
+const { getEmojiWithSpace } = require('../utils/emoji');
 
 // Polyfill fetch for Node.js environments that don't have it
 if (typeof fetch === 'undefined') {
@@ -85,18 +87,11 @@ class VideoTutorialScraper {
     ];
   }
 
-  async scrape() {
-    console.log('🎥 Starting Video Tutorial extraction with freshness monitoring...');
-    await fs.ensureDir(this.outputDir);
-    await fs.ensureDir(this.expiredDir);
-    
-    // First, clean up expired videos
-    await this.cleanupExpiredVideos();
-    
-    const browser = await puppeteer.launch({
+  getBrowserConfig() {
+    const baseConfig = {
       headless: 'new',
       args: [
-        '--no-sandbox', 
+        '--no-sandbox',
         '--disable-setuid-sandbox',
         '--disable-dev-shm-usage',
         '--disable-gpu',
@@ -105,8 +100,55 @@ class VideoTutorialScraper {
         '--disable-default-apps',
         '--disable-web-security',
         '--disable-features=VizDisplayCompositor'
-      ]
-    });
+      ],
+      timeout: 60000,
+      protocolTimeout: 60000
+    };
+
+    // Try to find Chrome executable path
+    const homedir = os.homedir();
+    const possibleChromePaths = [
+      // Puppeteer cache locations
+      path.join(homedir, '.cache/puppeteer/chrome/mac_arm-127.0.6533.88/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing'),
+      path.join(homedir, '.cache/puppeteer/chrome/mac_arm-121.0.6167.85/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing'),
+
+      // Standard Chrome installations
+      '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+      '/Applications/Chromium.app/Contents/MacOS/Chromium',
+
+      // Linux paths
+      '/usr/bin/google-chrome',
+      '/usr/bin/chromium-browser',
+      '/usr/bin/chromium'
+    ];
+
+    // Find the first available Chrome binary
+    for (const chromePath of possibleChromePaths) {
+      if (fs.existsSync(chromePath)) {
+        console.log(`${getEmojiWithSpace('🔧', 'CHROME')}Using Chrome at: ${chromePath}`);
+        baseConfig.executablePath = chromePath;
+        break;
+      }
+    }
+
+    // For CI environments (like GitHub Actions), don't specify executablePath
+    if (process.env.CI) {
+      console.log(`${getEmojiWithSpace('🤖', 'CI')}Running in CI environment, using default Chrome`);
+      delete baseConfig.executablePath;
+    }
+
+    return baseConfig;
+  }
+
+  async scrape() {
+    console.log(`${getEmojiWithSpace('🎥', 'STARTING')}Starting Video Tutorial extraction with freshness monitoring...`);
+    await fs.ensureDir(this.outputDir);
+    await fs.ensureDir(this.expiredDir);
+    
+    // First, clean up expired videos
+    await this.cleanupExpiredVideos();
+
+    const browser = await puppeteer.launch(this.getBrowserConfig());
 
     try {
       const page = await browser.newPage();
@@ -117,7 +159,7 @@ class VideoTutorialScraper {
       
       for (const source of this.videoSources) {
         try {
-          console.log(`🎬 Processing ${source.name}...`);
+          console.log(`${getEmojiWithSpace('🎬', 'PROCESSING')}Processing ${source.name}...`);
           
           if (source.type === 'youtube_channel') {
             await this.scrapeYouTubeChannel(page, source);
@@ -137,7 +179,7 @@ class VideoTutorialScraper {
       // Generate index
       await this.generateIndex();
       
-      console.log(`✅ Video extraction complete: ${this.stats.videos} videos from ${this.stats.channels} sources`);
+      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Video extraction complete: ${this.stats.videos} videos from ${this.stats.channels} sources`);
       
     } catch (error) {
       console.error('❌ Video extraction error:', error);
@@ -152,7 +194,7 @@ class VideoTutorialScraper {
   async scrapeYouTubeChannel(page, source) {
     for (const url of source.urls) {
       try {
-        console.log(`  📺 Scraping YouTube: ${url}`);
+        console.log(`  ${getEmojiWithSpace('📺', 'SCRAPING')}Scraping YouTube: ${url}`);
         
         await page.goto(url, {
           waitUntil: 'networkidle2',
@@ -246,7 +288,7 @@ class VideoTutorialScraper {
     for (const query of source.searchQueries) {
       try {
         const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`;
-        console.log(`  🔍 Searching YouTube: ${query}`);
+        console.log(`  ${getEmojiWithSpace('🔍', 'SEARCHING')}Searching YouTube: ${query}`);
         
         await page.goto(searchUrl, {
           waitUntil: 'networkidle2',
@@ -466,7 +508,7 @@ Since this video may be outdated, consider these current resources:
       const filepath = path.join(this.outputDir, filename);
       await fs.writeFile(filepath, frontmatter);
       
-      console.log(`  ✅ Saved: ${filename}`);
+      console.log(`  ${getEmojiWithSpace('✅', 'SAVED')}Saved: ${filename}`);
 
     } catch (error) {
       console.error(`    ❌ Error saving video ${video.id}:`, error.message);
@@ -584,7 +626,7 @@ Since this video may be outdated, consider these current resources:
         }
       }
       
-      console.log(`✅ Expired video cleanup complete: ${this.stats.expired} videos moved`);
+      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Expired video cleanup complete: ${this.stats.expired} videos moved`);
     } catch (error) {
       console.error('❌ Error during expired video cleanup:', error.message);
     }
@@ -671,7 +713,7 @@ Since this video may be outdated, consider these current resources:
         return await response.json();
       }
     } catch (error) {
-      console.log(`    ⚠️ Could not fetch oembed data for ${videoId}`);
+      console.log(`    ${getEmojiWithSpace('⚠️', 'WARNING')}Could not fetch oembed data for ${videoId}`);
     }
     return null;
   }
@@ -797,7 +839,7 @@ Since this video may be outdated, consider these current resources:
 if (require.main === module) {
   new VideoTutorialScraper().scrape()
     .then(stats => {
-      console.log('📊 Final video stats:', stats);
+      console.log(`${getEmojiWithSpace('📊', 'STATS')}Final video stats:`, stats);
       process.exit(0);
     })
     .catch(error => {

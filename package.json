@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "echo \"Starting GHL docs extraction...\"",
+    "extract:ideas": "node scripts/extract/canny-api-extractor.js",
     "extract:marketplace": "node scripts/extract/marketplace-scraper.js",
     "extract:videos": "node scripts/extract/video-scraper.js",
-    "extract:all": "npm run extract:marketplace && npm run extract:videos",
+    "extract:all": "npm run extract:ideas && npm run extract:marketplace && npm run extract:videos",
     "process:all": "echo \"Processing content... (placeholder)\"",
     "db:update": "echo \"Updating database... (placeholder)\"",
     "db:optimize": "echo \"Optimizing database... (placeholder)\"",

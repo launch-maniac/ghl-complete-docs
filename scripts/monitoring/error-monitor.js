@@ -1,6 +1,7 @@
 const fs = require('fs-extra');
 const path = require('path');
 const https = require('https');
+const { getEmojiWithSpace } = require('../utils/emoji');
 
 class ErrorMonitoringSystem {
   constructor() {
@@ -53,7 +54,7 @@ class ErrorMonitoringSystem {
     // Setup periodic health checks
     setInterval(() => this.runHealthCheck(), 60000); // Every minute
     
-    console.log('🔍 Error Monitoring System initialized');
+    console.log(`${getEmojiWithSpace('🔍', 'INITIALIZED')}Error Monitoring System initialized`);
   }
 
   log(level, message, metadata = {}) {
@@ -100,7 +101,7 @@ class ErrorMonitoringSystem {
     console.log(`${prefix} ${timeStr} ${logEntry.message}`);
     
     if (Object.keys(logEntry.metadata).length > 0) {
-      console.log(`  📊 Metadata:`, JSON.stringify(logEntry.metadata, null, 2));
+      console.log(`  ${getEmojiWithSpace('📊', 'METADATA')}Metadata:`, JSON.stringify(logEntry.metadata, null, 2));
     }
   }
 

@@ -1,9 +1,9 @@
-name: Daily Documentation Sync
+name: Documentation Sync (Every 3 Hours)
 
 on:
   schedule:
-    # Runs at 2 AM UTC every day
-    - cron: '0 2 * * *'
+    # Runs every 3 hours for more frequent updates
+    - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
       full_sync:
@@ -17,6 +17,7 @@ on:
           - all
           - marketplace
           - videos
+          - ideas
         default: all
 
 # Prevent concurrent runs
@@ -32,7 +33,7 @@ permissions:
 jobs:
   extract-and-sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # Extended timeout for full-scale extraction (76 boards)
+    timeout-minutes: 60   # Optimized timeout for 3-hour frequency with API integration
     
     steps:
       - name: 📥 Checkout Repository
@@ -60,6 +61,11 @@ jobs:
         run: |
           npx puppeteer browsers install chrome || echo "Chrome already available"
       
+      - name: 🔥 Extract Ideas via RSS Feed
+        if: github.event.inputs.source == null || contains(fromJson('["all", "marketplace", "ideas"]'), github.event.inputs.source)
+        run: npm run extract:ideas
+        continue-on-error: true
+
       - name: 🛍️ Extract Marketplace Docs
         if: github.event.inputs.source == null || contains(fromJson('["all", "marketplace"]'), github.event.inputs.source)
         run: npm run extract:marketplace
