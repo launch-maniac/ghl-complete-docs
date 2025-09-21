@@ -1,0 +1,20 @@
+{
+  "video": {
+    "id": "qIdIesTZPr4",
+    "title": "Marketplace | Ability for agencies to pay on behalf of sub - accounts while installing an app",
+    "url": "https://www.youtube.com/watch?v=qIdIesTZPr4",
+    "thumbnail": "https://i.ytimg.com/vi/qIdIesTZPr4/hqdefault.jpg",
+    "publishedDate": "2025-05-09T22:06:32.000Z",
+    "description": "",
+    "publishedText": "2025-05-09T22:06:32Z",
+    "freshnessStatus": {
+      "status": "warning",
+      "message": "Video is 4.4 months old (approaching expiry)",
+      "ageInMonths": "4.4"
+    },
+    "contentCategory": "critical"
+  },
+  "expiredAt": "2025-09-21T01:04:14.972Z",
+  "reason": "Age limit exceeded",
+  "originalSource": "unknown"
+}
