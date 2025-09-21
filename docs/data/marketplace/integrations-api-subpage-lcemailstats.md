@@ -3,7 +3,7 @@ title: "LCEmailStats"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/8ee6e13e6c912-lc-email"
-extracted_at: "2025-09-21T09:18:35.374Z"
+extracted_at: "2025-09-21T12:34:31.991Z"
 ---
 
 # LC Email

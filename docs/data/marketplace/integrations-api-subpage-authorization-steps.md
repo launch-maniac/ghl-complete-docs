@@ -3,7 +3,7 @@ title: "Authorization steps"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/docs/oauth/Authorization.md"
-extracted_at: "2025-09-21T09:09:49.961Z"
+extracted_at: "2025-09-21T12:22:47.319Z"
 ---
 
 # Authorization

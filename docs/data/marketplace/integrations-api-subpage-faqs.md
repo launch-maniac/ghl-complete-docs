@@ -3,7 +3,7 @@ title: "FAQs"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/6d8a9d06190b0-fa-qs"
-extracted_at: "2025-09-21T09:10:52.917Z"
+extracted_at: "2025-09-21T12:24:18.428Z"
 ---
 
 # FAQs
