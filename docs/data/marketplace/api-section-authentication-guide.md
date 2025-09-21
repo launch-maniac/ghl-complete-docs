@@ -3,7 +3,7 @@ title: "Authentication Guide"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc"
-extracted_at: "2025-09-20T21:26:29.765Z"
+extracted_at: "2025-09-21T03:56:08.354Z"
 ---
 
 -   [](/docs/)

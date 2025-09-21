@@ -1,13 +1,13 @@
 {
-  "generated": "2025-09-20T21:27:05.392Z",
+  "generated": "2025-09-21T03:56:42.153Z",
   "stats": {
     "categories": 0,
-    "docs": 22,
+    "docs": 131,
     "errors": 27,
     "successful": 27,
     "failed": [],
     "retries": 0,
-    "startTime": 1758403351468
+    "startTime": 1758425848489
   },
   "documents": [
     {
@@ -165,6 +165,13 @@
       "slug": "developer-portal-subpage-learn-more-about-our-api"
     },
     {
+      "filename": "developer-portal-subpage-view-the-api-2-0-docs.md",
+      "title": "View the API 2.0 Docs -->",
+      "type": "developer-portal-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview",
+      "slug": "developer-portal-subpage-view-the-api-2-0-docs"
+    },
+    {
       "filename": "developer-resources-developer-resources-14.md",
       "title": "Developer Resources (14)",
       "type": "developer-resources",
@@ -291,11 +298,60 @@
       "slug": "integrations-api-standard-response-fields-integrations-api"
     },
     {
+      "filename": "integrations-api-subpage-appointmentcreate.md",
+      "title": "AppointmentCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/a97f811da0425-appointment",
+      "slug": "integrations-api-subpage-appointmentcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-appointmentdelete.md",
+      "title": "AppointmentDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/fedb20137f2c6-appointment",
+      "slug": "integrations-api-subpage-appointmentdelete"
+    },
+    {
+      "filename": "integrations-api-subpage-appointmentupdate.md",
+      "title": "AppointmentUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/5849bb2764faa-appointment",
+      "slug": "integrations-api-subpage-appointmentupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-appuninstall.md",
+      "title": "AppUninstall",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/0a921b6da92ca-app",
+      "slug": "integrations-api-subpage-appuninstall"
+    },
+    {
+      "filename": "integrations-api-subpage-associationcreate.md",
+      "title": "AssociationCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/6515428358733-association-created",
+      "slug": "integrations-api-subpage-associationcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-associationdelete.md",
+      "title": "AssociationDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/fc2849159f63f-association-deleted",
+      "slug": "integrations-api-subpage-associationdelete"
+    },
+    {
       "filename": "integrations-api-subpage-associations.md",
       "title": "Associations",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/1940cca63e13b-associations-api",
       "slug": "integrations-api-subpage-associations"
+    },
+    {
+      "filename": "integrations-api-subpage-associationupdate.md",
+      "title": "AssociationUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/0803061bfb731-association-updated",
+      "slug": "integrations-api-subpage-associationupdate"
     },
     {
       "filename": "integrations-api-subpage-authorization-steps.md",
@@ -340,6 +396,13 @@
       "slug": "integrations-api-subpage-campaigns"
     },
     {
+      "filename": "integrations-api-subpage-campaignstatusupdate.md",
+      "title": "CampaignStatusUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjM5MjYx-campaign",
+      "slug": "integrations-api-subpage-campaignstatusupdate"
+    },
+    {
       "filename": "integrations-api-subpage-check-url-slugget.md",
       "title": "Check url slugget",
       "type": "integrations-api-subpage",
@@ -354,11 +417,60 @@
       "slug": "integrations-api-subpage-companies"
     },
     {
+      "filename": "integrations-api-subpage-contactcreate.md",
+      "title": "ContactCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/4974a1cf9b56d-contact",
+      "slug": "integrations-api-subpage-contactcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-contactdelete.md",
+      "title": "ContactDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/595c982887ce2-contact",
+      "slug": "integrations-api-subpage-contactdelete"
+    },
+    {
+      "filename": "integrations-api-subpage-contactdndupdate.md",
+      "title": "ContactDndUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/3f5bd46e27550-contact",
+      "slug": "integrations-api-subpage-contactdndupdate"
+    },
+    {
       "filename": "integrations-api-subpage-contacts.md",
       "title": "Contacts",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/e957726e8625d-contacts-api",
       "slug": "integrations-api-subpage-contacts"
+    },
+    {
+      "filename": "integrations-api-subpage-contacttagupdate.md",
+      "title": "ContactTagUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/289ef3159b0ca-contact",
+      "slug": "integrations-api-subpage-contacttagupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-contactupdate.md",
+      "title": "ContactUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/7e676c417682f-contact",
+      "slug": "integrations-api-subpage-contactupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-conversation-provider-outbound-webhook.md",
+      "title": "Conversation Provider Outbound Webhook",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/cb1e396045d93-conversation-provider-outbound-message",
+      "slug": "integrations-api-subpage-conversation-provider-outbound-webhook"
+    },
+    {
+      "filename": "integrations-api-subpage-conversation-unread-webhook.md",
+      "title": "Conversation Unread Webhook",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/a90fe823ceca6-conversation",
+      "slug": "integrations-api-subpage-conversation-unread-webhook"
     },
     {
       "filename": "integrations-api-subpage-conversations.md",
@@ -389,6 +501,13 @@
       "slug": "integrations-api-subpage-create-blog-postpost"
     },
     {
+      "filename": "integrations-api-subpage-custom-fields-v2.md",
+      "title": "Custom Fields V2",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/916c54f181d11-custom-fields-api",
+      "slug": "integrations-api-subpage-custom-fields-v2"
+    },
+    {
       "filename": "integrations-api-subpage-delete-file-or-folderdelete.md",
       "title": "Delete File or Folderdelete",
       "type": "integrations-api-subpage",
@@ -410,11 +529,25 @@
       "slug": "integrations-api-subpage-emails"
     },
     {
+      "filename": "integrations-api-subpage-external-authentication.md",
+      "title": "External Authentication",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/a626f7eb6535a-external-authentication",
+      "slug": "integrations-api-subpage-external-authentication"
+    },
+    {
       "filename": "integrations-api-subpage-external-billing.md",
       "title": "External Billing",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/f416a6a111b74-billing-webhook",
       "slug": "integrations-api-subpage-external-billing"
+    },
+    {
+      "filename": "integrations-api-subpage-externalauthconnected.md",
+      "title": "ExternalAuthConnected",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/7afbc237f52a0-external-auth-connected",
+      "slug": "integrations-api-subpage-externalauthconnected"
     },
     {
       "filename": "integrations-api-subpage-faqs.md",
@@ -473,6 +606,20 @@
       "slug": "integrations-api-subpage-get-list-of-filesget"
     },
     {
+      "filename": "integrations-api-subpage-import-coursespost.md",
+      "title": "Import Coursespost",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/7ca9bb420fe98-import-courses",
+      "slug": "integrations-api-subpage-import-coursespost"
+    },
+    {
+      "filename": "integrations-api-subpage-inboundmessage.md",
+      "title": "InboundMessage",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/b7ada313a6066-inbound-message",
+      "slug": "integrations-api-subpage-inboundmessage"
+    },
+    {
       "filename": "integrations-api-subpage-integrations-api.md",
       "title": "Integrations API",
       "type": "integrations-api-subpage",
@@ -480,11 +627,81 @@
       "slug": "integrations-api-subpage-integrations-api"
     },
     {
+      "filename": "integrations-api-subpage-invoicecreate.md",
+      "title": "InvoiceCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/953a61e1be3a7-invoice",
+      "slug": "integrations-api-subpage-invoicecreate"
+    },
+    {
+      "filename": "integrations-api-subpage-invoicedelete.md",
+      "title": "InvoiceDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/093a8f30bd223-invoice",
+      "slug": "integrations-api-subpage-invoicedelete"
+    },
+    {
+      "filename": "integrations-api-subpage-invoicepaid.md",
+      "title": "InvoicePaid",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ec9035766c079-invoice",
+      "slug": "integrations-api-subpage-invoicepaid"
+    },
+    {
+      "filename": "integrations-api-subpage-invoicepartiallypaid.md",
+      "title": "InvoicePartiallyPaid",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/fef02636de918-invoice",
+      "slug": "integrations-api-subpage-invoicepartiallypaid"
+    },
+    {
       "filename": "integrations-api-subpage-invoices.md",
       "title": "Invoices",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/dcaf05eb72b81-invoice-api",
       "slug": "integrations-api-subpage-invoices"
+    },
+    {
+      "filename": "integrations-api-subpage-invoicesent.md",
+      "title": "InvoiceSent",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/287f2b117bf2a-invoice",
+      "slug": "integrations-api-subpage-invoicesent"
+    },
+    {
+      "filename": "integrations-api-subpage-invoicevoid.md",
+      "title": "InvoiceVoid",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/bb46befb04ddb-invoice",
+      "slug": "integrations-api-subpage-invoicevoid"
+    },
+    {
+      "filename": "integrations-api-subpage-lc-email.md",
+      "title": "LC Email",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/1f4235fcc24a1-email-isv-api",
+      "slug": "integrations-api-subpage-lc-email"
+    },
+    {
+      "filename": "integrations-api-subpage-lcemailstats.md",
+      "title": "LCEmailStats",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/8ee6e13e6c912-lc-email",
+      "slug": "integrations-api-subpage-lcemailstats"
+    },
+    {
+      "filename": "integrations-api-subpage-locationcreate.md",
+      "title": "LocationCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/4sn3a9hsczi43-location",
+      "slug": "integrations-api-subpage-locationcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-locationupdate.md",
+      "title": "LocationUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/69nmspzfqtcdk-location",
+      "slug": "integrations-api-subpage-locationupdate"
     },
     {
       "filename": "integrations-api-subpage-marketplace.md",
@@ -501,6 +718,27 @@
       "slug": "integrations-api-subpage-media-library"
     },
     {
+      "filename": "integrations-api-subpage-notecreate.md",
+      "title": "NoteCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjc2-note",
+      "slug": "integrations-api-subpage-notecreate"
+    },
+    {
+      "filename": "integrations-api-subpage-notedelete.md",
+      "title": "NoteDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjgz-note",
+      "slug": "integrations-api-subpage-notedelete"
+    },
+    {
+      "filename": "integrations-api-subpage-noteupdate.md",
+      "title": "NoteUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/16280dc14931d-note",
+      "slug": "integrations-api-subpage-noteupdate"
+    },
+    {
       "filename": "integrations-api-subpage-oauth-2-0.md",
       "title": "OAuth 2.0",
       "type": "integrations-api-subpage",
@@ -513,6 +751,20 @@
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/a1b9d6ccbc70d-custom-objects-api",
       "slug": "integrations-api-subpage-objects"
+    },
+    {
+      "filename": "integrations-api-subpage-objectschemacreate.md",
+      "title": "ObjectSchemaCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/5838fbea129d7-object-schema-create",
+      "slug": "integrations-api-subpage-objectschemacreate"
+    },
+    {
+      "filename": "integrations-api-subpage-objectschemaupdate.md",
+      "title": "ObjectSchemaUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/8af0d4fcfc99d-update-custom-object",
+      "slug": "integrations-api-subpage-objectschemaupdate"
     },
     {
       "filename": "integrations-api-subpage-on-this-page.md",
@@ -529,6 +781,69 @@
       "slug": "integrations-api-subpage-opportunities"
     },
     {
+      "filename": "integrations-api-subpage-opportunityassignedtoupdate.md",
+      "title": "OpportunityAssignedToUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/74dc6aec68259-opportunity",
+      "slug": "integrations-api-subpage-opportunityassignedtoupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-opportunitydelete.md",
+      "title": "OpportunityDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjg1-opportunity",
+      "slug": "integrations-api-subpage-opportunitydelete"
+    },
+    {
+      "filename": "integrations-api-subpage-opportunitymonetaryvalueupdate.md",
+      "title": "OpportunityMonetaryValueUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/4e1db6481a2bd-opportunity",
+      "slug": "integrations-api-subpage-opportunitymonetaryvalueupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-opportunitystageupdate.md",
+      "title": "OpportunityStageUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/0310e5d437596-opportunity",
+      "slug": "integrations-api-subpage-opportunitystageupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-opportunitystatusupdate.md",
+      "title": "OpportunityStatusUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/120cbffbaab4d-opportunity",
+      "slug": "integrations-api-subpage-opportunitystatusupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-opportunityupdate.md",
+      "title": "OpportunityUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/5e7bdb1f46b92-opportunity",
+      "slug": "integrations-api-subpage-opportunityupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-ordercreate.md",
+      "title": "OrderCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/80837edaceead-order",
+      "slug": "integrations-api-subpage-ordercreate"
+    },
+    {
+      "filename": "integrations-api-subpage-orderstatusupdate.md",
+      "title": "OrderStatusUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/9f1caf85e3890-order",
+      "slug": "integrations-api-subpage-orderstatusupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-outboundmessage.md",
+      "title": "OutboundMessage",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/028dcf92ee0b9-outbound-message",
+      "slug": "integrations-api-subpage-outboundmessage"
+    },
+    {
       "filename": "integrations-api-subpage-overview.md",
       "title": "Overview",
       "type": "integrations-api-subpage",
@@ -536,11 +851,109 @@
       "slug": "integrations-api-subpage-overview"
     },
     {
+      "filename": "integrations-api-subpage-payments.md",
+      "title": "Payments",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ad461c1eb08ab-payments-api",
+      "slug": "integrations-api-subpage-payments"
+    },
+    {
+      "filename": "integrations-api-subpage-planchange.md",
+      "title": "PlanChange",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/d36e6a58fa1c2-plan-change",
+      "slug": "integrations-api-subpage-planchange"
+    },
+    {
+      "filename": "integrations-api-subpage-pricecreate.md",
+      "title": "PriceCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/573fa6e713862-price",
+      "slug": "integrations-api-subpage-pricecreate"
+    },
+    {
+      "filename": "integrations-api-subpage-pricedelete.md",
+      "title": "PriceDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/d38908e8abed4-price",
+      "slug": "integrations-api-subpage-pricedelete"
+    },
+    {
+      "filename": "integrations-api-subpage-priceupdate.md",
+      "title": "PriceUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/d894abee643b0-price",
+      "slug": "integrations-api-subpage-priceupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-productcreate.md",
+      "title": "ProductCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/4e63348dfe1a0-product",
+      "slug": "integrations-api-subpage-productcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-productdelete.md",
+      "title": "ProductDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ebefc29824516-product",
+      "slug": "integrations-api-subpage-productdelete"
+    },
+    {
       "filename": "integrations-api-subpage-products.md",
       "title": "Products",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/486b7c90818f4-products-api",
       "slug": "integrations-api-subpage-products"
+    },
+    {
+      "filename": "integrations-api-subpage-productupdate.md",
+      "title": "ProductUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/442a01f1c6d9c-product",
+      "slug": "integrations-api-subpage-productupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-recordcreate.md",
+      "title": "RecordCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/eaa107154bbc4-record-create",
+      "slug": "integrations-api-subpage-recordcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-recorddelete.md",
+      "title": "RecordDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/81b40da792ba7-delete-record",
+      "slug": "integrations-api-subpage-recorddelete"
+    },
+    {
+      "filename": "integrations-api-subpage-recordupdate.md",
+      "title": "RecordUpdate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/8d8ecaadeeaa8-record-update",
+      "slug": "integrations-api-subpage-recordupdate"
+    },
+    {
+      "filename": "integrations-api-subpage-relationcreate.md",
+      "title": "RelationCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/54b668f99aada-relation-create",
+      "slug": "integrations-api-subpage-relationcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-relationdelete.md",
+      "title": "RelationDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/b2fc9458c047b-relation-delete",
+      "slug": "integrations-api-subpage-relationdelete"
+    },
+    {
+      "filename": "integrations-api-subpage-saas.md",
+      "title": "Saas",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/5e0404456de81-saa-s-api",
+      "slug": "integrations-api-subpage-saas"
     },
     {
       "filename": "integrations-api-subpage-scopes.md",
@@ -557,6 +970,20 @@
       "slug": "integrations-api-subpage-sign-in"
     },
     {
+      "filename": "integrations-api-subpage-snapshots.md",
+      "title": "Snapshots",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ff808584bafce-snapshots-api",
+      "slug": "integrations-api-subpage-snapshots"
+    },
+    {
+      "filename": "integrations-api-subpage-social-planner.md",
+      "title": "Social Planner",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/1241127e6d4d4-social-media-posting-api",
+      "slug": "integrations-api-subpage-social-planner"
+    },
+    {
       "filename": "integrations-api-subpage-standard-response-fields.md",
       "title": "Standard Response Fields",
       "type": "integrations-api-subpage",
@@ -564,11 +991,46 @@
       "slug": "integrations-api-subpage-standard-response-fields"
     },
     {
+      "filename": "integrations-api-subpage-store.md",
+      "title": "Store",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/8994a68c52c5c-store-api",
+      "slug": "integrations-api-subpage-store"
+    },
+    {
       "filename": "integrations-api-subpage-sub-accounts-formerly-locations.md",
       "title": "Sub-Accounts (Formerly locations)",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/e283eac258a96-sub-account-formerly-location-api",
       "slug": "integrations-api-subpage-sub-accounts-formerly-locations"
+    },
+    {
+      "filename": "integrations-api-subpage-surveys.md",
+      "title": "Surveys",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/695b9d1db7545-surveys-api",
+      "slug": "integrations-api-subpage-surveys"
+    },
+    {
+      "filename": "integrations-api-subpage-taskcomplete.md",
+      "title": "TaskComplete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/1eff163faf3e0-task",
+      "slug": "integrations-api-subpage-taskcomplete"
+    },
+    {
+      "filename": "integrations-api-subpage-taskcreate.md",
+      "title": "TaskCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjc1-task",
+      "slug": "integrations-api-subpage-taskcreate"
+    },
+    {
+      "filename": "integrations-api-subpage-taskdelete.md",
+      "title": "TaskDelete",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjg0-task",
+      "slug": "integrations-api-subpage-taskdelete"
     },
     {
       "filename": "integrations-api-subpage-traceid.md",
@@ -606,11 +1068,32 @@
       "slug": "integrations-api-subpage-user-context-in-marketplace-apps"
     },
     {
+      "filename": "integrations-api-subpage-usercreate.md",
+      "title": "UserCreate",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/f5f95c6d45f71-user",
+      "slug": "integrations-api-subpage-usercreate"
+    },
+    {
+      "filename": "integrations-api-subpage-users.md",
+      "title": "Users",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/7f581f780cf2f-users-api",
+      "slug": "integrations-api-subpage-users"
+    },
+    {
       "filename": "integrations-api-subpage-webhook-authentication.md",
       "title": "Webhook Authentication",
       "type": "integrations-api-subpage",
       "url": "https://highlevel.stoplight.io/docs/integrations/vyc3gbbez52ip-webhook-authentication-guide",
       "slug": "integrations-api-subpage-webhook-authentication"
+    },
+    {
+      "filename": "integrations-api-subpage-wrapper-functions.md",
+      "title": "Wrapper Functions",
+      "type": "integrations-api-subpage",
+      "url": "https://highlevel.stoplight.io/docs/integrations/342bca923152a-custom-js",
+      "slug": "integrations-api-subpage-wrapper-functions"
     },
     {
       "filename": "marketplace-docs-highlevel-api-documentation.md",

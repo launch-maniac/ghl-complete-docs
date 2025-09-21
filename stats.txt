@@ -6,21 +6,97 @@
 
 📈 DOCUMENTATION STATISTICS
 ==================================================
-Total Documents: 116
-Last Updated: 9/20/2025, 9:27:24 PM
+Total Documents: 403
+Last Updated: 9/21/2025, 3:56:43 AM
 
 Categories:
-  • Marketplace Documentation: 83 documents
+  • Marketplace Documentation: 260 documents
+  • Video Tutorials: 148 documents
   • Changelog: 10 documents
-  • Video Tutorials: 6 documents
+  • Ad-manager: 1 documents
+  • Ad-reporting-and-attribution: 1 documents
+  • Agency-onboarding: 1 documents
+  • Ai-employee: 1 documents
+  • Apis: 1 documents
+  • App-marketplace: 1 documents
+  • Ask-ai: 1 documents
+  • Automations: 1 documents
+  • Blog: 1 documents
+  • Bulk-actions: 1 documents
+  • Calendar: 1 documents
+  • Call-tracking: 1 documents
+  • Certificates: 1 documents
+  • Chat-widget: 1 documents
+  • Client-portal: 1 documents
+  • Communities: 1 documents
+  • Company-object: 1 documents
+  • Contacts: 1 documents
+  • Content-ai: 1 documents
+  • Conversation-ai: 1 documents
+  • Conversations: 1 documents
+  • Courses: 1 documents
+  • Crm: 1 documents
+  • Custom-objects: 1 documents
+  • Dashboard: 1 documents
+  • Documents-amp-contracts: 1 documents
+  • Domains: 1 documents
+  • E-commerce-stores: 1 documents
+  • Eliza: 1 documents
+  • Email-builder: 1 documents
+  • Fb-ig-messenger: 1 documents
+  • Forms: 1 documents
+  • Funnels: 1 documents
+  • Go-kollab: 1 documents
+  • Google-my-business: 1 documents
+  • Highlevel-mcp: 1 documents
+  • Hipaa-compliance: 1 documents
+  • Hl-affiliate-portal: 1 documents
+  • Integrations: 1 documents
+  • Invoicing: 1 documents
+  • Language: 1 documents
+  • Lc-email-system: 1 documents
+  • Listings: 1 documents
+  • Location-launchpad: 1 documents
+  • Marketplace-new-app-request: 1 documents
+  • Media-library: 1 documents
+  • Mobile-app: 1 documents
+  • Opportunities-amp-pipelines: 1 documents
+  • Payment-links: 1 documents
+  • Payments: 1 documents
+  • Phone-system: 1 documents
+  • Pos-and-mobile-payments: 1 documents
+  • Priority-support: 1 documents
+  • Prospecting-tool: 1 documents
+  • Qr-codes: 1 documents
+  • Quizzes: 1 documents
+  • Rcs-messaging: 1 documents
+  • Reporting: 1 documents
+  • Reputation-management: 1 documents
+  • Reselling: 1 documents
+  • Reviews-ai: 1 documents
+  • Saas-mode: 1 documents
+  • Seo: 1 documents
+  • Smartlists: 1 documents
+  • Snapshots: 1 documents
+  • Social-planner: 1 documents
+  • Sub-account-affiliate-manager: 1 documents
+  • Surveys: 1 documents
+  • Tasks: 1 documents
+  • Template-library: 1 documents
+  • Users-amp-permissions: 1 documents
+  • Voice-ai: 1 documents
+  • Website: 1 documents
+  • Whatsapp: 1 documents
+  • Widgets: 1 documents
+  • Wordpress: 1 documents
 
 Sources:
-  • highlevel.stoplight.io: 50 documents
+  • youtube.com/@gohighlevel: 148 documents
+  • highlevel.stoplight.io: 119 documents
+  • ideas.gohighlevel.com: 86 documents
   • marketplace.gohighlevel.com: 26 documents
   • help.gohighlevel.com: 23 documents
-  • ideas.gohighlevel.com: 10 documents
-  • youtube.com/@gohighlevel: 6 documents
   • developers.gohighlevel.com: 1 documents
 ==================================================
-✅ Stats generated: 116 total documents
+✅ Stats generated: 403 total documents
 ✅ Statistics generation completed
