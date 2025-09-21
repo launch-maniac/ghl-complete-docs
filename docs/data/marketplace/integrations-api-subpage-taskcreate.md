@@ -3,7 +3,7 @@ title: "TaskCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjc1-task"
-extracted_at: "2025-09-21T03:53:48.441Z"
+extracted_at: "2025-09-21T06:32:34.568Z"
 ---
 
 # Task

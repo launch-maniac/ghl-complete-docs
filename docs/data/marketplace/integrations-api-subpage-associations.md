@@ -3,7 +3,7 @@ title: "Associations"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/1940cca63e13b-associations-api"
-extracted_at: "2025-09-21T03:43:09.623Z"
+extracted_at: "2025-09-21T06:23:01.109Z"
 ---
 
 # Associations API

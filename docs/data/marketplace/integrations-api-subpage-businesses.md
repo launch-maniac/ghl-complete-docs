@@ -3,7 +3,7 @@ title: "Businesses"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/bb6b717cac89c-business-api"
-extracted_at: "2025-09-21T03:42:32.328Z"
+extracted_at: "2025-09-21T06:22:14.019Z"
 ---
 
 # Business API
