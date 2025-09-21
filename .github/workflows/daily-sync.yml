@@ -1,9 +1,9 @@
-name: Documentation Sync (Every 3 Hours)
+name: Documentation Sync (Daily at 12:30 AM PT)
 
 on:
   schedule:
-    # Runs every 3 hours for more frequent updates
-    - cron: '0 */3 * * *'
+    # Runs daily at 12:30 AM PT (7:30 AM UTC) - 30 minutes after YouTube API quota reset
+    - cron: '30 7 * * *'
   workflow_dispatch:
     inputs:
       full_sync:
@@ -33,7 +33,7 @@ permissions:
 jobs:
   extract-and-sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 60   # Optimized timeout for 3-hour frequency with API integration
+    timeout-minutes: 120  # Extended timeout for comprehensive video extraction (911+ videos)
     
     steps:
       - name: 📥 Checkout Repository
@@ -107,7 +107,7 @@ jobs:
           git add -A
           
           # Create detailed commit message
-          echo "📚 Daily sync: $(date +'%Y-%m-%d')" > commit_msg.txt
+          echo "📚 Daily sync: $(date +'%Y-%m-%d') - Post-quota reset extraction" > commit_msg.txt
           echo "" >> commit_msg.txt
           cat stats.txt >> commit_msg.txt
           

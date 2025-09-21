@@ -1,9 +1,8 @@
-const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
 const path = require('path');
 const TurndownService = require('turndown');
 const https = require('https');
-const os = require('os');
+const axios = require('axios');
 const { getEmojiWithSpace } = require('../utils/emoji');
 
 // Polyfill fetch for Node.js environments that don't have it
@@ -47,8 +46,14 @@ class VideoTutorialScraper {
       playlists: 0,
       expired: 0,
       updated: 0,
-      errors: 0
+      errors: 0,
+      transcripts: 0,
+      transcriptsFailed: 0
     };
+
+    // YouTube API configuration
+    this.youtubeApiKey = process.env.YOUTUBE_API_KEY || 'AIzaSyDjHgwNxPf5ss4Lg2QnP8MFgEQ2p57fdW0';
+    this.youtubeApiBase = 'https://www.googleapis.com/youtube/v3';
     
     // Video freshness configuration
     this.freshnessConfig = {
@@ -87,309 +92,226 @@ class VideoTutorialScraper {
     ];
   }
 
-  getBrowserConfig() {
-    const baseConfig = {
-      headless: 'new',
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-gpu',
-        '--disable-extensions',
-        '--no-first-run',
-        '--disable-default-apps',
-        '--disable-web-security',
-        '--disable-features=VizDisplayCompositor'
-      ],
-      timeout: 60000,
-      protocolTimeout: 60000
-    };
-
-    // Try to find Chrome executable path
-    const homedir = os.homedir();
-    const possibleChromePaths = [
-      // Puppeteer cache locations
-      path.join(homedir, '.cache/puppeteer/chrome/mac_arm-127.0.6533.88/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing'),
-      path.join(homedir, '.cache/puppeteer/chrome/mac_arm-121.0.6167.85/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing'),
-
-      // Standard Chrome installations
-      '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-      '/Applications/Chromium.app/Contents/MacOS/Chromium',
-
-      // Linux paths
-      '/usr/bin/google-chrome',
-      '/usr/bin/chromium-browser',
-      '/usr/bin/chromium'
-    ];
-
-    // Find the first available Chrome binary
-    for (const chromePath of possibleChromePaths) {
-      if (fs.existsSync(chromePath)) {
-        console.log(`${getEmojiWithSpace('🔧', 'CHROME')}Using Chrome at: ${chromePath}`);
-        baseConfig.executablePath = chromePath;
-        break;
-      }
-    }
-
-    // For CI environments (like GitHub Actions), don't specify executablePath
-    if (process.env.CI) {
-      console.log(`${getEmojiWithSpace('🤖', 'CI')}Running in CI environment, using default Chrome`);
-      delete baseConfig.executablePath;
-    }
-
-    return baseConfig;
-  }
 
   async scrape() {
-    console.log(`${getEmojiWithSpace('🎥', 'STARTING')}Starting Video Tutorial extraction with freshness monitoring...`);
+    console.log(`${getEmojiWithSpace('🎥', 'STARTING')}Starting Video Tutorial extraction with transcript support...`);
     await fs.ensureDir(this.outputDir);
     await fs.ensureDir(this.expiredDir);
-    
+
     // First, clean up expired videos
     await this.cleanupExpiredVideos();
 
-    const browser = await puppeteer.launch(this.getBrowserConfig());
-
     try {
-      const page = await browser.newPage();
-      await page.setViewport({ width: 1920, height: 1080 });
-      
-      // Set user agent to avoid detection
-      await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-      
       for (const source of this.videoSources) {
         try {
           console.log(`${getEmojiWithSpace('🎬', 'PROCESSING')}Processing ${source.name}...`);
-          
+
           if (source.type === 'youtube_channel') {
-            await this.scrapeYouTubeChannel(page, source);
+            await this.scrapeYouTubeChannelHttp(source);
           } else if (source.type === 'youtube_search') {
-            await this.scrapeYouTubeSearch(page, source);
+            await this.scrapeYouTubeSearchHttp(source);
           } else if (source.type === 'platform_videos') {
-            await this.scrapePlatformVideos(page, source);
+            await this.scrapePlatformVideosHttp(source);
           }
-          
-          await this.delay(3000); // Rate limiting
+
+          await this.delay(2000); // Rate limiting
         } catch (error) {
           console.error(`❌ Error processing ${source.name}:`, error.message);
           this.stats.errors++;
         }
       }
-      
+
       // Generate index
       await this.generateIndex();
-      
-      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Video extraction complete: ${this.stats.videos} videos from ${this.stats.channels} sources`);
-      
+
+      console.log(`${getEmojiWithSpace('✅', 'SUCCESS')}Video extraction complete: ${this.stats.videos} videos, ${this.stats.transcripts} transcripts`);
+
     } catch (error) {
       console.error('❌ Video extraction error:', error);
       this.stats.errors++;
-    } finally {
-      await browser.close();
     }
 
     return this.stats;
   }
 
-  async scrapeYouTubeChannel(page, source) {
-    for (const url of source.urls) {
-      try {
-        console.log(`  ${getEmojiWithSpace('📺', 'SCRAPING')}Scraping YouTube: ${url}`);
-        
-        await page.goto(url, {
-          waitUntil: 'networkidle2',
-          timeout: 30000
-        });
+  async fetchAllVideosFromAPI(channelHandle, publishedAfter) {
+    const allVideos = [];
+    let pageToken = null;
+    const channelId = 'UCXFiV4qDX5ipE-DQcsm1j4g'; // @gohighlevel channel ID
 
-        // Wait for content to load
-        await this.delay(3000);
-        
-        // Extract video information
-        const videos = await page.evaluate(() => {
-          const videoElements = document.querySelectorAll('a[href*="/watch?v="]');
-          const videos = [];
-          
-          for (const element of videoElements) {
-            const href = element.href;
-            const titleElement = element.querySelector('[aria-label]') || 
-                                element.querySelector('#video-title') ||
-                                element.querySelector('.ytd-video-meta-block #video-title');
-            
-            // Try to get publish date from various selectors
-            const dateElement = element.querySelector('#metadata-line span:nth-child(2)') ||
-                               element.querySelector('.ytd-video-meta-block #metadata-line span:last-child') ||
-                               element.querySelector('[aria-label*="ago"]');
-            
-            if (href && titleElement) {
-              const title = titleElement.textContent?.trim() || titleElement.getAttribute('aria-label');
-              const videoId = href.match(/v=([^&]+)/)?.[1];
-              const publishedText = dateElement?.textContent?.trim() || '';
-              
-              if (title && videoId) {
-                videos.push({
-                  id: videoId,
-                  title: title,
-                  url: href,
-                  thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
-                  publishedText: publishedText
-                });
-              }
-            }
-          }
-          
-          return videos.slice(0, 50); // Limit to avoid overwhelming
-        });
+    try {
+      console.log(`    🔄 Fetching ALL videos from channel (no date filtering in API)...`);
 
-        console.log(`    📑 Found ${videos.length} videos`);
-        
-        // Filter for videos within the last 180 days (if specified)
-        let filteredVideos = videos;
-        if (source.daysBack) {
-          const cutoffDate = new Date();
-          cutoffDate.setDate(cutoffDate.getDate() - source.daysBack);
-          
-          filteredVideos = videos.filter(video => {
-            const videoDate = this.parseYouTubeDate(video.publishedText);
-            return !videoDate || videoDate >= cutoffDate; // Include if date unknown or within range
-          });
-          
-          console.log(`    📅 ${filteredVideos.length} videos within last ${source.daysBack} days`);
+      do {
+        const url = new URL(`${this.youtubeApiBase}/search`);
+        url.searchParams.set('part', 'snippet');
+        url.searchParams.set('channelId', channelId);
+        url.searchParams.set('order', 'date');
+        url.searchParams.set('type', 'video');
+        url.searchParams.set('maxResults', '50');
+        // REMOVED: publishedAfter filter to get more results
+        url.searchParams.set('key', this.youtubeApiKey);
+
+        if (pageToken) {
+          url.searchParams.set('pageToken', pageToken);
         }
-        
-        // Filter for GHL-related content
-        const relevantVideos = filteredVideos.filter(video => 
-          this.isRelevantToGHL(video.title)
-        );
-        
-        console.log(`    🎯 ${relevantVideos.length} relevant videos`);
-        
-        // Enrich and save video metadata with freshness analysis
-        for (const video of relevantVideos) {
-          const enrichedVideo = await this.enrichVideoMetadata(video, source.name);
-          if (enrichedVideo && !this.isVideoExpired(enrichedVideo)) {
-            await this.saveVideoMetadata(enrichedVideo, source.name);
-          } else if (enrichedVideo) {
-            await this.moveToExpired(enrichedVideo, 'Age limit exceeded');
+
+        console.log(`    🔄 Fetching page ${Math.floor(allVideos.length / 50) + 1} of videos...`);
+        const response = await axios.get(url.toString());
+        const data = response.data;
+
+        console.log(`    📊 API Response: ${data.items?.length || 0} items, totalResults: ${data.pageInfo?.totalResults}, nextPageToken: ${data.nextPageToken ? 'present' : 'none'}`);
+
+        if (data.items && data.items.length > 0) {
+          for (const item of data.items) {
+            allVideos.push({
+              id: item.id.videoId,
+              title: item.snippet.title,
+              url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
+              thumbnail: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.high?.url || item.snippet.thumbnails.medium?.url,
+              publishedDate: new Date(item.snippet.publishedAt),
+              description: item.snippet.description,
+              publishedText: item.snippet.publishedAt
+            });
           }
         }
-        
-        this.stats.videos += relevantVideos.length;
-        
-      } catch (error) {
-        console.error(`    ❌ Error scraping ${url}:`, error.message);
-        this.stats.errors++;
-      }
+
+        pageToken = data.nextPageToken;
+        console.log(`    📄 Page ${Math.floor(allVideos.length / 50)} complete: +${data.items?.length || 0} videos, running total: ${allVideos.length}`);
+
+        // Safety limit to prevent infinite loops (raised for comprehensive extraction)
+        if (allVideos.length > 1200) {
+          console.log(`    ⚠️  Hit safety limit of 1200 videos`);
+          break;
+        }
+
+      } while (pageToken);
+
+      console.log(`    ✅ Pagination complete: ${allVideos.length} total videos extracted`);
+
+      // Step 3: Filter by date client-side (more reliable than API filtering)
+      const cutoffDate = new Date(publishedAfter);
+      const filteredVideos = allVideos.filter(video => video.publishedDate >= cutoffDate);
+
+      console.log(`    🗓️  Date filtering: ${filteredVideos.length} videos after ${cutoffDate.toLocaleDateString()} (${allVideos.length - filteredVideos.length} filtered out)`);
+
+      return filteredVideos;
+    } catch (error) {
+      console.error(`API fetch error:`, error.message);
+      return [];
     }
-    
+  }
+
+  async scrapeYouTubeChannelHttp(source) {
+    try {
+      console.log(`  ${getEmojiWithSpace('📺', 'SCRAPING')}Fetching YouTube videos via API: ${source.channelHandle}`);
+
+      // Calculate cutoff date for filtering (proper 6-month calculation)
+      const cutoffDate = new Date();
+      cutoffDate.setMonth(cutoffDate.getMonth() - 6); // Proper 6-month period
+      const publishedAfter = cutoffDate.toISOString();
+
+      console.log(`    📅 Extracting videos published after: ${publishedAfter} (6 months ago)`);
+
+      // Get all videos from YouTube Data API with pagination
+      const videos = await this.fetchAllVideosFromAPI(source.channelHandle, publishedAfter);
+      console.log(`    📑 Found ${videos.length} videos`);
+
+      // All videos are already filtered by date from API
+      const filteredVideos = videos;
+      console.log(`    📅 ${filteredVideos.length} videos within last ${source.daysBack || 180} days`);
+
+      // All videos from official GoHighLevel channel are relevant
+      const relevantVideos = filteredVideos;
+      console.log(`    🎯 ${relevantVideos.length} relevant videos`);
+
+      // Enrich and save video metadata with transcripts
+      for (const video of relevantVideos) {
+        const enrichedVideo = await this.enrichVideoMetadata(video, source.name);
+        if (enrichedVideo && !this.isVideoExpired(enrichedVideo)) {
+          // Extract transcript for this video
+          const transcript = await this.extractTranscript(enrichedVideo.id);
+          enrichedVideo.transcript = transcript;
+          await this.saveVideoMetadata(enrichedVideo, source.name);
+        } else if (enrichedVideo) {
+          await this.moveToExpired(enrichedVideo, 'Age limit exceeded');
+        }
+      }
+
+      this.stats.videos += relevantVideos.length;
+
+    } catch (error) {
+      console.error(`    ❌ Error scraping API:`, error.message);
+      this.stats.errors++;
+    }
+
     this.stats.channels++;
   }
 
-  async scrapeYouTubeSearch(page, source) {
-    for (const query of source.searchQueries) {
-      try {
-        const searchUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`;
-        console.log(`  ${getEmojiWithSpace('🔍', 'SEARCHING')}Searching YouTube: ${query}`);
-        
-        await page.goto(searchUrl, {
-          waitUntil: 'networkidle2',
-          timeout: 30000
-        });
+  extractVideosFromHtml(htmlContent) {
+    const videos = [];
 
-        await this.delay(3000);
-        
-        // Extract search results
-        const videos = await page.evaluate(() => {
-          const videoElements = document.querySelectorAll('a[href*="/watch?v="]');
-          const videos = [];
-          
-          for (const element of videoElements) {
-            const href = element.href;
-            const titleElement = element.querySelector('#video-title') ||
-                                element.querySelector('[aria-label]');
-            
-            if (href && titleElement) {
-              const title = titleElement.textContent?.trim() || titleElement.getAttribute('aria-label');
-              const videoId = href.match(/v=([^&]+)/)?.[1];
-              
-              if (title && videoId && !videos.find(v => v.id === videoId)) {
-                videos.push({
-                  id: videoId,
-                  title: title,
-                  url: href,
-                  thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`
-                });
-              }
-            }
-          }
-          
-          return videos.slice(0, 20); // Limit search results
-        });
+    // YouTube uses various patterns for video links, try multiple approaches
+    const videoPatterns = [
+      /href="\/watch\?v=([^"&]+)"[^>]*>[\s\S]*?aria-label="([^"]+)"/g,
+      /"videoId":"([^"]+)"[\s\S]*?"title":{"runs":\[{"text":"([^"]+)"/g,
+      /"watchEndpoint":{"videoId":"([^"]+)"}[\s\S]*?"text":"([^"]+)"/g
+    ];
 
-        console.log(`    📑 Found ${videos.length} search results`);
-        
-        // Save video metadata
-        for (const video of videos) {
-          await this.saveVideoMetadata(video, `Search: ${query}`);
+    for (const pattern of videoPatterns) {
+      let match;
+      while ((match = pattern.exec(htmlContent)) !== null) {
+        const videoId = match[1];
+        const title = match[2];
+
+        if (videoId && title && !videos.find(v => v.id === videoId)) {
+          videos.push({
+            id: videoId,
+            title: title.replace(/\\u0026/g, '&').replace(/\\"/g, '"'),
+            url: `https://www.youtube.com/watch?v=${videoId}`,
+            thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+            publishedText: '' // Will be enriched later
+          });
         }
-        
-        this.stats.videos += videos.length;
-        
-      } catch (error) {
-        console.error(`    ❌ Error searching for "${query}":`, error.message);
-        this.stats.errors++;
       }
     }
+
+    return videos.slice(0, 50); // Limit to avoid overwhelming
   }
 
-  async scrapePlatformVideos(page, source) {
+  async scrapeYouTubeSearchHttp(source) {
+    // For now, focus on channel extraction. Search can be added later.
+    console.log(`  ${getEmojiWithSpace('⚠️', 'SKIP')}YouTube search not implemented in HTTP mode yet`);
+  }
+
+  async scrapePlatformVideosHttp(source) {
     for (const url of source.urls) {
       try {
         console.log(`  📖 Scraping platform videos: ${url}`);
-        
-        await page.goto(url, {
-          waitUntil: 'networkidle2',
+
+        const response = await axios.get(url, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+          },
           timeout: 30000
         });
 
+        const htmlContent = response.data;
+
         // Look for embedded YouTube videos
-        const embeddedVideos = await page.evaluate(() => {
-          const iframes = document.querySelectorAll('iframe[src*="youtube.com"]');
-          const videos = [];
-          
-          for (const iframe of iframes) {
-            const src = iframe.src;
-            const videoId = src.match(/embed\/([^?]+)/)?.[1];
-            
-            if (videoId) {
-              // Try to find title from surrounding content
-              const container = iframe.closest('article, .content, .help-article');
-              const titleElement = container?.querySelector('h1, h2, h3, .title') ||
-                                 document.querySelector('h1, .page-title');
-              
-              const title = titleElement?.textContent?.trim() || `GHL Tutorial - ${videoId}`;
-              
-              videos.push({
-                id: videoId,
-                title: title,
-                url: `https://www.youtube.com/watch?v=${videoId}`,
-                thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
-                embeddedIn: url
-              });
-            }
-          }
-          
-          return videos;
-        });
+        const embeddedVideos = this.extractEmbeddedVideos(htmlContent, url);
 
         console.log(`    📑 Found ${embeddedVideos.length} embedded videos`);
-        
-        // Save video metadata
+
+        // Save video metadata with transcripts
         for (const video of embeddedVideos) {
+          const transcript = await this.extractTranscript(video.id);
+          video.transcript = transcript;
           await this.saveVideoMetadata(video, source.name);
         }
-        
+
         this.stats.videos += embeddedVideos.length;
-        
+
       } catch (error) {
         console.error(`    ❌ Error scraping platform videos from ${url}:`, error.message);
         this.stats.errors++;
@@ -397,17 +319,139 @@ class VideoTutorialScraper {
     }
   }
 
-  isRelevantToGHL(title) {
-    const relevantKeywords = [
-      'gohighlevel', 'highlevel', 'ghl', 'api', 'automation',
-      'workflow', 'funnel', 'crm', 'marketing', 'webhook',
-      'integration', 'marketplace', 'developer', 'tutorial',
-      'training', 'setup', 'guide', 'demo'
-    ];
-    
-    const titleLower = title.toLowerCase();
-    return relevantKeywords.some(keyword => titleLower.includes(keyword));
+  extractEmbeddedVideos(htmlContent, sourceUrl) {
+    const videos = [];
+    const iframePattern = /<iframe[^>]+src="[^"]*youtube\.com\/embed\/([^"?]+)[^"]*"[^>]*>/g;
+
+    let match;
+    while ((match = iframePattern.exec(htmlContent)) !== null) {
+      const videoId = match[1];
+
+      if (videoId) {
+        // Try to find title from surrounding content
+        const titlePattern = /<h[1-6][^>]*>([^<]+)<\/h[1-6]>/gi;
+        const titleMatch = htmlContent.match(titlePattern);
+        const title = titleMatch ? titleMatch[0].replace(/<[^>]+>/g, '').trim() : `GHL Tutorial - ${videoId}`;
+
+        videos.push({
+          id: videoId,
+          title: title,
+          url: `https://www.youtube.com/watch?v=${videoId}`,
+          thumbnail: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+          embeddedIn: sourceUrl
+        });
+      }
+    }
+
+    return videos;
   }
+
+  // YouTube API Methods for Transcript Extraction
+  async extractTranscript(videoId) {
+    try {
+      console.log(`    ${getEmojiWithSpace('📝', 'TRANSCRIPT')}Checking transcript availability for ${videoId}...`);
+
+      // Step 1: Get available captions (this works with API key)
+      const captionsUrl = `${this.youtubeApiBase}/captions?part=snippet&videoId=${videoId}&key=${this.youtubeApiKey}`;
+      const captionsResponse = await axios.get(captionsUrl);
+
+      if (!captionsResponse.data.items || captionsResponse.data.items.length === 0) {
+        console.log(`    ${getEmojiWithSpace('⚠️', 'NO_CAPTIONS')}No captions available for ${videoId}`);
+        this.stats.transcriptsFailed++;
+        return null;
+      }
+
+      // Step 2: Find the best caption track (prefer English, then auto-generated)
+      const captions = captionsResponse.data.items;
+      let bestCaption = captions.find(cap => cap.snippet.language === 'en' && cap.snippet.trackKind !== 'asr') ||
+                       captions.find(cap => cap.snippet.language === 'en') ||
+                       captions[0];
+
+      if (!bestCaption) {
+        console.log(`    ${getEmojiWithSpace('⚠️', 'NO_SUITABLE')}No suitable captions found for ${videoId}`);
+        this.stats.transcriptsFailed++;
+        return null;
+      }
+
+      // Step 3: Try to download transcript (requires OAuth2, will likely fail)
+      try {
+        const transcriptUrl = `${this.youtubeApiBase}/captions/${bestCaption.id}?tfmt=srt&key=${this.youtubeApiKey}`;
+        const transcriptResponse = await axios.get(transcriptUrl);
+
+        // Step 4: Parse and clean the SRT content
+        const cleanTranscript = this.parseSrtToText(transcriptResponse.data);
+
+        console.log(`    ${getEmojiWithSpace('✅', 'SUCCESS')}Transcript extracted (${cleanTranscript.length} chars)`);
+        this.stats.transcripts++;
+
+        return {
+          language: bestCaption.snippet.language,
+          trackKind: bestCaption.snippet.trackKind,
+          name: bestCaption.snippet.name,
+          text: cleanTranscript,
+          wordCount: cleanTranscript.split(/\s+/).length
+        };
+
+      } catch (downloadError) {
+        // OAuth2 required for transcript download - provide metadata instead
+        console.log(`    ${getEmojiWithSpace('⚠️', 'OAUTH_REQUIRED')}Transcript download requires OAuth2, providing metadata only`);
+        this.stats.transcriptsFailed++;
+
+        return {
+          language: bestCaption.snippet.language,
+          trackKind: bestCaption.snippet.trackKind,
+          name: bestCaption.snippet.name,
+          text: null,
+          wordCount: 0,
+          available: true,
+          requiresAuth: true,
+          captionId: bestCaption.id
+        };
+      }
+
+    } catch (error) {
+      console.log(`    ${getEmojiWithSpace('❌', 'FAILED')}Transcript check failed for ${videoId}: ${error.message}`);
+      this.stats.transcriptsFailed++;
+      return null;
+    }
+  }
+
+  parseSrtToText(srtContent) {
+    if (!srtContent || typeof srtContent !== 'string') {
+      return '';
+    }
+
+    // Remove SRT timestamps and formatting
+    const lines = srtContent.split('\n');
+    const textLines = [];
+
+    for (const line of lines) {
+      const trimmed = line.trim();
+      // Skip empty lines, sequence numbers, and timestamp lines
+      if (trimmed &&
+          !trimmed.match(/^\d+$/) &&
+          !trimmed.match(/^\d{2}:\d{2}:\d{2}/) &&
+          !trimmed.includes('-->')) {
+        // Clean up HTML entities and formatting
+        const cleaned = trimmed
+          .replace(/&lt;/g, '<')
+          .replace(/&gt;/g, '>')
+          .replace(/&amp;/g, '&')
+          .replace(/&quot;/g, '"')
+          .replace(/<[^>]+>/g, '') // Remove HTML tags
+          .replace(/\s+/g, ' ') // Normalize whitespace
+          .trim();
+
+        if (cleaned) {
+          textLines.push(cleaned);
+        }
+      }
+    }
+
+    return textLines.join(' ').trim();
+  }
+
+
 
   async saveVideoMetadata(video, source) {
     try {
@@ -423,13 +467,14 @@ class VideoTutorialScraper {
         freshnessStatus: video.freshnessStatus,
         contentCategory: video.contentCategory,
         category: 'video-tutorial',
-        type: 'youtube'
+        type: 'youtube',
+        transcript: video.transcript
       };
 
-      // Create enhanced markdown content with freshness indicators
+      // Create enhanced markdown content with freshness indicators and transcripts
       const publishedDateStr = video.publishedDate ? video.publishedDate.toISOString() : 'unknown';
       const freshnessStatus = video.freshnessStatus || { status: 'unknown', message: 'Date not available' };
-      
+
       // Add visual freshness indicator
       let freshnessEmoji = '❓';
       switch (freshnessStatus.status) {
@@ -437,6 +482,23 @@ class VideoTutorialScraper {
         case 'warning': freshnessEmoji = '🟡'; break;
         case 'expired': freshnessEmoji = '🔴'; break;
       }
+
+      // Add transcript information to frontmatter
+      const transcriptInfo = video.transcript ? {
+        hasTranscript: video.transcript.available || !!video.transcript.text,
+        transcriptLanguage: video.transcript.language,
+        transcriptType: video.transcript.trackKind,
+        wordCount: video.transcript.wordCount,
+        requiresAuth: video.transcript.requiresAuth || false,
+        available: video.transcript.available || false
+      } : {
+        hasTranscript: false,
+        transcriptLanguage: 'none',
+        transcriptType: 'none',
+        wordCount: 0,
+        requiresAuth: false,
+        available: false
+      };
 
       const frontmatter = `---
 title: "${video.title.replace(/"/g, '\\"')}"
@@ -449,6 +511,10 @@ freshness_status: "${freshnessStatus.status}"
 freshness_message: "${freshnessStatus.message}"
 content_category: "${video.contentCategory || 'standard'}"
 age_in_months: "${freshnessStatus.ageInMonths || 'unknown'}"
+has_transcript: ${transcriptInfo.hasTranscript}
+transcript_language: "${transcriptInfo.transcriptLanguage}"
+transcript_type: "${transcriptInfo.transcriptType}"
+word_count: ${transcriptInfo.wordCount}
 category: "videos"
 type: "tutorial"
 platform: "youtube"
@@ -458,11 +524,15 @@ ${video.embeddedIn ? `embedded_in: "${video.embeddedIn}"` : ''}
 
 # ${freshnessEmoji} ${video.title}
 
-**Video ID:** \`${video.id}\`  
-**Source:** ${source}  
-**Platform:** YouTube  
-**Published:** ${video.publishedDate ? video.publishedDate.toLocaleDateString() : 'Unknown'}  
+**Video ID:** \`${video.id}\`
+**Source:** ${source}
+**Platform:** YouTube
+**Published:** ${video.publishedDate ? video.publishedDate.toLocaleDateString() : 'Unknown'}
 **Content Type:** ${video.contentCategory || 'Standard'}
+**Transcript:** ${transcriptInfo.available ?
+  (transcriptInfo.requiresAuth ? '🔐 Available (requires OAuth2)' :
+   (transcriptInfo.wordCount > 0 ? `✅ Available (${transcriptInfo.wordCount} words)` : '✅ Available (metadata only)')) :
+  '❌ Not available'}
 
 ## ${freshnessEmoji} Freshness Status
 **${freshnessStatus.message}**
@@ -471,7 +541,36 @@ ${freshnessStatus.status === 'warning' ? '⚠️ **Warning:** This video is appr
 ${freshnessStatus.status === 'expired' ? '🚨 **Expired:** This video has exceeded the freshness threshold and may contain significantly outdated information. Please check for newer alternatives.' : ''}
 ${freshnessStatus.status === 'fresh' ? '✅ This video contains current information and is within the freshness window.' : ''}
 
-## Quick Access
+${video.transcript && video.transcript.text ?
+`## 📝 Full Transcript
+
+**Language:** ${video.transcript.language}
+**Type:** ${video.transcript.trackKind === 'asr' ? 'Auto-generated' : 'Manual'}
+**Word Count:** ${video.transcript.wordCount}
+
+${video.transcript.text}
+
+---
+
+` :
+(video.transcript && video.transcript.available ?
+`## 📝 Transcript Information
+
+**Language:** ${video.transcript.language}
+**Type:** ${video.transcript.trackKind === 'asr' ? 'Auto-generated' : 'Manual'}
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
+
+---
+
+` :
+`## 📝 Transcript
+❌ **Transcript not available** - This video does not have captions or transcripts available.
+
+---
+
+`)}## Quick Access
 - [🎥 Watch on YouTube](${video.url})
 - [📷 Thumbnail](${video.thumbnail})
 ${video.embeddedIn ? `- [📄 Original Context](${video.embeddedIn})` : ''}
@@ -482,7 +581,7 @@ ${video.contentCategory === 'evergreen' ? '🌿 **Evergreen Content:** This vide
 ${video.contentCategory === 'standard' ? '📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.' : ''}
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. ${transcriptInfo.hasTranscript ? 'The full transcript is available above for easy reference and searching.' : 'Access the full video content through the YouTube link above.'}
 
 ${freshnessStatus.status !== 'fresh' ? `
 ## Alternative Resources
@@ -499,7 +598,8 @@ Since this video may be outdated, consider these current resources:
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from ${source} on ${new Date().toLocaleDateString()}*  
+*Video content extracted from ${source} on ${new Date().toLocaleDateString()}*
+*Transcript extraction: ${transcriptInfo.hasTranscript ? `✅ ${transcriptInfo.wordCount} words (${transcriptInfo.transcriptLanguage})` : '❌ Not available'}*
 *Freshness monitored: Videos expire after ${video.contentCategory === 'critical' ? '3' : video.contentCategory === 'evergreen' ? 'never' : '6'} months*
 `;
 
