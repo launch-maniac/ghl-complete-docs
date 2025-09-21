@@ -1,5 +1,26 @@
 
 > ghl-complete-docs@2.0.0 stats
-> echo "Generating statistics... (placeholder)"
+> node scripts/analytics/generate-stats.js
 
-Generating statistics... (placeholder)
+📊 Generating documentation statistics...
+
+📈 DOCUMENTATION STATISTICS
+==================================================
+Total Documents: 116
+Last Updated: 9/20/2025, 9:27:24 PM
+
+Categories:
+  • Marketplace Documentation: 83 documents
+  • Changelog: 10 documents
+  • Video Tutorials: 6 documents
+
+Sources:
+  • highlevel.stoplight.io: 50 documents
+  • marketplace.gohighlevel.com: 26 documents
+  • help.gohighlevel.com: 23 documents
+  • ideas.gohighlevel.com: 10 documents
+  • youtube.com/@gohighlevel: 6 documents
+  • developers.gohighlevel.com: 1 documents
+==================================================
+✅ Stats generated: 116 total documents
+✅ Statistics generation completed
