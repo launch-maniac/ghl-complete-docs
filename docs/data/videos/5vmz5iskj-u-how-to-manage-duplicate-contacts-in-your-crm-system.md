@@ -2,38 +2,53 @@
 title: "How to Manage Duplicate Contacts in Your CRM System"
 video_id: "5VmZ5iSKj-U"
 url: "https://www.youtube.com/watch?v=5VmZ5iSKj-U"
-thumbnail: "https://img.youtube.com/vi/5VmZ5iSKj-U/maxresdefault.jpg"
+thumbnail: "https://i.ytimg.com/vi/5VmZ5iSKj-U/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "unknown"
-freshness_status: "unknown"
-freshness_message: "Unable to determine video age"
+published_date: "2025-09-16T19:44:24.000Z"
+freshness_status: "fresh"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "unknown"
+age_in_months: "0.1"
+has_transcript: true
+transcript_language: "en"
+transcript_type: "asr"
+word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-20T21:27:13.337Z"
+extracted_at: "2025-09-21T07:41:48.256Z"
 
 ---
 
-# ❓ How to Manage Duplicate Contacts in Your CRM System
+# 🟢 How to Manage Duplicate Contacts in Your CRM System
 
-**Video ID:** `5VmZ5iSKj-U`  
-**Source:** GoHighLevel Official - Last 180 Days  
-**Platform:** YouTube  
-**Published:** Unknown  
+**Video ID:** `5VmZ5iSKj-U`
+**Source:** GoHighLevel Official - Last 180 Days
+**Platform:** YouTube
+**Published:** 9/16/2025
 **Content Type:** standard
+**Transcript:** 🔐 Available (requires OAuth2)
 
-## ❓ Freshness Status
-**Unable to determine video age**
+## 🟢 Freshness Status
+**Video is 0.1 months old (fresh)**
 
 
 
+✅ This video contains current information and is within the freshness window.
 
+## 📝 Transcript Information
+
+**Language:** en
+**Type:** Auto-generated
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
+
+---
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5VmZ5iSKj-U)
-- [📷 Thumbnail](https://img.youtube.com/vi/5VmZ5iSKj-U/maxresdefault.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/5VmZ5iSKj-U/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -42,15 +57,8 @@ extracted_at: "2025-09-20T21:27:13.337Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
 
-
-## Alternative Resources
-Since this video may be outdated, consider these current resources:
-- [📚 Latest Help Documentation](https://help.gohighlevel.com/)
-- [🔧 Current API Documentation](https://marketplace.gohighlevel.com/docs/)
-- [👥 Developer Community](https://developers.gohighlevel.com/)
-- [🎥 Recent Video Tutorials](./index.html) - Check for newer videos on this topic
 
 
 ## Related Resources
@@ -59,5 +67,6 @@ Since this video may be outdated, consider these current resources:
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*  
+*Video content extracted from GoHighLevel Official - Last 180 Days on 9/21/2025*
+*Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
