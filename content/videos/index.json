@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-21T07:41:53.189Z",
+  "generated": "2025-09-22T07:44:17.290Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 8,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -216,7 +216,7 @@
       "publishedDate": "2025-09-20T06:50:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025"
     },
     {
@@ -288,7 +288,7 @@
       "publishedDate": "2025-09-16T19:44:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system"
     },
     {
@@ -312,7 +312,7 @@
       "publishedDate": "2025-09-20T05:13:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "61brmlkbpm-day-5-five-day-ai-employee-challenge"
     },
     {
