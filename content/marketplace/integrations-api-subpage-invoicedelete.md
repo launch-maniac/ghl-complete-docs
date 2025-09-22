@@ -3,7 +3,7 @@ title: "InvoiceDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/093a8f30bd223-invoice"
-extracted_at: "2025-09-22T18:29:46.497Z"
+extracted_at: "2025-09-22T21:24:59.680Z"
 ---
 
 # Invoice
