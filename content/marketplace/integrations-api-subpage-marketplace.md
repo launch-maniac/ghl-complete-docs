@@ -3,7 +3,7 @@ title: "Marketplace"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/b8e1458d05723-developer-marketplace-api"
-extracted_at: "2025-09-21T12:27:35.673Z"
+extracted_at: "2025-09-22T00:54:55.801Z"
 ---
 
 # Developer marketplace API
