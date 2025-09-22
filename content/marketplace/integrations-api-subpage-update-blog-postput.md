@@ -3,7 +3,7 @@ title: "Update Blog Postput"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/9ac5fb40f9fb4-update-blog-post"
-extracted_at: "2025-09-22T12:28:34.050Z"
+extracted_at: "2025-09-22T15:13:49.707Z"
 ---
 
 # Update Blog Post

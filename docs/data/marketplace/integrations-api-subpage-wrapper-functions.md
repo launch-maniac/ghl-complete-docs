@@ -3,7 +3,7 @@ title: "Wrapper Functions"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/342bca923152a-custom-js"
-extracted_at: "2025-09-22T12:38:15.384Z"
+extracted_at: "2025-09-22T15:23:47.156Z"
 ---
 
 # CustomJS

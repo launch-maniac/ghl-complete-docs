@@ -3,7 +3,7 @@ title: "Import Coursespost"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7ca9bb420fe98-import-courses"
-extracted_at: "2025-09-22T12:26:54.528Z"
+extracted_at: "2025-09-22T15:12:34.044Z"
 ---
 
 # Import Courses

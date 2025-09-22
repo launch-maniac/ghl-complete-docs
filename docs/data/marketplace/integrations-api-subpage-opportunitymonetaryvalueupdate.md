@@ -3,7 +3,7 @@ title: "OpportunityMonetaryValueUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/4e1db6481a2bd-opportunity"
-extracted_at: "2025-09-22T12:34:39.786Z"
+extracted_at: "2025-09-22T15:20:06.395Z"
 ---
 
 # Opportunity

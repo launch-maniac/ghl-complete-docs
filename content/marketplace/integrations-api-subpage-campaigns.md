@@ -3,7 +3,7 @@ title: "Campaigns"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/35a5ad3408e98-campaigns-api"
-extracted_at: "2025-09-22T12:26:04.156Z"
+extracted_at: "2025-09-22T15:11:41.354Z"
 ---
 
 # Campaigns API
