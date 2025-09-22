@@ -3,7 +3,7 @@ title: "Conversations"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7fd1120fbd540-conversations-api"
-extracted_at: "2025-09-22T03:42:25.521Z"
+extracted_at: "2025-09-22T06:25:51.617Z"
 ---
 
 # Conversations API

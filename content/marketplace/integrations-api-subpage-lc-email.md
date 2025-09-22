@@ -3,7 +3,7 @@ title: "LC Email"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/1f4235fcc24a1-email-isv-api"
-extracted_at: "2025-09-22T03:46:20.035Z"
+extracted_at: "2025-09-22T06:29:20.479Z"
 ---
 
 # Email ISV API

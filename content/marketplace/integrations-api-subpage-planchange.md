@@ -3,7 +3,7 @@ title: "PlanChange"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/d36e6a58fa1c2-plan-change"
-extracted_at: "2025-09-22T03:51:14.081Z"
+extracted_at: "2025-09-22T06:34:12.952Z"
 ---
 
 # Plan Change

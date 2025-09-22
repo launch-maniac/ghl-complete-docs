@@ -3,7 +3,7 @@ title: "Get all authorsget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/2ad8896e803e7-get-all-authors"
-extracted_at: "2025-09-22T03:44:13.488Z"
+extracted_at: "2025-09-22T06:27:40.260Z"
 ---
 
 # Get all authors

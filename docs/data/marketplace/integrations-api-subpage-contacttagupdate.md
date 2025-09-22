@@ -3,7 +3,7 @@ title: "ContactTagUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/289ef3159b0ca-contact"
-extracted_at: "2025-09-22T03:47:43.931Z"
+extracted_at: "2025-09-22T06:30:44.101Z"
 ---
 
 # Contact
