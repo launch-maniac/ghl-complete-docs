@@ -3,7 +3,7 @@ title: "Conversation Unread Webhook"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/a90fe823ceca6-conversation"
-extracted_at: "2025-09-23T00:54:49.205Z"
+extracted_at: "2025-09-23T03:39:23.869Z"
 ---
 
 # Conversation

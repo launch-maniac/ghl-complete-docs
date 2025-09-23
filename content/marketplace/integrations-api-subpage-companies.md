@@ -3,7 +3,7 @@ title: "Companies"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ba0a4912b7899-companies-api"
-extracted_at: "2025-09-23T00:48:51.553Z"
+extracted_at: "2025-09-23T03:33:13.718Z"
 ---
 
 # Companies API
