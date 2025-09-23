@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (September 15th - September 19th 2025)"
-video_id: "3vaTmPdBDHk"
-url: "https://www.youtube.com/watch?v=3vaTmPdBDHk"
-thumbnail: "https://i.ytimg.com/vi/3vaTmPdBDHk/hqdefault.jpg"
+title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
+video_id: "hxML49hGlmk"
+url: "https://www.youtube.com/watch?v=hxML49hGlmk"
+thumbnail: "https://i.ytimg.com/vi/hxML49hGlmk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-20T06:50:30.000Z"
+published_date: "2025-09-22T20:41:00.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-23T07:43:27.313Z"
+extracted_at: "2025-09-23T07:43:27.141Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (September 15th - September 19th 2025)
+# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
 
-**Video ID:** `3vaTmPdBDHk`
+**Video ID:** `hxML49hGlmk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/20/2025
+**Published:** 9/22/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-23T07:43:27.313Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3vaTmPdBDHk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/3vaTmPdBDHk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hxML49hGlmk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/hxML49hGlmk/hqdefault.jpg)
 
 
 ## Content Guidelines

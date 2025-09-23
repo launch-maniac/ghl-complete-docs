@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-22T07:44:17.290Z",
+  "generated": "2025-09-23T07:43:36.680Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 5,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 5
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -892,6 +892,18 @@
       "slug": "hvt3wz6dwrm-get-paid"
     },
     {
+      "filename": "hwhga1dbvqu-new-integration-highlevel-jobber-live.md",
+      "title": "New Integration  HighLevel + Jobber Live!",
+      "videoId": "hWhgA1DBVQU",
+      "url": "https://www.youtube.com/watch?v=hWhgA1DBVQU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-23T01:58:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hwhga1dbvqu-new-integration-highlevel-jobber-live"
+    },
+    {
       "filename": "hwpex13tzwg-enhanced-drag-amp-drop-in-page-builder.md",
       "title": "Enhanced Drag &amp; Drop in Page Builder!",
       "videoId": "HWpEX13TzWg",
@@ -902,6 +914,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.8",
       "slug": "hwpex13tzwg-enhanced-drag-amp-drop-in-page-builder"
+    },
+    {
+      "filename": "hxml49hglmk-day-1-highlevel-funnels-that-capture-nurture-and-close.md",
+      "title": "Day 1 - HighLevel Funnels That Capture, Nurture and Close",
+      "videoId": "hxML49hGlmk",
+      "url": "https://www.youtube.com/watch?v=hxML49hGlmk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-22T20:41:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hxml49hglmk-day-1-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
       "filename": "ipdspsuthc8-email-builder-bulk-action-campaigns-now-visible-in-email-marketing.md",
@@ -1185,10 +1209,10 @@
       "videoId": "-nZlPZZcCMA",
       "url": "https://www.youtube.com/watch?v=-nZlPZZcCMA",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-15T21:44:15.000Z",
+      "publishedDate": "2025-09-23T05:17:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
@@ -1817,7 +1841,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 97,
+    "fresh": 99,
     "warning": 18,
     "expired": 0,
     "unknown": 33,
@@ -1829,7 +1853,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 95,
+        "fresh": 97,
         "warning": 17,
         "expired": 0,
         "unknown": null
