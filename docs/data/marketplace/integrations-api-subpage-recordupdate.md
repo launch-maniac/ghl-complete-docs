@@ -3,7 +3,7 @@ title: "RecordUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/8d8ecaadeeaa8-record-update"
-extracted_at: "2025-09-23T03:44:39.035Z"
+extracted_at: "2025-09-23T06:35:51.360Z"
 ---
 
 # Record Update

@@ -3,7 +3,7 @@ title: "RelationCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/54b668f99aada-relation-create"
-extracted_at: "2025-09-23T03:44:54.607Z"
+extracted_at: "2025-09-23T06:36:05.539Z"
 ---
 
 # Relation Create
