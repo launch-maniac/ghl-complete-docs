@@ -3,7 +3,7 @@ title: "Invoices"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/dcaf05eb72b81-invoice-api"
-extracted_at: "2025-09-22T21:19:26.365Z"
+extracted_at: "2025-09-23T00:49:52.705Z"
 ---
 
 # Invoice API

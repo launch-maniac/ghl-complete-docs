@@ -3,7 +3,7 @@ title: "AppointmentUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/5849bb2764faa-appointment"
-extracted_at: "2025-09-22T21:22:54.837Z"
+extracted_at: "2025-09-23T00:53:24.505Z"
 ---
 
 # Appointment
