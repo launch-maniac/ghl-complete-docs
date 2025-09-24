@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "-nZlPZZcCMA"
-url: "https://www.youtube.com/watch?v=-nZlPZZcCMA"
-thumbnail: "https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg"
+title: "Did You Know You Can Generate a Prospect List with Just a Few Clicks?"
+video_id: "ipE4YrNgk78"
+url: "https://www.youtube.com/watch?v=ipE4YrNgk78"
+thumbnail: "https://i.ytimg.com/vi/ipE4YrNgk78/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T05:17:53.000Z"
+published_date: "2025-09-23T14:51:35.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-24T07:43:41.109Z"
+extracted_at: "2025-09-24T07:43:40.924Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 Did You Know You Can Generate a Prospect List with Just a Few Clicks?
 
-**Video ID:** `-nZlPZZcCMA`
+**Video ID:** `ipE4YrNgk78`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/23/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-09-24T07:43:41.109Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-nZlPZZcCMA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ipE4YrNgk78)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ipE4YrNgk78/hqdefault.jpg)
 
 
 ## Content Guidelines

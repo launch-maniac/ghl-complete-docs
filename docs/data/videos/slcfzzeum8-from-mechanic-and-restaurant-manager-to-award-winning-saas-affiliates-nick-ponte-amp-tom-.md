@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "-nZlPZZcCMA"
-url: "https://www.youtube.com/watch?v=-nZlPZZcCMA"
-thumbnail: "https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg"
+title: "From Mechanic and Restaurant Manager to Award-Winning SaaS Affiliates | Nick Ponte &amp; Tom Gaddis"
+video_id: "-SlcfzzeUM8"
+url: "https://www.youtube.com/watch?v=-SlcfzzeUM8"
+thumbnail: "https://i.ytimg.com/vi/-SlcfzzeUM8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T05:17:53.000Z"
+published_date: "2025-09-23T15:00:20.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-24T07:43:41.109Z"
+extracted_at: "2025-09-24T07:43:40.464Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 From Mechanic and Restaurant Manager to Award-Winning SaaS Affiliates | Nick Ponte &amp; Tom Gaddis
 
-**Video ID:** `-nZlPZZcCMA`
+**Video ID:** `-SlcfzzeUM8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/23/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-09-24T07:43:41.109Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-nZlPZZcCMA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-SlcfzzeUM8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/-SlcfzzeUM8/hqdefault.jpg)
 
 
 ## Content Guidelines

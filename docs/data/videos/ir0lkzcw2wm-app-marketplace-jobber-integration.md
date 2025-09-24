@@ -1,13 +1,13 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "-nZlPZZcCMA"
-url: "https://www.youtube.com/watch?v=-nZlPZZcCMA"
-thumbnail: "https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg"
+title: "App Marketplace  Jobber Integration"
+video_id: "IR0Lkzcw2WM"
+url: "https://www.youtube.com/watch?v=IR0Lkzcw2WM"
+thumbnail: "https://i.ytimg.com/vi/IR0Lkzcw2WM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T05:17:53.000Z"
+published_date: "2025-09-23T18:00:16.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
-content_category: "standard"
+content_category: "critical"
 age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
@@ -16,17 +16,17 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-24T07:43:41.109Z"
+extracted_at: "2025-09-24T07:43:40.334Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 App Marketplace  Jobber Integration
 
-**Video ID:** `-nZlPZZcCMA`
+**Video ID:** `IR0Lkzcw2WM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/23/2025
-**Content Type:** standard
+**Content Type:** critical
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
@@ -47,14 +47,14 @@ extracted_at: "2025-09-24T07:43:41.109Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-nZlPZZcCMA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IR0Lkzcw2WM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/IR0Lkzcw2WM/hqdefault.jpg)
 
 
 ## Content Guidelines
+⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.
 
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -69,4 +69,4 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 9/24/2025*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after 3 months*

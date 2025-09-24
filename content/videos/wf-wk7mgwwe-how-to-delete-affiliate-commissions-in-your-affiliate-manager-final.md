@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "-nZlPZZcCMA"
-url: "https://www.youtube.com/watch?v=-nZlPZZcCMA"
-thumbnail: "https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg"
+title: "How to Delete Affiliate Commissions in Your Affiliate Manager   final"
+video_id: "WF_wK7mgwWE"
+url: "https://www.youtube.com/watch?v=WF_wK7mgwWE"
+thumbnail: "https://i.ytimg.com/vi/WF_wK7mgwWE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T05:17:53.000Z"
+published_date: "2025-09-23T14:53:59.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-24T07:43:41.109Z"
+extracted_at: "2025-09-24T07:43:40.693Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 How to Delete Affiliate Commissions in Your Affiliate Manager   final
 
-**Video ID:** `-nZlPZZcCMA`
+**Video ID:** `WF_wK7mgwWE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/23/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-09-24T07:43:41.109Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-nZlPZZcCMA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WF_wK7mgwWE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/WF_wK7mgwWE/hqdefault.jpg)
 
 
 ## Content Guidelines
