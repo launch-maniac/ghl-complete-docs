@@ -3,7 +3,7 @@ title: "UserCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/f5f95c6d45f71-user"
-extracted_at: "2025-09-23T09:31:05.598Z"
+extracted_at: "2025-09-24T09:33:08.291Z"
 ---
 
 # User
