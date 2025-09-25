@@ -3,7 +3,7 @@ title: "Delete File or Folderdelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/fb48a2a324010-delete-file-or-folder"
-extracted_at: "2025-09-25T18:26:17.767Z"
+extracted_at: "2025-09-25T21:13:36.512Z"
 ---
 
 # Delete File or Folder

@@ -3,7 +3,7 @@ title: "Get all categoriesget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/8ebd3128ee462-get-all-categories"
-extracted_at: "2025-09-25T18:27:03.351Z"
+extracted_at: "2025-09-25T21:14:21.715Z"
 ---
 
 # Get all categories
