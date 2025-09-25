@@ -3,7 +3,7 @@ title: "External Billing"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/f416a6a111b74-billing-webhook"
-extracted_at: "2025-09-25T09:18:56.818Z"
+extracted_at: "2025-09-25T18:23:07.015Z"
 ---
 
 # Billing Webhook

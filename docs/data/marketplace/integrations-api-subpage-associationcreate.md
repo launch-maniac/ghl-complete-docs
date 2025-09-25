@@ -3,7 +3,7 @@ title: "AssociationCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/6515428358733-association-created"
-extracted_at: "2025-09-25T09:32:05.036Z"
+extracted_at: "2025-09-25T18:36:47.196Z"
 ---
 
 # Association Created

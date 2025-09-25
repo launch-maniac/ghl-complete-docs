@@ -3,7 +3,7 @@ title: "LocationUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/69nmspzfqtcdk-location"
-extracted_at: "2025-09-24T21:19:47.321Z"
+extracted_at: "2025-09-25T18:32:03.551Z"
 ---
 
 # Location
