@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "hxML49hGlmk"
-url: "https://www.youtube.com/watch?v=hxML49hGlmk"
-thumbnail: "https://i.ytimg.com/vi/hxML49hGlmk/hqdefault.jpg"
+title: "How to Automatically Update WordPress Core, Plugins, and Themes"
+video_id: "pGL7TdI7saE"
+url: "https://www.youtube.com/watch?v=pGL7TdI7saE"
+thumbnail: "https://i.ytimg.com/vi/pGL7TdI7saE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-22T20:41:00.000Z"
+published_date: "2025-09-24T21:07:59.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-25T07:43:58.952Z"
+extracted_at: "2025-09-25T07:43:56.603Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 How to Automatically Update WordPress Core, Plugins, and Themes
 
-**Video ID:** `hxML49hGlmk`
+**Video ID:** `pGL7TdI7saE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/22/2025
+**Published:** 9/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-25T07:43:58.952Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hxML49hGlmk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/hxML49hGlmk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pGL7TdI7saE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/pGL7TdI7saE/hqdefault.jpg)
 
 
 ## Content Guidelines
