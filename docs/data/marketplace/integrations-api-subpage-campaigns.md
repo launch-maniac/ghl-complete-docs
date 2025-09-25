@@ -3,6 +3,19 @@ title: "Campaigns"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/35a5ad3408e98-campaigns-api"
-extracted_at: "2025-09-24T09:21:09.242Z"
+extracted_at: "2025-09-25T00:49:47.167Z"
 ---
 
+# Campaigns API
+
+Export
+
+v1.0
+
+API Base URL
+
+Live Server:https://services.leadconnectorhq.com
+
+Mock Server:https://stoplight.io/mocks/highlevel/integrations/39582860
+
+Documentation for campaigns API

@@ -3,6 +3,19 @@ title: "Businesses"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/bb6b717cac89c-business-api"
-extracted_at: "2025-09-24T09:20:54.109Z"
+extracted_at: "2025-09-25T00:49:36.818Z"
 ---
 
+# Business API
+
+Export
+
+v1.0
+
+API Base URL
+
+Live Server:https://services.leadconnectorhq.com
+
+Mock Server:https://stoplight.io/mocks/highlevel/integrations/111540399
+
+Documentation for business API

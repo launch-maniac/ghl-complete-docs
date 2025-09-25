@@ -3,7 +3,7 @@ title: "Social Planner"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/1241127e6d4d4-social-media-posting-api"
-extracted_at: "2025-09-24T00:54:17.868Z"
+extracted_at: "2025-09-25T00:53:47.446Z"
 ---
 
 # Social Media Posting API

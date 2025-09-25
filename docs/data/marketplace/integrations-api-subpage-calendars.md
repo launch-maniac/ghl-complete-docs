@@ -3,19 +3,6 @@ title: "Calendars"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/5339a7ea3f2f2-calendars-api"
-extracted_at: "2025-09-24T21:11:47.193Z"
+extracted_at: "2025-09-25T00:49:41.988Z"
 ---
 
-# Calendars API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/39582850
-
-Documentation for Calendars API
