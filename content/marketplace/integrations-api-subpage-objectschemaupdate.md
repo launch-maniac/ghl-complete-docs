@@ -3,7 +3,7 @@ title: "ObjectSchemaUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/8af0d4fcfc99d-update-custom-object"
-extracted_at: "2025-09-25T06:34:29.879Z"
+extracted_at: "2025-09-25T09:30:59.475Z"
 ---
 
 # Update Custom Object

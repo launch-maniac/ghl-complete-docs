@@ -3,19 +3,6 @@ title: "Courses"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ddc0780ee588c-memberships-api"
-extracted_at: "2025-09-25T06:24:32.611Z"
+extracted_at: "2025-09-25T09:20:55.077Z"
 ---
 
-# MEMBERSHIPS API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/22961148
-
-API Service for Courses and Memberships

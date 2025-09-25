@@ -3,7 +3,7 @@ title: "Webhook Authentication"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/vyc3gbbez52ip-webhook-authentication-guide"
-extracted_at: "2025-09-25T06:23:17.395Z"
+extracted_at: "2025-09-25T09:19:16.110Z"
 ---
 
 # Webhook Authentication Guide

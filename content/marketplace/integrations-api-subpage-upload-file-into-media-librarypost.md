@@ -3,7 +3,7 @@ title: "Upload File into Media Librarypost"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/f737851451054-upload-file-into-media-library"
-extracted_at: "2025-09-24T21:13:38.637Z"
+extracted_at: "2025-09-25T09:21:48.496Z"
 ---
 
 # Upload File into Media Library
