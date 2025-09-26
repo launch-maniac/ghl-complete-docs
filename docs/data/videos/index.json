@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-25T07:44:03.419Z",
+  "generated": "2025-09-26T07:43:19.409Z",
   "stats": {
     "channels": 1,
-    "videos": 22,
+    "videos": 21,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 22
+    "transcriptsFailed": 21
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -446,6 +446,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.3",
       "slug": "9e8kgultmfw-how-to-manage-audiences-in-highlevel-ad-manager"
+    },
+    {
+      "filename": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live.md",
+      "title": "Site Analytics - Traffic Source &amp; Geographic Analytics Live!",
+      "videoId": "9qNRvr5Vcig",
+      "url": "https://www.youtube.com/watch?v=9qNRvr5Vcig",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-25T23:02:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
       "filename": "a7owi4puns8-funnels-amp-websites-cookie-consent-v2.md",
@@ -1464,7 +1476,7 @@
       "publishedDate": "2025-09-23T19:36:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -1740,7 +1752,7 @@
       "publishedDate": "2025-09-24T05:36:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wgke-pdbepq-day-2-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
@@ -1956,7 +1968,7 @@
       "publishedDate": "2025-09-23T19:41:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
@@ -2013,10 +2025,10 @@
       "videoId": "zKrUIx4bHmU",
       "url": "https://www.youtube.com/watch?v=zKrUIx4bHmU",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-23T19:04:02.000Z",
+      "publishedDate": "2025-09-26T05:07:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel"
     },
     {
@@ -2045,7 +2057,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 116,
+    "fresh": 117,
     "warning": 18,
     "expired": 0,
     "unknown": 33,
@@ -2057,7 +2069,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 113,
+        "fresh": 114,
         "warning": 17,
         "expired": 0,
         "unknown": null
