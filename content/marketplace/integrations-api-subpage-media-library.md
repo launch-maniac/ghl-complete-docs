@@ -3,7 +3,7 @@ title: "Media Library"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/488092d29d289-media-library-api"
-extracted_at: "2025-09-26T06:25:08.734Z"
+extracted_at: "2025-09-26T15:13:41.431Z"
 ---
 
 # Media Library API
