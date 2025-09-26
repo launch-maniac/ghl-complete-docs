@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-09-26T18:09:41.269Z"
+extracted_at: "2025-09-26T21:09:09.325Z"
 ---
 
 # Hi, how can we help you?
@@ -128,7 +128,7 @@ Contacts
 
 How to Set Up a Whitelabel Domain for the Desktop Web App
 
-Modified on Wed, 20 Aug at 6:33 AM
+Modified on Fri, 26 Sep at 1:44 PM
 
 ](/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app)[
 
