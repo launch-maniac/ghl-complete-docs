@@ -3,7 +3,7 @@ title: "Learn More About Our API"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api"
-extracted_at: "2025-09-26T15:07:01.629Z"
+extracted_at: "2025-09-26T18:07:25.453Z"
 ---
 
 1.  [Home](/support/home)
@@ -50,9 +50,9 @@ Sorry! nothing found for
 
 # HighLevel API
 
-Modified on: Fri, 26 Sep, 2025 at 10:03 AM
+Modified on: Fri, 26 Sep, 2025 at 10:09 AM
 
-**Please Note:** V1 APIs will be deprecated on 30th September 2025. 
+**Please Note:** V1 APIs has reached end-of-support. 
 Existing connections/integrations will continue to work, however no support will be provided for V1 APIs. 
 
 Want to migrate from V1 to V2? (with a ton of new functionalities and security features)
