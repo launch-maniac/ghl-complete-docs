@@ -3,6 +3,19 @@ title: "Snapshots"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ff808584bafce-snapshots-api"
-extracted_at: "2025-09-26T21:16:23.843Z"
+extracted_at: "2025-09-27T00:51:54.244Z"
 ---
 
+# Snapshots API
+
+Export
+
+v1.0
+
+API Base URL
+
+Live Server:https://services.leadconnectorhq.com
+
+Mock Server:https://stoplight.io/mocks/highlevel/integrations/165608999
+
+Documentation for Snapshots API

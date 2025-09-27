@@ -3,19 +3,6 @@ title: "Companies"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ba0a4912b7899-companies-api"
-extracted_at: "2025-09-26T21:12:40.256Z"
+extracted_at: "2025-09-27T00:48:00.540Z"
 ---
 
-# Companies API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/39582862
-
-Documentation for Companies API
