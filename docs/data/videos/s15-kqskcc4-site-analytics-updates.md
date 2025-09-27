@@ -1,13 +1,13 @@
 ---
-title: "Starting an AI Company with HighLevel - Ray O&#39;Daniel"
-video_id: "zKrUIx4bHmU"
-url: "https://www.youtube.com/watch?v=zKrUIx4bHmU"
-thumbnail: "https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg"
+title: "Site Analytics Updates"
+video_id: "S15-KQSkcc4"
+url: "https://www.youtube.com/watch?v=S15-KQSkcc4"
+thumbnail: "https://i.ytimg.com/vi/S15-KQSkcc4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T05:07:40.000Z"
+published_date: "2025-09-26T18:00:29.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
-content_category: "standard"
+content_category: "critical"
 age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
@@ -16,17 +16,17 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:48.958Z"
+extracted_at: "2025-09-27T07:41:48.179Z"
 
 ---
 
-# 🟢 Starting an AI Company with HighLevel - Ray O&#39;Daniel
+# 🟢 Site Analytics Updates
 
-**Video ID:** `zKrUIx4bHmU`
+**Video ID:** `S15-KQSkcc4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/26/2025
-**Content Type:** standard
+**Content Type:** critical
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
@@ -47,14 +47,14 @@ extracted_at: "2025-09-27T07:41:48.958Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zKrUIx4bHmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=S15-KQSkcc4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/S15-KQSkcc4/hqdefault.jpg)
 
 
 ## Content Guidelines
+⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.
 
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -69,4 +69,4 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 9/27/2025*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after 3 months*

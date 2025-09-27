@@ -1,10 +1,10 @@
 ---
-title: "Starting an AI Company with HighLevel - Ray O&#39;Daniel"
-video_id: "zKrUIx4bHmU"
-url: "https://www.youtube.com/watch?v=zKrUIx4bHmU"
-thumbnail: "https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg"
+title: "How to Easily Change Languages in Your Client Portal - Desktop and Mobile Instructions"
+video_id: "sQyOFQKIVBg"
+url: "https://www.youtube.com/watch?v=sQyOFQKIVBg"
+thumbnail: "https://i.ytimg.com/vi/sQyOFQKIVBg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T05:07:40.000Z"
+published_date: "2025-09-26T16:26:30.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:48.958Z"
+extracted_at: "2025-09-27T07:41:48.566Z"
 
 ---
 
-# 🟢 Starting an AI Company with HighLevel - Ray O&#39;Daniel
+# 🟢 How to Easily Change Languages in Your Client Portal - Desktop and Mobile Instructions
 
-**Video ID:** `zKrUIx4bHmU`
+**Video ID:** `sQyOFQKIVBg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/26/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-09-27T07:41:48.958Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zKrUIx4bHmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sQyOFQKIVBg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/sQyOFQKIVBg/hqdefault.jpg)
 
 
 ## Content Guidelines

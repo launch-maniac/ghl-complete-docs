@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-26T07:43:19.409Z",
+  "generated": "2025-09-27T07:41:55.516Z",
   "stats": {
     "channels": 1,
-    "videos": 21,
+    "videos": 22,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 21
+    "transcriptsFailed": 22
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -254,6 +254,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.3",
       "slug": "4t173yfpe7q-lc-phone-system-persona-identity-verification-in-a2p-registration"
+    },
+    {
+      "filename": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline.md",
+      "title": "How to Quickly Edit Your Forms, Surveys, and Quizzes Inline",
+      "videoId": "4YlTQo0MDB8",
+      "url": "https://www.youtube.com/watch?v=4YlTQo0MDB8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T16:25:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline"
     },
     {
       "filename": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025.md",
@@ -712,6 +724,18 @@
       "slug": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live"
     },
     {
+      "filename": "dzwreqw9mdk-jodee-peevor-the-real-funnel-fix-starts-with-a-click.md",
+      "title": "Jodee Peevor: The real funnel fix starts with a click",
+      "videoId": "DzWReqW9mDk",
+      "url": "https://www.youtube.com/watch?v=DzWReqW9mDk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T17:46:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dzwreqw9mdk-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
+    },
+    {
       "filename": "e-hsor1v4fu-voice-ai-enhanced-email-notification-customization.md",
       "title": "Voice AI  Enhanced Email Notification Customization",
       "videoId": "E-HsOR1v4fU",
@@ -770,6 +794,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.2",
       "slug": "fclz5d9jmrq-workflows-custom-mapping-support-for-tracking-fields-for-google-adwords-and-facebook-con"
+    },
+    {
+      "filename": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025.md",
+      "title": "The HighLevel Release Radar (September 22nd - September 26th 2025)",
+      "videoId": "fm0VgLQSZCs",
+      "url": "https://www.youtube.com/watch?v=fm0VgLQSZCs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-27T07:23:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
       "filename": "fn2m1qffdys-set-up-calendars.md",
@@ -1116,7 +1152,7 @@
       "publishedDate": "2025-09-24T21:10:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency"
     },
     {
@@ -1168,6 +1204,18 @@
       "slug": "l4edetvlsw0-did-you-know-you-can-build-an-ai-conversational-assistant-for-plumbers-in-highlevel"
     },
     {
+      "filename": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth.md",
+      "title": "Clay Lawrence shares his journey: 200+ customers, Gold SaaS Award &amp; affiliate growth",
+      "videoId": "LGzf0iCqDbs",
+      "url": "https://www.youtube.com/watch?v=LGzf0iCqDbs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T18:25:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth"
+    },
+    {
       "filename": "likwdl0at9m-drip-content-courses-now-live-in-communities.md",
       "title": "Drip Content Courses Now Live in Communities!",
       "videoId": "LIkWdL0AT9M",
@@ -1188,7 +1236,7 @@
       "publishedDate": "2025-09-24T21:09:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests"
     },
     {
@@ -1320,7 +1368,7 @@
       "publishedDate": "2025-09-24T21:05:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
     },
     {
@@ -1332,7 +1380,7 @@
       "publishedDate": "2025-09-24T21:03:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ozb-kswmp0e-did-you-know-you-can-offer-expiring-coupons-for-limited-time-promos"
     },
     {
@@ -1344,7 +1392,7 @@
       "publishedDate": "2025-09-24T22:42:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers"
     },
     {
@@ -1488,8 +1536,20 @@
       "publishedDate": "2025-09-24T21:06:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection"
+    },
+    {
+      "filename": "s15-kqskcc4-site-analytics-updates.md",
+      "title": "Site Analytics Updates",
+      "videoId": "S15-KQSkcc4",
+      "url": "https://www.youtube.com/watch?v=S15-KQSkcc4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T18:00:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "critical",
+      "ageInMonths": "0.0",
+      "slug": "s15-kqskcc4-site-analytics-updates"
     },
     {
       "filename": "s5jxr9w7yng-day-2-build-your-agency-fast-with-highlevel-ai.md",
@@ -1564,6 +1624,30 @@
       "slug": "sp77csl2xv4-google-contacts-integration-now-live"
     },
     {
+      "filename": "sqyofqkivbg-how-to-easily-change-languages-in-your-client-portal-desktop-and-mobile-instructions.md",
+      "title": "How to Easily Change Languages in Your Client Portal - Desktop and Mobile Instructions",
+      "videoId": "sQyOFQKIVBg",
+      "url": "https://www.youtube.com/watch?v=sQyOFQKIVBg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T16:26:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sqyofqkivbg-how-to-easily-change-languages-in-your-client-portal-desktop-and-mobile-instructions"
+    },
+    {
+      "filename": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business.md",
+      "title": "How to Set Up WhatsApp Coexistence Feature for Your Business",
+      "videoId": "sV1ID_Z6dPw",
+      "url": "https://www.youtube.com/watch?v=sV1ID_Z6dPw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T16:27:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business"
+    },
+    {
       "filename": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights.md",
       "title": "How to Set Up Dashboard Reporting with Payment Widgets and Insights",
       "videoId": "sYz9PE0QWDs",
@@ -1632,7 +1716,7 @@
       "publishedDate": "2025-09-24T21:02:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel"
     },
     {
@@ -1852,6 +1936,18 @@
       "slug": "x4mxyxkvqtq-monetize-voice-ai-fast-with-highlevel"
     },
     {
+      "filename": "xkvpovdribs-how-to-set-up-a-call-script.md",
+      "title": "How to Set Up a Call Script",
+      "videoId": "xkVpOVDRIbs",
+      "url": "https://www.youtube.com/watch?v=xkVpOVDRIbs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-26T16:24:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xkvpovdribs-how-to-set-up-a-call-script"
+    },
+    {
       "filename": "xliyvs-h5-c-seo-all-in-one-search-engine-optimization-tool.md",
       "title": "SEO  All in One Search Engine Optimization Tool",
       "videoId": "XliyvS-H5-c",
@@ -1908,7 +2004,7 @@
       "publishedDate": "2025-09-24T21:09:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
     },
     {
@@ -2057,19 +2153,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 117,
+    "fresh": 125,
     "warning": 18,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 1,
+        "fresh": 2,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 114,
+        "fresh": 121,
         "warning": 17,
         "expired": 0,
         "unknown": null

@@ -1,10 +1,10 @@
 ---
-title: "Starting an AI Company with HighLevel - Ray O&#39;Daniel"
-video_id: "zKrUIx4bHmU"
-url: "https://www.youtube.com/watch?v=zKrUIx4bHmU"
-thumbnail: "https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg"
+title: "Clay Lawrence shares his journey: 200+ customers, Gold SaaS Award &amp; affiliate growth"
+video_id: "LGzf0iCqDbs"
+url: "https://www.youtube.com/watch?v=LGzf0iCqDbs"
+thumbnail: "https://i.ytimg.com/vi/LGzf0iCqDbs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T05:07:40.000Z"
+published_date: "2025-09-26T18:25:24.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:48.958Z"
+extracted_at: "2025-09-27T07:41:48.019Z"
 
 ---
 
-# 🟢 Starting an AI Company with HighLevel - Ray O&#39;Daniel
+# 🟢 Clay Lawrence shares his journey: 200+ customers, Gold SaaS Award &amp; affiliate growth
 
-**Video ID:** `zKrUIx4bHmU`
+**Video ID:** `LGzf0iCqDbs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/26/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-09-27T07:41:48.958Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zKrUIx4bHmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=LGzf0iCqDbs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/LGzf0iCqDbs/hqdefault.jpg)
 
 
 ## Content Guidelines
