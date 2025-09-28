@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-27T07:41:55.516Z",
+  "generated": "2025-09-28T07:41:35.330Z",
   "stats": {
     "channels": 1,
-    "videos": 22,
+    "videos": 13,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 22
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -264,7 +264,7 @@
       "publishedDate": "2025-09-26T16:25:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline"
     },
     {
@@ -468,7 +468,7 @@
       "publishedDate": "2025-09-25T23:02:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
@@ -732,7 +732,7 @@
       "publishedDate": "2025-09-26T17:46:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dzwreqw9mdk-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -1212,7 +1212,7 @@
       "publishedDate": "2025-09-26T18:25:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth"
     },
     {
@@ -1332,7 +1332,7 @@
       "publishedDate": "2025-09-23T05:17:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
@@ -1521,10 +1521,10 @@
       "videoId": "RkhDxE6gLx4",
       "url": "https://www.youtube.com/watch?v=RkhDxE6gLx4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-23T19:36:06.000Z",
+      "publishedDate": "2025-09-28T04:51:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -1548,7 +1548,7 @@
       "publishedDate": "2025-09-26T18:00:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "critical",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "s15-kqskcc4-site-analytics-updates"
     },
     {
@@ -1632,7 +1632,7 @@
       "publishedDate": "2025-09-26T16:26:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sqyofqkivbg-how-to-easily-change-languages-in-your-client-portal-desktop-and-mobile-instructions"
     },
     {
@@ -1644,7 +1644,7 @@
       "publishedDate": "2025-09-26T16:27:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business"
     },
     {
@@ -1944,7 +1944,7 @@
       "publishedDate": "2025-09-26T16:24:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xkvpovdribs-how-to-set-up-a-call-script"
     },
     {
@@ -2124,7 +2124,7 @@
       "publishedDate": "2025-09-26T05:07:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel"
     },
     {
