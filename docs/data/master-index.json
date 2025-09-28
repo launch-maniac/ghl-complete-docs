@@ -1,6 +1,6 @@
 {
   "totalDocuments": 596,
-  "lastUpdate": "2025-09-28T03:55:38.284Z",
+  "lastUpdate": "2025-09-28T06:21:45.381Z",
   "categories": {
     "Ad-manager": 1,
     "Ad-reporting-and-attribution": 1,
@@ -79,38 +79,38 @@
     "Widgets": 1,
     "Wordpress": 1,
     "Changelog": 170,
-    "Marketplace Documentation": 236,
+    "Marketplace Documentation": 155,
     "Video Tutorials": 176
   },
   "sources": {
     "ideas.gohighlevel.com": {
       "documents": 246,
-      "lastSync": "2025-09-28T03:55:38.287Z",
+      "lastSync": "2025-09-28T06:21:45.384Z",
       "status": "active"
     },
     "marketplace.gohighlevel.com": {
       "documents": 26,
-      "lastSync": "2025-09-28T03:55:38.347Z",
+      "lastSync": "2025-09-28T06:21:45.446Z",
       "status": "active"
     },
     "developers.gohighlevel.com": {
       "documents": 1,
-      "lastSync": "2025-09-28T03:55:38.349Z",
+      "lastSync": "2025-09-28T06:21:45.448Z",
       "status": "active"
     },
     "highlevel.stoplight.io": {
       "documents": 124,
-      "lastSync": "2025-09-28T03:55:38.349Z",
+      "lastSync": "2025-09-28T06:21:45.448Z",
       "status": "active"
     },
     "help.gohighlevel.com": {
       "documents": 23,
-      "lastSync": "2025-09-28T03:55:38.349Z",
+      "lastSync": "2025-09-28T06:21:45.449Z",
       "status": "active"
     },
     "youtube.com/@gohighlevel": {
       "documents": 176,
-      "lastSync": "2025-09-28T03:55:38.381Z",
+      "lastSync": "2025-09-28T06:21:45.481Z",
       "status": "active"
     }
   },
@@ -124,15 +124,15 @@
     "totalSearches": 0,
     "successfulQueries": 0,
     "popularCategories": [
-      "Marketplace Documentation",
       "Video Tutorials",
-      "Changelog"
+      "Changelog",
+      "Marketplace Documentation"
     ],
     "avgSearchTime": 0.25
   },
   "metadata": {
     "version": "2.0.0",
-    "buildDate": "2025-09-28T03:55:38.284Z",
+    "buildDate": "2025-09-28T06:21:45.382Z",
     "extractionEngine": "GHL Complete Docs v2.0",
     "dataRetentionDays": 90
   }
