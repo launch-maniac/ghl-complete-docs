@@ -3,7 +3,7 @@ title: "PriceCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/573fa6e713862-price"
-extracted_at: "2025-09-26T21:22:41.412Z"
+extracted_at: "2025-09-28T01:05:00.298Z"
 ---
 
 # Price
