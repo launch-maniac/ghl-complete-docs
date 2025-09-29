@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-28T07:41:35.330Z",
+  "generated": "2025-09-29T07:44:18.888Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 10,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 10
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -804,7 +804,7 @@
       "publishedDate": "2025-09-27T07:23:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
