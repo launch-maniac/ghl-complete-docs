@@ -3,7 +3,7 @@ title: "On this page"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-standard-response-fields#"
-extracted_at: "2025-09-29T09:19:53.503Z"
+extracted_at: "2025-09-29T21:10:03.482Z"
 ---
 
 [](url)\## Overview

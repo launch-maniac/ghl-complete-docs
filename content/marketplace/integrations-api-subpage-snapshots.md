@@ -3,7 +3,7 @@ title: "Snapshots"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ff808584bafce-snapshots-api"
-extracted_at: "2025-09-29T09:25:43.852Z"
+extracted_at: "2025-09-29T21:15:32.960Z"
 ---
 
 # Snapshots API
