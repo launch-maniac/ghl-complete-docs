@@ -3,19 +3,6 @@ title: "Documents and Contracts"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7d92ac20e1355-documents-and-contracts-api"
-extracted_at: "2025-09-28T18:24:07.850Z"
+extracted_at: "2025-09-29T09:25:25.691Z"
 ---
 
-# Documents and Contracts API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/996471386
-
-Documentation for Documents and Contracts API

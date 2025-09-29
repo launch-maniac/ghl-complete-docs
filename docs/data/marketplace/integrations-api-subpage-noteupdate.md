@@ -3,7 +3,7 @@ title: "NoteUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/16280dc14931d-note"
-extracted_at: "2025-09-28T18:28:54.860Z"
+extracted_at: "2025-09-29T09:29:59.059Z"
 ---
 
 # Note
