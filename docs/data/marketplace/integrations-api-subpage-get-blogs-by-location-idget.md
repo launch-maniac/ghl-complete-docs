@@ -3,7 +3,7 @@ title: "Get Blogs by Location IDget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/14987af581f3d-get-blogs-by-location-id"
-extracted_at: "2025-09-30T00:52:23.076Z"
+extracted_at: "2025-09-30T18:25:54.860Z"
 ---
 
 # Get Blogs by Location ID
