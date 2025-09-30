@@ -3,7 +3,7 @@ title: "LocationCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/4sn3a9hsczi43-location"
-extracted_at: "2025-09-29T09:29:29.907Z"
+extracted_at: "2025-09-30T03:41:13.985Z"
 ---
 
 # Location

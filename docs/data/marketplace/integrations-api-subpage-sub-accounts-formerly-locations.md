@@ -3,7 +3,7 @@ title: "Sub-Accounts (Formerly locations)"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/e283eac258a96-sub-account-formerly-location-api"
-extracted_at: "2025-09-30T00:51:05.476Z"
+extracted_at: "2025-09-30T03:35:24.168Z"
 ---
 
 # Sub-Account (Formerly location) API
