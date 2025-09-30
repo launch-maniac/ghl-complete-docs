@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-29T07:44:18.888Z",
+  "generated": "2025-09-30T07:44:35.283Z",
   "stats": {
     "channels": 1,
-    "videos": 10,
+    "videos": 8,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 10
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -664,6 +664,18 @@
       "slug": "ceycip04eku-how-to-transfer-sub-accounts-to-a-new-agency"
     },
     {
+      "filename": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge.md",
+      "title": "Day 5 - Five Day AI Employee Challenge",
+      "videoId": "cFcXbDd9adY",
+      "url": "https://www.youtube.com/watch?v=cFcXbDd9adY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-29T13:31:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
+    },
+    {
       "filename": "cn2-p3kpqfq-voice-ai-custom-actions.md",
       "title": "Voice AI  Custom Actions",
       "videoId": "cN2-p3kpQfQ",
@@ -794,6 +806,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.2",
       "slug": "fclz5d9jmrq-workflows-custom-mapping-support-for-tracking-fields-for-google-adwords-and-facebook-con"
+    },
+    {
+      "filename": "fderugliywq-day-3-five-day-ai-employee-challenge.md",
+      "title": "Day 3 - Five Day AI Employee Challenge",
+      "videoId": "FderUGLiYwQ",
+      "url": "https://www.youtube.com/watch?v=FderUGLiYwQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-29T13:29:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
     },
     {
       "filename": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025.md",
@@ -1288,18 +1312,6 @@
       "slug": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick"
     },
     {
-      "filename": "ne4wb1uz03w-ad-manager-snapshot-support-for-google-ads.md",
-      "title": "Ad Manager  Snapshot Support for Google Ads",
-      "videoId": "Ne4WB1uz03w",
-      "url": "https://www.youtube.com/watch?v=Ne4WB1uz03w",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-03-31T15:00:34.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "5.7",
-      "slug": "ne4wb1uz03w-ad-manager-snapshot-support-for-google-ads"
-    },
-    {
       "filename": "nkz2pagdfb8-mobile-app-opportunities-v2-is-live.md",
       "title": "Mobile App    Opportunities V2 is Live!",
       "videoId": "Nkz2PAGDFb8",
@@ -1334,6 +1346,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close"
+    },
+    {
+      "filename": "opnzolbz9n0-day-1-five-day-ai-employee-challenge.md",
+      "title": "Day 1 - Five Day AI Employee Challenge",
+      "videoId": "opnZOLbz9n0",
+      "url": "https://www.youtube.com/watch?v=opnZOLbz9n0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T05:58:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "opnzolbz9n0-day-1-five-day-ai-employee-challenge"
     },
     {
       "filename": "or-qgu3k2fw-airtable-integration-live.md",
@@ -1492,6 +1516,18 @@
       "slug": "qp9xbeseu40-the-highlevel-release-radar-august-18th-august-22nd-2025"
     },
     {
+      "filename": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge.md",
+      "title": "Day 2 - Five Day AI Employee Challenge",
+      "videoId": "r_zi6Jh32NQ",
+      "url": "https://www.youtube.com/watch?v=r_zi6Jh32NQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-29T13:28:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge"
+    },
+    {
       "filename": "r0yae8psxzg-bot-actions-dashboard.md",
       "title": "Bot Actions + Dashboard",
       "videoId": "R0yae8psxzg",
@@ -1516,6 +1552,18 @@
       "slug": "rdpysvgnerg-why-ai-chat-widgets-snapshot-resources-here"
     },
     {
+      "filename": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge.md",
+      "title": "Day 4 - Five Day AI Employee Challenge",
+      "videoId": "RG0xdnKtgtM",
+      "url": "https://www.youtube.com/watch?v=RG0xdnKtgtM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-29T13:30:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge"
+    },
+    {
       "filename": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click.md",
       "title": "Jodee Peevor: The Real Funnel Fix Starts With a Click",
       "videoId": "RkhDxE6gLx4",
@@ -1524,7 +1572,7 @@
       "publishedDate": "2025-09-28T04:51:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -2153,8 +2201,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 125,
-    "warning": 18,
+    "fresh": 130,
+    "warning": 17,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -2165,8 +2213,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 121,
-        "warning": 17,
+        "fresh": 126,
+        "warning": 16,
         "expired": 0,
         "unknown": null
       },
