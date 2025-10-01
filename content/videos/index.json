@@ -1,14 +1,14 @@
 {
-  "generated": "2025-09-30T07:44:35.283Z",
+  "generated": "2025-10-01T07:44:35.716Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 14,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 14
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -170,6 +170,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "2xyh00mnfao-kalvin-morris-easy-ways-to-scale-with-highlevel-and-smart-systems"
+    },
+    {
+      "filename": "35yiadsh8o8-how-to-configure-affiliate-payout-methods.md",
+      "title": "How to Configure Affiliate Payout Methods",
+      "videoId": "35YiADsH8O8",
+      "url": "https://www.youtube.com/watch?v=35YiADsH8O8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:29:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "35yiadsh8o8-how-to-configure-affiliate-payout-methods"
     },
     {
       "filename": "36rzrocmmr4-whatsapp-link-cta-click-workflow-action-live.md",
@@ -672,7 +684,7 @@
       "publishedDate": "2025-09-29T13:31:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -816,7 +828,7 @@
       "publishedDate": "2025-09-29T13:29:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -904,6 +916,18 @@
       "slug": "gcjpjv-wea8-future-of-affiliate-marketing-with-dominic-baptist"
     },
     {
+      "filename": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily.md",
+      "title": "How to Connect Notes to Contacts and Opportunities Easily",
+      "videoId": "GT5v_iooM_I",
+      "url": "https://www.youtube.com/watch?v=GT5v_iooM_I",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:30:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily"
+    },
+    {
       "filename": "gy6xm-jcmga-social-planner-reschedule-in-approval-state.md",
       "title": "Social Planner - Reschedule in Approval State!",
       "videoId": "GY6xM_JcmgA",
@@ -938,6 +962,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.9",
       "slug": "h6lhmvi5dzm-the-quarterly-ama-with-co-founders-shaun-varun-and-robin"
+    },
+    {
+      "filename": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country.md",
+      "title": "How to Analyze Funnel and Website Traffic by Country",
+      "videoId": "H8XetFkDUBM",
+      "url": "https://www.youtube.com/watch?v=H8XetFkDUBM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:24:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country"
     },
     {
       "filename": "hizbe-8cmsk-client-portal-estimates-support.md",
@@ -1120,6 +1156,18 @@
       "slug": "k6-n-eildwu-notion-integration-is-live"
     },
     {
+      "filename": "katv-bvrttu-how-to-automate-review-responses-with-ai-agents.md",
+      "title": "How to Automate Review Responses with AI Agents",
+      "videoId": "KaTV_bvRTTU",
+      "url": "https://www.youtube.com/watch?v=KaTV_bvRTTU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:28:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "katv-bvrttu-how-to-automate-review-responses-with-ai-agents"
+    },
+    {
       "filename": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025.md",
       "title": "The HighLevel Release Radar (August 4th - August 8th 2025)",
       "videoId": "kepNl93ttv0",
@@ -1252,6 +1300,18 @@
       "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
     },
     {
+      "filename": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager.md",
+      "title": "How to Set Up Bank Account Payments in Your Affiliate Manager",
+      "videoId": "LSBKOGPSC2c",
+      "url": "https://www.youtube.com/watch?v=LSBKOGPSC2c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:28:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager"
+    },
+    {
       "filename": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests.md",
       "title": "How to Set Up and Send Multi-Channel Review Requests",
       "videoId": "mbeuppfOVS0",
@@ -1310,6 +1370,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick"
+    },
+    {
+      "filename": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features.md",
+      "title": "How to Use Version History and Auto-Save Features",
+      "videoId": "nHA1LSU87kU",
+      "url": "https://www.youtube.com/watch?v=nHA1LSU87kU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:25:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features"
     },
     {
       "filename": "nkz2pagdfb8-mobile-app-opportunities-v2-is-live.md",
@@ -1521,7 +1593,7 @@
       "videoId": "r_zi6Jh32NQ",
       "url": "https://www.youtube.com/watch?v=r_zi6Jh32NQ",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-29T13:28:20.000Z",
+      "publishedDate": "2025-10-01T05:46:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -1560,7 +1632,7 @@
       "publishedDate": "2025-09-29T13:30:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -1718,6 +1790,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance"
+    },
+    {
+      "filename": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal.md",
+      "title": "How to Seamlessly Access Custom Form Data in Appointment Modal",
+      "videoId": "TLcKHg01Bfk",
+      "url": "https://www.youtube.com/watch?v=TLcKHg01Bfk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:27:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal"
     },
     {
       "filename": "ttfykdjsgvc-communities-event-attendee-list-view-saved-membership-answers.md",
@@ -2116,6 +2200,18 @@
       "slug": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
+      "filename": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel.md",
+      "title": "How to Create Snapshots with Custom Objects in HighLevel",
+      "videoId": "yuTziRmdQps",
+      "url": "https://www.youtube.com/watch?v=yuTziRmdQps",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-09-30T21:26:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel"
+    },
+    {
       "filename": "ywqst7pv7i8-quick-wins-introduction.md",
       "title": "🧐 Quick Wins Introduction",
       "videoId": "ywqsT7pv7I8",
@@ -2201,7 +2297,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 130,
+    "fresh": 138,
     "warning": 17,
     "expired": 0,
     "unknown": 33,
@@ -2213,7 +2309,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 126,
+        "fresh": 134,
         "warning": 16,
         "expired": 0,
         "unknown": null

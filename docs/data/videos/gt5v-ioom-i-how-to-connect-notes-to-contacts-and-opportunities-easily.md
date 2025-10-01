@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Five Day AI Employee Challenge"
-video_id: "opnZOLbz9n0"
-url: "https://www.youtube.com/watch?v=opnZOLbz9n0"
-thumbnail: "https://i.ytimg.com/vi/opnZOLbz9n0/hqdefault.jpg"
+title: "How to Connect Notes to Contacts and Opportunities Easily"
+video_id: "GT5v_iooM_I"
+url: "https://www.youtube.com/watch?v=GT5v_iooM_I"
+thumbnail: "https://i.ytimg.com/vi/GT5v_iooM_I/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-30T05:58:21.000Z"
+published_date: "2025-09-30T21:30:00.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-01T07:44:30.478Z"
+extracted_at: "2025-10-01T07:44:28.748Z"
 
 ---
 
-# 🟢 Day 1 - Five Day AI Employee Challenge
+# 🟢 How to Connect Notes to Contacts and Opportunities Easily
 
-**Video ID:** `opnZOLbz9n0`
+**Video ID:** `GT5v_iooM_I`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 9/30/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-10-01T07:44:30.478Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=opnZOLbz9n0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/opnZOLbz9n0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GT5v_iooM_I)
+- [📷 Thumbnail](https://i.ytimg.com/vi/GT5v_iooM_I/hqdefault.jpg)
 
 
 ## Content Guidelines
