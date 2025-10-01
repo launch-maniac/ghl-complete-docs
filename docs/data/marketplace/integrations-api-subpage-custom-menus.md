@@ -3,19 +3,6 @@ title: "Custom Menus"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/e377daf40adc8-custom-menus-api"
-extracted_at: "2025-10-01T01:00:06.210Z"
+extracted_at: "2025-10-01T06:29:22.171Z"
 ---
 
-# Custom menus API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/643853801
-
-Documentation for Custom menus API

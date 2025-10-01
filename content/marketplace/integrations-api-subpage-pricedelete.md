@@ -3,7 +3,7 @@ title: "PriceDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/d38908e8abed4-price"
-extracted_at: "2025-10-01T01:06:00.957Z"
+extracted_at: "2025-10-01T06:35:08.559Z"
 ---
 
 # Price
