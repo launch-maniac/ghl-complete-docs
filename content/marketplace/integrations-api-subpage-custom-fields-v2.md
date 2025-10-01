@@ -3,7 +3,7 @@ title: "Custom Fields V2"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/916c54f181d11-custom-fields-api"
-extracted_at: "2025-10-01T18:23:22.588Z"
+extracted_at: "2025-10-01T21:12:53.503Z"
 ---
 
 # CUSTOM\_FIELDS API

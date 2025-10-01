@@ -3,7 +3,7 @@ title: "Payments"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ad461c1eb08ab-payments-api"
-extracted_at: "2025-10-01T18:25:55.820Z"
+extracted_at: "2025-10-01T21:15:23.170Z"
 ---
 
 # Payments API

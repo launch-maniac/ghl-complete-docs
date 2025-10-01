@@ -3,7 +3,7 @@ title: "ObjectSchemaCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/5838fbea129d7-object-schema-create"
-extracted_at: "2025-10-01T18:33:48.295Z"
+extracted_at: "2025-10-01T21:23:21.709Z"
 ---
 
 # Object Schema Create
