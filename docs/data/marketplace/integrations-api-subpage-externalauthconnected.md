@@ -3,7 +3,7 @@ title: "ExternalAuthConnected"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7afbc237f52a0-external-auth-connected"
-extracted_at: "2025-09-30T18:28:45.962Z"
+extracted_at: "2025-10-01T01:00:51.903Z"
 ---
 
 # EXTERNAL\_AUTH\_CONNECTED

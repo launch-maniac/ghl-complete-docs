@@ -3,7 +3,7 @@ title: "Trigger Links"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/85c4db13a5d69-links-api"
-extracted_at: "2025-09-30T18:24:12.386Z"
+extracted_at: "2025-10-01T00:56:39.266Z"
 ---
 
 # Links API

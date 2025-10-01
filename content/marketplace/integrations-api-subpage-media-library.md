@@ -3,6 +3,19 @@ title: "Media Library"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/488092d29d289-media-library-api"
-extracted_at: "2025-09-30T18:24:25.672Z"
+extracted_at: "2025-10-01T00:56:48.943Z"
 ---
 
+# Media Library API
+
+Export
+
+v1.0
+
+API Base URL
+
+Live Server:https://services.leadconnectorhq.com
+
+Mock Server:https://stoplight.io/mocks/highlevel/integrations/216526698
+
+Documentation for Files API
