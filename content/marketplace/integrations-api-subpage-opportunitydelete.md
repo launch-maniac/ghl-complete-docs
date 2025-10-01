@@ -3,7 +3,7 @@ title: "OpportunityDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjg1-opportunity"
-extracted_at: "2025-10-01T09:28:38.787Z"
+extracted_at: "2025-10-01T15:21:12.136Z"
 ---
 
 # Opportunity
