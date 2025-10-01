@@ -3,7 +3,7 @@ title: "Blogs"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/4c364bc1d8c73-blogs-api"
-extracted_at: "2025-10-01T06:26:36.206Z"
+extracted_at: "2025-10-01T09:22:38.116Z"
 ---
 
 # Blogs API
