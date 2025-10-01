@@ -3,7 +3,7 @@ title: "Emails"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7b73a52f31b88-email-api"
-extracted_at: "2025-10-01T15:13:23.333Z"
+extracted_at: "2025-10-01T18:23:45.649Z"
 ---
 
 # Email API
