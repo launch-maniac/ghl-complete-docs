@@ -3,7 +3,7 @@ title: "TaskDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjg0-task"
-extracted_at: "2025-10-02T03:43:01.801Z"
+extracted_at: "2025-10-02T06:33:48.275Z"
 ---
 
 # Task

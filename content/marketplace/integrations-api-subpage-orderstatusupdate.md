@@ -3,7 +3,7 @@ title: "OrderStatusUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/9f1caf85e3890-order"
-extracted_at: "2025-10-02T03:41:39.451Z"
+extracted_at: "2025-10-02T06:32:25.185Z"
 ---
 
 # Order
