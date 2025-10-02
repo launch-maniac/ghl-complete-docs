@@ -3,7 +3,7 @@ title: "OAuth 2.0"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/889f37581bd0e-o-auth-2-0"
-extracted_at: "2025-10-01T21:11:59.714Z"
+extracted_at: "2025-10-02T00:47:39.927Z"
 ---
 
 # OAuth 2.0

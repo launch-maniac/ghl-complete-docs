@@ -3,7 +3,7 @@ title: "Users"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/7f581f780cf2f-users-api"
-extracted_at: "2025-10-01T21:16:14.848Z"
+extracted_at: "2025-10-02T00:52:16.141Z"
 ---
 
 # Users API

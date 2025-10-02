@@ -3,7 +3,7 @@ title: "NoteCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjc2-note"
-extracted_at: "2025-10-01T21:19:53.789Z"
+extracted_at: "2025-10-02T00:55:28.131Z"
 ---
 
 # Note
