@@ -1,14 +1,14 @@
 ---
-title: "Day 5 - Five Day AI Employee Challenge"
-video_id: "cFcXbDd9adY"
-url: "https://www.youtube.com/watch?v=cFcXbDd9adY"
-thumbnail: "https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault_live.jpg"
+title: "Day 1 - Launch Your AI Sales Engine with HighLevel"
+video_id: "Z6JVSxRM7zM"
+url: "https://www.youtube.com/watch?v=Z6JVSxRM7zM"
+thumbnail: "https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-29T13:31:26.000Z"
+published_date: "2025-10-01T18:31:03.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-02T07:42:02.153Z"
+extracted_at: "2025-10-02T07:42:00.233Z"
 
 ---
 
-# 🟢 Day 5 - Five Day AI Employee Challenge
+# 🟢 Day 1 - Launch Your AI Sales Engine with HighLevel
 
-**Video ID:** `cFcXbDd9adY`
+**Video ID:** `Z6JVSxRM7zM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/29/2025
+**Published:** 10/1/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-02T07:42:02.153Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cFcXbDd9adY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Z6JVSxRM7zM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault_live.jpg)
 
 
 ## Content Guidelines

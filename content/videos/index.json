@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-01T07:44:35.716Z",
+  "generated": "2025-10-02T07:42:06.749Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 16,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -825,10 +825,10 @@
       "videoId": "FderUGLiYwQ",
       "url": "https://www.youtube.com/watch?v=FderUGLiYwQ",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-29T13:29:20.000Z",
+      "publishedDate": "2025-10-02T06:00:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -840,7 +840,7 @@
       "publishedDate": "2025-09-27T07:23:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
@@ -1428,7 +1428,7 @@
       "publishedDate": "2025-09-30T05:58:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "opnzolbz9n0-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -1574,6 +1574,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.0",
       "slug": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling"
+    },
+    {
+      "filename": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel.md",
+      "title": "Day 2 - Launch Your AI Sales Engine with HighLevel",
+      "videoId": "pVcDDv7l7nI",
+      "url": "https://www.youtube.com/watch?v=pVcDDv7l7nI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-01T18:32:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
       "filename": "qp9xbeseu40-the-highlevel-release-radar-august-18th-august-22nd-2025.md",
@@ -2248,6 +2260,18 @@
       "slug": "z5xac5z-yj0-keyboard-shortcuts"
     },
     {
+      "filename": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel.md",
+      "title": "Day 1 - Launch Your AI Sales Engine with HighLevel",
+      "videoId": "Z6JVSxRM7zM",
+      "url": "https://www.youtube.com/watch?v=Z6JVSxRM7zM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-01T18:31:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
+    },
+    {
       "filename": "zgh1gkg5lzy-forms-and-funnels.md",
       "title": "Forms and Funnels",
       "videoId": "ZgH1GKG5LZY",
@@ -2297,7 +2321,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 138,
+    "fresh": 140,
     "warning": 17,
     "expired": 0,
     "unknown": 33,
@@ -2309,7 +2333,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 134,
+        "fresh": 136,
         "warning": 16,
         "expired": 0,
         "unknown": null
