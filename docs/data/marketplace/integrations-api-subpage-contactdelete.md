@@ -3,7 +3,7 @@ title: "ContactDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/595c982887ce2-contact"
-extracted_at: "2025-10-02T12:31:17.504Z"
+extracted_at: "2025-10-02T15:17:16.928Z"
 ---
 
 # Contact
