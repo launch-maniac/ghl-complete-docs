@@ -3,7 +3,7 @@ title: "ProductCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/4e63348dfe1a0-product"
-extracted_at: "2025-10-02T15:22:04.587Z"
+extracted_at: "2025-10-02T21:21:23.018Z"
 ---
 
 # Product

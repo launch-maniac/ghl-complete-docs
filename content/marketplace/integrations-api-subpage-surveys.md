@@ -3,7 +3,7 @@ title: "Surveys"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/695b9d1db7545-surveys-api"
-extracted_at: "2025-10-02T15:15:53.520Z"
+extracted_at: "2025-10-02T21:15:37.468Z"
 ---
 
 # Surveys API

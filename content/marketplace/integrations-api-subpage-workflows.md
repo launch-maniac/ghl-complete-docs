@@ -3,7 +3,7 @@ title: "Workflows"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/3c7cf6a44f362-workflows-api"
-extracted_at: "2025-10-02T15:16:08.074Z"
+extracted_at: "2025-10-02T21:15:50.665Z"
 ---
 
 # workflows API

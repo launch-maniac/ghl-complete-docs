@@ -3,7 +3,7 @@ title: "Courses"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ddc0780ee588c-memberships-api"
-extracted_at: "2025-10-02T15:12:47.966Z"
+extracted_at: "2025-10-02T21:12:36.588Z"
 ---
 
 # MEMBERSHIPS API
