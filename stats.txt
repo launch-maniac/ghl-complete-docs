@@ -7,12 +7,12 @@
 📈 DOCUMENTATION STATISTICS
 ==================================================
 Total Documents: 665
-Last Updated: 10/2/2025, 3:25:30 PM
+Last Updated: 10/2/2025, 6:21:55 PM
 
 Categories:
-  • Marketplace Documentation: 241 documents
   • Changelog: 225 documents
   • Video Tutorials: 190 documents
+  • Marketplace Documentation: 155 documents
   • Ad-manager: 1 documents
   • Ad-reporting-and-attribution: 1 documents
   • Agency-onboarding: 1 documents
