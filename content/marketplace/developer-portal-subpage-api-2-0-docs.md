@@ -3,29 +3,6 @@ title: "API 2.0 Docs"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview"
-extracted_at: "2025-10-03T12:22:02.868Z"
+extracted_at: "2025-10-03T15:07:55.399Z"
 ---
 
-[](url)\## Overview
-
-These APIs use OAuth 2.0 flow for authentication.
-
-To get started, please follow [Authorization steps](docs/oauth/Authorization.md).
-
-### [
-
-Standard Response Fields
-
-](#standard-response-fields)
-
-Below we have listed the standard fields you would receive with every request.
-
-#### [
-
-TraceId
-
-](#traceid)
-
-A traceId represents a unique id for every request and is returned with every response. It is useful in pinpointing the exact request and helps while debugging.
-
-[On this page](# "On this page")[Standard Response Fields](#standard-response-fields "Standard Response Fields")
