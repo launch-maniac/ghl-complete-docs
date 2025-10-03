@@ -3,7 +3,7 @@ title: "Get Blog posts by Blog IDget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/b8beb7b0883e6-get-blog-posts-by-blog-id"
-extracted_at: "2025-10-03T06:26:47.095Z"
+extracted_at: "2025-10-03T12:28:46.911Z"
 ---
 
 # Get Blog posts by Blog ID
