@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Launch Your AI Sales Engine with HighLevel"
-video_id: "pVcDDv7l7nI"
-url: "https://www.youtube.com/watch?v=pVcDDv7l7nI"
-thumbnail: "https://i.ytimg.com/vi/pVcDDv7l7nI/hqdefault_live.jpg"
+title: "Turn DMs into Sales with HighLevel with Raquel Diehm"
+video_id: "he2GKot-KYg"
+url: "https://www.youtube.com/watch?v=he2GKot-KYg"
+thumbnail: "https://i.ytimg.com/vi/he2GKot-KYg/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-01T18:32:52.000Z"
+published_date: "2025-10-02T13:00:36.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-03T07:42:30.681Z"
+extracted_at: "2025-10-03T07:42:30.449Z"
 
 ---
 
-# 🟢 Day 2 - Launch Your AI Sales Engine with HighLevel
+# 🟢 Turn DMs into Sales with HighLevel with Raquel Diehm
 
-**Video ID:** `pVcDDv7l7nI`
+**Video ID:** `he2GKot-KYg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/1/2025
+**Published:** 10/2/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-03T07:42:30.681Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pVcDDv7l7nI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/pVcDDv7l7nI/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=he2GKot-KYg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/he2GKot-KYg/hqdefault_live.jpg)
 
 
 ## Content Guidelines

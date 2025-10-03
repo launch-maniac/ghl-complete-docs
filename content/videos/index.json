@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-02T07:42:06.749Z",
+  "generated": "2025-10-03T07:42:42.587Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 15,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -180,7 +180,7 @@
       "publishedDate": "2025-09-30T21:29:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "35yiadsh8o8-how-to-configure-affiliate-payout-methods"
     },
     {
@@ -924,7 +924,7 @@
       "publishedDate": "2025-09-30T21:30:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily"
     },
     {
@@ -972,8 +972,20 @@
       "publishedDate": "2025-09-30T21:24:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country"
+    },
+    {
+      "filename": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm.md",
+      "title": "Turn DMs into Sales with HighLevel with Raquel Diehm",
+      "videoId": "he2GKot-KYg",
+      "url": "https://www.youtube.com/watch?v=he2GKot-KYg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-02T13:00:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
       "filename": "hizbe-8cmsk-client-portal-estimates-support.md",
@@ -1164,7 +1176,7 @@
       "publishedDate": "2025-09-30T21:28:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "katv-bvrttu-how-to-automate-review-responses-with-ai-agents"
     },
     {
@@ -1308,7 +1320,7 @@
       "publishedDate": "2025-09-30T21:28:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager"
     },
     {
@@ -1380,7 +1392,7 @@
       "publishedDate": "2025-09-30T21:25:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features"
     },
     {
@@ -1584,7 +1596,7 @@
       "publishedDate": "2025-10-01T18:32:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1608,7 +1620,7 @@
       "publishedDate": "2025-10-01T05:46:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -1641,10 +1653,10 @@
       "videoId": "RG0xdnKtgtM",
       "url": "https://www.youtube.com/watch?v=RG0xdnKtgtM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-29T13:30:27.000Z",
+      "publishedDate": "2025-10-03T05:24:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -1812,7 +1824,7 @@
       "publishedDate": "2025-09-30T21:27:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal"
     },
     {
@@ -2220,7 +2232,7 @@
       "publishedDate": "2025-09-30T21:26:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel"
     },
     {
@@ -2268,7 +2280,7 @@
       "publishedDate": "2025-10-01T18:31:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2321,7 +2333,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 140,
+    "fresh": 141,
     "warning": 17,
     "expired": 0,
     "unknown": 33,
@@ -2333,7 +2345,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 136,
+        "fresh": 137,
         "warning": 16,
         "expired": 0,
         "unknown": null
