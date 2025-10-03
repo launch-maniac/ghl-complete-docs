@@ -3,7 +3,7 @@ title: "Scopes"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/vcctp9t1w8hja-scopes"
-extracted_at: "2025-10-02T06:22:16.633Z"
+extracted_at: "2025-10-03T06:22:47.960Z"
 ---
 
 # **Scopes**
