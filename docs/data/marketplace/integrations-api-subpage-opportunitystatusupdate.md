@@ -3,7 +3,7 @@ title: "OpportunityStatusUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/120cbffbaab4d-opportunity"
-extracted_at: "2025-10-02T21:20:16.395Z"
+extracted_at: "2025-10-03T00:57:47.162Z"
 ---
 
 # Opportunity
