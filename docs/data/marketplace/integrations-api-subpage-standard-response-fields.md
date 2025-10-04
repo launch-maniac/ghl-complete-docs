@@ -3,7 +3,7 @@ title: "Standard Response Fields"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-standard-response-fields#standard-response-fields"
-extracted_at: "2025-10-04T18:19:19.503Z"
+extracted_at: "2025-10-04T21:10:11.027Z"
 ---
 
 [](url)\## Overview
