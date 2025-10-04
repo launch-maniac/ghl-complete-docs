@@ -3,7 +3,7 @@ title: "Create Blog Postpost"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/c24ff055e7cf8-create-blog-post"
-extracted_at: "2025-10-03T21:14:53.270Z"
+extracted_at: "2025-10-04T00:49:32.034Z"
 ---
 
 # Create Blog Post
