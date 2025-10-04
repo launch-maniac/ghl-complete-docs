@@ -3,7 +3,7 @@ title: "Contacts"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/e957726e8625d-contacts-api"
-extracted_at: "2025-10-04T03:27:01.733Z"
+extracted_at: "2025-10-04T06:21:47.183Z"
 ---
 
 # Contacts API

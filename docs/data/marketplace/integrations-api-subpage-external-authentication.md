@@ -3,7 +3,7 @@ title: "External Authentication"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/a626f7eb6535a-external-authentication"
-extracted_at: "2025-10-04T03:25:56.905Z"
+extracted_at: "2025-10-04T06:20:47.128Z"
 ---
 
 # External Authentication
