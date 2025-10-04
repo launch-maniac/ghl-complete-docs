@@ -3,7 +3,7 @@ title: "AppUninstall"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0a921b6da92ca-app"
-extracted_at: "2025-10-04T09:23:23.093Z"
+extracted_at: "2025-10-04T18:26:09.214Z"
 ---
 
 # App

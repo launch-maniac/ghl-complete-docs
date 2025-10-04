@@ -3,7 +3,7 @@ title: "InvoicePartiallyPaid"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/fef02636de918-invoice"
-extracted_at: "2025-10-04T09:25:09.154Z"
+extracted_at: "2025-10-04T18:28:00.299Z"
 ---
 
 # Invoice
