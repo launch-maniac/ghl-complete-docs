@@ -1,10 +1,10 @@
 ---
-title: "Day 5 - Five Day AI Employee Challenge"
-video_id: "cFcXbDd9adY"
-url: "https://www.youtube.com/watch?v=cFcXbDd9adY"
-thumbnail: "https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault.jpg"
+title: "The HighLevel Release Radar (September 29th - October 3rd 2025)"
+video_id: "x5B8k5e1ez0"
+url: "https://www.youtube.com/watch?v=x5B8k5e1ez0"
+thumbnail: "https://i.ytimg.com/vi/x5B8k5e1ez0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-04T05:38:49.000Z"
+published_date: "2025-10-04T06:40:06.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-04T07:41:47.021Z"
+extracted_at: "2025-10-04T07:41:46.815Z"
 
 ---
 
-# 🟢 Day 5 - Five Day AI Employee Challenge
+# 🟢 The HighLevel Release Radar (September 29th - October 3rd 2025)
 
-**Video ID:** `cFcXbDd9adY`
+**Video ID:** `x5B8k5e1ez0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 10/4/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-10-04T07:41:47.021Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cFcXbDd9adY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x5B8k5e1ez0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x5B8k5e1ez0/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-03T07:42:42.587Z",
+  "generated": "2025-10-04T07:41:52.798Z",
   "stats": {
     "channels": 1,
-    "videos": 15,
+    "videos": 7,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 15
+    "transcriptsFailed": 7
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -484,18 +484,6 @@
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
-      "filename": "a7owi4puns8-funnels-amp-websites-cookie-consent-v2.md",
-      "title": "Funnels &amp; Websites  Cookie Consent V2",
-      "videoId": "a7owi4pUNS8",
-      "url": "https://www.youtube.com/watch?v=a7owi4pUNS8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-04-03T18:00:01.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "5.6",
-      "slug": "a7owi4puns8-funnels-amp-websites-cookie-consent-v2"
-    },
-    {
       "filename": "aatwuqgm-9q-day-2-build-your-agency-fast-with-highlevel-ai.md",
       "title": "Day 2 - Build Your Agency Fast with HighLevel + AI",
       "videoId": "AatwUqgM-9Q",
@@ -681,10 +669,10 @@
       "videoId": "cFcXbDd9adY",
       "url": "https://www.youtube.com/watch?v=cFcXbDd9adY",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-29T13:31:26.000Z",
+      "publishedDate": "2025-10-04T05:38:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -828,7 +816,7 @@
       "publishedDate": "2025-10-02T06:00:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -984,7 +972,7 @@
       "publishedDate": "2025-10-02T13:00:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -2092,6 +2080,18 @@
       "slug": "x4mxyxkvqtq-monetize-voice-ai-fast-with-highlevel"
     },
     {
+      "filename": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025.md",
+      "title": "The HighLevel Release Radar (September 29th - October 3rd 2025)",
+      "videoId": "x5B8k5e1ez0",
+      "url": "https://www.youtube.com/watch?v=x5B8k5e1ez0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-04T06:40:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025"
+    },
+    {
       "filename": "xkvpovdribs-how-to-set-up-a-call-script.md",
       "title": "How to Set Up a Call Script",
       "videoId": "xkVpOVDRIbs",
@@ -2333,8 +2333,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 141,
-    "warning": 17,
+    "fresh": 142,
+    "warning": 16,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -2345,8 +2345,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 137,
-        "warning": 16,
+        "fresh": 138,
+        "warning": 15,
         "expired": 0,
         "unknown": null
       },
