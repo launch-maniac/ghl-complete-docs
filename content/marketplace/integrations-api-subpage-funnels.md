@@ -3,19 +3,6 @@ title: "Funnels"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/d9f356d764049-funnels-api"
-extracted_at: "2025-10-05T03:42:56.086Z"
+extracted_at: "2025-10-05T09:14:27.103Z"
 ---
 
-# Funnels API
-
-Export
-
-v1.0
-
-API Base URL
-
-Live Server:https://services.leadconnectorhq.com
-
-Mock Server:https://stoplight.io/mocks/highlevel/integrations/274944167
-
-Documentation for funnels API
