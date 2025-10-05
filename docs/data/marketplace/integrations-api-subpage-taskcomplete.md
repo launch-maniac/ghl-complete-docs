@@ -3,7 +3,7 @@ title: "TaskComplete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/1eff163faf3e0-task"
-extracted_at: "2025-10-05T12:35:32.869Z"
+extracted_at: "2025-10-05T18:32:06.116Z"
 ---
 
 # Task
