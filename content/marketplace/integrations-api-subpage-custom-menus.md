@@ -3,7 +3,7 @@ title: "Custom Menus"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/e377daf40adc8-custom-menus-api"
-extracted_at: "2025-10-05T03:44:23.109Z"
+extracted_at: "2025-10-05T12:29:06.918Z"
 ---
 
 # Custom menus API

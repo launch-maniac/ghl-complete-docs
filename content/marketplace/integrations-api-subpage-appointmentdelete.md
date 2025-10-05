@@ -3,7 +3,7 @@ title: "AppointmentDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/fedb20137f2c6-appointment"
-extracted_at: "2025-10-05T09:16:07.120Z"
+extracted_at: "2025-10-05T12:29:33.468Z"
 ---
 
 # Appointment
