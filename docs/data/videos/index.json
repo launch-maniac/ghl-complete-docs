@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-04T07:41:52.798Z",
+  "generated": "2025-10-05T07:41:40.956Z",
   "stats": {
     "channels": 1,
-    "videos": 7,
+    "videos": 6,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 7
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1644,7 +1644,7 @@
       "publishedDate": "2025-10-03T05:24:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge"
     },
     {
