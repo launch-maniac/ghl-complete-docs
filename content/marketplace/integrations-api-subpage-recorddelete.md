@@ -3,7 +3,7 @@ title: "RecordDelete"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/81b40da792ba7-delete-record"
-extracted_at: "2025-10-05T01:06:22.771Z"
+extracted_at: "2025-10-05T03:51:22.088Z"
 ---
 
 # Delete Record

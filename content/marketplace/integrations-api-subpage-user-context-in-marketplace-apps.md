@@ -3,7 +3,7 @@ title: "User Context in Marketplace Apps"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/adfc6ad89ffb8-user-context-in-marketplace-apps"
-extracted_at: "2025-10-04T21:10:52.414Z"
+extracted_at: "2025-10-05T03:39:16.241Z"
 ---
 
 # User Context in Marketplace Apps
