@@ -3,7 +3,7 @@ title: "Check url slugget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/12bccbf6f8881-check-url-slug"
-extracted_at: "2025-10-05T03:42:09.150Z"
+extracted_at: "2025-10-05T06:24:23.605Z"
 ---
 
 # Check url slug
