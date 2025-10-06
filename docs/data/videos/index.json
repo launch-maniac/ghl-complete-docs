@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-05T07:41:40.956Z",
+  "generated": "2025-10-06T07:43:36.545Z",
   "stats": {
     "channels": 1,
-    "videos": 6,
+    "videos": 5,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 6
+    "transcriptsFailed": 5
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -672,7 +672,7 @@
       "publishedDate": "2025-10-04T05:38:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -2088,7 +2088,7 @@
       "publishedDate": "2025-10-04T06:40:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025"
     },
     {
