@@ -3,7 +3,7 @@ title: "RecordCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/eaa107154bbc4-record-create"
-extracted_at: "2025-10-06T01:03:49.152Z"
+extracted_at: "2025-10-06T03:50:59.596Z"
 ---
 
 # Record Create
