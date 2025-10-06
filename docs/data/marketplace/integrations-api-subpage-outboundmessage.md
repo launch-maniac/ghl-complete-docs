@@ -3,7 +3,7 @@ title: "OutboundMessage"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/028dcf92ee0b9-outbound-message"
-extracted_at: "2025-10-06T03:48:39.284Z"
+extracted_at: "2025-10-06T09:32:04.155Z"
 ---
 
 # OutboundMessage
