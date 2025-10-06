@@ -3,7 +3,7 @@ title: "Get List of Filesget"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0a4bf8cac58a9-get-list-of-files"
-extracted_at: "2025-10-06T09:23:46.765Z"
+extracted_at: "2025-10-06T18:25:04.178Z"
 ---
 
 # Get List of Files
