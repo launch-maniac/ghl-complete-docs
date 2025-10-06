@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-10-06T12:24:27.047Z"
+extracted_at: "2025-10-06T15:10:46.255Z"
 ---
 
 # Hi, how can we help you?
@@ -174,17 +174,17 @@ Modified on Mon, 22 Sep at 4:26 AM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
 
-LC - Phone Messaging Policy
-
-Modified on Wed, 10 Sep at 7:51 AM
-
-](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
-
 What is LC (Lead Connector) Phone System?
 
 Modified on Sun, 3 Aug at 6:12 AM
 
 ](/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-)[
+
+LC - Phone Messaging Policy
+
+Modified on Wed, 10 Sep at 7:51 AM
+
+](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
 How do I find my Client's Location ID?
 
