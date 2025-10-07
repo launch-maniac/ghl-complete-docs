@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Launch Your AI Sales Engine with HighLevel"
-video_id: "Z6JVSxRM7zM"
-url: "https://www.youtube.com/watch?v=Z6JVSxRM7zM"
-thumbnail: "https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault.jpg"
+title: "Day 1 - Launch Your AI Sales Engine with HighLevel with Peng Joon"
+video_id: "u1CYlH-cpDI"
+url: "https://www.youtube.com/watch?v=u1CYlH-cpDI"
+thumbnail: "https://i.ytimg.com/vi/u1CYlH-cpDI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-07T05:32:11.000Z"
+published_date: "2025-10-06T20:47:43.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-07T07:43:04.589Z"
+extracted_at: "2025-10-07T07:43:04.835Z"
 
 ---
 
-# 🟢 Day 1 - Launch Your AI Sales Engine with HighLevel
+# 🟢 Day 1 - Launch Your AI Sales Engine with HighLevel with Peng Joon
 
-**Video ID:** `Z6JVSxRM7zM`
+**Video ID:** `u1CYlH-cpDI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/7/2025
+**Published:** 10/6/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-07T07:43:04.589Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Z6JVSxRM7zM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u1CYlH-cpDI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/u1CYlH-cpDI/hqdefault.jpg)
 
 
 ## Content Guidelines

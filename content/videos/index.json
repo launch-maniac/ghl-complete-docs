@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-06T07:43:36.545Z",
+  "generated": "2025-10-07T07:43:14.586Z",
   "stats": {
     "channels": 1,
-    "videos": 5,
+    "videos": 15,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 5
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -568,6 +568,18 @@
       "slug": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge"
     },
     {
+      "filename": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "B-KBD7Y3aGE",
+      "url": "https://www.youtube.com/watch?v=B-KBD7Y3aGE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T19:22:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
       "filename": "bkt-q8wlu-s-blog-statistics-track-blog-amp-post-performance-live.md",
       "title": "Blog Statistics Track Blog &amp; Post Performance Live!",
       "videoId": "BkT_Q8WLu-s",
@@ -698,6 +710,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "cnfkp-hw4im-conduct-sales-calls"
+    },
+    {
+      "filename": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces.md",
+      "title": "How to Implement Usage-Based Pricing in the App Marketplaces",
+      "videoId": "CTCr_wf8Yto",
+      "url": "https://www.youtube.com/watch?v=CTCr_wf8Yto",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:12:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "critical",
+      "ageInMonths": "0.0",
+      "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
     },
     {
       "filename": "d5eklzlriny-human-handover.md",
@@ -972,7 +996,7 @@
       "publishedDate": "2025-10-02T13:00:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -1070,6 +1094,18 @@
       "contentCategory": "critical",
       "ageInMonths": "0.1",
       "slug": "ir0lkzcw2wm-app-marketplace-jobber-integration"
+    },
+    {
+      "filename": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
+      "title": "Did You Know You Can Assign Projects to Teammates in Slack with a Simple Workflow?",
+      "videoId": "ixH5HOoFpl4",
+      "url": "https://www.youtube.com/watch?v=ixH5HOoFpl4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:09:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
     },
     {
       "filename": "j-95efk3dly-whatsapp-media-action.md",
@@ -1584,7 +1620,7 @@
       "publishedDate": "2025-10-01T18:32:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1768,6 +1804,18 @@
       "slug": "sqyofqkivbg-how-to-easily-change-languages-in-your-client-portal-desktop-and-mobile-instructions"
     },
     {
+      "filename": "stu28wniygq-did-you-know-you-can-create-an-infinite-growth-flywheel-using-ai-agent-and-automated-mes.md",
+      "title": "Did You Know You Can Create an Infinite Growth Flywheel Using AI Agent and Automated Messaging?",
+      "videoId": "sTu28WnIygQ",
+      "url": "https://www.youtube.com/watch?v=sTu28WnIygQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:09:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "stu28wniygq-did-you-know-you-can-create-an-infinite-growth-flywheel-using-ai-agent-and-automated-mes"
+    },
+    {
       "filename": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business.md",
       "title": "How to Set Up WhatsApp Coexistence Feature for Your Business",
       "videoId": "sV1ID_Z6dPw",
@@ -1816,6 +1864,18 @@
       "slug": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal"
     },
     {
+      "filename": "tltdeisxeno-how-to-use-the-quiz-template-library.md",
+      "title": "How To Use the Quiz Template Library",
+      "videoId": "TltdEiSxEno",
+      "url": "https://www.youtube.com/watch?v=TltdEiSxEno",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:12:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
+    },
+    {
       "filename": "ttfykdjsgvc-communities-event-attendee-list-view-saved-membership-answers.md",
       "title": "Communities  Event Attendee List + View Saved Membership Answers",
       "videoId": "TTFYKdjSGVc",
@@ -1828,6 +1888,18 @@
       "slug": "ttfykdjsgvc-communities-event-attendee-list-view-saved-membership-answers"
     },
     {
+      "filename": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel-with-peng-joon.md",
+      "title": "Day 1 - Launch Your AI Sales Engine with HighLevel with Peng Joon",
+      "videoId": "u1CYlH-cpDI",
+      "url": "https://www.youtube.com/watch?v=u1CYlH-cpDI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T20:47:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel-with-peng-joon"
+    },
+    {
       "filename": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control.md",
       "title": "Reputation Management  New Widget Types + Full AI Summary Control",
       "videoId": "U1sSiyby6H8",
@@ -1838,6 +1910,42 @@
       "contentCategory": "standard",
       "ageInMonths": "2.0",
       "slug": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control"
+    },
+    {
+      "filename": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "u6VCeB7PlX4",
+      "url": "https://www.youtube.com/watch?v=u6VCeB7PlX4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T19:21:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
+      "filename": "ud4ofavdeza-did-you-know-highlevel-can-automatically-manage-spam.md",
+      "title": "Did You Know HighLevel Can Automatically Manage Spam?",
+      "videoId": "uD4OFavDezA",
+      "url": "https://www.youtube.com/watch?v=uD4OFavDezA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:10:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ud4ofavdeza-did-you-know-highlevel-can-automatically-manage-spam"
+    },
+    {
+      "filename": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b.md",
+      "title": "Did You Know You Can Have Multiple AI Agents Who Specialize in Different Parts of Your Business?",
+      "videoId": "UeqcjCHr4ps",
+      "url": "https://www.youtube.com/watch?v=UeqcjCHr4ps",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:08:07.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
     },
     {
       "filename": "uffd0zeqami-calendars-add-guests-payment-calculation-based-on-attendee-count-mandatory-guest-informa.md",
@@ -1934,6 +2042,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "vpnk-p5r40i-how-to-integrate-and-use-leadconnector-on-your-wordpress-site"
+    },
+    {
+      "filename": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner.md",
+      "title": "Did You Know Content AI Can Create Community Posts for You in the Social Planner?",
+      "videoId": "VStN73NOMCA",
+      "url": "https://www.youtube.com/watch?v=VStN73NOMCA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T13:10:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner"
     },
     {
       "filename": "w1e6fkbcbwk-how-to-easily-add-whatsapp-templates-to-your-snapshots.md",
@@ -2277,10 +2397,10 @@
       "videoId": "Z6JVSxRM7zM",
       "url": "https://www.youtube.com/watch?v=Z6JVSxRM7zM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-01T18:31:03.000Z",
+      "publishedDate": "2025-10-07T05:32:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2294,6 +2414,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.5",
       "slug": "zgh1gkg5lzy-forms-and-funnels"
+    },
+    {
+      "filename": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
+      "title": "Austin Schneider – Get Clients Without Cold DMs Using HighLevel",
+      "videoId": "ZhKnnK1nmWE",
+      "url": "https://www.youtube.com/watch?v=ZhKnnK1nmWE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T15:10:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
       "filename": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel.md",
@@ -2333,19 +2465,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 142,
+    "fresh": 153,
     "warning": 16,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 2,
+        "fresh": 3,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 138,
+        "fresh": 148,
         "warning": 15,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "Turn DMs into Sales with HighLevel with Raquel Diehm"
-video_id: "he2GKot-KYg"
-url: "https://www.youtube.com/watch?v=he2GKot-KYg"
-thumbnail: "https://i.ytimg.com/vi/he2GKot-KYg/hqdefault_live.jpg"
+title: "Austin Schneider – Get Clients Without Cold DMs Using HighLevel"
+video_id: "ZhKnnK1nmWE"
+url: "https://www.youtube.com/watch?v=ZhKnnK1nmWE"
+thumbnail: "https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-02T13:00:36.000Z"
+published_date: "2025-10-06T15:10:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-07T07:43:07.528Z"
+extracted_at: "2025-10-07T07:43:05.397Z"
 
 ---
 
-# 🟢 Turn DMs into Sales with HighLevel with Raquel Diehm
+# 🟢 Austin Schneider – Get Clients Without Cold DMs Using HighLevel
 
-**Video ID:** `he2GKot-KYg`
+**Video ID:** `ZhKnnK1nmWE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/2/2025
+**Published:** 10/6/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-07T07:43:07.528Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=he2GKot-KYg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/he2GKot-KYg/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZhKnnK1nmWE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault_live.jpg)
 
 
 ## Content Guidelines

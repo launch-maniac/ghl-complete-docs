@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Launch Your AI Sales Engine with HighLevel"
-video_id: "Z6JVSxRM7zM"
-url: "https://www.youtube.com/watch?v=Z6JVSxRM7zM"
-thumbnail: "https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault.jpg"
+title: "How To Use the Quiz Template Library"
+video_id: "TltdEiSxEno"
+url: "https://www.youtube.com/watch?v=TltdEiSxEno"
+thumbnail: "https://i.ytimg.com/vi/TltdEiSxEno/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-07T05:32:11.000Z"
+published_date: "2025-10-06T13:12:52.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-07T07:43:04.589Z"
+extracted_at: "2025-10-07T07:43:05.576Z"
 
 ---
 
-# 🟢 Day 1 - Launch Your AI Sales Engine with HighLevel
+# 🟢 How To Use the Quiz Template Library
 
-**Video ID:** `Z6JVSxRM7zM`
+**Video ID:** `TltdEiSxEno`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/7/2025
+**Published:** 10/6/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-07T07:43:04.589Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Z6JVSxRM7zM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Z6JVSxRM7zM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TltdEiSxEno)
+- [📷 Thumbnail](https://i.ytimg.com/vi/TltdEiSxEno/hqdefault.jpg)
 
 
 ## Content Guidelines
