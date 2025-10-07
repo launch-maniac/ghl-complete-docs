@@ -3,7 +3,7 @@ title: "OpportunityCreate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjI5Mjc4-opportunity"
-extracted_at: "2025-10-06T15:21:55.193Z"
+extracted_at: "2025-10-07T03:40:11.912Z"
 ---
 
 # Opportunity
