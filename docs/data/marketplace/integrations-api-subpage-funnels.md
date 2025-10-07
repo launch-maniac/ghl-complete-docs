@@ -3,7 +3,7 @@ title: "Funnels"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/d9f356d764049-funnels-api"
-extracted_at: "2025-10-07T03:35:39.536Z"
+extracted_at: "2025-10-07T06:26:11.617Z"
 ---
 
 # Funnels API

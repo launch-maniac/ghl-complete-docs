@@ -3,7 +3,7 @@ title: "CampaignStatusUpdate"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ZG9jOjI5NjM5MjYx-campaign"
-extracted_at: "2025-10-07T03:37:40.849Z"
+extracted_at: "2025-10-07T06:28:12.760Z"
 ---
 
 # Campaign

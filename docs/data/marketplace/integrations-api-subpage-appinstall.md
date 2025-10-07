@@ -3,7 +3,7 @@ title: "AppInstall"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/ed3e2ba9e37fe-app"
-extracted_at: "2025-10-07T03:37:21.483Z"
+extracted_at: "2025-10-07T06:27:53.764Z"
 ---
 
 # App
