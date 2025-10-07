@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-10-07T09:10:09.148Z"
+extracted_at: "2025-10-07T12:24:52.322Z"
 ---
 
 # Hi, how can we help you?
@@ -124,17 +124,17 @@ Email
 
 [
 
-How to Set Up a Whitelabel Domain for the Desktop Web App
-
-Modified on Fri, 26 Sep at 1:44 PM
-
-](/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app)[
-
 HighLevel API
 
 Modified on Fri, 26 Sep at 10:09 AM
 
 ](/support/solutions/articles/48001060529-highlevel-api)[
+
+How to Set Up a Whitelabel Domain for the Desktop Web App
+
+Modified on Fri, 26 Sep at 1:44 PM
+
+](/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app)[
 
 Dedicated Email Sending Domains Overview & Setup
 
