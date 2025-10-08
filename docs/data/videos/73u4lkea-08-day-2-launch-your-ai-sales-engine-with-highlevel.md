@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Assign Projects to Teammates in Slack with a Simple Workflow?"
-video_id: "ixH5HOoFpl4"
-url: "https://www.youtube.com/watch?v=ixH5HOoFpl4"
-thumbnail: "https://i.ytimg.com/vi/ixH5HOoFpl4/hqdefault.jpg"
+title: "Day 2 - Launch Your AI Sales Engine with HighLevel"
+video_id: "73u4LkeA_08"
+url: "https://www.youtube.com/watch?v=73u4LkeA_08"
+thumbnail: "https://i.ytimg.com/vi/73u4LkeA_08/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:09:45.000Z"
+published_date: "2025-10-07T20:54:29.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-08T07:42:57.672Z"
+extracted_at: "2025-10-08T07:42:55.047Z"
 
 ---
 
-# 🟢 Did You Know You Can Assign Projects to Teammates in Slack with a Simple Workflow?
+# 🟢 Day 2 - Launch Your AI Sales Engine with HighLevel
 
-**Video ID:** `ixH5HOoFpl4`
+**Video ID:** `73u4LkeA_08`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 10/7/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-08T07:42:57.672Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ixH5HOoFpl4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ixH5HOoFpl4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=73u4LkeA_08)
+- [📷 Thumbnail](https://i.ytimg.com/vi/73u4LkeA_08/hqdefault.jpg)
 
 
 ## Content Guidelines

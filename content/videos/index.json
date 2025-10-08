@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-07T07:43:14.586Z",
+  "generated": "2025-10-08T07:43:04.919Z",
   "stats": {
     "channels": 1,
-    "videos": 15,
+    "videos": 16,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 15
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -448,6 +448,18 @@
       "slug": "73eixhf41hs-lc-domain-manage-all-of-your-domains-centrally"
     },
     {
+      "filename": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel.md",
+      "title": "Day 2 - Launch Your AI Sales Engine with HighLevel",
+      "videoId": "73u4LkeA_08",
+      "url": "https://www.youtube.com/watch?v=73u4LkeA_08",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-07T20:54:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel"
+    },
+    {
       "filename": "7cuxytosawg-user-management-login-as-permission.md",
       "title": "User Management  Login As Permission",
       "videoId": "7cuxyTOsAWg",
@@ -720,7 +732,7 @@
       "publishedDate": "2025-10-06T13:12:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "critical",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
     },
     {
@@ -1104,7 +1116,7 @@
       "publishedDate": "2025-10-06T13:09:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
     },
     {
@@ -1617,10 +1629,10 @@
       "videoId": "pVcDDv7l7nI",
       "url": "https://www.youtube.com/watch?v=pVcDDv7l7nI",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-01T18:32:52.000Z",
+      "publishedDate": "2025-10-08T05:24:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1812,7 +1824,7 @@
       "publishedDate": "2025-10-06T13:09:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "stu28wniygq-did-you-know-you-can-create-an-infinite-growth-flywheel-using-ai-agent-and-automated-mes"
     },
     {
@@ -1872,7 +1884,7 @@
       "publishedDate": "2025-10-06T13:12:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
     },
     {
@@ -1898,6 +1910,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel-with-peng-joon"
+    },
+    {
+      "filename": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel.md",
+      "title": "Day 1 - Launch Your AI Sales Engine with HighLevel",
+      "videoId": "u1CYlH-cpDI",
+      "url": "https://www.youtube.com/watch?v=u1CYlH-cpDI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-06T20:47:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
       "filename": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control.md",
@@ -1932,7 +1956,7 @@
       "publishedDate": "2025-10-06T13:10:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ud4ofavdeza-did-you-know-highlevel-can-automatically-manage-spam"
     },
     {
@@ -1944,7 +1968,7 @@
       "publishedDate": "2025-10-06T13:08:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
     },
     {
@@ -2052,7 +2076,7 @@
       "publishedDate": "2025-10-06T13:10:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner"
     },
     {
@@ -2424,7 +2448,7 @@
       "publishedDate": "2025-10-06T15:10:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
@@ -2465,7 +2489,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 153,
+    "fresh": 155,
     "warning": 16,
     "expired": 0,
     "unknown": 33,
@@ -2477,7 +2501,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 148,
+        "fresh": 150,
         "warning": 15,
         "expired": 0,
         "unknown": null
