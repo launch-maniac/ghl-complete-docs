@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "B-KBD7Y3aGE"
-url: "https://www.youtube.com/watch?v=B-KBD7Y3aGE"
-thumbnail: "https://i.ytimg.com/vi/B-KBD7Y3aGE/hqdefault_live.jpg"
+title: "Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days"
+video_id: "7xl6GPLYXqg"
+url: "https://www.youtube.com/watch?v=7xl6GPLYXqg"
+thumbnail: "https://i.ytimg.com/vi/7xl6GPLYXqg/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T19:22:58.000Z"
+published_date: "2025-10-08T21:48:26.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-09T07:43:19.445Z"
+extracted_at: "2025-10-09T07:43:17.888Z"
 
 ---
 
-# 🟢 Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days
 
-**Video ID:** `B-KBD7Y3aGE`
+**Video ID:** `7xl6GPLYXqg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 10/8/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-09T07:43:19.445Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=B-KBD7Y3aGE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/B-KBD7Y3aGE/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7xl6GPLYXqg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7xl6GPLYXqg/hqdefault_live.jpg)
 
 
 ## Content Guidelines

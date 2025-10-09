@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-08T07:43:04.919Z",
+  "generated": "2025-10-09T07:43:29.190Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 20,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -472,6 +472,18 @@
       "slug": "7cuxytosawg-user-management-login-as-permission"
     },
     {
+      "filename": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days.md",
+      "title": "Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days",
+      "videoId": "7xl6GPLYXqg",
+      "url": "https://www.youtube.com/watch?v=7xl6GPLYXqg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-08T21:48:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
+    },
+    {
       "filename": "9e8kgultmfw-how-to-manage-audiences-in-highlevel-ad-manager.md",
       "title": "How to Manage Audiences in HighLevel Ad Manager",
       "videoId": "9E8KgultMfw",
@@ -588,7 +600,7 @@
       "publishedDate": "2025-10-06T19:22:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -854,6 +866,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation.md",
+      "title": "Adrianne Branche: Grow Your Agency with Sales &amp; Marketing Automation",
+      "videoId": "FEEBm070pHo",
+      "url": "https://www.youtube.com/watch?v=FEEBm070pHo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-08T21:17:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
     },
     {
       "filename": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025.md",
@@ -1130,6 +1154,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.0",
       "slug": "j-95efk3dly-whatsapp-media-action"
+    },
+    {
+      "filename": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships.md",
+      "title": "Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships",
+      "videoId": "j-OKZ2prrro",
+      "url": "https://www.youtube.com/watch?v=j-OKZ2prrro",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-08T21:53:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
     },
     {
       "filename": "jey-jrzmssy-activate-ai-employee.md",
@@ -1920,7 +1956,7 @@
       "publishedDate": "2025-10-06T20:47:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1944,7 +1980,7 @@
       "publishedDate": "2025-10-06T19:21:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -2018,6 +2054,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "uqzjm8bis10-welcome-to-saaspeneurship"
+    },
+    {
+      "filename": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win.md",
+      "title": "Joana Maas: Simple Tools to Help Agencies Win",
+      "videoId": "urmgVy-cyFc",
+      "url": "https://www.youtube.com/watch?v=urmgVy-cyFc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-08T21:31:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win"
     },
     {
       "filename": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users.md",
@@ -2232,7 +2280,7 @@
       "publishedDate": "2025-10-04T06:40:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025"
     },
     {
@@ -2424,7 +2472,7 @@
       "publishedDate": "2025-10-07T05:32:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2489,7 +2537,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 155,
+    "fresh": 159,
     "warning": 16,
     "expired": 0,
     "unknown": 33,
@@ -2501,7 +2549,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 150,
+        "fresh": 154,
         "warning": 15,
         "expired": 0,
         "unknown": null
