@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-09T07:43:29.190Z",
+  "generated": "2025-10-10T07:43:17.677Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 13,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -456,7 +456,7 @@
       "publishedDate": "2025-10-07T20:54:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1029,10 +1029,10 @@
       "videoId": "he2GKot-KYg",
       "url": "https://www.youtube.com/watch?v=he2GKot-KYg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-02T13:00:36.000Z",
+      "publishedDate": "2025-10-10T05:10:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -1046,6 +1046,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.7",
       "slug": "hizbe-8cmsk-client-portal-estimates-support"
+    },
+    {
+      "filename": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel.md",
+      "title": "How Jefferey Banek (The Funnel Doc) Became an AI Agency Hero with HighLevel",
+      "videoId": "HLRcIkMV-f0",
+      "url": "https://www.youtube.com/watch?v=HLRcIkMV-f0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-09T19:51:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel"
     },
     {
       "filename": "hvt3wz6dwrm-get-paid.md",
@@ -1668,7 +1680,7 @@
       "publishedDate": "2025-10-08T05:24:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2537,7 +2549,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 159,
+    "fresh": 160,
     "warning": 16,
     "expired": 0,
     "unknown": 33,
@@ -2549,7 +2561,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 154,
+        "fresh": 155,
         "warning": 15,
         "expired": 0,
         "unknown": null

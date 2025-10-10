@@ -1,10 +1,10 @@
 ---
-title: "Turn DMs into Sales with HighLevel with Raquel Diehm"
-video_id: "he2GKot-KYg"
-url: "https://www.youtube.com/watch?v=he2GKot-KYg"
-thumbnail: "https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg"
+title: "How Jefferey Banek (The Funnel Doc) Became an AI Agency Hero with HighLevel"
+video_id: "HLRcIkMV-f0"
+url: "https://www.youtube.com/watch?v=HLRcIkMV-f0"
+thumbnail: "https://i.ytimg.com/vi/HLRcIkMV-f0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-10T05:10:58.000Z"
+published_date: "2025-10-09T19:51:58.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-10T07:43:10.315Z"
+extracted_at: "2025-10-10T07:43:10.503Z"
 
 ---
 
-# 🟢 Turn DMs into Sales with HighLevel with Raquel Diehm
+# 🟢 How Jefferey Banek (The Funnel Doc) Became an AI Agency Hero with HighLevel
 
-**Video ID:** `he2GKot-KYg`
+**Video ID:** `HLRcIkMV-f0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/10/2025
+**Published:** 10/9/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-10T07:43:10.315Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=he2GKot-KYg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HLRcIkMV-f0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/HLRcIkMV-f0/hqdefault.jpg)
 
 
 ## Content Guidelines
