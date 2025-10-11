@@ -1,14 +1,14 @@
 ---
-title: "Austin Schneider – Get Clients Without Cold DMs Using HighLevel"
-video_id: "ZhKnnK1nmWE"
-url: "https://www.youtube.com/watch?v=ZhKnnK1nmWE"
-thumbnail: "https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault_live.jpg"
+title: "LevelUp Day Restream"
+video_id: "wezZoMXowMs"
+url: "https://www.youtube.com/watch?v=wezZoMXowMs"
+thumbnail: "https://i.ytimg.com/vi/wezZoMXowMs/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T15:10:23.000Z"
+published_date: "2025-10-10T19:16:20.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-11T07:41:53.721Z"
+extracted_at: "2025-10-11T07:41:51.479Z"
 
 ---
 
-# 🟢 Austin Schneider – Get Clients Without Cold DMs Using HighLevel
+# 🟢 LevelUp Day Restream
 
-**Video ID:** `ZhKnnK1nmWE`
+**Video ID:** `wezZoMXowMs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 10/10/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-11T07:41:53.721Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZhKnnK1nmWE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=wezZoMXowMs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/wezZoMXowMs/hqdefault_live.jpg)
 
 
 ## Content Guidelines

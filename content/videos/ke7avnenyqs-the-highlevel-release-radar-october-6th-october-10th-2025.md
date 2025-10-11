@@ -1,10 +1,10 @@
 ---
-title: "Turn DMs into Sales with HighLevel with Raquel Diehm"
-video_id: "he2GKot-KYg"
-url: "https://www.youtube.com/watch?v=he2GKot-KYg"
-thumbnail: "https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg"
+title: "The HighLevel Release Radar (October 6th - October 10th 2025)"
+video_id: "ke7aVnEnYqs"
+url: "https://www.youtube.com/watch?v=ke7aVnEnYqs"
+thumbnail: "https://i.ytimg.com/vi/ke7aVnEnYqs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-10T05:10:58.000Z"
+published_date: "2025-10-10T18:34:49.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-11T07:41:52.207Z"
+extracted_at: "2025-10-11T07:41:51.652Z"
 
 ---
 
-# 🟢 Turn DMs into Sales with HighLevel with Raquel Diehm
+# 🟢 The HighLevel Release Radar (October 6th - October 10th 2025)
 
-**Video ID:** `he2GKot-KYg`
+**Video ID:** `ke7aVnEnYqs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 10/10/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-10-11T07:41:52.207Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=he2GKot-KYg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ke7aVnEnYqs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ke7aVnEnYqs/hqdefault.jpg)
 
 
 ## Content Guidelines
