@@ -4,7 +4,7 @@ type: "changelog"
 source: "ideas.gohighlevel.com"
 guid: "68d54bc553176d0f01109543"
 author: "Sales &amp; Marketing"
-pubDate: "2025-09-25T14:13:06.000Z"
+pubDate: "2025-10-10T09:05:21.000Z"
 link: "https://ideas.gohighlevel.com/changelog/introducing-traffic-source-analytics"
 categories: site analytics,new,improved
 url: "https://ideas.gohighlevel.com/changelog/introducing-traffic-source-analytics"
