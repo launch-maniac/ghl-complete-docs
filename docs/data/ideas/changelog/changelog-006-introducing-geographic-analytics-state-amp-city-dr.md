@@ -4,7 +4,7 @@ type: "changelog"
 source: "ideas.gohighlevel.com"
 guid: "68d54d0f907a1d9bf7f5b476"
 author: "Sales &amp; Marketing"
-pubDate: "2025-09-25T14:13:03.000Z"
+pubDate: "2025-10-10T09:05:15.000Z"
 link: "https://ideas.gohighlevel.com/changelog/introducing-geographic-analytics-state-city-drilldown"
 categories: site analytics,new
 url: "https://ideas.gohighlevel.com/changelog/introducing-geographic-analytics-state-city-drilldown"
