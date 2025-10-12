@@ -3,7 +3,7 @@ title: "Learn More About Our API"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api"
-extracted_at: "2025-10-12T06:17:01.748Z"
+extracted_at: "2025-10-12T09:13:14.465Z"
 ---
 
 1.  [Home](/support/home)
@@ -186,7 +186,7 @@ We appreciate your effort and will try to fix the article
 -   [Public API Endpoints for SaaS Configurator](/support/solutions/articles/155000005768-public-api-endpoints-for-saas-configurator)
 -   [How to build a custom payments integration on the platform](/support/solutions/articles/155000002620-how-to-build-a-custom-payments-integration-on-the-platform)
 -   [Marketplace Apps - Managing External Connections](/support/solutions/articles/155000004585-marketplace-apps-managing-external-connections)
--   [Private Integrations: Everything you need to know](/support/solutions/articles/155000003054-private-integrations-everything-you-need-to-know)
+-   [HighLevel Custom Shipping Carrier Integration Guide](/support/solutions/articles/155000004995-highlevel-custom-shipping-carrier-integration-guide)
 
 **X**
 
