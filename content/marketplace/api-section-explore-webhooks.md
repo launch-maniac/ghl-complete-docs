@@ -3,7 +3,7 @@ title: "Explore Webhooks →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/category/webhook"
-extracted_at: "2025-10-12T09:17:26.018Z"
+extracted_at: "2025-10-12T12:23:08.603Z"
 ---
 
 -   [](/docs/)
