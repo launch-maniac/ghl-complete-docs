@@ -1,0 +1,17 @@
+{
+  "name": "ghl-docs-webhook-handler",
+  "version": "1.0.0",
+  "description": "Cloud Function webhook handler for GHL documentation updates",
+  "main": "webhook-handler.js",
+  "scripts": {
+    "start": "functions-framework --target=handleGHLWebhook",
+    "deploy": "gcloud functions deploy handleGHLWebhook --gen2 --runtime nodejs18 --region us-central1 --source . --entry-point handleGHLWebhook --trigger-http --allow-unauthenticated --memory 2GB --timeout 540s --project=gen-lang-client-0559256237"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/storage": "^7.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

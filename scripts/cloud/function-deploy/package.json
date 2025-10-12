@@ -1,0 +1,15 @@
+{
+  "name": "ghl-home-backup",
+  "version": "1.0.0",
+  "description": "Cloud Function for automated home directory backup to Cloud Storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=backupHomeDirectory"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
