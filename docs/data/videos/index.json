@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-12T07:41:52.201Z",
+  "generated": "2025-10-13T07:44:49.578Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 10,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 10
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1704,7 +1704,7 @@
       "publishedDate": "2025-10-08T05:24:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2196,7 +2196,7 @@
       "publishedDate": "2025-10-10T19:16:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wezzomxowms-levelup-day-restream"
     },
     {
