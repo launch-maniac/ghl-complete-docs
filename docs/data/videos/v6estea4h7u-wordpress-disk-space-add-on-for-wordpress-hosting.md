@@ -1,14 +1,14 @@
 ---
-title: "Austin Schneider – Get Clients Without Cold DMs Using HighLevel"
-video_id: "ZhKnnK1nmWE"
-url: "https://www.youtube.com/watch?v=ZhKnnK1nmWE"
-thumbnail: "https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault.jpg"
+title: "WordPress  Disk Space Add On for WordPress Hosting"
+video_id: "v6EsteA4H7U"
+url: "https://www.youtube.com/watch?v=v6EsteA4H7U"
+thumbnail: "https://i.ytimg.com/vi/v6EsteA4H7U/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-12T04:35:36.000Z"
+published_date: "2025-10-13T21:01:04.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-14T07:43:30.812Z"
+extracted_at: "2025-10-14T07:43:29.852Z"
 
 ---
 
-# 🟢 Austin Schneider – Get Clients Without Cold DMs Using HighLevel
+# 🟢 WordPress  Disk Space Add On for WordPress Hosting
 
-**Video ID:** `ZhKnnK1nmWE`
+**Video ID:** `v6EsteA4H7U`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/12/2025
+**Published:** 10/13/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-14T07:43:30.812Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZhKnnK1nmWE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZhKnnK1nmWE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=v6EsteA4H7U)
+- [📷 Thumbnail](https://i.ytimg.com/vi/v6EsteA4H7U/hqdefault.jpg)
 
 
 ## Content Guidelines
