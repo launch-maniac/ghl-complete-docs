@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-10-14T18:21:26.466Z"
+extracted_at: "2025-10-14T21:09:23.675Z"
 ---
 
 # Hi, how can we help you?
@@ -194,6 +194,6 @@ Modified on Tue, 5 Aug at 4:56 PM
 
 HighLevel Pricing Guide
 
-Modified on Thu, 4 Sep at 9:49 AM
+Modified on Tue, 14 Oct at 2:46 PM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)
