@@ -3,7 +3,7 @@ title: "Learn More About Our API"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api"
-extracted_at: "2025-10-14T12:22:42.421Z"
+extracted_at: "2025-10-14T15:14:50.977Z"
 ---
 
 1.  [Home](/support/home)
@@ -183,10 +183,10 @@ We appreciate your effort and will try to fix the article
 
 -   [How to get started with the Developer's Marketplace](/support/solutions/articles/155000000136-how-to-get-started-with-the-developer-s-marketplace)
 -   [How to reconnect broken Marketplace Apps?](/support/solutions/articles/155000003717-how-to-reconnect-broken-marketplace-apps-)
+-   [Conversation AI Public API](/support/solutions/articles/155000006639-conversation-ai-public-api)
 -   [Public API Endpoints for SaaS Configurator](/support/solutions/articles/155000005768-public-api-endpoints-for-saas-configurator)
 -   [How to build a custom payments integration on the platform](/support/solutions/articles/155000002620-how-to-build-a-custom-payments-integration-on-the-platform)
 -   [Private Integrations: Everything you need to know](/support/solutions/articles/155000003054-private-integrations-everything-you-need-to-know)
--   [Marketplace Apps - Managing External Connections](/support/solutions/articles/155000004585-marketplace-apps-managing-external-connections)
 
 **X**
 
