@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-10-14T15:17:24.565Z"
+extracted_at: "2025-10-14T18:21:48.817Z"
 ---
 
 # Hi, how can we help you?
@@ -39,14 +39,6 @@ Tickets
 ![no results](/assets/cdn/portal/images/no-results.png)
 
 Sorry! nothing found for  
-
-[
-
-LevelUp 2025 Releases
-
-
-
-](/support/solutions/155000000253)
 
 [
 
@@ -90,9 +82,9 @@ AI Employee
 
 [
 
-![SaaS Mode](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035746566/original/NFY3p297UmZhHVRI6pCg-fEAPi86wfekEA.png)
+![SaaS Configurator](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035746566/original/NFY3p297UmZhHVRI6pCg-fEAPi86wfekEA.png)
 
-SaaS Mode
+SaaS Configurator
 
 
 
@@ -117,6 +109,16 @@ Email
 
 
 ](/support/solutions/48000449563)
+
+[
+
+![Contacts](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035732134/original/xAtkKIwnWpZuwGJmD8sXjW_-sWvc4zvT3w.png)
+
+Contacts
+
+
+
+](/support/solutions/155000000123)
 
 #### Most popular articles
 
