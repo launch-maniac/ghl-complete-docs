@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-14T07:43:36.708Z",
+  "generated": "2025-10-15T07:44:30.012Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 13,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -600,7 +600,7 @@
       "publishedDate": "2025-10-06T19:22:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -746,6 +746,18 @@
       "contentCategory": "critical",
       "ageInMonths": "0.1",
       "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
+    },
+    {
+      "filename": "czpiokfyiza-levelup-day-2025-intro.md",
+      "title": "LevelUp Day 2025 Intro",
+      "videoId": "CzPioKfyiZA",
+      "url": "https://www.youtube.com/watch?v=CzPioKfyiZA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-15T02:38:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "czpiokfyiza-levelup-day-2025-intro"
     },
     {
       "filename": "d5eklzlriny-human-handover.md",
@@ -1140,7 +1152,7 @@
       "publishedDate": "2025-10-13T18:00:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "i-symi8y-be-automations-expanded-goal-types-in-workflow-action"
     },
     {
@@ -2052,7 +2064,7 @@
       "publishedDate": "2025-10-06T19:21:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -2133,10 +2145,10 @@
       "videoId": "urmgVy-cyFc",
       "url": "https://www.youtube.com/watch?v=urmgVy-cyFc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-08T21:31:05.000Z",
+      "publishedDate": "2025-10-15T04:49:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win"
     },
     {
@@ -2452,18 +2464,6 @@
       "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
     },
     {
-      "filename": "y-0xh8gq3pq-audit-report-google-business-profile-claim-status-in-report-and-un-responded-reviews-hig.md",
-      "title": "Audit Report  Google Business Profile Claim Status in Report and Un responded Reviews Highlight",
-      "videoId": "y-0XH8Gq3PQ",
-      "url": "https://www.youtube.com/watch?v=y-0XH8Gq3PQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-04-14T18:01:03.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "5.2",
-      "slug": "y-0xh8gq3pq-audit-report-google-business-profile-claim-status-in-report-and-un-responded-reviews-hig"
-    },
-    {
       "filename": "y3b14vd7teo-communities-newsletter.md",
       "title": "Communities  Newsletter",
       "videoId": "Y3B14vD7teo",
@@ -2633,8 +2633,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 167,
-    "warning": 16,
+    "fresh": 168,
+    "warning": 15,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -2646,12 +2646,12 @@
       },
       "standard": {
         "fresh": 162,
-        "warning": 15,
+        "warning": 14,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 2,
+        "fresh": 3,
         "warning": 1,
         "expired": 0
       }

@@ -1,13 +1,13 @@
 ---
-title: "Joana Maas: Simple Tools to Help Agencies Win"
-video_id: "urmgVy-cyFc"
-url: "https://www.youtube.com/watch?v=urmgVy-cyFc"
-thumbnail: "https://i.ytimg.com/vi/urmgVy-cyFc/hqdefault.jpg"
+title: "LevelUp Day 2025 Intro"
+video_id: "CzPioKfyiZA"
+url: "https://www.youtube.com/watch?v=CzPioKfyiZA"
+thumbnail: "https://i.ytimg.com/vi/CzPioKfyiZA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-15T04:49:42.000Z"
+published_date: "2025-10-15T02:38:53.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
-content_category: "standard"
+content_category: "evergreen"
 age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
@@ -16,17 +16,17 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-15T07:44:23.399Z"
+extracted_at: "2025-10-15T07:44:23.590Z"
 
 ---
 
-# 🟢 Joana Maas: Simple Tools to Help Agencies Win
+# 🟢 LevelUp Day 2025 Intro
 
-**Video ID:** `urmgVy-cyFc`
+**Video ID:** `CzPioKfyiZA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 10/15/2025
-**Content Type:** standard
+**Content Type:** evergreen
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
@@ -47,14 +47,14 @@ extracted_at: "2025-10-15T07:44:23.399Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=urmgVy-cyFc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/urmgVy-cyFc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CzPioKfyiZA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/CzPioKfyiZA/hqdefault.jpg)
 
 
 ## Content Guidelines
 
+🌿 **Evergreen Content:** This video covers fundamental concepts that remain relevant over time.
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -69,4 +69,4 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 10/15/2025*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after never months*
