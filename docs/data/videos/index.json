@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-15T07:44:30.012Z",
+  "generated": "2025-10-16T07:43:43.943Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 14,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 14
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -477,10 +477,10 @@
       "videoId": "7xl6GPLYXqg",
       "url": "https://www.youtube.com/watch?v=7xl6GPLYXqg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-08T21:48:26.000Z",
+      "publishedDate": "2025-10-16T04:52:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
     },
     {
@@ -784,6 +784,18 @@
       "slug": "dce3jd8mt-s-win-high-paying-clients-with-linkedin-content-system-with-nicholas-kirchner"
     },
     {
+      "filename": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel.md",
+      "title": "The New Advanced Workflow Builder In HIghLevel",
+      "videoId": "djJeYJlBGMc",
+      "url": "https://www.youtube.com/watch?v=djJeYJlBGMc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-15T14:59:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel"
+    },
+    {
       "filename": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live.md",
       "title": "Mobile App  Self Service Whitelabelled Mobile App Customizer Live!",
       "videoId": "DotDaQ_B7tk",
@@ -900,7 +912,7 @@
       "publishedDate": "2025-10-14T04:45:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
     },
     {
@@ -912,7 +924,7 @@
       "publishedDate": "2025-10-13T19:43:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fkianqdg4qi-expanded-goal-types-in-workflows"
     },
     {
@@ -1320,7 +1332,7 @@
       "publishedDate": "2025-10-10T18:34:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ke7avnenyqs-the-highlevel-release-radar-october-6th-october-10th-2025"
     },
     {
@@ -1860,7 +1872,7 @@
       "publishedDate": "2025-10-13T19:43:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live"
     },
     {
@@ -2172,7 +2184,7 @@
       "publishedDate": "2025-10-13T21:01:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "v6estea4h7u-wordpress-disk-space-add-on-for-wordpress-hosting"
     },
     {
@@ -2256,7 +2268,7 @@
       "publishedDate": "2025-10-10T19:16:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "wezzomxowms-levelup-day-restream"
     },
     {
@@ -2633,7 +2645,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 168,
+    "fresh": 169,
     "warning": 15,
     "expired": 0,
     "unknown": 33,
@@ -2645,7 +2657,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 162,
+        "fresh": 163,
         "warning": 14,
         "expired": 0,
         "unknown": null

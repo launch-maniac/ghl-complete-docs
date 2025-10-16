@@ -1,14 +1,14 @@
 ---
-title: "Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships"
-video_id: "j-OKZ2prrro"
-url: "https://www.youtube.com/watch?v=j-OKZ2prrro"
-thumbnail: "https://i.ytimg.com/vi/j-OKZ2prrro/hqdefault_live.jpg"
+title: "The New Advanced Workflow Builder In HIghLevel"
+video_id: "djJeYJlBGMc"
+url: "https://www.youtube.com/watch?v=djJeYJlBGMc"
+thumbnail: "https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-08T21:53:45.000Z"
+published_date: "2025-10-15T14:59:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-16T07:43:39.359Z"
+extracted_at: "2025-10-16T07:43:37.524Z"
 
 ---
 
-# 🟢 Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships
+# 🟢 The New Advanced Workflow Builder In HIghLevel
 
-**Video ID:** `j-OKZ2prrro`
+**Video ID:** `djJeYJlBGMc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/8/2025
+**Published:** 10/15/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-16T07:43:39.359Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=j-OKZ2prrro)
-- [📷 Thumbnail](https://i.ytimg.com/vi/j-OKZ2prrro/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=djJeYJlBGMc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg)
 
 
 ## Content Guidelines
