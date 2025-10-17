@@ -1,51 +1,44 @@
 ---
-title: "🚀 Services (v2) – Enhancements"
+title: "🚀 Services (v2) Enhancements"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "68d362c55f37e79694367666"
+guid: "68ac4c0f1faa60fdde8b78cd"
 author: "Swadha Bhoj"
-pubDate: "2025-09-24T07:12:36.000Z"
-link: "https://ideas.gohighlevel.com/changelog/services-v2-enhancements-1"
-categories: calendar,improved,new
-url: "https://ideas.gohighlevel.com/changelog/services-v2-enhancements-1"
+pubDate: "2025-10-17T09:58:47.000Z"
+link: "https://ideas.gohighlevel.com/changelog/services-v2-enhancements"
+categories: calendar,new,improved
+url: "https://ideas.gohighlevel.com/changelog/services-v2-enhancements"
 index: 4
 ---
 
-We’ve rolled out several exciting updates to make managing your services and appointments faster, easier, and more flexible. Here’s what’s new:
+We’ve rolled out some exciting improvements to Services based on your feedback! These updates make it easier to set up, customize, and manage your booking experience.
 
-**Duplicate Appointments**
+# ✨ New Features & Improvements
 
-A new Duplicate Appointment button is now available in the appointment modal. With one click, you can create a new booking carrying over all the same details, making it much faster to set up repeat or similar appointments without retyping everything.
+**1\. Hide Payment Amount**
 
-\---
+You can now choose to hide the service amount on the booking widget when using Pay in Person or Card on File payment modes.
 
-**Blocked Slots in Services**
+Path: Services > Global Settings > Payment Settings.
 
-You can now add blocked slots directly from the service appointment modal. This makes it simple to quickly mark yourself unavailable right in the booking flow, helping you stay in control of your schedule with less effort.
+This helps businesses take bookings without displaying the price upfront.
 
-\---
+**2\. Add Amount Without a Payment Provider**
 
-**Show Resource in Appointment Modal**
+For Pay in Person use cases, you can now display service prices even if no payment provider is connected. Transactions won’t be processed, but your customers can still see the amount for clarity.
 
-The appointment modal now displays the resource that was booked, just like in service calendars. This makes it clearer who or what has been reserved and helps avoid confusion around resource allocation.
+**3\. Auto-Generated Slugs**
 
-\---
+When creating a new service, the system now pre-fills the URL slug based on the calendar name. You can edit it if needed, but this makes service setup faster with fewer required fields.
 
-**New Custom Values for Service Bookings**
+**4\. AM / PM Time Format**
 
-We’ve added two new custom values that can be used in communications and automations:
+The booking widget now supports both 12-hour (AM/PM) and 24-hour formats.
 
--   Service Booking Price
--   Meeting Location Name (short label instead of full address)
+Path: Services > Global Settings > Booking Page Settings.
 
-These provide more dynamic details you can use to personalize confirmations, reminders, and other customer touchpoints.
+Decide how your bookers see time on the booking page.
 
-\---
+**5\. Respect Order of Variants & Add-ons**
 
-![image](https://canny-assets.io/images/0ecf0ddadb100eb51ce57231349f5947.png)
-
-![image](https://canny-assets.io/images/4d32cb1e9e13333b8b0c386065905963.png)
-
-![image](https://canny-assets.io/images/57e56c97d49ca4c696da2dc9b576af85.png)
-
-![image](https://canny-assets.io/images/fe32db4b8188c01b47f3b89a4d6b4019.png)
+The order you set for service variants and add-ons is now preserved on the booking page, ensuring customers see options exactly as you’ve arranged them.
