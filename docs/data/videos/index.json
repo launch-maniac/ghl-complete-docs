@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-16T07:43:43.943Z",
+  "generated": "2025-10-17T07:43:31.915Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 50,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 50
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -180,7 +180,7 @@
       "publishedDate": "2025-09-30T21:29:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "35yiadsh8o8-how-to-configure-affiliate-payout-methods"
     },
     {
@@ -276,7 +276,7 @@
       "publishedDate": "2025-09-26T16:25:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline"
     },
     {
@@ -456,7 +456,7 @@
       "publishedDate": "2025-10-07T20:54:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -708,7 +708,7 @@
       "publishedDate": "2025-10-04T05:38:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -744,7 +744,7 @@
       "publishedDate": "2025-10-06T13:12:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "critical",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
     },
     {
@@ -756,7 +756,7 @@
       "publishedDate": "2025-10-15T02:38:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "czpiokfyiza-levelup-day-2025-intro"
     },
     {
@@ -792,7 +792,7 @@
       "publishedDate": "2025-10-15T14:59:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel"
     },
     {
@@ -816,7 +816,7 @@
       "publishedDate": "2025-09-26T17:46:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "dzwreqw9mdk-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -876,7 +876,7 @@
       "publishedDate": "2025-10-10T11:25:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
@@ -900,7 +900,7 @@
       "publishedDate": "2025-10-02T06:00:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "fderugliywq-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -936,7 +936,7 @@
       "publishedDate": "2025-09-27T07:23:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.7",
       "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
@@ -1020,7 +1020,7 @@
       "publishedDate": "2025-09-30T21:30:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily"
     },
     {
@@ -1068,7 +1068,7 @@
       "publishedDate": "2025-09-30T21:24:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country"
     },
     {
@@ -1080,7 +1080,7 @@
       "publishedDate": "2025-10-10T05:10:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -1104,7 +1104,7 @@
       "publishedDate": "2025-10-09T19:51:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel"
     },
     {
@@ -1233,10 +1233,10 @@
       "videoId": "j-OKZ2prrro",
       "url": "https://www.youtube.com/watch?v=j-OKZ2prrro",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-08T21:53:45.000Z",
+      "publishedDate": "2025-10-17T04:49:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
     },
     {
@@ -1320,7 +1320,7 @@
       "publishedDate": "2025-09-30T21:28:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "katv-bvrttu-how-to-automate-review-responses-with-ai-agents"
     },
     {
@@ -1452,7 +1452,7 @@
       "publishedDate": "2025-09-26T18:25:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth"
     },
     {
@@ -1476,7 +1476,7 @@
       "publishedDate": "2025-09-30T21:28:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager"
     },
     {
@@ -1548,7 +1548,7 @@
       "publishedDate": "2025-09-30T21:25:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features"
     },
     {
@@ -1596,7 +1596,7 @@
       "publishedDate": "2025-09-30T05:58:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.6",
       "slug": "opnzolbz9n0-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -1752,7 +1752,7 @@
       "publishedDate": "2025-10-08T05:24:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -1776,7 +1776,7 @@
       "publishedDate": "2025-10-01T05:46:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -1812,7 +1812,7 @@
       "publishedDate": "2025-10-03T05:24:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -1824,7 +1824,7 @@
       "publishedDate": "2025-09-28T04:51:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.6",
       "slug": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -1944,7 +1944,7 @@
       "publishedDate": "2025-09-26T16:26:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "sqyofqkivbg-how-to-easily-change-languages-in-your-client-portal-desktop-and-mobile-instructions"
     },
     {
@@ -1956,7 +1956,7 @@
       "publishedDate": "2025-10-06T13:09:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "stu28wniygq-did-you-know-you-can-create-an-infinite-growth-flywheel-using-ai-agent-and-automated-mes"
     },
     {
@@ -1968,7 +1968,7 @@
       "publishedDate": "2025-09-26T16:27:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business"
     },
     {
@@ -2004,7 +2004,7 @@
       "publishedDate": "2025-09-30T21:27:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal"
     },
     {
@@ -2016,7 +2016,7 @@
       "publishedDate": "2025-10-06T13:12:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
     },
     {
@@ -2052,7 +2052,7 @@
       "publishedDate": "2025-10-06T20:47:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2088,7 +2088,7 @@
       "publishedDate": "2025-10-06T13:10:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "ud4ofavdeza-did-you-know-highlevel-can-automatically-manage-spam"
     },
     {
@@ -2100,7 +2100,7 @@
       "publishedDate": "2025-10-06T13:08:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
     },
     {
@@ -2160,7 +2160,7 @@
       "publishedDate": "2025-10-15T04:49:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win"
     },
     {
@@ -2232,7 +2232,7 @@
       "publishedDate": "2025-10-06T13:10:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.4",
       "slug": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner"
     },
     {
@@ -2400,7 +2400,7 @@
       "publishedDate": "2025-10-04T06:40:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.4",
       "slug": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025"
     },
     {
@@ -2412,7 +2412,7 @@
       "publishedDate": "2025-09-26T16:24:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.7",
       "slug": "xkvpovdribs-how-to-set-up-a-call-script"
     },
     {
@@ -2532,7 +2532,7 @@
       "publishedDate": "2025-09-30T21:26:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.5",
       "slug": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel"
     },
     {
@@ -2580,7 +2580,7 @@
       "publishedDate": "2025-10-07T05:32:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
@@ -2604,7 +2604,7 @@
       "publishedDate": "2025-10-12T04:35:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
