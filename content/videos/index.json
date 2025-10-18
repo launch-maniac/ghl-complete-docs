@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-17T07:43:31.915Z",
+  "generated": "2025-10-18T07:42:08.595Z",
   "stats": {
     "channels": 1,
-    "videos": 50,
+    "videos": 7,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 50
+    "transcriptsFailed": 7
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -480,7 +480,7 @@
       "publishedDate": "2025-10-16T04:52:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
     },
     {
@@ -600,7 +600,7 @@
       "publishedDate": "2025-10-06T19:22:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -2076,7 +2076,7 @@
       "publishedDate": "2025-10-06T19:21:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -2265,10 +2265,10 @@
       "videoId": "wezZoMXowMs",
       "url": "https://www.youtube.com/watch?v=wezZoMXowMs",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-10T19:16:20.000Z",
+      "publishedDate": "2025-10-17T17:18:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "wezzomxowms-levelup-day-restream"
     },
     {
