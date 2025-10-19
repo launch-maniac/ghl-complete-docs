@@ -3,7 +3,7 @@ title: "Sign in"
 category: "marketplace"
 type: "integrations-api-subpage"
 url: "https://highlevel.stoplight.io/auth"
-extracted_at: "2025-10-18T21:09:31.866Z"
+extracted_at: "2025-10-19T00:53:59.064Z"
 ---
 
 highlevel Workspace
