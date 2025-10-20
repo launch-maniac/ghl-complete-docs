@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-19T07:41:32.768Z"
+extracted_at: "2025-10-20T07:44:20.695Z"
 
 ---
 
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/19/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 10/20/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
