@@ -1,5 +1,5 @@
 ---
-title: "The New Advanced Workflow Builder In HIghLevel"
+title: "The New Advanced Workflow Builder In HighLevel"
 video_id: "djJeYJlBGMc"
 url: "https://www.youtube.com/watch?v=djJeYJlBGMc"
 thumbnail: "https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg"
@@ -16,11 +16,11 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-20T07:44:20.421Z"
+extracted_at: "2025-10-21T07:44:07.375Z"
 
 ---
 
-# 🟢 The New Advanced Workflow Builder In HIghLevel
+# 🟢 The New Advanced Workflow Builder In HighLevel
 
 **Video ID:** `djJeYJlBGMc`
 **Source:** GoHighLevel Official - Last 180 Days
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 10/21/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

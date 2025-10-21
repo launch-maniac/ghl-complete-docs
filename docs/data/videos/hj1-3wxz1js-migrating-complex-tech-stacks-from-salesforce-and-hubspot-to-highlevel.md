@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "u6VCeB7PlX4"
-url: "https://www.youtube.com/watch?v=u6VCeB7PlX4"
-thumbnail: "https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg"
+title: "Migrating Complex Tech Stacks From Salesforce and Hubspot to HighLevel"
+video_id: "HJ1_3WxZ1Js"
+url: "https://www.youtube.com/watch?v=HJ1_3WxZ1Js"
+thumbnail: "https://i.ytimg.com/vi/HJ1_3WxZ1Js/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-20T19:19:22.000Z"
+published_date: "2025-10-20T16:59:40.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-21T07:44:06.701Z"
+extracted_at: "2025-10-21T07:44:06.891Z"
 
 ---
 
-# 🟢 Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Migrating Complex Tech Stacks From Salesforce and Hubspot to HighLevel
 
-**Video ID:** `u6VCeB7PlX4`
+**Video ID:** `HJ1_3WxZ1Js`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 10/20/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-10-21T07:44:06.701Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u6VCeB7PlX4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HJ1_3WxZ1Js)
+- [📷 Thumbnail](https://i.ytimg.com/vi/HJ1_3WxZ1Js/hqdefault.jpg)
 
 
 ## Content Guidelines

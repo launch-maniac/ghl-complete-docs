@@ -2,21 +2,21 @@
 title: "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert"
 video_id: "u6VCeB7PlX4"
 url: "https://www.youtube.com/watch?v=u6VCeB7PlX4"
-thumbnail: "https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T19:21:43.000Z"
+published_date: "2025-10-20T19:19:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
-has_transcript: false
-transcript_language: "none"
-transcript_type: "none"
+age_in_months: "0.0"
+has_transcript: true
+transcript_language: "en"
+transcript_type: "asr"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-20T07:44:20.695Z"
+extracted_at: "2025-10-21T07:44:06.701Z"
 
 ---
 
@@ -25,25 +25,30 @@ extracted_at: "2025-10-20T07:44:20.695Z"
 **Video ID:** `u6VCeB7PlX4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 10/20/2025
 **Content Type:** standard
-**Transcript:** ❌ Not available
+**Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript
-❌ **Transcript not available** - This video does not have captions or transcripts available.
+## 📝 Transcript Information
+
+**Language:** en
+**Type:** Auto-generated
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
 
 ---
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u6VCeB7PlX4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -52,7 +57,7 @@ extracted_at: "2025-10-20T07:44:20.695Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
 
 
 
@@ -62,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/20/2025*
-*Transcript extraction: ❌ Not available*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 10/21/2025*
+*Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
