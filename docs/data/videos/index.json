@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-21T07:44:11.897Z",
+  "generated": "2025-10-22T07:44:49.402Z",
   "stats": {
     "channels": 1,
-    "videos": 5,
+    "videos": 6,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 5
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -597,10 +597,10 @@
       "videoId": "B-KBD7Y3aGE",
       "url": "https://www.youtube.com/watch?v=B-KBD7Y3aGE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-06T19:22:58.000Z",
+      "publishedDate": "2025-10-21T19:21:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.5",
+      "ageInMonths": "0.0",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -1104,7 +1104,7 @@
       "publishedDate": "2025-10-20T16:59:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hj1-3wxz1js-migrating-complex-tech-stacks-from-salesforce-and-hubspot-to-highlevel"
     },
     {
@@ -1670,6 +1670,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers"
+    },
+    {
+      "filename": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel.md",
+      "title": "Web Design to Recurring Revenue with HighLevel",
+      "videoId": "pEFFQdgF3PM",
+      "url": "https://www.youtube.com/watch?v=pEFFQdgF3PM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-21T14:32:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
       "filename": "pfnbxycwqvg-knowledge-base-and-bot-training.md",
@@ -2280,7 +2292,7 @@
       "publishedDate": "2025-10-17T17:18:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "wezzomxowms-levelup-day-restream"
     },
     {
@@ -2657,7 +2669,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 170,
+    "fresh": 171,
     "warning": 15,
     "expired": 0,
     "unknown": 33,
@@ -2669,7 +2681,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 164,
+        "fresh": 165,
         "warning": 14,
         "expired": 0,
         "unknown": null

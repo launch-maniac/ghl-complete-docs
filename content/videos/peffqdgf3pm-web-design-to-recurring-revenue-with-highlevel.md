@@ -1,14 +1,14 @@
 ---
-title: "The New Advanced Workflow Builder In HighLevel"
-video_id: "djJeYJlBGMc"
-url: "https://www.youtube.com/watch?v=djJeYJlBGMc"
-thumbnail: "https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg"
+title: "Web Design to Recurring Revenue with HighLevel"
+video_id: "pEFFQdgF3PM"
+url: "https://www.youtube.com/watch?v=pEFFQdgF3PM"
+thumbnail: "https://i.ytimg.com/vi/pEFFQdgF3PM/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-15T14:59:01.000Z"
+published_date: "2025-10-21T14:32:56.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-22T07:44:39.927Z"
+extracted_at: "2025-10-22T07:44:39.100Z"
 
 ---
 
-# 🟢 The New Advanced Workflow Builder In HighLevel
+# 🟢 Web Design to Recurring Revenue with HighLevel
 
-**Video ID:** `djJeYJlBGMc`
+**Video ID:** `pEFFQdgF3PM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/15/2025
+**Published:** 10/21/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-22T07:44:39.927Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=djJeYJlBGMc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pEFFQdgF3PM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/pEFFQdgF3PM/hqdefault_live.jpg)
 
 
 ## Content Guidelines
