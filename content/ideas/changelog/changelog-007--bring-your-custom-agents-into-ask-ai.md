@@ -4,9 +4,9 @@ type: "changelog"
 source: "ideas.gohighlevel.com"
 guid: "68ed11830e4a08193fce89a7"
 author: "Sai Ruthvik"
-pubDate: "2025-10-13T18:59:00.000Z"
+pubDate: "2025-10-22T06:02:21.000Z"
 link: "https://ideas.gohighlevel.com/changelog/bring-your-custom-agents-into-ask-ai"
-categories: mobile app,crm,contacts,new,improved
+categories: ask ai,new
 url: "https://ideas.gohighlevel.com/changelog/bring-your-custom-agents-into-ask-ai"
 index: 7
 ---
