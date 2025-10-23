@@ -6,7 +6,7 @@ guid: "68f8c8a15f4ddb26c6a3e3de"
 author: "Sales &amp; Marketing"
 pubDate: "2025-10-22T13:44:57.000Z"
 link: "https://ideas.gohighlevel.com/changelog/page-builder-updated-default-styling-for-elements"
-categories: blogs,funnels and websites,e-commerce stores,new
+categories: blogs,funnels and websites,e-commerce stores,new,improved
 url: "https://ideas.gohighlevel.com/changelog/page-builder-updated-default-styling-for-elements"
 index: 2
 ---
@@ -31,7 +31,7 @@ All newly added elements now include the updated styling by default.
 
 This update ensures every new page built in the Page Builder starts with a cleaner design, better readability, and consistent visuals. It helps users achieve a professional look faster, with less manual setup and fewer styling adjustments.
 
-![default1](https://canny-assets.io/images/8e26e4f3b0a20191cd0741b296a58525.gif)
+![defaultelements ](https://canny-assets.io/images/24c9d6997a729942560769b326605ed0.gif)
 
 ![Screenshot 2025-10-22 at 7](https://canny-assets.io/images/a33e2a876d5c5fffb6b8f00c04e66e4f.png)
 
