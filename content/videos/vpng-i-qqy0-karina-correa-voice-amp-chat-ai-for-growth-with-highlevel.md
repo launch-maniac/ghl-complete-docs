@@ -1,14 +1,14 @@
 ---
-title: "The New Advanced Workflow Builder In HighLevel"
-video_id: "djJeYJlBGMc"
-url: "https://www.youtube.com/watch?v=djJeYJlBGMc"
-thumbnail: "https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg"
+title: "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel"
+video_id: "vPNg-i_QQy0"
+url: "https://www.youtube.com/watch?v=vPNg-i_QQy0"
+thumbnail: "https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-15T14:59:01.000Z"
+published_date: "2025-10-22T19:03:36.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-23T07:44:07.317Z"
+extracted_at: "2025-10-23T07:44:06.674Z"
 
 ---
 
-# 🟢 The New Advanced Workflow Builder In HighLevel
+# 🟢 Karina Correa: Voice &amp; Chat AI for Growth with HighLevel
 
-**Video ID:** `djJeYJlBGMc`
+**Video ID:** `vPNg-i_QQy0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/15/2025
+**Published:** 10/22/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-23T07:44:07.317Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=djJeYJlBGMc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vPNg-i_QQy0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault_live.jpg)
 
 
 ## Content Guidelines

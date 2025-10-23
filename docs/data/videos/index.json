@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-22T07:44:49.402Z",
+  "generated": "2025-10-23T07:44:11.924Z",
   "stats": {
     "channels": 1,
-    "videos": 6,
+    "videos": 11,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 6
+    "transcriptsFailed": 11
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -792,7 +792,7 @@
       "publishedDate": "2025-10-15T14:59:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel"
     },
     {
@@ -866,6 +866,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "emsskunf4e0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
+    },
+    {
+      "filename": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge.md",
+      "title": "Day 5 - Five Day AI Employee Challenge",
+      "videoId": "F6ib67HW6Aw",
+      "url": "https://www.youtube.com/watch?v=F6ib67HW6Aw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:38:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge"
     },
     {
       "filename": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
@@ -1118,6 +1130,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel"
+    },
+    {
+      "filename": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge.md",
+      "title": "Day 1 - Five Day AI Employee Challenge",
+      "videoId": "HqQS1xvgOzw",
+      "url": "https://www.youtube.com/watch?v=HqQS1xvgOzw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:31:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge"
     },
     {
       "filename": "hvt3wz6dwrm-get-paid.md",
@@ -1680,7 +1704,7 @@
       "publishedDate": "2025-10-21T14:32:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1826,6 +1850,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "rdpysvgnerg-why-ai-chat-widgets-snapshot-resources-here"
+    },
+    {
+      "filename": "rejar47m0vq-day-3-five-day-ai-employee-challenge.md",
+      "title": "Day 3 - Five Day AI Employee Challenge",
+      "videoId": "REJAR47m0vQ",
+      "url": "https://www.youtube.com/watch?v=REJAR47m0vQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:34:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rejar47m0vq-day-3-five-day-ai-employee-challenge"
     },
     {
       "filename": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge.md",
@@ -2100,7 +2136,7 @@
       "publishedDate": "2025-10-20T19:19:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -2234,6 +2270,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.8",
       "slug": "vbg1zkugla0-typescript-javascript-sdk-live-for-developers"
+    },
+    {
+      "filename": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel.md",
+      "title": "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel",
+      "videoId": "vPNg-i_QQy0",
+      "url": "https://www.youtube.com/watch?v=vPNg-i_QQy0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:03:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
       "filename": "vpnk-p5r40i-how-to-integrate-and-use-leadconnector-on-your-wordpress-site.md",
@@ -2440,18 +2488,6 @@
       "slug": "xkvpovdribs-how-to-set-up-a-call-script"
     },
     {
-      "filename": "xliyvs-h5-c-seo-all-in-one-search-engine-optimization-tool.md",
-      "title": "SEO  All in One Search Engine Optimization Tool",
-      "videoId": "XliyvS-H5-c",
-      "url": "https://www.youtube.com/watch?v=XliyvS-H5-c",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-04-23T15:00:54.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.9",
-      "slug": "xliyvs-h5-c-seo-all-in-one-search-engine-optimization-tool"
-    },
-    {
       "filename": "xlyn7boxilc-wordpress-native-html-embed-for-funnels.md",
       "title": "Wordpress  Native HTML Embed for Funnels",
       "videoId": "XLYN7bOXILc",
@@ -2524,6 +2560,18 @@
       "slug": "y4fy6df2iwm-affiliate-manager-export-affiliate-sales-data-from-dashboard"
     },
     {
+      "filename": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge.md",
+      "title": "Day 2 - Five Day AI Employee Challenge",
+      "videoId": "y5kaKGDv7Ns",
+      "url": "https://www.youtube.com/watch?v=y5kaKGDv7Ns",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:33:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge"
+    },
+    {
       "filename": "y8dmxitp4by-lesson-3-retention.md",
       "title": "Lesson 3  Retention",
       "videoId": "Y8dmXItp4BY",
@@ -2534,6 +2582,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.4",
       "slug": "y8dmxitp4by-lesson-3-retention"
+    },
+    {
+      "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
+      "title": "Day 4 - Five Day AI Employee Challenge",
+      "videoId": "YeMyBfRaBnM",
+      "url": "https://www.youtube.com/watch?v=YeMyBfRaBnM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-22T19:36:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yemybfrabnm-day-4-five-day-ai-employee-challenge"
     },
     {
       "filename": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
@@ -2669,8 +2729,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 171,
-    "warning": 15,
+    "fresh": 177,
+    "warning": 14,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -2681,8 +2741,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 165,
-        "warning": 14,
+        "fresh": 171,
+        "warning": 13,
         "expired": 0,
         "unknown": null
       },
