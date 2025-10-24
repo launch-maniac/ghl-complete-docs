@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-23T07:44:11.924Z",
+  "generated": "2025-10-24T07:43:38.221Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 12,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -230,6 +230,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025"
+    },
+    {
+      "filename": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "4bFQG-BpMSw",
+      "url": "https://www.youtube.com/watch?v=4bFQG-BpMSw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-23T20:15:09.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
       "filename": "4i4ipi-ocyw-support-for-multiple-products-in-payment-links.md",
@@ -600,7 +612,7 @@
       "publishedDate": "2025-10-21T19:21:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -1552,6 +1564,18 @@
       "slug": "mj6bs2swyv4-how-to-set-up-and-use-stripe-internet-readers-with-the-leadconnector-mobile-app"
     },
     {
+      "filename": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "mn7dKUzhbg4",
+      "url": "https://www.youtube.com/watch?v=mn7dKUzhbg4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-23T20:14:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
       "filename": "mp6fjvxisv8-reputation-management-reviews-ai-agents.md",
       "title": "Reputation Management  Reviews AI Agents",
       "videoId": "mp6fjvXISV8",
@@ -1701,10 +1725,10 @@
       "videoId": "pEFFQdgF3PM",
       "url": "https://www.youtube.com/watch?v=pEFFQdgF3PM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-21T14:32:56.000Z",
+      "publishedDate": "2025-10-24T05:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -2280,7 +2304,7 @@
       "publishedDate": "2025-10-22T19:03:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
@@ -2729,7 +2753,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 177,
+    "fresh": 179,
     "warning": 14,
     "expired": 0,
     "unknown": 33,
@@ -2741,7 +2765,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 171,
+        "fresh": 173,
         "warning": 13,
         "expired": 0,
         "unknown": null
