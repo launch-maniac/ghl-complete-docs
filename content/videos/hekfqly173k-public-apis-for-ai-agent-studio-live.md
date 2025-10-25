@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "mn7dKUzhbg4"
-url: "https://www.youtube.com/watch?v=mn7dKUzhbg4"
-thumbnail: "https://i.ytimg.com/vi/mn7dKUzhbg4/hqdefault.jpg"
+title: "Public APIs for AI Agent Studio Live!"
+video_id: "HeKfqLY173k"
+url: "https://www.youtube.com/watch?v=HeKfqLY173k"
+thumbnail: "https://i.ytimg.com/vi/HeKfqLY173k/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-23T20:14:20.000Z"
+published_date: "2025-10-25T00:46:05.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-25T07:42:06.685Z"
+extracted_at: "2025-10-25T07:42:05.348Z"
 
 ---
 
-# 🟢 Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Public APIs for AI Agent Studio Live!
 
-**Video ID:** `mn7dKUzhbg4`
+**Video ID:** `HeKfqLY173k`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/23/2025
+**Published:** 10/25/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-25T07:42:06.685Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mn7dKUzhbg4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/mn7dKUzhbg4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HeKfqLY173k)
+- [📷 Thumbnail](https://i.ytimg.com/vi/HeKfqLY173k/hqdefault.jpg)
 
 
 ## Content Guidelines
