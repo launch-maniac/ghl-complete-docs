@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-25T07:42:12.522Z",
+  "generated": "2025-10-26T07:41:25.831Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 16,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -240,7 +240,7 @@
       "publishedDate": "2025-10-23T20:15:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -660,7 +660,7 @@
       "publishedDate": "2025-10-24T13:58:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
@@ -1260,7 +1260,7 @@
       "publishedDate": "2025-10-24T18:49:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025"
     },
     {
@@ -1620,7 +1620,7 @@
       "publishedDate": "2025-10-23T20:14:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -1788,7 +1788,7 @@
       "publishedDate": "2025-10-24T05:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -2361,10 +2361,10 @@
       "videoId": "vPNg-i_QQy0",
       "url": "https://www.youtube.com/watch?v=vPNg-i_QQy0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-22T19:03:36.000Z",
+      "publishedDate": "2025-10-26T04:41:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
