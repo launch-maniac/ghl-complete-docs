@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-26T07:41:25.831Z",
+  "generated": "2025-10-27T07:44:16.945Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 13,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -840,7 +840,7 @@
       "publishedDate": "2025-10-25T00:43:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dynrsohdpiu-automatic-seo-now-live-for-external-sites"
     },
     {
@@ -1140,7 +1140,7 @@
       "publishedDate": "2025-10-25T00:46:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hekfqly173k-public-apis-for-ai-agent-studio-live"
     },
     {
@@ -1704,7 +1704,7 @@
       "publishedDate": "2025-10-25T00:43:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ookdrqriqmi-barbershop-playbook-is-live"
     },
     {
@@ -2544,7 +2544,7 @@
       "publishedDate": "2025-10-25T00:44:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots"
     },
     {
