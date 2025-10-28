@@ -2,13 +2,13 @@
 title: "Day 1 - Five Day AI Employee Challenge"
 video_id: "HqQS1xvgOzw"
 url: "https://www.youtube.com/watch?v=HqQS1xvgOzw"
-thumbnail: "https://i.ytimg.com/vi/HqQS1xvgOzw/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/HqQS1xvgOzw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-22T19:31:44.000Z"
+published_date: "2025-10-28T06:24:55.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-27T07:44:12.725Z"
+extracted_at: "2025-10-28T07:44:35.675Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-10-27T07:44:12.725Z"
 **Video ID:** `HqQS1xvgOzw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/22/2025
+**Published:** 10/28/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-10-27T07:44:12.725Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HqQS1xvgOzw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/HqQS1xvgOzw/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/HqQS1xvgOzw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/27/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 10/28/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

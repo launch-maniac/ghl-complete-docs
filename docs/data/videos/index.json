@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-27T07:44:16.945Z",
+  "generated": "2025-10-28T07:44:42.027Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 11,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 11
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -242,6 +242,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
+      "filename": "4bqgnvtg-g8-public-apis-for-ai-agent-studio.md",
+      "title": "Public APIs for AI Agent Studio",
+      "videoId": "4bQGnVtG-G8",
+      "url": "https://www.youtube.com/watch?v=4bQGnVtG-G8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-27T18:00:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4bqgnvtg-g8-public-apis-for-ai-agent-studio"
     },
     {
       "filename": "4i4ipi-ocyw-support-for-multiple-products-in-payment-links.md",
@@ -912,7 +924,7 @@
       "publishedDate": "2025-10-22T19:38:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -998,6 +1010,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "fn2m1qffdys-set-up-calendars"
+    },
+    {
+      "filename": "fqebgwsygb4-agent-studio-integration-now-in-snapshots.md",
+      "title": "Agent Studio Integration Now in Snapshots!",
+      "videoId": "fqEBgWsYGB4",
+      "url": "https://www.youtube.com/watch?v=fqEBgWsYGB4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-27T15:01:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fqebgwsygb4-agent-studio-integration-now-in-snapshots"
     },
     {
       "filename": "fxnf8gkajfo-template-library-introducing-new-templates.md",
@@ -1185,10 +1209,10 @@
       "videoId": "HqQS1xvgOzw",
       "url": "https://www.youtube.com/watch?v=HqQS1xvgOzw",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-22T19:31:44.000Z",
+      "publishedDate": "2025-10-28T06:24:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -1944,7 +1968,7 @@
       "publishedDate": "2025-10-22T19:34:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "rejar47m0vq-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -2126,6 +2150,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights"
+    },
+    {
+      "filename": "t3jnjguok1c-automatic-seo-now-live-for-external-sites.md",
+      "title": "Automatic SEO Now Live for External Sites!",
+      "videoId": "T3JNjgUoK1c",
+      "url": "https://www.youtube.com/watch?v=T3JNjgUoK1c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-27T21:00:25.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "t3jnjguok1c-automatic-seo-now-live-for-external-sites"
     },
     {
       "filename": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance.md",
@@ -2364,7 +2400,7 @@
       "publishedDate": "2025-10-26T04:41:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
@@ -2664,7 +2700,7 @@
       "publishedDate": "2025-10-22T19:33:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -2688,7 +2724,7 @@
       "publishedDate": "2025-10-22T19:36:33.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "yemybfrabnm-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -2825,7 +2861,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 185,
+    "fresh": 188,
     "warning": 14,
     "expired": 0,
     "unknown": 33,
@@ -2837,7 +2873,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 179,
+        "fresh": 182,
         "warning": 13,
         "expired": 0,
         "unknown": null
