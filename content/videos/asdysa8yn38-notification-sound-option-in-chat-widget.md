@@ -1,14 +1,14 @@
 ---
-title: "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel"
-video_id: "vPNg-i_QQy0"
-url: "https://www.youtube.com/watch?v=vPNg-i_QQy0"
-thumbnail: "https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault.jpg"
+title: "Notification Sound Option in Chat Widget"
+video_id: "AsDysa8Yn38"
+url: "https://www.youtube.com/watch?v=AsDysa8Yn38"
+thumbnail: "https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-26T04:41:20.000Z"
+published_date: "2025-10-28T21:00:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-29T07:45:33.838Z"
+extracted_at: "2025-10-29T07:45:31.328Z"
 
 ---
 
-# 🟢 Karina Correa: Voice &amp; Chat AI for Growth with HighLevel
+# 🟢 Notification Sound Option in Chat Widget
 
-**Video ID:** `vPNg-i_QQy0`
+**Video ID:** `AsDysa8Yn38`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/26/2025
+**Published:** 10/28/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-29T07:45:33.838Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vPNg-i_QQy0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AsDysa8Yn38)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-28T07:44:42.027Z",
+  "generated": "2025-10-29T07:45:38.950Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 21,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 21
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -252,7 +252,7 @@
       "publishedDate": "2025-10-27T18:00:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4bqgnvtg-g8-public-apis-for-ai-agent-studio"
     },
     {
@@ -592,6 +592,18 @@
       "slug": "arikpay-ago-pricing-analysis"
     },
     {
+      "filename": "asdysa8yn38-notification-sound-option-in-chat-widget.md",
+      "title": "Notification Sound Option in Chat Widget",
+      "videoId": "AsDysa8Yn38",
+      "url": "https://www.youtube.com/watch?v=AsDysa8Yn38",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T21:00:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "asdysa8yn38-notification-sound-option-in-chat-widget"
+    },
+    {
       "filename": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop.md",
       "title": "Day 1 - Chat Smarter, Sell Faster: The AI Chat Workshop",
       "videoId": "autII1ofRSc",
@@ -626,6 +638,30 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
+      "filename": "b0hfribiueg-funnel-amp-website-enhancements-live.md",
+      "title": "Funnel &amp; Website Enhancements Live!",
+      "videoId": "B0HfrIbiUEg",
+      "url": "https://www.youtube.com/watch?v=B0HfrIbiUEg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T15:31:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "b0hfribiueg-funnel-amp-website-enhancements-live"
+    },
+    {
+      "filename": "b6qzcltuph8-template-library-introducing-new-templates-no-65.md",
+      "title": "Template Library  Introducing New Templates no  65",
+      "videoId": "b6qzcltuPH8",
+      "url": "https://www.youtube.com/watch?v=b6qzcltuPH8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T16:01:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "b6qzcltuph8-template-library-introducing-new-templates-no-65"
     },
     {
       "filename": "bkt-q8wlu-s-blog-statistics-track-blog-amp-post-performance-live.md",
@@ -844,6 +880,18 @@
       "slug": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live"
     },
     {
+      "filename": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 1 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "dW_mxo8_bho",
+      "url": "https://www.youtube.com/watch?v=dW_mxo8_bho",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T13:26:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
+    },
+    {
       "filename": "dynrsohdpiu-automatic-seo-now-live-for-external-sites.md",
       "title": "Automatic SEO Now Live for External Sites!",
       "videoId": "DynrsOhDPIU",
@@ -880,6 +928,18 @@
       "slug": "e-hsor1v4fu-voice-ai-enhanced-email-notification-customization"
     },
     {
+      "filename": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 2 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "E0T6QbIEfN0",
+      "url": "https://www.youtube.com/watch?v=E0T6QbIEfN0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T13:27:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern"
+    },
+    {
       "filename": "ebbp-wl7j70-how-to-track-and-improve-your-business-profile-health-score.md",
       "title": "How to Track and Improve Your Business Profile Health Score",
       "videoId": "EbBp-wL7J70",
@@ -890,6 +950,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "ebbp-wl7j70-how-to-track-and-improve-your-business-profile-health-score"
+    },
+    {
+      "filename": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 3 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "eDNTJMtEuAY",
+      "url": "https://www.youtube.com/watch?v=eDNTJMtEuAY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T13:28:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
       "filename": "emsskunf4e0-how-to-enable-or-disable-customers-in-affiliate-management.md",
@@ -1012,6 +1084,18 @@
       "slug": "fn2m1qffdys-set-up-calendars"
     },
     {
+      "filename": "fnt94hq-uyy-order-form-speed-improvements.md",
+      "title": "Order Form Speed Improvements!",
+      "videoId": "FnT94Hq_uYY",
+      "url": "https://www.youtube.com/watch?v=FnT94Hq_uYY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T20:13:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fnt94hq-uyy-order-form-speed-improvements"
+    },
+    {
       "filename": "fqebgwsygb4-agent-studio-integration-now-in-snapshots.md",
       "title": "Agent Studio Integration Now in Snapshots!",
       "videoId": "fqEBgWsYGB4",
@@ -1020,7 +1104,7 @@
       "publishedDate": "2025-10-27T15:01:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fqebgwsygb4-agent-studio-integration-now-in-snapshots"
     },
     {
@@ -1552,6 +1636,18 @@
       "slug": "l15zpi7epsa-granular-permissions-for-voice-ai-agents"
     },
     {
+      "filename": "l1v5yzy-da0-order-form-speed-improvements.md",
+      "title": "Order Form Speed Improvements",
+      "videoId": "L1v5yZy_Da0",
+      "url": "https://www.youtube.com/watch?v=L1v5yZy_Da0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-29T00:00:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "l1v5yzy-da0-order-form-speed-improvements"
+    },
+    {
       "filename": "l4edetvlsw0-did-you-know-you-can-build-an-ai-conversational-assistant-for-plumbers-in-highlevel.md",
       "title": "Did You Know You Can Build an AI Conversational Assistant for Plumbers in Highlevel?",
       "videoId": "l4eDETVLSw0",
@@ -1812,7 +1908,7 @@
       "publishedDate": "2025-10-24T05:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -2428,6 +2524,18 @@
       "slug": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner"
     },
     {
+      "filename": "vxkqyrqofvq-notification-sound-option-in-chat-widget.md",
+      "title": "Notification Sound Option in Chat Widget",
+      "videoId": "vXKqYRQoFvQ",
+      "url": "https://www.youtube.com/watch?v=vXKqYRQoFvQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T20:14:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vxkqyrqofvq-notification-sound-option-in-chat-widget"
+    },
+    {
       "filename": "w1e6fkbcbwk-how-to-easily-add-whatsapp-templates-to-your-snapshots.md",
       "title": "How to Easily Add WhatsApp Templates to Your Snapshots",
       "videoId": "w1e6FKBcBwk",
@@ -2510,6 +2618,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "wjbo61htgwq-qr-code-element-live-in-the-builder"
+    },
+    {
+      "filename": "wjwsxsfc-e-new-templates-live.md",
+      "title": "New Templates Live!",
+      "videoId": "wjwSXsFc--E",
+      "url": "https://www.youtube.com/watch?v=wjwSXsFc--E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T15:30:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wjwsxsfc-e-new-templates-live"
     },
     {
       "filename": "wn4i1ninpzm-whatsapp-support-for-internal-notifications.md",
@@ -2697,10 +2817,10 @@
       "videoId": "y5kaKGDv7Ns",
       "url": "https://www.youtube.com/watch?v=y5kaKGDv7Ns",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-22T19:33:18.000Z",
+      "publishedDate": "2025-10-29T06:23:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -2824,6 +2944,18 @@
       "slug": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
+      "filename": "zhpg1y7ia1m-funnel-amp-website-enhancements.md",
+      "title": "Funnel &amp; Website Enhancements",
+      "videoId": "ZhPg1Y7ia1M",
+      "url": "https://www.youtube.com/watch?v=ZhPg1Y7ia1M",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T18:00:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zhpg1y7ia1m-funnel-amp-website-enhancements"
+    },
+    {
       "filename": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel.md",
       "title": "Starting an AI Company with HighLevel - Ray O&#39;Daniel",
       "videoId": "zKrUIx4bHmU",
@@ -2861,7 +2993,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 188,
+    "fresh": 199,
     "warning": 14,
     "expired": 0,
     "unknown": 33,
@@ -2873,13 +3005,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 182,
+        "fresh": 192,
         "warning": 13,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 3,
+        "fresh": 4,
         "warning": 1,
         "expired": 0
       }
