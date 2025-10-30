@@ -3,7 +3,7 @@ title: "Learn More About Our API"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api"
-extracted_at: "2025-10-30T06:19:16.414Z"
+extracted_at: "2025-10-30T09:15:16.979Z"
 ---
 
 1.  [Home](/support/home)
@@ -50,10 +50,13 @@ Sorry! nothing found for
 
 # HighLevel API
 
-Modified on: Fri, 26 Sep, 2025 at 10:09 AM
+Modified on: Thu, 30 Oct, 2025 at 2:42 AM
 
 **Please Note:** V1 APIs has reached end-of-support. 
+
 Existing connections/integrations will continue to work, however no support will be provided for V1 APIs. 
+
+Going forward, the ability to generate new API keys will be removed from both Agency and Sub-account settings.This change applies to accounts that have not yet generated or are not currently using a API key.
 
 Want to migrate from V1 to V2? (with a ton of new functionalities and security features)
 [](https://help.gohighlevel.com/a/solutions/articles/155000003054?portalId=48000045315)Check out - [Private Integrations](https://help.gohighlevel.com/a/solutions/articles/155000003054?portalId=48000045315)
