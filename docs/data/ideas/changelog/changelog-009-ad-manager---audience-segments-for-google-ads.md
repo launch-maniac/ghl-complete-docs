@@ -80,3 +80,7 @@ In the **Intended Audience** section of the Google Ads campaign flow, users can 
 -   Provides good level of **parity** with **Google Ads’ audience ecosystem** inside Ad Manager.
 -   Removes friction between audience setup and campaign creation.
 -   **Boosts ad relevance, CTR and conversion rates** through smart segmentation and high-intent targeting.
+
+# Help Article:
+
+[How to create and use audience targeting in Google Ad campaigns](https://help.gohighlevel.com/support/solutions/articles/155000006800-how-to-create-and-use-audience-targeting-in-google-ad-campaigns)
