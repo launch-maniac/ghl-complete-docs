@@ -1,10 +1,10 @@
 ---
-title: "Notification Sound Option in Chat Widget"
-video_id: "vXKqYRQoFvQ"
-url: "https://www.youtube.com/watch?v=vXKqYRQoFvQ"
-thumbnail: "https://i.ytimg.com/vi/vXKqYRQoFvQ/hqdefault.jpg"
+title: "Day 3 - Five Day AI Employee Challenge"
+video_id: "LOxe-oZ69SI"
+url: "https://www.youtube.com/watch?v=LOxe-oZ69SI"
+thumbnail: "https://i.ytimg.com/vi/LOxe-oZ69SI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-28T20:14:31.000Z"
+published_date: "2025-10-30T05:07:18.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-30T07:43:15.694Z"
+extracted_at: "2025-10-30T07:43:14.903Z"
 
 ---
 
-# 🟢 Notification Sound Option in Chat Widget
+# 🟢 Day 3 - Five Day AI Employee Challenge
 
-**Video ID:** `vXKqYRQoFvQ`
+**Video ID:** `LOxe-oZ69SI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/28/2025
+**Published:** 10/30/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-30T07:43:15.694Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vXKqYRQoFvQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vXKqYRQoFvQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=LOxe-oZ69SI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/LOxe-oZ69SI/hqdefault.jpg)
 
 
 ## Content Guidelines

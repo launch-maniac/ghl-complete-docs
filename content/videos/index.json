@@ -1,10 +1,10 @@
 {
-  "generated": "2025-10-29T07:45:38.950Z",
+  "generated": "2025-10-30T07:43:25.415Z",
   "stats": {
     "channels": 1,
     "videos": 21,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -648,7 +648,7 @@
       "publishedDate": "2025-10-28T15:31:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b0hfribiueg-funnel-amp-website-enhancements-live"
     },
     {
@@ -660,7 +660,7 @@
       "publishedDate": "2025-10-28T16:01:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b6qzcltuph8-template-library-introducing-new-templates-no-65"
     },
     {
@@ -888,7 +888,7 @@
       "publishedDate": "2025-10-28T13:26:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -936,7 +936,7 @@
       "publishedDate": "2025-10-28T13:27:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -960,7 +960,7 @@
       "publishedDate": "2025-10-28T13:28:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1296,7 +1296,7 @@
       "publishedDate": "2025-10-28T06:24:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -1682,6 +1682,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.7",
       "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
+    },
+    {
+      "filename": "loxe-oz69si-day-3-five-day-ai-employee-challenge.md",
+      "title": "Day 3 - Five Day AI Employee Challenge",
+      "videoId": "LOxe-oZ69SI",
+      "url": "https://www.youtube.com/watch?v=LOxe-oZ69SI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-30T05:07:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "loxe-oz69si-day-3-five-day-ai-employee-challenge"
     },
     {
       "filename": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager.md",
@@ -2256,7 +2268,7 @@
       "publishedDate": "2025-10-27T21:00:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "t3jnjguok1c-automatic-seo-now-live-for-external-sites"
     },
     {
@@ -2294,18 +2306,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
-    },
-    {
-      "filename": "ttfykdjsgvc-communities-event-attendee-list-view-saved-membership-answers.md",
-      "title": "Communities  Event Attendee List + View Saved Membership Answers",
-      "videoId": "TTFYKdjSGVc",
-      "url": "https://www.youtube.com/watch?v=TTFYKdjSGVc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-04-29T18:00:36.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.7",
-      "slug": "ttfykdjsgvc-communities-event-attendee-list-view-saved-membership-answers"
     },
     {
       "filename": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel-with-peng-joon.md",
@@ -2378,18 +2378,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
-    },
-    {
-      "filename": "uffd0zeqami-calendars-add-guests-payment-calculation-based-on-attendee-count-mandatory-guest-informa.md",
-      "title": "Calendars  Add Guests   Payment Calculation Based on Attendee Count + Mandatory Guest Information",
-      "videoId": "uFfD0ZeQamI",
-      "url": "https://www.youtube.com/watch?v=uFfD0ZeQamI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-04-30T15:01:37.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.7",
-      "slug": "uffd0zeqami-calendars-add-guests-payment-calculation-based-on-attendee-count-mandatory-guest-informa"
     },
     {
       "filename": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel.md",
@@ -2628,7 +2616,7 @@
       "publishedDate": "2025-10-28T15:30:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wjwsxsfc-e-new-templates-live"
     },
     {
@@ -2952,7 +2940,7 @@
       "publishedDate": "2025-10-28T18:00:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zhpg1y7ia1m-funnel-amp-website-enhancements"
     },
     {
@@ -2993,8 +2981,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 199,
-    "warning": 14,
+    "fresh": 200,
+    "warning": 12,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3005,8 +2993,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 192,
-        "warning": 13,
+        "fresh": 193,
+        "warning": 11,
         "expired": 0,
         "unknown": null
       },
