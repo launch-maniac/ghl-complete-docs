@@ -6,7 +6,7 @@ guid: "69046fa44224576804a19dc8"
 author: "Shreya Banerjee"
 pubDate: "2025-10-31T08:44:35.000Z"
 link: "https://ideas.gohighlevel.com/changelog/countdown-timers-in-whatsapp-messages"
-categories: countdown timers,new
+categories: whatsapp,countdown timers,new
 url: "https://ideas.gohighlevel.com/changelog/countdown-timers-in-whatsapp-messages"
 index: 1
 ---

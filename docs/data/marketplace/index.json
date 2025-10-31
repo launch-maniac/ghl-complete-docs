@@ -1,13 +1,13 @@
 {
-  "generated": "2025-10-31T09:19:37.932Z",
+  "generated": "2025-10-31T12:26:53.398Z",
   "stats": {
     "categories": 0,
-    "docs": 21,
+    "docs": 23,
     "errors": 27,
     "successful": 27,
     "failed": [],
     "retries": 0,
-    "startTime": 1761902092349
+    "startTime": 1761913345318
   },
   "documents": [
     {
@@ -994,7 +994,7 @@
       "filename": "integrations-api-subpage-sign-in.md",
       "title": "Sign in",
       "type": "integrations-api-subpage",
-      "url": "https://highlevel.stoplight.io/auth?r=/docs/integrations/",
+      "url": "https://highlevel.stoplight.io/auth",
       "slug": "integrations-api-subpage-sign-in"
     },
     {
