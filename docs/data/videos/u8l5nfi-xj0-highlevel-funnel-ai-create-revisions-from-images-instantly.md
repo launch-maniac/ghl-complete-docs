@@ -1,14 +1,14 @@
 ---
-title: "Notification Sound Option in Chat Widget"
-video_id: "AsDysa8Yn38"
-url: "https://www.youtube.com/watch?v=AsDysa8Yn38"
-thumbnail: "https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg"
+title: "HighLevel Funnel AI: Create Revisions from Images Instantly!"
+video_id: "U8l5nFI_XJ0"
+url: "https://www.youtube.com/watch?v=U8l5nFI_XJ0"
+thumbnail: "https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-28T21:00:11.000Z"
+published_date: "2025-10-30T15:17:59.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-31T07:43:14.348Z"
+extracted_at: "2025-10-31T07:43:13.488Z"
 
 ---
 
-# 🟢 Notification Sound Option in Chat Widget
+# 🟢 HighLevel Funnel AI: Create Revisions from Images Instantly!
 
-**Video ID:** `AsDysa8Yn38`
+**Video ID:** `U8l5nFI_XJ0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/28/2025
+**Published:** 10/30/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-31T07:43:14.348Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AsDysa8Yn38)
-- [📷 Thumbnail](https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=U8l5nFI_XJ0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg)
 
 
 ## Content Guidelines

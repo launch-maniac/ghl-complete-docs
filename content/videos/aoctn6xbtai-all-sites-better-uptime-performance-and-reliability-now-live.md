@@ -1,14 +1,14 @@
 ---
-title: "Notification Sound Option in Chat Widget"
-video_id: "AsDysa8Yn38"
-url: "https://www.youtube.com/watch?v=AsDysa8Yn38"
-thumbnail: "https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg"
+title: "All Sites    Better Uptime, Performance and Reliability Now Live!"
+video_id: "AocTn6xBtAI"
+url: "https://www.youtube.com/watch?v=AocTn6xBtAI"
+thumbnail: "https://i.ytimg.com/vi/AocTn6xBtAI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-28T21:00:11.000Z"
+published_date: "2025-10-30T22:56:05.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-31T07:43:14.348Z"
+extracted_at: "2025-10-31T07:43:12.793Z"
 
 ---
 
-# 🟢 Notification Sound Option in Chat Widget
+# 🟢 All Sites    Better Uptime, Performance and Reliability Now Live!
 
-**Video ID:** `AsDysa8Yn38`
+**Video ID:** `AocTn6xBtAI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/28/2025
+**Published:** 10/30/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-31T07:43:14.348Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AsDysa8Yn38)
-- [📷 Thumbnail](https://i.ytimg.com/vi/AsDysa8Yn38/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AocTn6xBtAI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AocTn6xBtAI/hqdefault.jpg)
 
 
 ## Content Guidelines
