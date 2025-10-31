@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "68fbfde67979307605325906"
+guid: "6903dda2c77fe33b4d6aab4a"
 author: "Sales &amp; Marketing"
-pubDate: "2025-10-24T22:37:34.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-65"
+pubDate: "2025-10-31T01:45:28.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-65"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
 index: 1
 ---
 
@@ -17,11 +17,21 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Funnel Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Home Services - 1
+Medical - 1
+
+\------------------------------------------------------
+
+🚀 **2 New Funnel Templates Published** 🚀
+
+\------------------------------------------------------
+
+Health & Wellness - 1
+
+Business, Coaching & Consulting - 1
 
 \------------------------------------------------------
 
@@ -29,7 +39,7 @@ Home Services - 1
 
 \------------------------------------------------------
 
-Automotive - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +47,7 @@ Automotive - 1
 
 \-----------------------------------------------------
 
-Creative - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +55,7 @@ Creative - 1
 
 \-----------------------------------------------------
 
-Travel & Hospitality - 1
+Business, Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
@@ -53,37 +63,23 @@ Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
-Automotive - 2
+Financial - 2
 
-Beauty & Fashion - 2
+Health & Wellness - 2
 
-Business Coaching and Consulting - 2
+Holidays - 2
 
-Creative - 2
-
-\-----------------------------------------------------
-
-🚀 **1 Facebook Ad Templates Published** 🚀
+Home Services - 2
 
 \-----------------------------------------------------
 
-Other - 1
+🚀 **2 New Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-🚀 **5 Google Ad Templates Published** 🚀
+Real Estate - 1
 
-\-----------------------------------------------------
-
-Health & Wellness - Mental Health Therapy
-
-Home Services - Window and Door Installation
-
-Insurance - Medical Health Insurance
-
-Legal - Intellectual Property Attorney
-
-Marketing Agency - Customer Management Software
+Holidays - 1
 
 \------------------------------------------------------
 
@@ -91,38 +87,32 @@ Marketing Agency - Customer Management Software
 
 \------------------------------------------------------
 
-Medical - Home Health Care
+Other - Pet Groomer
 
-![Artist - Social](https://canny-assets.io/images/cc83e7acf221c3dbcbab3857acc38a7f.png)
+![Bathroom Remodeling - Social](https://canny-assets.io/images/d319062224233a19ffb83de836d558b6.png)
 
-![Bookkeeping Solutions - Quiz](https://canny-assets.io/images/d5a597bcc86fde4505485c64386ba869.png)
+![Business Development - Funnel](https://canny-assets.io/images/87f8a7aea9dac5231bb8772fe98ef46a.png)
 
-![Career Development Coach - Social](https://canny-assets.io/images/817e8341e2a34b95108d73ad719093af.png)
+![Bathroom Remodeling Request - Form](https://canny-assets.io/images/22ab318af4fc0f1c632e84ef422d58a9.png)
 
-![Customer Management Software - Google Ad](https://canny-assets.io/images/062e269547ee38a12491cabe297af3a1.png)
+![Black Friday SaaS Blowout - Facebook Ad](https://canny-assets.io/images/8791861751ca542152e7683f452478cb.png)
 
-![Hair Parlor - Social](https://canny-assets.io/images/cdeed566bd78fc28b0440f59d14ffcc4.png)
+![Bookkeeper Services - Social](https://canny-assets.io/images/cefb26b55734c4f72d8d449b663a998d.png)
 
-![Home Health Care - Snapshot](https://canny-assets.io/images/9e48468be4d156328f4333f5c9fec4d5.png)
+![Business Development - Funnel](https://canny-assets.io/images/b84220ed8e034b945cac3f4d752a89ef.png)
 
-![Intellectual Property Attorney - Google Ad](https://canny-assets.io/images/744edc71e942152c8652b855d7075d1c.png)
+![Lifestyle Coach Market Analysis - Survey](https://canny-assets.io/images/025edae9a651889e4af206574ef53ea2.png)
 
-![Medical Health Insurance - Google Ad](https://canny-assets.io/images/614afe19a307d4624db4167c5f3b2911.png)
+![Pet Groomer - Snapshot](https://canny-assets.io/images/9d562824f54ada524fb601d33ab7b706.png)
 
-![Mental Health Therapy - Google Ad](https://canny-assets.io/images/078dcdd6f60e13500c7436b83ef4e73d.png)
+![Real Estate Broker - Facebook Ad](https://canny-assets.io/images/3630fed0cf845a1e34e34ab2ffe2a38f.png)
 
-![Pressure Washing - Funnel](https://canny-assets.io/images/bb67b5eb61420e6acfca308444b974df.png)
+![Thanksgiving - Social](https://canny-assets.io/images/6bc89fcc3244645e4f9d8d1ef3676c23.png)
 
-![Retirement Community - Facebook Ad](https://canny-assets.io/images/ba2f8ab920a19cfa5b3fb29b5fbc592f.png)
+![Trusted Wellness Solutions - Website](https://canny-assets.io/images/97ea48e7980d137dfd3ed964118b4cb3.png)
 
-![Roadside Assistance - Email](https://canny-assets.io/images/e8dbacb1d41069b7b81d3a13fcd53a1c.png)
+![Video Production & Editing - Email](https://canny-assets.io/images/db302571751d83817537eabfdc234aaf.png)
 
-!\[Tire Depot - Social\](https://
+![Weight Management - Social](https://canny-assets.io/images/746779922c70609c0a145852271833ce.png)
 
-![Video Production and Editing Request - Form](https://canny-assets.io/images/e07768b087b60919a8a37fb16d409619.png)
-
-![Window and Door Installation - Google Ad](https://canny-assets.io/images/56bea72dab3207abb1d40531ea6e934b.png)
-
-[canny-assets.io/images/ab7c732e3e81d6f66cf7c30733a2ec09.png](http://canny-assets.io/images/ab7c732e3e81d6f66cf7c30733a2ec09.png))
-
-![Tour Guide Market Analysis - Survey](https://canny-assets.io/images/feb9d0bb903bef84e32666d59ed95603.png)
+![Weight Management Program - Funnel](https://canny-assets.io/images/e283a0c7a5adee6e79ae2873c909af6f.png)
