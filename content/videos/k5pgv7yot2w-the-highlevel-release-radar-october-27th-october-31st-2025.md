@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - SaaSPRENEUR Workshop with Frank Kern"
-video_id: "eDNTJMtEuAY"
-url: "https://www.youtube.com/watch?v=eDNTJMtEuAY"
-thumbnail: "https://i.ytimg.com/vi/eDNTJMtEuAY/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (October 27th - October 31st 2025)"
+video_id: "k5pgV7Yot2w"
+url: "https://www.youtube.com/watch?v=k5pgV7Yot2w"
+thumbnail: "https://i.ytimg.com/vi/k5pgV7Yot2w/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-28T13:28:43.000Z"
+published_date: "2025-11-01T07:20:03.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-01T07:41:21.801Z"
+extracted_at: "2025-11-01T07:41:18.518Z"
 
 ---
 
-# 🟢 Day 3 - SaaSPRENEUR Workshop with Frank Kern
+# 🟢 The HighLevel Release Radar (October 27th - October 31st 2025)
 
-**Video ID:** `eDNTJMtEuAY`
+**Video ID:** `k5pgV7Yot2w`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/28/2025
+**Published:** 11/1/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-01T07:41:21.801Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eDNTJMtEuAY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/eDNTJMtEuAY/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=k5pgV7Yot2w)
+- [📷 Thumbnail](https://i.ytimg.com/vi/k5pgV7Yot2w/hqdefault.jpg)
 
 
 ## Content Guidelines

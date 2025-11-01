@@ -1,14 +1,14 @@
 ---
-title: "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel"
-video_id: "vPNg-i_QQy0"
-url: "https://www.youtube.com/watch?v=vPNg-i_QQy0"
-thumbnail: "https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault.jpg"
+title: "GoKollab BETA Mobile App v2 Now Live for Testing!"
+video_id: "x3dJbY0SWdw"
+url: "https://www.youtube.com/watch?v=x3dJbY0SWdw"
+thumbnail: "https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-26T04:41:20.000Z"
+published_date: "2025-10-30T22:56:56.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-01T07:41:22.384Z"
+extracted_at: "2025-11-01T07:41:20.907Z"
 
 ---
 
-# 🟢 Karina Correa: Voice &amp; Chat AI for Growth with HighLevel
+# 🟢 GoKollab BETA Mobile App v2 Now Live for Testing!
 
-**Video ID:** `vPNg-i_QQy0`
+**Video ID:** `x3dJbY0SWdw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/26/2025
+**Published:** 10/30/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-01T07:41:22.384Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vPNg-i_QQy0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vPNg-i_QQy0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x3dJbY0SWdw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg)
 
 
 ## Content Guidelines

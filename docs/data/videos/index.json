@@ -1,14 +1,14 @@
 {
-  "generated": "2025-10-31T07:43:21.002Z",
+  "generated": "2025-11-01T07:41:26.868Z",
   "stats": {
     "channels": 1,
-    "videos": 21,
+    "videos": 18,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 21
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -196,6 +196,18 @@
       "slug": "36rzrocmmr4-whatsapp-link-cta-click-workflow-action-live"
     },
     {
+      "filename": "3awiuoz4tx0-new-templates-live.md",
+      "title": "New Templates Live!",
+      "videoId": "3AwIuOz4tX0",
+      "url": "https://www.youtube.com/watch?v=3AwIuOz4tX0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T22:21:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3awiuoz4tx0-new-templates-live"
+    },
+    {
       "filename": "3hef1fbqrs0-how-to-generate-custom-code-with-ai-in-workflows.md",
       "title": "How to Generate Custom Code with AI in Workflows",
       "videoId": "3HEf1FBqRs0",
@@ -264,7 +276,7 @@
       "publishedDate": "2025-10-30T15:18:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live"
     },
     {
@@ -604,6 +616,18 @@
       "slug": "aoctn6xbtai-all-sites-better-uptime-performance-and-reliability-now-live"
     },
     {
+      "filename": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live.md",
+      "title": "HighLevel Sites Upgrade: Faster Uptime, Performance &amp; Reliability Now Live!",
+      "videoId": "AocTn6xBtAI",
+      "url": "https://www.youtube.com/watch?v=AocTn6xBtAI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-30T22:56:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live"
+    },
+    {
       "filename": "arikpay-ago-pricing-analysis.md",
       "title": "Pricing Analysis",
       "videoId": "ARiKpay-AGo",
@@ -854,6 +878,18 @@
       "contentCategory": "evergreen",
       "ageInMonths": "0.1",
       "slug": "czpiokfyiza-levelup-day-2025-intro"
+    },
+    {
+      "filename": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit.md",
+      "title": "Did You Know HighLevel Can Email Leads the Second They Hit Submit?",
+      "videoId": "D_IeyvxeE8E",
+      "url": "https://www.youtube.com/watch?v=D_IeyvxeE8E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T19:07:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit"
     },
     {
       "filename": "d5eklzlriny-human-handover.md",
@@ -1504,6 +1540,18 @@
       "slug": "k19w9eefjgi-how-to-optimize-your-website-using-browser-and-ip-analytics"
     },
     {
+      "filename": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025.md",
+      "title": "The HighLevel Release Radar (October 27th - October 31st 2025)",
+      "videoId": "k5pgV7Yot2w",
+      "url": "https://www.youtube.com/watch?v=k5pgV7Yot2w",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-01T07:20:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025"
+    },
+    {
       "filename": "k6-n-eildwu-google-contacts-integration-now-live.md",
       "title": "Google Contacts Integration Now Live!",
       "videoId": "K6_N_eiLDWU",
@@ -1704,7 +1752,7 @@
       "publishedDate": "2025-10-30T05:07:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "loxe-oz69si-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -1718,6 +1766,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.5",
       "slug": "lsbkogpsc2c-how-to-set-up-bank-account-payments-in-your-affiliate-manager"
+    },
+    {
+      "filename": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel.md",
+      "title": "Did You Know You Can Run a Referral Program in HighLevel?",
+      "videoId": "ltclLkjmAiQ",
+      "url": "https://www.youtube.com/watch?v=ltclLkjmAiQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T19:09:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel"
     },
     {
       "filename": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests.md",
@@ -2008,6 +2068,18 @@
       "slug": "pjte3h3meqa-saaspreneur-live-london-speaker-reveal-full-lineup-what-to-expect"
     },
     {
+      "filename": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live.md",
+      "title": "Countdown Timers in WhatsApp Messages Live!",
+      "videoId": "Po2i0GTX_LU",
+      "url": "https://www.youtube.com/watch?v=Po2i0GTX_LU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T22:22:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live"
+    },
+    {
       "filename": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling.md",
       "title": "How to Resend Unopened Emails Using RSS and Batch Scheduling",
       "videoId": "pTiyZwBlZpg",
@@ -2176,18 +2248,6 @@
       "slug": "shyftg1utxi-listings-food-amp-healthcare-add-ons"
     },
     {
-      "filename": "sk8qiipg-jq-mobile-payments-square-as-a-payment-provider-for-pos-and-mobile-payments.md",
-      "title": "Mobile Payments  Square as a Payment Provider for POS and Mobile Payments",
-      "videoId": "Sk8qIipG_jQ",
-      "url": "https://www.youtube.com/watch?v=Sk8qIipG_jQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-01T18:00:27.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.7",
-      "slug": "sk8qiipg-jq-mobile-payments-square-as-a-payment-provider-for-pos-and-mobile-payments"
-    },
-    {
       "filename": "slcfzzeum8-from-mechanic-and-restaurant-manager-to-award-winning-saas-affiliates-nick-ponte-amp-tom-.md",
       "title": "From Mechanic and Restaurant Manager to Award-Winning SaaS Affiliates | Nick Ponte &amp; Tom Gaddis",
       "videoId": "-SlcfzzeUM8",
@@ -2198,6 +2258,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "slcfzzeum8-from-mechanic-and-restaurant-manager-to-award-winning-saas-affiliates-nick-ponte-amp-tom-"
+    },
+    {
+      "filename": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone.md",
+      "title": "HighLevel WhatsApp Coexistence Now Live for Everyone!",
+      "videoId": "SmN6H-EUyww",
+      "url": "https://www.youtube.com/watch?v=SmN6H-EUyww",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-30T22:55:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone"
     },
     {
       "filename": "smn6h-euyww-whatsapp-coexistence-live-to-everyone-globally.md",
@@ -2388,7 +2460,7 @@
       "publishedDate": "2025-10-30T15:17:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly"
     },
     {
@@ -2534,6 +2606,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "vpnk-p5r40i-how-to-integrate-and-use-leadconnector-on-your-wordpress-site"
+    },
+    {
+      "filename": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you.md",
+      "title": "Did You Know HighLevel Can Turn Missed Calls into Booked Appointments for You?",
+      "videoId": "Vqdst6s3wnI",
+      "url": "https://www.youtube.com/watch?v=Vqdst6s3wnI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T18:19:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you"
     },
     {
       "filename": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner.md",
@@ -2726,6 +2810,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots"
+    },
+    {
+      "filename": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing.md",
+      "title": "GoKollab BETA Mobile App v2 Now Live for Testing!",
+      "videoId": "x3dJbY0SWdw",
+      "url": "https://www.youtube.com/watch?v=x3dJbY0SWdw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-30T22:56:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing"
     },
     {
       "filename": "x3djby0swdw-kollab-beta-mobile-app-v2-is-live-for-testing.md",
@@ -2932,6 +3028,18 @@
       "slug": "z0bez-tosym-bot-goals"
     },
     {
+      "filename": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel.md",
+      "title": "Did You Know You Can Create Branded Dashboards with HighLevel?",
+      "videoId": "Z5jEDwabSR0",
+      "url": "https://www.youtube.com/watch?v=Z5jEDwabSR0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T19:08:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel"
+    },
+    {
       "filename": "z5xac5z-yj0-keyboard-shortcuts.md",
       "title": "Keyboard shortcuts",
       "videoId": "z5xAc5Z_yj0",
@@ -3029,8 +3137,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 205,
-    "warning": 11,
+    "fresh": 215,
+    "warning": 10,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3041,8 +3149,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 198,
-        "warning": 10,
+        "fresh": 208,
+        "warning": 9,
         "expired": 0,
         "unknown": null
       },
