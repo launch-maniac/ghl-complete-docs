@@ -3,7 +3,7 @@ title: "Learn More About Our API"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://help.gohighlevel.com/support/solutions/articles/48001060529-highlevel-api"
-extracted_at: "2025-11-01T12:19:32.374Z"
+extracted_at: "2025-11-01T15:07:02.788Z"
 ---
 
 1.  [Home](/support/home)
