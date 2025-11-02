@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-01T07:41:26.868Z",
+  "generated": "2025-11-02T07:41:40.403Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 16,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -624,7 +624,7 @@
       "publishedDate": "2025-10-30T22:56:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live"
     },
     {
@@ -888,7 +888,7 @@
       "publishedDate": "2025-10-31T19:07:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit"
     },
     {
@@ -948,7 +948,7 @@
       "publishedDate": "2025-10-28T13:26:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -996,7 +996,7 @@
       "publishedDate": "2025-10-28T13:27:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1020,7 +1020,7 @@
       "publishedDate": "2025-10-28T13:28:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1776,7 +1776,7 @@
       "publishedDate": "2025-10-31T19:09:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel"
     },
     {
@@ -2268,7 +2268,7 @@
       "publishedDate": "2025-10-30T22:55:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone"
     },
     {
@@ -2616,7 +2616,7 @@
       "publishedDate": "2025-10-31T18:19:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you"
     },
     {
@@ -2820,7 +2820,7 @@
       "publishedDate": "2025-10-30T22:56:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing"
     },
     {
@@ -2976,7 +2976,7 @@
       "publishedDate": "2025-10-31T05:31:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yemybfrabnm-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -3036,7 +3036,7 @@
       "publishedDate": "2025-10-31T19:08:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel"
     },
     {
