@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "68f2c178577e4673cfeb1401"
+guid: "6903dda2c77fe33b4d6aab4a"
 author: "Sales &amp; Marketing"
-pubDate: "2025-10-17T22:27:44.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-64"
+pubDate: "2025-10-31T01:45:28.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-64"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
 index: 7
 ---
 
@@ -17,9 +17,19 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **71 New Funnel Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
+
+Medical - 1
+
+\------------------------------------------------------
+
+🚀 **2 New Funnel Templates Published** 🚀
+
+\------------------------------------------------------
+
+Health & Wellness - 1
 
 Business, Coaching & Consulting - 1
 
@@ -29,7 +39,7 @@ Business, Coaching & Consulting - 1
 
 \------------------------------------------------------
 
-Business, Coaching & Consulting - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -37,25 +47,39 @@ Business, Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Health & Wellness - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
-🚀 **2 New Survey Templates Published** 🚀
+🚀 **1 New Survey Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Beauty & Fashion - 1
-
-Automotive - 1
+Business, Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-🚀 **1 New Facebook Ad Templates Published** 🚀
+🚀 **8 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Medical - 1
+Financial - 2
+
+Health & Wellness - 2
+
+Holidays - 2
+
+Home Services - 2
+
+\-----------------------------------------------------
+
+🚀 **2 New Ad Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Real Estate - 1
+
+Holidays - 1
 
 \------------------------------------------------------
 
@@ -63,18 +87,32 @@ Medical - 1
 
 \------------------------------------------------------
 
-Marketing Agency - CRM Software
+Other - Pet Groomer
 
-![Car Rentals Market Analysis - Survey](https://canny-assets.io/images/3b8eb1216d7e760b161f7eadb804688d.png)
+![Bathroom Remodeling - Social](https://canny-assets.io/images/d319062224233a19ffb83de836d558b6.png)
 
-![CRM Software - New Snapshot](https://canny-assets.io/images/12d093ed239f1fddf773a62240269c62.png)
+![Business Development - Funnel](https://canny-assets.io/images/87f8a7aea9dac5231bb8772fe98ef46a.png)
 
-![Education Tutoring - Email](https://canny-assets.io/images/d6f5576e07f803ec150e3fcb1ee0c9be.png)
+![Bathroom Remodeling Request - Form](https://canny-assets.io/images/22ab318af4fc0f1c632e84ef422d58a9.png)
 
-![Makeup Artist Customer Satisfaction - Survey](https://canny-assets.io/images/0ed0879b97b09cf0331b8e46a311c24c.png)
+![Black Friday SaaS Blowout - Facebook Ad](https://canny-assets.io/images/8791861751ca542152e7683f452478cb.png)
 
-![Nutrition and Wellness Registration - Form](https://canny-assets.io/images/2b79d579d134e1ef6812ea621b6f0951.png)
+![Bookkeeper Services - Social](https://canny-assets.io/images/cefb26b55734c4f72d8d449b663a998d.png)
 
-![Business Advisor - Website](https://canny-assets.io/images/7d4785ca712ad239c1ab1b235772bda3.png)
+![Business Development - Funnel](https://canny-assets.io/images/b84220ed8e034b945cac3f4d752a89ef.png)
 
-![Pain Management Clinic - Facebook Ad](https://canny-assets.io/images/d07308217ec9086fd48c026ec1f876c3.png)
+![Lifestyle Coach Market Analysis - Survey](https://canny-assets.io/images/025edae9a651889e4af206574ef53ea2.png)
+
+![Pet Groomer - Snapshot](https://canny-assets.io/images/9d562824f54ada524fb601d33ab7b706.png)
+
+![Real Estate Broker - Facebook Ad](https://canny-assets.io/images/3630fed0cf845a1e34e34ab2ffe2a38f.png)
+
+![Thanksgiving - Social](https://canny-assets.io/images/6bc89fcc3244645e4f9d8d1ef3676c23.png)
+
+![Trusted Wellness Solutions - Website](https://canny-assets.io/images/97ea48e7980d137dfd3ed964118b4cb3.png)
+
+![Video Production & Editing - Email](https://canny-assets.io/images/db302571751d83817537eabfdc234aaf.png)
+
+![Weight Management - Social](https://canny-assets.io/images/746779922c70609c0a145852271833ce.png)
+
+![Weight Management Program - Funnel](https://canny-assets.io/images/e283a0c7a5adee6e79ae2873c909af6f.png)
