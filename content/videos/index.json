@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-03T07:44:28.076Z",
+  "generated": "2025-11-04T07:44:59.006Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 21,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 21
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -196,6 +196,18 @@
       "slug": "36rzrocmmr4-whatsapp-link-cta-click-workflow-action-live"
     },
     {
+      "filename": "3awiuoz4tx0-new-highlevel-templates-websites-funnels-amp-emails-are-live.md",
+      "title": "New HighLevel Templates (Websites, Funnels &amp; Emails) Are Live!",
+      "videoId": "3AwIuOz4tX0",
+      "url": "https://www.youtube.com/watch?v=3AwIuOz4tX0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T22:21:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "3awiuoz4tx0-new-highlevel-templates-websites-funnels-amp-emails-are-live"
+    },
+    {
       "filename": "3awiuoz4tx0-new-templates-live.md",
       "title": "New Templates Live!",
       "videoId": "3AwIuOz4tX0",
@@ -230,6 +242,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "3hef1fbqrs0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
+    },
+    {
+      "filename": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel.md",
+      "title": "How To Customize the Add Contact Modal in HighLevel",
+      "videoId": "3LphthBR4J0",
+      "url": "https://www.youtube.com/watch?v=3LphthBR4J0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T21:50:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel"
     },
     {
       "filename": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025.md",
@@ -268,6 +292,18 @@
       "slug": "4bqgnvtg-g8-public-apis-for-ai-agent-studio"
     },
     {
+      "filename": "4e3xeqn9l30-how-to-use-smart-list-2-0-and-list-view-in-highlevel.md",
+      "title": "How to Use Smart List 2.0 and List View in HighLevel",
+      "videoId": "4E3XEQN9L30",
+      "url": "https://www.youtube.com/watch?v=4E3XEQN9L30",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T21:46:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4e3xeqn9l30-how-to-use-smart-list-2-0-and-list-view-in-highlevel"
+    },
+    {
       "filename": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live.md",
       "title": "HighLevel Ad Manager: Audience Segments for Google Ads is now Live!",
       "videoId": "4fVvMFT2Pu4",
@@ -276,7 +312,7 @@
       "publishedDate": "2025-10-30T15:18:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live"
     },
     {
@@ -314,6 +350,18 @@
       "contentCategory": "standard",
       "ageInMonths": "4.3",
       "slug": "4t173yfpe7q-lc-phone-system-persona-identity-verification-in-a2p-registration"
+    },
+    {
+      "filename": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel.md",
+      "title": "How To Host Livestreaming Webinars and Community Events in HighLevel",
+      "videoId": "4UYuVgIcDkY",
+      "url": "https://www.youtube.com/watch?v=4UYuVgIcDkY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T21:50:09.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel"
     },
     {
       "filename": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline.md",
@@ -664,6 +712,18 @@
       "slug": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop"
     },
     {
+      "filename": "axati7tlrdy-template-library-introducing-new-templates-no-66.md",
+      "title": "Template Library_  Introducing New Templates (no. 66)",
+      "videoId": "aXATI7TlrdY",
+      "url": "https://www.youtube.com/watch?v=aXATI7TlrdY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T16:00:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "axati7tlrdy-template-library-introducing-new-templates-no-66"
+    },
+    {
       "filename": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge.md",
       "title": "Day 5 - Five Day AI Employee Challenge",
       "videoId": "axWH0k_QQ1U",
@@ -722,6 +782,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.9",
       "slug": "bkt-q8wlu-s-blog-statistics-track-blog-amp-post-performance-live"
+    },
+    {
+      "filename": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel.md",
+      "title": "How to Use Company-Based Workflows in HighLevel",
+      "videoId": "bmtBfdzAhyA",
+      "url": "https://www.youtube.com/watch?v=bmtBfdzAhyA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T21:48:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel"
     },
     {
       "filename": "bn8plhg5o7a-lead-nurturing.md",
@@ -945,10 +1017,10 @@
       "videoId": "dW_mxo8_bho",
       "url": "https://www.youtube.com/watch?v=dW_mxo8_bho",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-28T13:26:45.000Z",
+      "publishedDate": "2025-11-03T18:11:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1142,6 +1214,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "fn2m1qffdys-set-up-calendars"
+    },
+    {
+      "filename": "fnt94hq-uyy-highlevel-website-amp-funnel-update-faster-order-forms-for-a-smoother-checkout-experienc.md",
+      "title": "HighLevel Website &amp; Funnel Update: Faster Order Forms for a Smoother Checkout Experience!",
+      "videoId": "FnT94Hq_uYY",
+      "url": "https://www.youtube.com/watch?v=FnT94Hq_uYY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T20:13:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "fnt94hq-uyy-highlevel-website-amp-funnel-update-faster-order-forms-for-a-smoother-checkout-experienc"
     },
     {
       "filename": "fnt94hq-uyy-order-form-speed-improvements.md",
@@ -2080,6 +2164,18 @@
       "slug": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live"
     },
     {
+      "filename": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live.md",
+      "title": "HighLevel WhatsApp Update: Countdown Timers Are Now Live!",
+      "videoId": "Po2i0GTX_LU",
+      "url": "https://www.youtube.com/watch?v=Po2i0GTX_LU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-31T22:22:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
+    },
+    {
       "filename": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling.md",
       "title": "How to Resend Unopened Emails Using RSS and Batch Scheduling",
       "videoId": "pTiyZwBlZpg",
@@ -2114,6 +2210,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.9",
       "slug": "qp9xbeseu40-the-highlevel-release-radar-august-18th-august-22nd-2025"
+    },
+    {
+      "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
+      "title": "SaaSPRENEUR Workshop with Frank Kern - Day 1",
+      "videoId": "r-dWumZHG6c",
+      "url": "https://www.youtube.com/watch?v=r-dWumZHG6c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T22:47:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1"
     },
     {
       "filename": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge.md",
@@ -2460,7 +2568,7 @@
       "publishedDate": "2025-10-30T15:17:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly"
     },
     {
@@ -2632,6 +2740,18 @@
       "slug": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner"
     },
     {
+      "filename": "vxkqyrqofvq-highlevel-website-chat-widget-update-notification-sound-option-now-live.md",
+      "title": "HighLevel Website Chat Widget Update: Notification Sound Option Now Live!",
+      "videoId": "vXKqYRQoFvQ",
+      "url": "https://www.youtube.com/watch?v=vXKqYRQoFvQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T20:14:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "vxkqyrqofvq-highlevel-website-chat-widget-update-notification-sound-option-now-live"
+    },
+    {
       "filename": "vxkqyrqofvq-notification-sound-option-in-chat-widget.md",
       "title": "Notification Sound Option in Chat Widget",
       "videoId": "vXKqYRQoFvQ",
@@ -2666,6 +2786,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "wbe0ltlieko-how-to-manage-files-effectively-in-your-mobile-media-library"
+    },
+    {
+      "filename": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel.md",
+      "title": "How to Automate Workflows with Custom Objects in HighLevel",
+      "videoId": "WegLUpjMB5c",
+      "url": "https://www.youtube.com/watch?v=WegLUpjMB5c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-03T21:47:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel"
     },
     {
       "filename": "wezzomxowms-levelup-day-restream.md",
@@ -3137,7 +3269,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 215,
+    "fresh": 226,
     "warning": 10,
     "expired": 0,
     "unknown": 33,
@@ -3149,13 +3281,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 208,
+        "fresh": 218,
         "warning": 9,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 4,
+        "fresh": 5,
         "warning": 1,
         "expired": 0
       }

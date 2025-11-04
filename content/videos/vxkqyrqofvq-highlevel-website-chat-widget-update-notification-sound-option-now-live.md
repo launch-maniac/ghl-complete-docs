@@ -1,10 +1,10 @@
 ---
-title: "HighLevel Funnel AI: Create Revisions from Images Instantly!"
-video_id: "U8l5nFI_XJ0"
-url: "https://www.youtube.com/watch?v=U8l5nFI_XJ0"
-thumbnail: "https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg"
+title: "HighLevel Website Chat Widget Update: Notification Sound Option Now Live!"
+video_id: "vXKqYRQoFvQ"
+url: "https://www.youtube.com/watch?v=vXKqYRQoFvQ"
+thumbnail: "https://i.ytimg.com/vi/vXKqYRQoFvQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T15:17:59.000Z"
+published_date: "2025-10-28T20:14:31.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-04T07:44:53.777Z"
+extracted_at: "2025-11-04T07:44:53.975Z"
 
 ---
 
-# 🟢 HighLevel Funnel AI: Create Revisions from Images Instantly!
+# 🟢 HighLevel Website Chat Widget Update: Notification Sound Option Now Live!
 
-**Video ID:** `U8l5nFI_XJ0`
+**Video ID:** `vXKqYRQoFvQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 10/28/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-04T07:44:53.777Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=U8l5nFI_XJ0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vXKqYRQoFvQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vXKqYRQoFvQ/hqdefault.jpg)
 
 
 ## Content Guidelines

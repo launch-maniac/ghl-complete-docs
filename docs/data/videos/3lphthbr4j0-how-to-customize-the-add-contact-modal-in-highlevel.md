@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Funnel AI: Create Revisions from Images Instantly!"
-video_id: "U8l5nFI_XJ0"
-url: "https://www.youtube.com/watch?v=U8l5nFI_XJ0"
-thumbnail: "https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg"
+title: "How To Customize the Add Contact Modal in HighLevel"
+video_id: "3LphthBR4J0"
+url: "https://www.youtube.com/watch?v=3LphthBR4J0"
+thumbnail: "https://i.ytimg.com/vi/3LphthBR4J0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T15:17:59.000Z"
+published_date: "2025-11-03T21:50:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-04T07:44:53.777Z"
+extracted_at: "2025-11-04T07:44:50.291Z"
 
 ---
 
-# 🟢 HighLevel Funnel AI: Create Revisions from Images Instantly!
+# 🟢 How To Customize the Add Contact Modal in HighLevel
 
-**Video ID:** `U8l5nFI_XJ0`
+**Video ID:** `3LphthBR4J0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 11/3/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-04T07:44:53.777Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=U8l5nFI_XJ0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/U8l5nFI_XJ0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3LphthBR4J0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/3LphthBR4J0/hqdefault.jpg)
 
 
 ## Content Guidelines
