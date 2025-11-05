@@ -1,10 +1,10 @@
 ---
-title: "How to Automate Workflows with Custom Objects in HighLevel"
-video_id: "WegLUpjMB5c"
-url: "https://www.youtube.com/watch?v=WegLUpjMB5c"
-thumbnail: "https://i.ytimg.com/vi/WegLUpjMB5c/hqdefault.jpg"
+title: "SaaSPRENEUR Workshop with Frank Kern - Day 2"
+video_id: "iYZk54IAZrY"
+url: "https://www.youtube.com/watch?v=iYZk54IAZrY"
+thumbnail: "https://i.ytimg.com/vi/iYZk54IAZrY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T21:47:23.000Z"
+published_date: "2025-11-04T21:59:33.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-05T07:44:30.962Z"
+extracted_at: "2025-11-05T07:44:29.725Z"
 
 ---
 
-# 🟢 How to Automate Workflows with Custom Objects in HighLevel
+# 🟢 SaaSPRENEUR Workshop with Frank Kern - Day 2
 
-**Video ID:** `WegLUpjMB5c`
+**Video ID:** `iYZk54IAZrY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 11/4/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-05T07:44:30.962Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WegLUpjMB5c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/WegLUpjMB5c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iYZk54IAZrY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iYZk54IAZrY/hqdefault.jpg)
 
 
 ## Content Guidelines

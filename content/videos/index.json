@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-04T07:44:59.006Z",
+  "generated": "2025-11-05T07:44:38.582Z",
   "stats": {
     "channels": 1,
-    "videos": 21,
+    "videos": 28,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 21
+    "transcriptsFailed": 28
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -314,6 +314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live"
+    },
+    {
+      "filename": "4i-qot-whj0-day-5-five-day-ai-employee-challenge.md",
+      "title": "Day 5 - Five Day AI Employee Challenge",
+      "videoId": "4i_QOt-whj0",
+      "url": "https://www.youtube.com/watch?v=4i_QOt-whj0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T22:25:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
       "filename": "4i4ipi-ocyw-support-for-multiple-products-in-payment-links.md",
@@ -672,7 +684,7 @@
       "publishedDate": "2025-10-30T22:56:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live"
     },
     {
@@ -720,7 +732,7 @@
       "publishedDate": "2025-11-03T16:00:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "axati7tlrdy-template-library-introducing-new-templates-no-66"
     },
     {
@@ -758,6 +770,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "b0hfribiueg-funnel-amp-website-enhancements-live"
+    },
+    {
+      "filename": "b6fvp0iythm-day-2-five-day-ai-employee-challenge.md",
+      "title": "Day 2 - Five Day AI Employee Challenge",
+      "videoId": "b6fvp0iYTHM",
+      "url": "https://www.youtube.com/watch?v=b6fvp0iYTHM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T22:19:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "b6fvp0iythm-day-2-five-day-ai-employee-challenge"
     },
     {
       "filename": "b6qzcltuph8-template-library-introducing-new-templates-no-65.md",
@@ -1020,7 +1044,7 @@
       "publishedDate": "2025-11-03T18:11:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1048,27 +1072,15 @@
       "slug": "dzwreqw9mdk-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
-      "filename": "e-hsor1v4fu-voice-ai-enhanced-email-notification-customization.md",
-      "title": "Voice AI  Enhanced Email Notification Customization",
-      "videoId": "E-HsOR1v4fU",
-      "url": "https://www.youtube.com/watch?v=E-HsOR1v4fU",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-05T18:00:24.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.5",
-      "slug": "e-hsor1v4fu-voice-ai-enhanced-email-notification-customization"
-    },
-    {
       "filename": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern.md",
       "title": "Day 2 - SaaSPRENEUR Workshop with Frank Kern",
       "videoId": "E0T6QbIEfN0",
       "url": "https://www.youtube.com/watch?v=E0T6QbIEfN0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-28T13:27:51.000Z",
+      "publishedDate": "2025-11-04T18:17:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1092,7 +1104,7 @@
       "publishedDate": "2025-10-28T13:28:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1552,6 +1564,18 @@
       "slug": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
     },
     {
+      "filename": "iyzk54iazry-saaspreneur-workshop-with-frank-kern-day-2.md",
+      "title": "SaaSPRENEUR Workshop with Frank Kern - Day 2",
+      "videoId": "iYZk54IAZrY",
+      "url": "https://www.youtube.com/watch?v=iYZk54IAZrY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T21:59:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "iyzk54iazry-saaspreneur-workshop-with-frank-kern-day-2"
+    },
+    {
       "filename": "j-95efk3dly-whatsapp-media-action.md",
       "title": "WhatsApp Media Action",
       "videoId": "J_95eFk3dlY",
@@ -1828,6 +1852,18 @@
       "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
     },
     {
+      "filename": "lnvtbxni8va-day-1-five-day-ai-employee-challenge.md",
+      "title": "Day 1 - Five Day AI Employee Challenge",
+      "videoId": "lNvtbXNi8VA",
+      "url": "https://www.youtube.com/watch?v=lNvtbXNi8VA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T22:18:39.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
+    },
+    {
       "filename": "loxe-oz69si-day-3-five-day-ai-employee-challenge.md",
       "title": "Day 3 - Five Day AI Employee Challenge",
       "videoId": "LOxe-oZ69SI",
@@ -1972,6 +2008,18 @@
       "slug": "nlilkq2qh4k-client-acquisition"
     },
     {
+      "filename": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement.md",
+      "title": "Use WhatsApp in HighLevel to Boost Engagement",
+      "videoId": "NLtjUOb3DLk",
+      "url": "https://www.youtube.com/watch?v=NLtjUOb3DLk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T18:59:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement"
+    },
+    {
       "filename": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close.md",
       "title": "Day 1 - HighLevel Funnels That Capture, Nurture and Close",
       "videoId": "-nZlPZZcCMA",
@@ -2076,7 +2124,7 @@
       "publishedDate": "2025-10-24T05:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.4",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -2376,7 +2424,7 @@
       "publishedDate": "2025-10-30T22:55:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone"
     },
     {
@@ -2606,6 +2654,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel"
+    },
+    {
+      "filename": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge.md",
+      "title": "Day 4 - Five Day AI Employee Challenge",
+      "videoId": "umnn_8-xRgw",
+      "url": "https://www.youtube.com/watch?v=umnn_8-xRgw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T22:24:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
       "filename": "up93a7gt0hi-sms-messaging-ramp-a-step-by-step-guide.md",
@@ -2952,7 +3012,7 @@
       "publishedDate": "2025-10-30T22:56:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing"
     },
     {
@@ -3014,6 +3074,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.6",
       "slug": "xlyn7boxilc-wordpress-native-html-embed-for-funnels"
+    },
+    {
+      "filename": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge.md",
+      "title": "Day 3 - Five Day AI Employee Challenge",
+      "videoId": "XNuwjjQ5bN0",
+      "url": "https://www.youtube.com/watch?v=XNuwjjQ5bN0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-04T22:24:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {
       "filename": "xnzzvcialro-run-automated-actions-using-workflows.md",
@@ -3269,8 +3341,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 226,
-    "warning": 10,
+    "fresh": 233,
+    "warning": 9,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3281,8 +3353,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 218,
-        "warning": 9,
+        "fresh": 225,
+        "warning": 8,
         "expired": 0,
         "unknown": null
       },

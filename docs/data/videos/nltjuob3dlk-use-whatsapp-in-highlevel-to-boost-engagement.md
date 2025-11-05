@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - SaaSPRENEUR Workshop with Frank Kern"
-video_id: "eDNTJMtEuAY"
-url: "https://www.youtube.com/watch?v=eDNTJMtEuAY"
-thumbnail: "https://i.ytimg.com/vi/eDNTJMtEuAY/hqdefault_live.jpg"
+title: "Use WhatsApp in HighLevel to Boost Engagement"
+video_id: "NLtjUOb3DLk"
+url: "https://www.youtube.com/watch?v=NLtjUOb3DLk"
+thumbnail: "https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-28T13:28:43.000Z"
+published_date: "2025-11-04T18:59:44.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-05T07:44:33.788Z"
+extracted_at: "2025-11-05T07:44:29.934Z"
 
 ---
 
-# 🟢 Day 3 - SaaSPRENEUR Workshop with Frank Kern
+# 🟢 Use WhatsApp in HighLevel to Boost Engagement
 
-**Video ID:** `eDNTJMtEuAY`
+**Video ID:** `NLtjUOb3DLk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/28/2025
+**Published:** 11/4/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-05T07:44:33.788Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eDNTJMtEuAY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/eDNTJMtEuAY/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NLtjUOb3DLk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault_live.jpg)
 
 
 ## Content Guidelines
