@@ -3,7 +3,7 @@ title: "Start Building Now"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc"
-extracted_at: "2025-11-06T09:20:13.817Z"
+extracted_at: "2025-11-06T12:26:19.530Z"
 ---
 
 -   [](/docs/)
@@ -55,10 +55,6 @@ You should use OAuth 2.0 Flow if:
 -   Services requiring secure user authorization
 
 * * *
-
-## Share your feedback
-
-★★★★★
 
 [
 
