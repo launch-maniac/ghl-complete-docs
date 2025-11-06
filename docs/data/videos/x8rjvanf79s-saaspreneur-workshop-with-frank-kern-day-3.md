@@ -1,14 +1,14 @@
 ---
-title: "SaaSPRENEUR Workshop with Frank Kern - Day 1"
-video_id: "r-dWumZHG6c"
-url: "https://www.youtube.com/watch?v=r-dWumZHG6c"
-thumbnail: "https://i.ytimg.com/vi/r-dWumZHG6c/hqdefault.jpg"
+title: "SaaSPRENEUR Workshop with Frank Kern - Day 3"
+video_id: "x8rjvANf79s"
+url: "https://www.youtube.com/watch?v=x8rjvANf79s"
+thumbnail: "https://i.ytimg.com/vi/x8rjvANf79s/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T22:47:54.000Z"
+published_date: "2025-11-05T20:56:24.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:00.218Z"
+extracted_at: "2025-11-06T07:43:58.187Z"
 
 ---
 
-# 🟢 SaaSPRENEUR Workshop with Frank Kern - Day 1
+# 🟢 SaaSPRENEUR Workshop with Frank Kern - Day 3
 
-**Video ID:** `r-dWumZHG6c`
+**Video ID:** `x8rjvANf79s`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 11/5/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:00.218Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=r-dWumZHG6c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/r-dWumZHG6c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x8rjvANf79s)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x8rjvANf79s/hqdefault.jpg)
 
 
 ## Content Guidelines

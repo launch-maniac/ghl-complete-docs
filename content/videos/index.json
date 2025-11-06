@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-05T07:44:38.582Z",
+  "generated": "2025-11-06T07:44:11.854Z",
   "stats": {
     "channels": 1,
-    "videos": 28,
+    "videos": 31,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 28
+    "transcriptsFailed": 31
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -204,7 +204,7 @@
       "publishedDate": "2025-10-31T22:21:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "3awiuoz4tx0-new-highlevel-templates-websites-funnels-amp-emails-are-live"
     },
     {
@@ -252,7 +252,7 @@
       "publishedDate": "2025-11-03T21:50:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel"
     },
     {
@@ -300,7 +300,7 @@
       "publishedDate": "2025-11-03T21:46:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4e3xeqn9l30-how-to-use-smart-list-2-0-and-list-view-in-highlevel"
     },
     {
@@ -372,7 +372,7 @@
       "publishedDate": "2025-11-03T21:50:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel"
     },
     {
@@ -772,6 +772,18 @@
       "slug": "b0hfribiueg-funnel-amp-website-enhancements-live"
     },
     {
+      "filename": "b0hfribiueg-highlevel-funnel-amp-website-enhancements-are-live.md",
+      "title": "HighLevel Funnel &amp; Website Enhancements Are Live!",
+      "videoId": "B0HfrIbiUEg",
+      "url": "https://www.youtube.com/watch?v=B0HfrIbiUEg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T15:31:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "b0hfribiueg-highlevel-funnel-amp-website-enhancements-are-live"
+    },
+    {
       "filename": "b6fvp0iythm-day-2-five-day-ai-employee-challenge.md",
       "title": "Day 2 - Five Day AI Employee Challenge",
       "videoId": "b6fvp0iYTHM",
@@ -816,7 +828,7 @@
       "publishedDate": "2025-11-03T21:48:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel"
     },
     {
@@ -830,6 +842,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.6",
       "slug": "bn8plhg5o7a-lead-nurturing"
+    },
+    {
+      "filename": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights.md",
+      "title": "How To Utilize HighLevel&#39;s Course Dashboard for Detailed Student Insights",
+      "videoId": "bNbn2sWGdNQ",
+      "url": "https://www.youtube.com/watch?v=bNbn2sWGdNQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-05T16:22:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights"
     },
     {
       "filename": "bxyulaxp2f0-how-to-resell-the-prospecting-tool-to-all-your-sub-account-clients.md",
@@ -1080,7 +1104,7 @@
       "publishedDate": "2025-11-04T18:17:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "e0t6qbiefn0-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1101,10 +1125,10 @@
       "videoId": "eDNTJMtEuAY",
       "url": "https://www.youtube.com/watch?v=eDNTJMtEuAY",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-28T13:28:43.000Z",
+      "publishedDate": "2025-11-06T06:25:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1236,7 +1260,7 @@
       "publishedDate": "2025-10-28T20:13:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "fnt94hq-uyy-highlevel-website-amp-funnel-update-faster-order-forms-for-a-smoother-checkout-experienc"
     },
     {
@@ -2016,7 +2040,7 @@
       "publishedDate": "2025-11-04T18:59:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -2220,7 +2244,7 @@
       "publishedDate": "2025-10-31T22:22:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
     },
     {
@@ -2268,7 +2292,7 @@
       "publishedDate": "2025-11-03T22:47:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1"
     },
     {
@@ -2808,7 +2832,7 @@
       "publishedDate": "2025-10-28T20:14:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "vxkqyrqofvq-highlevel-website-chat-widget-update-notification-sound-option-now-live"
     },
     {
@@ -2856,7 +2880,7 @@
       "publishedDate": "2025-11-03T21:47:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel"
     },
     {
@@ -2918,6 +2942,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "wjbo61htgwq-qr-code-element-live-in-the-builder"
+    },
+    {
+      "filename": "wjwsxsfc-e-new-templates-inside-highlevel-are-live.md",
+      "title": "New Templates inside HighLevel Are Live!",
+      "videoId": "wjwSXsFc--E",
+      "url": "https://www.youtube.com/watch?v=wjwSXsFc--E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-28T15:30:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "wjwsxsfc-e-new-templates-inside-highlevel-are-live"
     },
     {
       "filename": "wjwsxsfc-e-new-templates-live.md",
@@ -3050,6 +3086,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025"
+    },
+    {
+      "filename": "x8rjvanf79s-saaspreneur-workshop-with-frank-kern-day-3.md",
+      "title": "SaaSPRENEUR Workshop with Frank Kern - Day 3",
+      "videoId": "x8rjvANf79s",
+      "url": "https://www.youtube.com/watch?v=x8rjvANf79s",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-05T20:56:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x8rjvanf79s-saaspreneur-workshop-with-frank-kern-day-3"
     },
     {
       "filename": "xkvpovdribs-how-to-set-up-a-call-script.md",
@@ -3341,7 +3389,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 233,
+    "fresh": 237,
     "warning": 9,
     "expired": 0,
     "unknown": 33,
@@ -3353,7 +3401,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 225,
+        "fresh": 229,
         "warning": 8,
         "expired": 0,
         "unknown": null
