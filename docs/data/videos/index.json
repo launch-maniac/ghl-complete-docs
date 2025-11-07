@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-06T07:44:11.854Z",
+  "generated": "2025-11-07T07:44:18.402Z",
   "stats": {
     "channels": 1,
-    "videos": 31,
+    "videos": 20,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 31
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -324,7 +324,7 @@
       "publishedDate": "2025-11-04T22:25:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -792,7 +792,7 @@
       "publishedDate": "2025-11-04T22:19:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b6fvp0iythm-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -852,7 +852,7 @@
       "publishedDate": "2025-11-05T16:22:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights"
     },
     {
@@ -950,18 +950,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
-    },
-    {
-      "filename": "cn2-p3kpqfq-voice-ai-custom-actions.md",
-      "title": "Voice AI  Custom Actions",
-      "videoId": "cN2-p3kpQfQ",
-      "url": "https://www.youtube.com/watch?v=cN2-p3kpQfQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-08T15:01:02.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.4",
-      "slug": "cn2-p3kpqfq-voice-ai-custom-actions"
     },
     {
       "filename": "cnfkp-hw4im-conduct-sales-calls.md",
@@ -1596,7 +1584,7 @@
       "publishedDate": "2025-11-04T21:59:33.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "iyzk54iazry-saaspreneur-workshop-with-frank-kern-day-2"
     },
     {
@@ -1884,7 +1872,7 @@
       "publishedDate": "2025-11-04T22:18:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -2044,6 +2032,30 @@
       "slug": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
+      "filename": "noxxvb97zg4-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel.md",
+      "title": "Pete Mitchell – How I Built a Self-Running Agency with HighLevel",
+      "videoId": "NoXXvB97zG4",
+      "url": "https://www.youtube.com/watch?v=NoXXvB97zG4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-06T18:03:39.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "noxxvb97zg4-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
+    },
+    {
+      "filename": "nycf0e-0k94-the-ad-manager-in-highlevel-is-now-free-to-agencies.md",
+      "title": "The Ad Manager in HighLevel is Now Free to Agencies",
+      "videoId": "nYcf0E-0K94",
+      "url": "https://www.youtube.com/watch?v=nYcf0E-0K94",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-06T22:40:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nycf0e-0k94-the-ad-manager-in-highlevel-is-now-free-to-agencies"
+    },
+    {
       "filename": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close.md",
       "title": "Day 1 - HighLevel Funnels That Capture, Nurture and Close",
       "videoId": "-nZlPZZcCMA",
@@ -2148,7 +2160,7 @@
       "publishedDate": "2025-10-24T05:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.5",
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -2464,6 +2476,18 @@
       "slug": "smn6h-euyww-whatsapp-coexistence-live-to-everyone-globally"
     },
     {
+      "filename": "smsds4rvjia-how-to-boost-your-gokollab-community-engagement-through-affiliate-programs.md",
+      "title": "How To Boost Your GoKollab Community Engagement Through Affiliate Programs",
+      "videoId": "SMSDS4rVjIA",
+      "url": "https://www.youtube.com/watch?v=SMSDS4rVjIA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-06T22:41:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "smsds4rvjia-how-to-boost-your-gokollab-community-engagement-through-affiliate-programs"
+    },
+    {
       "filename": "sp77csl2xv4-clickup-integration-live.md",
       "title": "ClickUp Integration Live!",
       "videoId": "sP77CsL2Xv4",
@@ -2688,7 +2712,7 @@
       "publishedDate": "2025-11-04T22:24:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -3132,7 +3156,7 @@
       "publishedDate": "2025-11-04T22:24:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -3230,6 +3254,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "yemybfrabnm-day-4-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger.md",
+      "title": "How To Automate Tasks with HighLevel&#39;s Scheduler Trigger",
+      "videoId": "yLXH1OyrhF8",
+      "url": "https://www.youtube.com/watch?v=yLXH1OyrhF8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-06T22:42:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
     },
     {
       "filename": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
@@ -3389,8 +3425,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 237,
-    "warning": 9,
+    "fresh": 241,
+    "warning": 8,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3401,8 +3437,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 229,
-        "warning": 8,
+        "fresh": 233,
+        "warning": 7,
         "expired": 0,
         "unknown": null
       },

@@ -1,14 +1,14 @@
 ---
-title: "Day 4 - Five Day AI Employee Challenge"
-video_id: "umnn_8-xRgw"
-url: "https://www.youtube.com/watch?v=umnn_8-xRgw"
-thumbnail: "https://i.ytimg.com/vi/umnn_8-xRgw/hqdefault_live.jpg"
+title: "Pete Mitchell – How I Built a Self-Running Agency with HighLevel"
+video_id: "NoXXvB97zG4"
+url: "https://www.youtube.com/watch?v=NoXXvB97zG4"
+thumbnail: "https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-04T22:24:49.000Z"
+published_date: "2025-11-06T18:03:39.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-07T07:44:11.643Z"
+extracted_at: "2025-11-07T07:44:10.396Z"
 
 ---
 
-# 🟢 Day 4 - Five Day AI Employee Challenge
+# 🟢 Pete Mitchell – How I Built a Self-Running Agency with HighLevel
 
-**Video ID:** `umnn_8-xRgw`
+**Video ID:** `NoXXvB97zG4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/4/2025
+**Published:** 11/6/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-07T07:44:11.643Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=umnn_8-xRgw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/umnn_8-xRgw/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NoXXvB97zG4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault_live.jpg)
 
 
 ## Content Guidelines

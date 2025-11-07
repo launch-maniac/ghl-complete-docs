@@ -1,14 +1,14 @@
 ---
-title: "SaaSPRENEUR Workshop with Frank Kern - Day 2"
-video_id: "iYZk54IAZrY"
-url: "https://www.youtube.com/watch?v=iYZk54IAZrY"
-thumbnail: "https://i.ytimg.com/vi/iYZk54IAZrY/hqdefault.jpg"
+title: "How To Boost Your GoKollab Community Engagement Through Affiliate Programs"
+video_id: "SMSDS4rVjIA"
+url: "https://www.youtube.com/watch?v=SMSDS4rVjIA"
+thumbnail: "https://i.ytimg.com/vi/SMSDS4rVjIA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-04T21:59:33.000Z"
+published_date: "2025-11-06T22:41:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-07T07:44:12.363Z"
+extracted_at: "2025-11-07T07:44:10.236Z"
 
 ---
 
-# 🟢 SaaSPRENEUR Workshop with Frank Kern - Day 2
+# 🟢 How To Boost Your GoKollab Community Engagement Through Affiliate Programs
 
-**Video ID:** `iYZk54IAZrY`
+**Video ID:** `SMSDS4rVjIA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/4/2025
+**Published:** 11/6/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-07T07:44:12.363Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iYZk54IAZrY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/iYZk54IAZrY/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=SMSDS4rVjIA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/SMSDS4rVjIA/hqdefault.jpg)
 
 
 ## Content Guidelines
