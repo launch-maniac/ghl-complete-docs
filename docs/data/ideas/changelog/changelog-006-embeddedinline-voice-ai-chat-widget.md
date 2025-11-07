@@ -70,3 +70,7 @@ This enhancement gives businesses greater flexibility to **embed the Voice AI Wi
 1.  Mobile responsive by default.
 2.  Multiple inline placements supported with the same Voice AI agent configuration.
 3.  A combination of embedded and sticky(chat bubble) can also be used in a website/funnel, users can use it however they want.
+
+# Help Article:
+
+[How to create an Embedded Voice AI Chat Widget](https://help.gohighlevel.com/support/solutions/articles/155000006924-how-to-create-an-embedded-voice-ai-chat-widget)
