@@ -2,13 +2,13 @@
 title: "Use WhatsApp in HighLevel to Boost Engagement"
 video_id: "NLtjUOb3DLk"
 url: "https://www.youtube.com/watch?v=NLtjUOb3DLk"
-thumbnail: "https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-04T18:59:44.000Z"
+published_date: "2025-11-08T06:11:47.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-07T07:44:12.508Z"
+extracted_at: "2025-11-08T07:41:35.172Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-11-07T07:44:12.508Z"
 **Video ID:** `NLtjUOb3DLk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/4/2025
+**Published:** 11/8/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-11-07T07:44:12.508Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NLtjUOb3DLk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/NLtjUOb3DLk/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/7/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/8/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-07T07:44:18.402Z",
+  "generated": "2025-11-08T07:41:43.147Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 18,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -780,7 +780,7 @@
       "publishedDate": "2025-10-28T15:31:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "b0hfribiueg-highlevel-funnel-amp-website-enhancements-are-live"
     },
     {
@@ -1116,7 +1116,7 @@
       "publishedDate": "2025-11-06T06:25:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -2025,10 +2025,10 @@
       "videoId": "NLtjUOb3DLk",
       "url": "https://www.youtube.com/watch?v=NLtjUOb3DLk",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T18:59:44.000Z",
+      "publishedDate": "2025-11-08T06:11:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -2040,7 +2040,7 @@
       "publishedDate": "2025-11-06T18:03:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "noxxvb97zg4-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -2956,6 +2956,18 @@
       "slug": "wguhdivm8jm-blog-statistics-track-blog-amp-post-performance"
     },
     {
+      "filename": "wi6mpapkgvk-the-highlevel-release-radar-november-3rd-november-7th-2025.md",
+      "title": "The HighLevel Release Radar (November 3rd - November 7th 2025)",
+      "videoId": "wI6mpAPKgVk",
+      "url": "https://www.youtube.com/watch?v=wI6mpAPKgVk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-07T19:19:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wi6mpapkgvk-the-highlevel-release-radar-november-3rd-november-7th-2025"
+    },
+    {
       "filename": "wjbo61htgwq-qr-code-element-live-in-the-builder.md",
       "title": "QR Code Element Live in the Builder!",
       "videoId": "WJBo61htGwQ",
@@ -2976,7 +2988,7 @@
       "publishedDate": "2025-10-28T15:30:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "wjwsxsfc-e-new-templates-inside-highlevel-are-live"
     },
     {
@@ -3120,7 +3132,7 @@
       "publishedDate": "2025-11-05T20:56:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "x8rjvanf79s-saaspreneur-workshop-with-frank-kern-day-3"
     },
     {
@@ -3425,7 +3437,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 241,
+    "fresh": 242,
     "warning": 8,
     "expired": 0,
     "unknown": 33,
@@ -3437,7 +3449,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 233,
+        "fresh": 234,
         "warning": 7,
         "expired": 0,
         "unknown": null
