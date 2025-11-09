@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-08T07:41:43.147Z",
+  "generated": "2025-11-09T07:41:40.122Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 13,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1056,7 +1056,7 @@
       "publishedDate": "2025-11-03T18:11:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -2037,10 +2037,10 @@
       "videoId": "NoXXvB97zG4",
       "url": "https://www.youtube.com/watch?v=NoXXvB97zG4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-06T18:03:39.000Z",
+      "publishedDate": "2025-11-09T06:07:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "noxxvb97zg4-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -2052,7 +2052,7 @@
       "publishedDate": "2025-11-06T22:40:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nycf0e-0k94-the-ad-manager-in-highlevel-is-now-free-to-agencies"
     },
     {
@@ -2484,7 +2484,7 @@
       "publishedDate": "2025-11-06T22:41:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "smsds4rvjia-how-to-boost-your-gokollab-community-engagement-through-affiliate-programs"
     },
     {
@@ -2961,7 +2961,7 @@
       "videoId": "wI6mpAPKgVk",
       "url": "https://www.youtube.com/watch?v=wI6mpAPKgVk",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-07T19:19:52.000Z",
+      "publishedDate": "2025-11-08T07:42:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -3172,30 +3172,6 @@
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {
-      "filename": "xnzzvcialro-run-automated-actions-using-workflows.md",
-      "title": "👨‍🏭 Run Automated Actions Using Workflows",
-      "videoId": "xNZzVcIalRo",
-      "url": "https://www.youtube.com/watch?v=xNZzVcIalRo",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-09T22:37:21.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.4",
-      "slug": "xnzzvcialro-run-automated-actions-using-workflows"
-    },
-    {
-      "filename": "xqs0-oiap90-increase-your-reach-with-the-social-planner.md",
-      "title": "🏙️ Increase Your Reach With The Social Planner",
-      "videoId": "xqS0-OIAp90",
-      "url": "https://www.youtube.com/watch?v=xqS0-OIAp90",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-09T22:39:18.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.4",
-      "slug": "xqs0-oiap90-increase-your-reach-with-the-social-planner"
-    },
-    {
       "filename": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel.md",
       "title": "How to Set Up the All-In-One Chat Feature for Your Website or Funnel",
       "videoId": "xWTo2auRI6s",
@@ -3276,7 +3252,7 @@
       "publishedDate": "2025-11-06T22:42:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
     },
     {
@@ -3438,7 +3414,7 @@
   ],
   "freshnessSummary": {
     "fresh": 242,
-    "warning": 8,
+    "warning": 6,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3450,7 +3426,7 @@
       },
       "standard": {
         "fresh": 234,
-        "warning": 7,
+        "warning": 5,
         "expired": 0,
         "unknown": null
       },

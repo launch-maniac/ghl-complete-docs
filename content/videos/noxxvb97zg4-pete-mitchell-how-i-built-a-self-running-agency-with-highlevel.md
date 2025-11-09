@@ -2,13 +2,13 @@
 title: "Pete Mitchell – How I Built a Self-Running Agency with HighLevel"
 video_id: "NoXXvB97zG4"
 url: "https://www.youtube.com/watch?v=NoXXvB97zG4"
-thumbnail: "https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-06T18:03:39.000Z"
+published_date: "2025-11-09T06:07:35.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-08T07:41:36.141Z"
+extracted_at: "2025-11-09T07:41:33.020Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-11-08T07:41:36.141Z"
 **Video ID:** `NoXXvB97zG4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/6/2025
+**Published:** 11/9/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-11-08T07:41:36.141Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NoXXvB97zG4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/8/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/9/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
