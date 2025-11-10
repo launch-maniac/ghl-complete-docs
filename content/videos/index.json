@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-09T07:41:40.122Z",
+  "generated": "2025-11-10T07:44:38.586Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 8,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -324,7 +324,7 @@
       "publishedDate": "2025-11-04T22:25:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -792,7 +792,7 @@
       "publishedDate": "2025-11-04T22:19:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "b6fvp0iythm-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -1872,7 +1872,7 @@
       "publishedDate": "2025-11-04T22:18:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -2028,7 +2028,7 @@
       "publishedDate": "2025-11-08T06:11:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -2712,7 +2712,7 @@
       "publishedDate": "2025-11-04T22:24:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -2964,7 +2964,7 @@
       "publishedDate": "2025-11-08T07:42:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wi6mpapkgvk-the-highlevel-release-radar-november-3rd-november-7th-2025"
     },
     {
@@ -3168,7 +3168,7 @@
       "publishedDate": "2025-11-04T22:24:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {

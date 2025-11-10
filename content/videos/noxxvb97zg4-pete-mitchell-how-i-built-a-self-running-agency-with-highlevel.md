@@ -9,14 +9,14 @@ freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
 age_in_months: "0.0"
-has_transcript: false
-transcript_language: "none"
-transcript_type: "none"
+has_transcript: true
+transcript_language: "en"
+transcript_type: "asr"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-09T07:41:33.020Z"
+extracted_at: "2025-11-10T07:44:32.733Z"
 
 ---
 
@@ -27,7 +27,7 @@ extracted_at: "2025-11-09T07:41:33.020Z"
 **Platform:** YouTube
 **Published:** 11/9/2025
 **Content Type:** standard
-**Transcript:** ❌ Not available
+**Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
 **Video is 0.0 months old (fresh)**
@@ -36,8 +36,13 @@ extracted_at: "2025-11-09T07:41:33.020Z"
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript
-❌ **Transcript not available** - This video does not have captions or transcripts available.
+## 📝 Transcript Information
+
+**Language:** en
+**Type:** Auto-generated
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
 
 ---
 
@@ -52,7 +57,7 @@ extracted_at: "2025-11-09T07:41:33.020Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
 
 
 
@@ -62,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/9/2025*
-*Transcript extraction: ❌ Not available*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/10/2025*
+*Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
