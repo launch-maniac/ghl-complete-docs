@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "6903dda2c77fe33b4d6aab4a"
+guid: "690e7dd2fff75feda4524151"
 author: "Sales &amp; Marketing"
-pubDate: "2025-10-31T01:45:28.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
+pubDate: "2025-11-07T23:25:17.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-67"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-66"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-67"
 index: 4
 ---
 
@@ -25,13 +25,15 @@ Medical - 1
 
 \------------------------------------------------------
 
-🚀 **2 New Funnel Templates Published** 🚀
+🚀 **3 New Funnel Templates Published** 🚀
 
 \------------------------------------------------------
 
-Health & Wellness - 1
-
 Business, Coaching & Consulting - 1
+
+Marketing Agency - 1
+
+Health & Wellness - 1
 
 \------------------------------------------------------
 
@@ -39,7 +41,7 @@ Business, Coaching & Consulting - 1
 
 \------------------------------------------------------
 
-Creative - 1
+Financial - 1
 
 \-----------------------------------------------------
 
@@ -47,7 +49,7 @@ Creative - 1
 
 \-----------------------------------------------------
 
-Home Services - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -55,7 +57,7 @@ Home Services - 1
 
 \-----------------------------------------------------
 
-Business, Coaching & Consulting - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -63,23 +65,29 @@ Business, Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Financial - 2
+Insurance - 2
 
-Health & Wellness - 2
+Legal - 2
 
-Holidays - 2
+Marketing Agency - 2
 
-Home Services - 2
-
-\-----------------------------------------------------
-
-🚀 **2 New Ad Templates Published** 🚀
+Medical - 2
 
 \-----------------------------------------------------
 
-Real Estate - 1
+🚀 **5 New Google Ad Templates Published** 🚀
 
-Holidays - 1
+\-----------------------------------------------------
+
+Automotive - PPF Installation Service
+
+Beauty & Fashion - Talent Agency
+
+Business Coaching & Consulting - Stocks Trading Expert
+
+Creative - Live Musical Band
+
+Finance - Banking Services
 
 \------------------------------------------------------
 
@@ -87,32 +95,38 @@ Holidays - 1
 
 \------------------------------------------------------
 
-Other - Pet Groomer
+Home Services - Construction Company
 
-![Bathroom Remodeling - Social](https://canny-assets.io/images/d319062224233a19ffb83de836d558b6.png)
+![Banking and Payment - Email](https://canny-assets.io/images/6bb8d8b7c6737ae3f0013c3751a04259.png)
 
-![Business Development - Funnel](https://canny-assets.io/images/87f8a7aea9dac5231bb8772fe98ef46a.png)
+![Banking Services - Google Ad](https://canny-assets.io/images/502b5bb575f988123b7e73d854ad6709.png)
 
-![Bathroom Remodeling Request - Form](https://canny-assets.io/images/22ab318af4fc0f1c632e84ef422d58a9.png)
+![Bankruptcy Law Firm Contact - Form](https://canny-assets.io/images/9e893923965cea69a2e40935d668d1bd.png)
 
-![Black Friday SaaS Blowout - Facebook Ad](https://canny-assets.io/images/8791861751ca542152e7683f452478cb.png)
+![Construction Company - Snapshot](https://canny-assets.io/images/64bab81384d9f7a2bd26bc8be8e78590.png)
 
-![Bookkeeper Services - Social](https://canny-assets.io/images/cefb26b55734c4f72d8d449b663a998d.png)
+![Clinical Spa - Website](https://canny-assets.io/images/e1d42c4237fe46653cb53c42a1c6c4f8.png)
 
-![Business Development - Funnel](https://canny-assets.io/images/b84220ed8e034b945cac3f4d752a89ef.png)
+![Live Musical Band - Google Ad](https://canny-assets.io/images/39e7c7516519d0b2149c8ea8197fc4ba.png)
 
-![Lifestyle Coach Market Analysis - Survey](https://canny-assets.io/images/025edae9a651889e4af206574ef53ea2.png)
+![Crash Course Mastery - Funnel](https://canny-assets.io/images/28549527034faed7d53cb7bd6d5713c3.png)
 
-![Pet Groomer - Snapshot](https://canny-assets.io/images/9d562824f54ada524fb601d33ab7b706.png)
+![Mix Protein Products - Funnel](https://canny-assets.io/images/09808b3a3d3025edb5387b3ee027a282.png)
 
-![Real Estate Broker - Facebook Ad](https://canny-assets.io/images/3630fed0cf845a1e34e34ab2ffe2a38f.png)
+![PPF Installation Service - Google Ad](https://canny-assets.io/images/7a1a07d0a7592af06385a73eff7f954d.png)
 
-![Thanksgiving - Social](https://canny-assets.io/images/6bc89fcc3244645e4f9d8d1ef3676c23.png)
+![Start-Up Business - Funnel](https://canny-assets.io/images/3371fc080ed164fd0ed5f60b59d4f6f0.png)
 
-![Trusted Wellness Solutions - Website](https://canny-assets.io/images/97ea48e7980d137dfd3ed964118b4cb3.png)
+![Stocks Trading Expert - Google Ad](https://canny-assets.io/images/2c42301825d0dabc25e5a52cb90a60fd.png)
 
-![Video Production & Editing - Email](https://canny-assets.io/images/db302571751d83817537eabfdc234aaf.png)
+![Talent Agency - Google Ad](https://canny-assets.io/images/fec68d19b467b94fd3ce312dcd720b6d.png)
 
-![Weight Management - Social](https://canny-assets.io/images/746779922c70609c0a145852271833ce.png)
+![Wedding Photographer Customer Satisfaction - Survey](https://canny-assets.io/images/a4d26f2fd8fa6406e0902f043d2f3be5.png)
 
-![Weight Management Program - Funnel](https://canny-assets.io/images/e283a0c7a5adee6e79ae2873c909af6f.png)
+![Chiropractor Services - Social](https://canny-assets.io/images/22167db482369e5f5f9d1815f3a5a8ae.png)
+
+![Defense Law Firm - Social](https://canny-assets.io/images/2752622c5b394eb79d55d33fa6e63ef7.png)
+
+![Health Insurance Coverage - Social](https://canny-assets.io/images/5d76bbe6ec8db1241437400e0f0cba48.png)
+
+![Social Networking Services - Social](https://canny-assets.io/images/69474d6281338b53cb6371a3072d1d6e.png)
