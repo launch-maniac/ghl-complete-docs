@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Five Day AI Employee Challenge"
-video_id: "lNvtbXNi8VA"
-url: "https://www.youtube.com/watch?v=lNvtbXNi8VA"
-thumbnail: "https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg"
+title: "Day 2 - SaaSPRENEUR Workshop with Frank Kern"
+video_id: "2gHZmrHN5Fk"
+url: "https://www.youtube.com/watch?v=2gHZmrHN5Fk"
+thumbnail: "https://i.ytimg.com/vi/2gHZmrHN5Fk/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-11T07:32:56.000Z"
+published_date: "2025-11-10T19:39:03.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-11T07:45:11.649Z"
+extracted_at: "2025-11-11T07:45:12.045Z"
 
 ---
 
-# 🟢 Day 1 - Five Day AI Employee Challenge
+# 🟢 Day 2 - SaaSPRENEUR Workshop with Frank Kern
 
-**Video ID:** `lNvtbXNi8VA`
+**Video ID:** `2gHZmrHN5Fk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/11/2025
+**Published:** 11/10/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-11T07:45:11.649Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lNvtbXNi8VA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=2gHZmrHN5Fk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/2gHZmrHN5Fk/hqdefault_live.jpg)
 
 
 ## Content Guidelines

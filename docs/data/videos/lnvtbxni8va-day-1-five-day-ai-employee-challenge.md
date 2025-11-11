@@ -2,13 +2,13 @@
 title: "Day 1 - Five Day AI Employee Challenge"
 video_id: "lNvtbXNi8VA"
 url: "https://www.youtube.com/watch?v=lNvtbXNi8VA"
-thumbnail: "https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-04T22:18:39.000Z"
+published_date: "2025-11-11T07:32:56.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-10T07:44:34.000Z"
+extracted_at: "2025-11-11T07:45:11.649Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-11-10T07:44:34.000Z"
 **Video ID:** `lNvtbXNi8VA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/4/2025
+**Published:** 11/11/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-11-10T07:44:34.000Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lNvtbXNi8VA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/10/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/11/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

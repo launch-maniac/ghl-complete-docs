@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-10T07:44:38.586Z",
+  "generated": "2025-11-11T07:45:19.303Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 16,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -146,6 +146,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system"
+    },
+    {
+      "filename": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 2 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "2gHZmrHN5Fk",
+      "url": "https://www.youtube.com/watch?v=2gHZmrHN5Fk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T19:39:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
       "filename": "2gji9tntwuu-day-4-five-day-ai-employee-challenge.md",
@@ -350,18 +362,6 @@
       "contentCategory": "standard",
       "ageInMonths": "1.3",
       "slug": "4nygrn1i4d0-how-to-offer-courses-with-different-unlock-criteria"
-    },
-    {
-      "filename": "4t173yfpe7q-lc-phone-system-persona-identity-verification-in-a2p-registration.md",
-      "title": "LC Phone System  Persona Identity Verification in A2P Registration",
-      "videoId": "4T173yfPE7Q",
-      "url": "https://www.youtube.com/watch?v=4T173yfPE7Q",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-12T15:00:07.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.3",
-      "slug": "4t173yfpe7q-lc-phone-system-persona-identity-verification-in-a2p-registration"
     },
     {
       "filename": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel.md",
@@ -614,6 +614,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
+    },
+    {
+      "filename": "a4tkrd4icgc-how-to-edit-images-directly-in-highlevel.md",
+      "title": "How To Edit Images Directly in HighLevel",
+      "videoId": "A4tKrd4ICgc",
+      "url": "https://www.youtube.com/watch?v=A4tKrd4ICgc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T15:23:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "a4tkrd4icgc-how-to-edit-images-directly-in-highlevel"
     },
     {
       "filename": "aatwuqgm-9q-day-2-build-your-agency-fast-with-highlevel-ai.md",
@@ -1528,6 +1540,18 @@
       "slug": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025"
     },
     {
+      "filename": "if5utv7mhvw-community-update-go-live-in-mobile-app-is-live.md",
+      "title": "Community Update: Go Live in Mobile App is Live!",
+      "videoId": "IF5UTV7Mhvw",
+      "url": "https://www.youtube.com/watch?v=IF5UTV7Mhvw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T14:38:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "if5utv7mhvw-community-update-go-live-in-mobile-app-is-live"
+    },
+    {
       "filename": "ipdspsuthc8-email-builder-bulk-action-campaigns-now-visible-in-email-marketing.md",
       "title": "Email Builder  Bulk Action Campaigns Now Visible in Email Marketing",
       "videoId": "IpDSPSuthC8",
@@ -1869,10 +1893,10 @@
       "videoId": "lNvtbXNi8VA",
       "url": "https://www.youtube.com/watch?v=lNvtbXNi8VA",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T22:18:39.000Z",
+      "publishedDate": "2025-11-11T07:32:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -1972,6 +1996,18 @@
       "slug": "mp6fjvxisv8-reputation-management-reviews-ai-agents"
     },
     {
+      "filename": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text.md",
+      "title": "How To Format Notes and Tasks in HighLevel with Rich Text",
+      "videoId": "mSIzfXw1XB8",
+      "url": "https://www.youtube.com/watch?v=mSIzfXw1XB8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T15:22:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text"
+    },
+    {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
       "title": "If/Else & Update Contact Field Actions - Expanded Field Support in Dynamic Custom Value Picker!",
       "videoId": "ne4fZI2Pn3w",
@@ -2040,7 +2076,7 @@
       "publishedDate": "2025-11-09T06:07:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "noxxvb97zg4-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -2428,6 +2464,18 @@
       "slug": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live"
     },
     {
+      "filename": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 1 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "SFPMxpMuiDE",
+      "url": "https://www.youtube.com/watch?v=SFPMxpMuiDE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T19:37:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern"
+    },
+    {
       "filename": "shyftg1utxi-listings-food-amp-healthcare-add-ons.md",
       "title": "Listings  Food &amp; HealthCare Add ons",
       "videoId": "ShYftg1UTXI",
@@ -2570,6 +2618,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "t3jnjguok1c-automatic-seo-now-live-for-external-sites"
+    },
+    {
+      "filename": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai.md",
+      "title": "How To Quickly Design Websites and Funnels Using HighLevel AI",
+      "videoId": "t5Y3tJZcZ64",
+      "url": "https://www.youtube.com/watch?v=t5Y3tJZcZ64",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T15:25:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai"
     },
     {
       "filename": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance.md",
@@ -3004,6 +3064,18 @@
       "slug": "wjwsxsfc-e-new-templates-live"
     },
     {
+      "filename": "wl9rhczrr9g-did-you-know-you-can-use-ai-powered-forms-to-create-instant-estimates-for-your-prospects.md",
+      "title": "Did You Know You Can Use AI-Powered Forms to Create Instant Estimates for Your Prospects?",
+      "videoId": "WL9rhCzrr9g",
+      "url": "https://www.youtube.com/watch?v=WL9rhCzrr9g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T15:21:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wl9rhczrr9g-did-you-know-you-can-use-ai-powered-forms-to-create-instant-estimates-for-your-prospects"
+    },
+    {
       "filename": "wn4i1ninpzm-whatsapp-support-for-internal-notifications.md",
       "title": "WhatsApp support for internal notifications!",
       "videoId": "wn4i1niNPZM",
@@ -3256,6 +3328,18 @@
       "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
     },
     {
+      "filename": "yq2p-kwhtuk-communities-go-live-on-mobile-app.md",
+      "title": "Communities: Go Live on Mobile App",
+      "videoId": "yq2p-KwhtUk",
+      "url": "https://www.youtube.com/watch?v=yq2p-KwhtUk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T19:00:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yq2p-kwhtuk-communities-go-live-on-mobile-app"
+    },
+    {
       "filename": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
       "title": "Day 2 - HighLevel Funnels That Capture, Nurture and Close",
       "videoId": "yRXAiSwWWKQ",
@@ -3364,6 +3448,18 @@
       "slug": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
+      "filename": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern.md",
+      "title": "Day 3 - SaaSPRENEUR Workshop with Frank Kern",
+      "videoId": "zhMg4CPR4Bg",
+      "url": "https://www.youtube.com/watch?v=zhMg4CPR4Bg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T19:41:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
+    },
+    {
       "filename": "zhpg1y7ia1m-funnel-amp-website-enhancements.md",
       "title": "Funnel &amp; Website Enhancements",
       "videoId": "ZhPg1Y7ia1M",
@@ -3413,8 +3509,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 242,
-    "warning": 6,
+    "fresh": 251,
+    "warning": 5,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3425,8 +3521,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 234,
-        "warning": 5,
+        "fresh": 243,
+        "warning": 4,
         "expired": 0,
         "unknown": null
       },

@@ -1,14 +1,14 @@
 ---
-title: "Pete Mitchell – How I Built a Self-Running Agency with HighLevel"
-video_id: "NoXXvB97zG4"
-url: "https://www.youtube.com/watch?v=NoXXvB97zG4"
-thumbnail: "https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault.jpg"
+title: "How To Edit Images Directly in HighLevel"
+video_id: "A4tKrd4ICgc"
+url: "https://www.youtube.com/watch?v=A4tKrd4ICgc"
+thumbnail: "https://i.ytimg.com/vi/A4tKrd4ICgc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-09T06:07:35.000Z"
+published_date: "2025-11-10T15:23:26.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-11T07:45:13.973Z"
+extracted_at: "2025-11-11T07:45:13.030Z"
 
 ---
 
-# 🟢 Pete Mitchell – How I Built a Self-Running Agency with HighLevel
+# 🟢 How To Edit Images Directly in HighLevel
 
-**Video ID:** `NoXXvB97zG4`
+**Video ID:** `A4tKrd4ICgc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/9/2025
+**Published:** 11/10/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-11T07:45:13.973Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NoXXvB97zG4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/NoXXvB97zG4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=A4tKrd4ICgc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/A4tKrd4ICgc/hqdefault.jpg)
 
 
 ## Content Guidelines
