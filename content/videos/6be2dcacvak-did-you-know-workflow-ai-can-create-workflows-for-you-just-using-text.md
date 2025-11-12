@@ -1,14 +1,14 @@
 ---
-title: "How To Format Notes and Tasks in HighLevel with Rich Text"
-video_id: "mSIzfXw1XB8"
-url: "https://www.youtube.com/watch?v=mSIzfXw1XB8"
-thumbnail: "https://i.ytimg.com/vi/mSIzfXw1XB8/hqdefault.jpg"
+title: "Did You Know Workflow AI Can Create Workflows FOR You Just Using Text?"
+video_id: "6BE2DCacvak"
+url: "https://www.youtube.com/watch?v=6BE2DCacvak"
+thumbnail: "https://i.ytimg.com/vi/6BE2DCacvak/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-10T15:22:45.000Z"
+published_date: "2025-11-11T19:17:04.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-12T07:44:52.874Z"
+extracted_at: "2025-11-12T07:44:50.411Z"
 
 ---
 
-# 🟢 How To Format Notes and Tasks in HighLevel with Rich Text
+# 🟢 Did You Know Workflow AI Can Create Workflows FOR You Just Using Text?
 
-**Video ID:** `mSIzfXw1XB8`
+**Video ID:** `6BE2DCacvak`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/10/2025
+**Published:** 11/11/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-12T07:44:52.874Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mSIzfXw1XB8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/mSIzfXw1XB8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6BE2DCacvak)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6BE2DCacvak/hqdefault.jpg)
 
 
 ## Content Guidelines

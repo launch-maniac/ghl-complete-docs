@@ -1,14 +1,14 @@
 ---
-title: "How To Format Notes and Tasks in HighLevel with Rich Text"
-video_id: "mSIzfXw1XB8"
-url: "https://www.youtube.com/watch?v=mSIzfXw1XB8"
-thumbnail: "https://i.ytimg.com/vi/mSIzfXw1XB8/hqdefault.jpg"
+title: "New Templates Live!"
+video_id: "6X6v49kRxdg"
+url: "https://www.youtube.com/watch?v=6X6v49kRxdg"
+thumbnail: "https://i.ytimg.com/vi/6X6v49kRxdg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-10T15:22:45.000Z"
+published_date: "2025-11-12T01:53:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-12T07:44:52.874Z"
+extracted_at: "2025-11-12T07:44:49.679Z"
 
 ---
 
-# 🟢 How To Format Notes and Tasks in HighLevel with Rich Text
+# 🟢 New Templates Live!
 
-**Video ID:** `mSIzfXw1XB8`
+**Video ID:** `6X6v49kRxdg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/10/2025
+**Published:** 11/12/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-12T07:44:52.874Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mSIzfXw1XB8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/mSIzfXw1XB8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6X6v49kRxdg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6X6v49kRxdg/hqdefault.jpg)
 
 
 ## Content Guidelines

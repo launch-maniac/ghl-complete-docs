@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-11T07:45:19.303Z",
+  "generated": "2025-11-12T07:44:58.238Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 22,
     "playlists": 0,
-    "expired": 2,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 22
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -400,6 +400,18 @@
       "slug": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025"
     },
     {
+      "filename": "5qitjzlcxmo-scaling-client-revenue-and-retention-with-highlevel.md",
+      "title": "Scaling Client Revenue and Retention with HighLevel",
+      "videoId": "5QItJzlCXmo",
+      "url": "https://www.youtube.com/watch?v=5QItJzlCXmo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T15:59:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5qitjzlcxmo-scaling-client-revenue-and-retention-with-highlevel"
+    },
+    {
       "filename": "5r-srd0e5q-whatsapp-whatsapp-v2-action.md",
       "title": "WhatsApp  WhatsApp V2 Action",
       "videoId": "_5R_sRd0e5Q",
@@ -410,6 +422,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.8",
       "slug": "5r-srd0e5q-whatsapp-whatsapp-v2-action"
+    },
+    {
+      "filename": "5twhobwcipy-from-crm-expert-to-highlevel-power-user-simplifying-automation-and-lead-generation.md",
+      "title": "From CRM Expert to HighLevel Power User: Simplifying Automation and Lead Generation",
+      "videoId": "5tWhoBWCIpY",
+      "url": "https://www.youtube.com/watch?v=5tWhoBWCIpY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T16:26:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5twhobwcipy-from-crm-expert-to-highlevel-power-user-simplifying-automation-and-lead-generation"
     },
     {
       "filename": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system.md",
@@ -472,6 +496,18 @@
       "slug": "62vb4uteb1m-how-to-launch-your-first-google-ads-search-campaign"
     },
     {
+      "filename": "6be2dcacvak-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text.md",
+      "title": "Did You Know Workflow AI Can Create Workflows FOR You Just Using Text?",
+      "videoId": "6BE2DCacvak",
+      "url": "https://www.youtube.com/watch?v=6BE2DCacvak",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T19:17:04.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6be2dcacvak-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text"
+    },
+    {
       "filename": "6dr-uiiwbvu-form-builder-now-opens-in-a-pop-up-inside-funnel-builder.md",
       "title": "Form Builder Now Opens in a Pop Up inside Funnel Builder",
       "videoId": "6dR_UiIWBVU",
@@ -506,6 +542,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "6rddlchdckm-certificates-badges"
+    },
+    {
+      "filename": "6x6v49krxdg-new-templates-live.md",
+      "title": "New Templates Live!",
+      "videoId": "6X6v49kRxdg",
+      "url": "https://www.youtube.com/watch?v=6X6v49kRxdg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:53:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6x6v49krxdg-new-templates-live"
     },
     {
       "filename": "6xhbm-azwyy-wishlisting-products-in-ecommerce-stores-live.md",
@@ -592,18 +640,6 @@
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
     },
     {
-      "filename": "9e8kgultmfw-how-to-manage-audiences-in-highlevel-ad-manager.md",
-      "title": "How to Manage Audiences in HighLevel Ad Manager",
-      "videoId": "9E8KgultMfw",
-      "url": "https://www.youtube.com/watch?v=9E8KgultMfw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-13T13:49:11.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.3",
-      "slug": "9e8kgultmfw-how-to-manage-audiences-in-highlevel-ad-manager"
-    },
-    {
       "filename": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live.md",
       "title": "Site Analytics - Traffic Source &amp; Geographic Analytics Live!",
       "videoId": "9qNRvr5Vcig",
@@ -624,7 +660,7 @@
       "publishedDate": "2025-11-10T15:23:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "a4tkrd4icgc-how-to-edit-images-directly-in-highlevel"
     },
     {
@@ -801,10 +837,10 @@
       "videoId": "b6fvp0iYTHM",
       "url": "https://www.youtube.com/watch?v=b6fvp0iYTHM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T22:19:49.000Z",
+      "publishedDate": "2025-11-12T06:13:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "b6fvp0iythm-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -1156,6 +1192,18 @@
       "slug": "emsskunf4e0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
     },
     {
+      "filename": "erhlhwzjgqe-owning-your-brand-and-scaling-without-limits-with-highlevel.md",
+      "title": "Owning Your Brand and Scaling Without Limits with HighLevel",
+      "videoId": "eRHlHWZJGqE",
+      "url": "https://www.youtube.com/watch?v=eRHlHWZJGqE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T16:14:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "erhlhwzjgqe-owning-your-brand-and-scaling-without-limits-with-highlevel"
+    },
+    {
       "filename": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge.md",
       "title": "Day 5 - Five Day AI Employee Challenge",
       "videoId": "F6ib67HW6Aw",
@@ -1214,6 +1262,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
+    },
+    {
+      "filename": "fk5-st1-rgm-understanding-highlevel-39-s-new-conversation-ai-pricing-model-from-flat-rates-to-token-.md",
+      "title": "Understanding HighLevel&#39;s New Conversation AI Pricing Model: From Flat Rates to Token Usage",
+      "videoId": "fK5_sT1-RGM",
+      "url": "https://www.youtube.com/watch?v=fK5_sT1-RGM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T16:21:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fk5-st1-rgm-understanding-highlevel-39-s-new-conversation-ai-pricing-model-from-flat-rates-to-token-"
     },
     {
       "filename": "fkianqdg4qi-expanded-goal-types-in-workflows.md",
@@ -1310,6 +1370,18 @@
       "contentCategory": "evergreen",
       "ageInMonths": "3.2",
       "slug": "fyazvkynhto-introducing-badges-live-now"
+    },
+    {
+      "filename": "g83r-vqplri-backend-trigger-flow-enhancements.md",
+      "title": "Backend Trigger Flow Enhancements!",
+      "videoId": "g83R-VQPlRI",
+      "url": "https://www.youtube.com/watch?v=g83R-VQPlRI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:49:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g83r-vqplri-backend-trigger-flow-enhancements"
     },
     {
       "filename": "gadvqqb8lla-page-builder-autosave-performance-enhancements.md",
@@ -1548,7 +1620,7 @@
       "publishedDate": "2025-11-10T14:38:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "if5utv7mhvw-community-update-go-live-in-mobile-app-is-live"
     },
     {
@@ -2004,7 +2076,7 @@
       "publishedDate": "2025-11-10T15:22:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text"
     },
     {
@@ -2258,18 +2330,6 @@
       "contentCategory": "critical",
       "ageInMonths": "unknown",
       "slug": "pj1bqffxbi-simplifying-snapshot-updates-with-rolling-notifications"
-    },
-    {
-      "filename": "pjte3h3meqa-saaspreneur-live-london-speaker-reveal-full-lineup-what-to-expect.md",
-      "title": "SaaSPRENEUR Live London Speaker Reveal | Full Lineup + What to Expect!",
-      "videoId": "PJTE3h3MEQA",
-      "url": "https://www.youtube.com/watch?v=PJTE3h3MEQA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-12T22:06:07.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.3",
-      "slug": "pjte3h3meqa-saaspreneur-live-london-speaker-reveal-full-lineup-what-to-expect"
     },
     {
       "filename": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live.md",
@@ -2628,7 +2688,7 @@
       "publishedDate": "2025-11-10T15:25:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai"
     },
     {
@@ -2666,6 +2726,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
+    },
+    {
+      "filename": "tyhijn6cjva-workflows-bulk-operations-live.md",
+      "title": "WorkFlows : Bulk Operations Live!",
+      "videoId": "TYHIJn6cjvA",
+      "url": "https://www.youtube.com/watch?v=TYHIJn6cjvA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:48:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tyhijn6cjva-workflows-bulk-operations-live"
     },
     {
       "filename": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel-with-peng-joon.md",
@@ -3072,7 +3144,7 @@
       "publishedDate": "2025-11-10T15:21:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wl9rhczrr9g-did-you-know-you-can-use-ai-powered-forms-to-create-instant-estimates-for-your-prospects"
     },
     {
@@ -3336,7 +3408,7 @@
       "publishedDate": "2025-11-10T19:00:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yq2p-kwhtuk-communities-go-live-on-mobile-app"
     },
     {
@@ -3509,8 +3581,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 251,
-    "warning": 5,
+    "fresh": 259,
+    "warning": 3,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3521,8 +3593,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 243,
-        "warning": 4,
+        "fresh": 251,
+        "warning": 2,
         "expired": 0,
         "unknown": null
       },
