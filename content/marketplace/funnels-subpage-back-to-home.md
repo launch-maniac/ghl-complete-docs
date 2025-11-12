@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "funnels-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-11-11T21:09:31.256Z"
+extracted_at: "2025-11-12T00:50:53.315Z"
 ---
 
 # Hi, how can we help you?
@@ -186,14 +186,14 @@ Modified on Wed, 10 Sep at 7:51 AM
 
 ](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
-How do I find my Client's Location ID?
-
-Modified on Tue, 5 Aug at 4:56 PM
-
-](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)[
-
 HighLevel Pricing Guide
 
 Modified on Tue, 14 Oct at 2:46 PM
 
-](/support/solutions/articles/155000001156-highlevel-pricing-guide)
+](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
+
+How do I find my Client's Location ID?
+
+Modified on Tue, 5 Aug at 4:56 PM
+
+](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)
