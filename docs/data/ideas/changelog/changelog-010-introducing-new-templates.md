@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "68d71047eb9faae08d72c0e6"
+guid: "690e7dd2fff75feda4524151"
 author: "Sales &amp; Marketing"
-pubDate: "2025-09-26T22:26:27.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-62"
+pubDate: "2025-11-07T23:25:17.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-67"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-62"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-67"
 index: 10
 ---
 
@@ -17,19 +17,21 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **2 New Website Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Insurance - 1
+Medical - 1
+
+\------------------------------------------------------
+
+🚀 **3 New Funnel Templates Published** 🚀
+
+\------------------------------------------------------
+
+Business, Coaching & Consulting - 1
 
 Marketing Agency - 1
-
-\------------------------------------------------------
-
-🚀 **1 New Funnel Templates Published** 🚀
-
-\------------------------------------------------------
 
 Health & Wellness - 1
 
@@ -39,7 +41,7 @@ Health & Wellness - 1
 
 \------------------------------------------------------
 
-Travel & Hospitality - 1
+Financial - 1
 
 \-----------------------------------------------------
 
@@ -47,7 +49,7 @@ Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
-Business, Coaching & Consulting - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -55,7 +57,7 @@ Business, Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Restaurant & Bar - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -63,21 +65,13 @@ Restaurant & Bar - 1
 
 \-----------------------------------------------------
 
-Financial - 2
+Insurance - 2
 
-Health & Wellness - 2
+Legal - 2
 
-Holidays - 2
+Marketing Agency - 2
 
-Home Services - 2
-
-\-----------------------------------------------------
-
-🚀 **1 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Real Estate - 1
+Medical - 2
 
 \-----------------------------------------------------
 
@@ -85,15 +79,15 @@ Real Estate - 1
 
 \-----------------------------------------------------
 
-Finance - Accounting Company
+Automotive - PPF Installation Service
 
-Insurance - Home Insurance Coverage
+Beauty & Fashion - Talent Agency
 
-Restaurant and Bar - Event Food Service
+Business Coaching & Consulting - Stocks Trading Expert
 
-Other - Retirement Facility
+Creative - Live Musical Band
 
-Business Coaching & Consulting - IT Consulting
+Finance - Banking Services
 
 \------------------------------------------------------
 
@@ -101,38 +95,38 @@ Business Coaching & Consulting - IT Consulting
 
 \------------------------------------------------------
 
-Legal - Compensation Lawyer
+Home Services - Construction Company
 
-![Accounting Company - Google Ad](https://canny-assets.io/images/f64cf2b06d4a3d03d499ae7c9c90f2bb.png)
+![Banking and Payment - Email](https://canny-assets.io/images/6bb8d8b7c6737ae3f0013c3751a04259.png)
 
-![Accounting Practice - Social](https://canny-assets.io/images/dd4b17ec3a60558785b186d77f2a370f.png)
+![Banking Services - Google Ad](https://canny-assets.io/images/502b5bb575f988123b7e73d854ad6709.png)
 
-![Camping Grounds - Email](https://canny-assets.io/images/7454fa2687d6668985b1822174c4d693.png)
+![Bankruptcy Law Firm Contact - Form](https://canny-assets.io/images/9e893923965cea69a2e40935d668d1bd.png)
 
-![Automation Software - Website](https://canny-assets.io/images/69d2331a30ed14ed9be931698a52d5d1.png)
+![Construction Company - Snapshot](https://canny-assets.io/images/64bab81384d9f7a2bd26bc8be8e78590.png)
 
-![Compensation Lawyer - Snapshot](https://canny-assets.io/images/4e9e98fae8cdc3d5a6962c443fc5024c.png)
+![Clinical Spa - Website](https://canny-assets.io/images/e1d42c4237fe46653cb53c42a1c6c4f8.png)
 
-![Deck Builder - Social](https://canny-assets.io/images/75c8d262094cb1b301359c7515284c31.png)
+![Live Musical Band - Google Ad](https://canny-assets.io/images/39e7c7516519d0b2149c8ea8197fc4ba.png)
 
-![Event Food Service - Google Ad](https://canny-assets.io/images/b7fbcbf4208676ca4a9bf1a54a581e45.png)
+![Crash Course Mastery - Funnel](https://canny-assets.io/images/28549527034faed7d53cb7bd6d5713c3.png)
 
-![Holistic Health - Social](https://canny-assets.io/images/0d9d8de3c2c31cddbb93813038ef1301.png)
+![Mix Protein Products - Funnel](https://canny-assets.io/images/09808b3a3d3025edb5387b3ee027a282.png)
 
-![Home Insurance Coverage - Google Ad](https://canny-assets.io/images/19b73a3435b20225bd9e4f867e93b88d.png)
+![PPF Installation Service - Google Ad](https://canny-assets.io/images/7a1a07d0a7592af06385a73eff7f954d.png)
 
-![IT Consulting - Google Ad](https://canny-assets.io/images/e068aa4c302e9db416ff2ee4fe8a46f7.png)
+![Start-Up Business - Funnel](https://canny-assets.io/images/3371fc080ed164fd0ed5f60b59d4f6f0.png)
 
-![Nutrition - Funnel](https://canny-assets.io/images/eaebc1ee5fa3168eca6d1d9bd88e4781.png)
+![Stocks Trading Expert - Google Ad](https://canny-assets.io/images/2c42301825d0dabc25e5a52cb90a60fd.png)
 
-![Property Insurance - Website](https://canny-assets.io/images/a4a7895a113782e075167b38e6e7fb0c.png)
+![Talent Agency - Google Ad](https://canny-assets.io/images/fec68d19b467b94fd3ce312dcd720b6d.png)
 
-![Real Estate - Facebook Ad](https://canny-assets.io/images/396bef2c97148f7f286ea3b2a79f3321.png)
+![Wedding Photographer Customer Satisfaction - Survey](https://canny-assets.io/images/a4d26f2fd8fa6406e0902f043d2f3be5.png)
 
-![Real Estate Consulting Lead - Form](https://canny-assets.io/images/7c30913ce635ae60e3628c06b54da379.png)
+![Chiropractor Services - Social](https://canny-assets.io/images/22167db482369e5f5f9d1815f3a5a8ae.png)
 
-![Retirement Facility - Google Ad](https://canny-assets.io/images/2a7c1e95737068e457dd34ed09cef318.png)
+![Defense Law Firm - Social](https://canny-assets.io/images/2752622c5b394eb79d55d33fa6e63ef7.png)
 
-![Street Food Trucks_Vendors Market Analysis - Survey](https://canny-assets.io/images/b213995bbe53b708a3567b1d4f3ecc6e.png)
+![Health Insurance Coverage - Social](https://canny-assets.io/images/5d76bbe6ec8db1241437400e0f0cba48.png)
 
-![Veterans Day - Social](https://canny-assets.io/images/e765214bd9285c0c5f17b755f7ba3a85.png)
+![Social Networking Services - Social](https://canny-assets.io/images/69474d6281338b53cb6371a3072d1d6e.png)
