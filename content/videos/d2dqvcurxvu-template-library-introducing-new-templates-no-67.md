@@ -1,14 +1,14 @@
 ---
-title: "Communities: Go Live on Mobile App"
-video_id: "yq2p-KwhtUk"
-url: "https://www.youtube.com/watch?v=yq2p-KwhtUk"
-thumbnail: "https://i.ytimg.com/vi/yq2p-KwhtUk/hqdefault.jpg"
+title: "Template Library: Introducing New Templates (no. 67)"
+video_id: "d2DQVCuRxVU"
+url: "https://www.youtube.com/watch?v=d2DQVCuRxVU"
+thumbnail: "https://i.ytimg.com/vi/d2DQVCuRxVU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-10T19:00:59.000Z"
+published_date: "2025-11-12T16:01:05.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
-content_category: "standard"
-age_in_months: "0.1"
+freshness_message: "Video is 0.0 months old (fresh)"
+content_category: "evergreen"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-13T07:44:48.872Z"
+extracted_at: "2025-11-13T07:44:45.825Z"
 
 ---
 
-# 🟢 Communities: Go Live on Mobile App
+# 🟢 Template Library: Introducing New Templates (no. 67)
 
-**Video ID:** `yq2p-KwhtUk`
+**Video ID:** `d2DQVCuRxVU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/10/2025
-**Content Type:** standard
+**Published:** 11/12/2025
+**Content Type:** evergreen
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,14 +47,14 @@ extracted_at: "2025-11-13T07:44:48.872Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yq2p-KwhtUk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yq2p-KwhtUk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=d2DQVCuRxVU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/d2DQVCuRxVU/hqdefault.jpg)
 
 
 ## Content Guidelines
 
+🌿 **Evergreen Content:** This video covers fundamental concepts that remain relevant over time.
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -69,4 +69,4 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 11/13/2025*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after never months*

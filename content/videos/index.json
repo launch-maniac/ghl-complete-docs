@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-12T07:44:58.238Z",
+  "generated": "2025-11-13T07:44:55.250Z",
   "stats": {
     "channels": 1,
-    "videos": 22,
+    "videos": 26,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 22
+    "transcriptsFailed": 26
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -156,7 +156,7 @@
       "publishedDate": "2025-11-10T19:39:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -336,7 +336,7 @@
       "publishedDate": "2025-11-04T22:25:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -408,7 +408,7 @@
       "publishedDate": "2025-11-11T15:59:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5qitjzlcxmo-scaling-client-revenue-and-retention-with-highlevel"
     },
     {
@@ -432,7 +432,7 @@
       "publishedDate": "2025-11-11T16:26:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5twhobwcipy-from-crm-expert-to-highlevel-power-user-simplifying-automation-and-lead-generation"
     },
     {
@@ -1048,6 +1048,18 @@
       "slug": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit"
     },
     {
+      "filename": "d2dqvcurxvu-template-library-introducing-new-templates-no-67.md",
+      "title": "Template Library: Introducing New Templates (no. 67)",
+      "videoId": "d2DQVCuRxVU",
+      "url": "https://www.youtube.com/watch?v=d2DQVCuRxVU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T16:01:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "d2dqvcurxvu-template-library-introducing-new-templates-no-67"
+    },
+    {
       "filename": "d5eklzlriny-human-handover.md",
       "title": "Human Handover",
       "videoId": "D5eklzlRinY",
@@ -1200,7 +1212,7 @@
       "publishedDate": "2025-11-11T16:14:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "erhlhwzjgqe-owning-your-brand-and-scaling-without-limits-with-highlevel"
     },
     {
@@ -1272,7 +1284,7 @@
       "publishedDate": "2025-11-11T16:21:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fk5-st1-rgm-understanding-highlevel-39-s-new-conversation-ai-pricing-model-from-flat-rates-to-token-"
     },
     {
@@ -1968,7 +1980,7 @@
       "publishedDate": "2025-11-11T07:32:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
     },
     {
@@ -2368,6 +2380,18 @@
       "slug": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling"
     },
     {
+      "filename": "pua2c60lggg-voice-ai-noise-cancellation-amp-backchanneling.md",
+      "title": "Voice AI  Noise Cancellation &amp; Backchanneling",
+      "videoId": "PUa2C60lggg",
+      "url": "https://www.youtube.com/watch?v=PUa2C60lggg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T01:00:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pua2c60lggg-voice-ai-noise-cancellation-amp-backchanneling"
+    },
+    {
       "filename": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel.md",
       "title": "Day 2 - Launch Your AI Sales Engine with HighLevel",
       "videoId": "pVcDDv7l7nI",
@@ -2532,7 +2556,7 @@
       "publishedDate": "2025-11-10T19:37:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -2844,7 +2868,7 @@
       "publishedDate": "2025-11-04T22:24:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -3309,10 +3333,10 @@
       "videoId": "XNuwjjQ5bN0",
       "url": "https://www.youtube.com/watch?v=XNuwjjQ5bN0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T22:24:10.000Z",
+      "publishedDate": "2025-11-13T05:55:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -3364,6 +3388,18 @@
       "slug": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge"
     },
     {
+      "filename": "y7wztxdvkzq-workflows-bulk-operations-in-list-page.md",
+      "title": "Workflows  Bulk Operations in List Page",
+      "videoId": "Y7wZTXDVKZQ",
+      "url": "https://www.youtube.com/watch?v=Y7wZTXDVKZQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T22:00:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "y7wztxdvkzq-workflows-bulk-operations-in-list-page"
+    },
+    {
       "filename": "y8dmxitp4by-lesson-3-retention.md",
       "title": "Lesson 3  Retention",
       "videoId": "Y8dmXItp4BY",
@@ -3398,6 +3434,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
+    },
+    {
+      "filename": "yn3avtoeijq-backend-trigger-flow-enhancements.md",
+      "title": "Backend Trigger Flow Enhancements!",
+      "videoId": "YN3avTOeiJQ",
+      "url": "https://www.youtube.com/watch?v=YN3avTOeiJQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T19:00:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yn3avtoeijq-backend-trigger-flow-enhancements"
     },
     {
       "filename": "yq2p-kwhtuk-communities-go-live-on-mobile-app.md",
@@ -3528,7 +3576,7 @@
       "publishedDate": "2025-11-10T19:41:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -3581,7 +3629,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 259,
+    "fresh": 263,
     "warning": 3,
     "expired": 0,
     "unknown": 33,
@@ -3593,13 +3641,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 251,
+        "fresh": 254,
         "warning": 2,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 5,
+        "fresh": 6,
         "warning": 1,
         "expired": 0
       }
