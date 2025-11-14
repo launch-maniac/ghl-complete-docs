@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-13T07:44:55.250Z",
+  "generated": "2025-11-14T07:43:51.098Z",
   "stats": {
     "channels": 1,
     "videos": 26,
@@ -504,7 +504,7 @@
       "publishedDate": "2025-11-11T19:17:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6be2dcacvak-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text"
     },
     {
@@ -552,7 +552,7 @@
       "publishedDate": "2025-11-12T01:53:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6x6v49krxdg-new-templates-live"
     },
     {
@@ -840,7 +840,7 @@
       "publishedDate": "2025-11-12T06:13:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b6fvp0iythm-day-2-five-day-ai-employee-challenge"
     },
     {
@@ -878,6 +878,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel"
+    },
+    {
+      "filename": "bn-njfphc8-how-to-use-highlevel-workflow-switcher-like-a-pro.md",
+      "title": "How To Use HighLevel Workflow Switcher Like a Pro",
+      "videoId": "-bN_nJfPhc8",
+      "url": "https://www.youtube.com/watch?v=-bN_nJfPhc8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T16:35:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bn-njfphc8-how-to-use-highlevel-workflow-switcher-like-a-pro"
     },
     {
       "filename": "bn8plhg5o7a-lead-nurturing.md",
@@ -1012,6 +1024,18 @@
       "slug": "cnfkp-hw4im-conduct-sales-calls"
     },
     {
+      "filename": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling.md",
+      "title": "Voice AI - Noise Cancellation &amp; Backchanneling!",
+      "videoId": "cNKGA7DAoxE",
+      "url": "https://www.youtube.com/watch?v=cNKGA7DAoxE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T14:57:16.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling"
+    },
+    {
       "filename": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces.md",
       "title": "How to Implement Usage-Based Pricing in the App Marketplaces",
       "videoId": "CTCr_wf8Yto",
@@ -1056,7 +1080,7 @@
       "publishedDate": "2025-11-12T16:01:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d2dqvcurxvu-template-library-introducing-new-templates-no-67"
     },
     {
@@ -1392,7 +1416,7 @@
       "publishedDate": "2025-11-12T01:49:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g83r-vqplri-backend-trigger-flow-enhancements"
     },
     {
@@ -2760,7 +2784,7 @@
       "publishedDate": "2025-11-12T01:48:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tyhijn6cjva-workflows-bulk-operations-live"
     },
     {
@@ -2848,6 +2872,18 @@
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
     },
     {
+      "filename": "ujinvudmkzu-how-to-configure-taxes-and-service-fees-in-highlevel.md",
+      "title": "How To Configure Taxes and Service Fees in HighLevel",
+      "videoId": "ujInVuDmkZU",
+      "url": "https://www.youtube.com/watch?v=ujInVuDmkZU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T16:38:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ujinvudmkzu-how-to-configure-taxes-and-service-fees-in-highlevel"
+    },
+    {
       "filename": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel.md",
       "title": "Did You Know You Can Use Smart Lists to Save Time Throughout HighLevel?",
       "videoId": "UjykeSn2OHE",
@@ -2865,10 +2901,10 @@
       "videoId": "umnn_8-xRgw",
       "url": "https://www.youtube.com/watch?v=umnn_8-xRgw",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T22:24:49.000Z",
+      "publishedDate": "2025-11-14T05:55:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -3038,6 +3074,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "w1e6fkbcbwk-how-to-easily-add-whatsapp-templates-to-your-snapshots"
+    },
+    {
+      "filename": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel.md",
+      "title": "How To Centralize Staff Scheduling in HighLevel",
+      "videoId": "W78rkRx9ESY",
+      "url": "https://www.youtube.com/watch?v=W78rkRx9ESY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T16:36:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel"
     },
     {
       "filename": "wbe0ltlieko-how-to-manage-files-effectively-in-your-mobile-media-library.md",
@@ -3352,6 +3400,18 @@
       "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
     },
     {
+      "filename": "xxpcofkrqga-how-to-manage-appointment-reminders-and-confirmations-in-highlevel.md",
+      "title": "How To Manage Appointment Reminders and Confirmations in HighLevel",
+      "videoId": "xxpCOFKrqGA",
+      "url": "https://www.youtube.com/watch?v=xxpCOFKrqGA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T16:37:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xxpcofkrqga-how-to-manage-appointment-reminders-and-confirmations-in-highlevel"
+    },
+    {
       "filename": "y3b14vd7teo-communities-newsletter.md",
       "title": "Communities  Newsletter",
       "videoId": "Y3B14vD7teo",
@@ -3444,7 +3504,7 @@
       "publishedDate": "2025-11-12T19:00:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yn3avtoeijq-backend-trigger-flow-enhancements"
     },
     {
@@ -3629,7 +3689,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 263,
+    "fresh": 268,
     "warning": 3,
     "expired": 0,
     "unknown": 33,
@@ -3641,7 +3701,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 254,
+        "fresh": 259,
         "warning": 2,
         "expired": 0,
         "unknown": null

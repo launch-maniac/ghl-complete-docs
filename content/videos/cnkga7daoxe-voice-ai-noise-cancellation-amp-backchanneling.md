@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Five Day AI Employee Challenge"
-video_id: "lNvtbXNi8VA"
-url: "https://www.youtube.com/watch?v=lNvtbXNi8VA"
-thumbnail: "https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg"
+title: "Voice AI - Noise Cancellation &amp; Backchanneling!"
+video_id: "cNKGA7DAoxE"
+url: "https://www.youtube.com/watch?v=cNKGA7DAoxE"
+thumbnail: "https://i.ytimg.com/vi/cNKGA7DAoxE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-11T07:32:56.000Z"
+published_date: "2025-11-13T14:57:16.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-14T07:43:45.623Z"
+extracted_at: "2025-11-14T07:43:42.110Z"
 
 ---
 
-# 🟢 Day 1 - Five Day AI Employee Challenge
+# 🟢 Voice AI - Noise Cancellation &amp; Backchanneling!
 
-**Video ID:** `lNvtbXNi8VA`
+**Video ID:** `cNKGA7DAoxE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/11/2025
+**Published:** 11/13/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-14T07:43:45.623Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lNvtbXNi8VA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cNKGA7DAoxE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/cNKGA7DAoxE/hqdefault.jpg)
 
 
 ## Content Guidelines

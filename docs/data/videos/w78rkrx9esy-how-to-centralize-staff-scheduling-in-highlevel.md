@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Five Day AI Employee Challenge"
-video_id: "lNvtbXNi8VA"
-url: "https://www.youtube.com/watch?v=lNvtbXNi8VA"
-thumbnail: "https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg"
+title: "How To Centralize Staff Scheduling in HighLevel"
+video_id: "W78rkRx9ESY"
+url: "https://www.youtube.com/watch?v=W78rkRx9ESY"
+thumbnail: "https://i.ytimg.com/vi/W78rkRx9ESY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-11T07:32:56.000Z"
+published_date: "2025-11-13T16:36:55.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-14T07:43:45.623Z"
+extracted_at: "2025-11-14T07:43:41.920Z"
 
 ---
 
-# 🟢 Day 1 - Five Day AI Employee Challenge
+# 🟢 How To Centralize Staff Scheduling in HighLevel
 
-**Video ID:** `lNvtbXNi8VA`
+**Video ID:** `W78rkRx9ESY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/11/2025
+**Published:** 11/13/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-14T07:43:45.623Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lNvtbXNi8VA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lNvtbXNi8VA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=W78rkRx9ESY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/W78rkRx9ESY/hqdefault.jpg)
 
 
 ## Content Guidelines
