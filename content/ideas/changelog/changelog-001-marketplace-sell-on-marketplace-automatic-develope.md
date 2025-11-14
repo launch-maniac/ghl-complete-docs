@@ -37,7 +37,7 @@ Agency admins clicking Sell on Marketplace now skip the manual developer signup 
 
 ![image](https://canny-assets.io/images/6c03b7d891f434aef52cd62338849e43.png)
 
-![image](https://canny-assets.io/images/78a8e70fd70de869f2167c336e71560d.png)
+![Group 2199077](https://canny-assets.io/images/4082881191d31ca0dc1babe077c21d1b.png)
 
 # Security & compliance
 

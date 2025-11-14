@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-11-14T03:46:55.047Z"
+extracted_at: "2025-11-14T06:21:54.493Z"
 ---
 
 # Hi, how can we help you?

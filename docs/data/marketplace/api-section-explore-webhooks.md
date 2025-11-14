@@ -3,7 +3,7 @@ title: "Explore Webhooks →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/category/webhook"
-extracted_at: "2025-11-14T03:48:17.547Z"
+extracted_at: "2025-11-14T06:23:10.817Z"
 ---
 
 -   [](/docs/)
@@ -521,9 +521,9 @@ Called whenever a user is updated
 
 Previous
 
-Webhook Integration Guide
+Webhook Logs Dashboard
 
-](/docs/webhook/WebhookIntegrationGuide)[
+](/docs/webhook/WebhookLogsDashboard)[
 
 Next
 
