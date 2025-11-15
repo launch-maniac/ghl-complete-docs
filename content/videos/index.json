@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-14T07:43:51.098Z",
+  "generated": "2025-11-15T07:41:38.220Z",
   "stats": {
     "channels": 1,
-    "videos": 26,
+    "videos": 20,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 26
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -333,10 +333,10 @@
       "videoId": "4i_QOt-whj0",
       "url": "https://www.youtube.com/watch?v=4i_QOt-whj0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-04T22:25:49.000Z",
+      "publishedDate": "2025-11-15T06:17:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -888,7 +888,7 @@
       "publishedDate": "2025-11-13T16:35:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bn-njfphc8-how-to-use-highlevel-workflow-switcher-like-a-pro"
     },
     {
@@ -1032,8 +1032,20 @@
       "publishedDate": "2025-11-13T14:57:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling"
+    },
+    {
+      "filename": "cq28388shn8-revamped-trust-center-and-a2p-experience.md",
+      "title": "Revamped Trust Center and A2P Experience!",
+      "videoId": "cq28388shN8",
+      "url": "https://www.youtube.com/watch?v=cq28388shN8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:54:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cq28388shn8-revamped-trust-center-and-a2p-experience"
     },
     {
       "filename": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces.md",
@@ -1118,6 +1130,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel"
+    },
+    {
+      "filename": "dljeza-zjli-the-highlevel-release-radar-november-10th-november-14th-2025.md",
+      "title": "The HighLevel Release Radar (November 10th - November 14th 2025)",
+      "videoId": "DljEzA_zJlI",
+      "url": "https://www.youtube.com/watch?v=DljEzA_zJlI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-15T06:57:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dljeza-zjli-the-highlevel-release-radar-november-10th-november-14th-2025"
     },
     {
       "filename": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live.md",
@@ -1262,18 +1286,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel"
-    },
-    {
-      "filename": "fclz5d9jmrq-workflows-custom-mapping-support-for-tracking-fields-for-google-adwords-and-facebook-con.md",
-      "title": "Workflows  Custom Mapping Support for Tracking Fields for Google Adwords and Facebook Conversion API",
-      "videoId": "FclZ5d9jmrQ",
-      "url": "https://www.youtube.com/watch?v=FclZ5d9jmrQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-15T21:00:13.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.2",
-      "slug": "fclz5d9jmrq-workflows-custom-mapping-support-for-tracking-fields-for-google-adwords-and-facebook-con"
     },
     {
       "filename": "fderugliywq-day-3-five-day-ai-employee-challenge.md",
@@ -2044,6 +2056,18 @@
       "slug": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel"
     },
     {
+      "filename": "lw7ppsydtna-clipboard-attachment-support-across-all-channels.md",
+      "title": "Clipboard Attachment Support Across All Channels!",
+      "videoId": "Lw7pPSyDtnA",
+      "url": "https://www.youtube.com/watch?v=Lw7pPSyDtnA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:55:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lw7ppsydtna-clipboard-attachment-support-across-all-channels"
+    },
+    {
       "filename": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests.md",
       "title": "How to Set Up and Send Multi-Channel Review Requests",
       "videoId": "mbeuppfOVS0",
@@ -2412,7 +2436,7 @@
       "publishedDate": "2025-11-13T01:00:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pua2c60lggg-voice-ai-noise-cancellation-amp-backchanneling"
     },
     {
@@ -2736,7 +2760,7 @@
       "publishedDate": "2025-11-10T15:25:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai"
     },
     {
@@ -2880,7 +2904,7 @@
       "publishedDate": "2025-11-13T16:38:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ujinvudmkzu-how-to-configure-taxes-and-service-fees-in-highlevel"
     },
     {
@@ -3084,7 +3108,7 @@
       "publishedDate": "2025-11-13T16:36:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel"
     },
     {
@@ -3384,7 +3408,7 @@
       "publishedDate": "2025-11-13T05:55:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
     },
     {
@@ -3408,7 +3432,7 @@
       "publishedDate": "2025-11-13T16:37:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xxpcofkrqga-how-to-manage-appointment-reminders-and-confirmations-in-highlevel"
     },
     {
@@ -3456,7 +3480,7 @@
       "publishedDate": "2025-11-12T22:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "y7wztxdvkzq-workflows-bulk-operations-in-list-page"
     },
     {
@@ -3470,6 +3494,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.4",
       "slug": "y8dmxitp4by-lesson-3-retention"
+    },
+    {
+      "filename": "yaebvskdgig-community-course-attribution-reporting-is-live.md",
+      "title": "Community Course  Attribution Reporting is Live!",
+      "videoId": "YaeBvSKdGIg",
+      "url": "https://www.youtube.com/watch?v=YaeBvSKdGIg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:56:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yaebvskdgig-community-course-attribution-reporting-is-live"
     },
     {
       "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
@@ -3689,8 +3725,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 268,
-    "warning": 3,
+    "fresh": 272,
+    "warning": 2,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3701,8 +3737,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 259,
-        "warning": 2,
+        "fresh": 263,
+        "warning": 1,
         "expired": 0,
         "unknown": null
       },

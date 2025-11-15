@@ -1,14 +1,14 @@
 ---
-title: "Workflows  Bulk Operations in List Page"
-video_id: "Y7wZTXDVKZQ"
-url: "https://www.youtube.com/watch?v=Y7wZTXDVKZQ"
-thumbnail: "https://i.ytimg.com/vi/Y7wZTXDVKZQ/hqdefault.jpg"
+title: "The HighLevel Release Radar (November 10th - November 14th 2025)"
+video_id: "DljEzA_zJlI"
+url: "https://www.youtube.com/watch?v=DljEzA_zJlI"
+thumbnail: "https://i.ytimg.com/vi/DljEzA_zJlI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-12T22:00:40.000Z"
+published_date: "2025-11-15T06:57:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-15T07:41:32.675Z"
+extracted_at: "2025-11-15T07:41:30.333Z"
 
 ---
 
-# 🟢 Workflows  Bulk Operations in List Page
+# 🟢 The HighLevel Release Radar (November 10th - November 14th 2025)
 
-**Video ID:** `Y7wZTXDVKZQ`
+**Video ID:** `DljEzA_zJlI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/12/2025
+**Published:** 11/15/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-15T07:41:32.675Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Y7wZTXDVKZQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Y7wZTXDVKZQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DljEzA_zJlI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/DljEzA_zJlI/hqdefault.jpg)
 
 
 ## Content Guidelines
