@@ -1,10 +1,10 @@
 ---
-title: "Revamped Trust Center and A2P Experience!"
-video_id: "cq28388shN8"
-url: "https://www.youtube.com/watch?v=cq28388shN8"
-thumbnail: "https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg"
+title: "Ayden payments now Live (Cards,EU, &amp; North America!)"
+video_id: "W2PGqzP9Q_o"
+url: "https://www.youtube.com/watch?v=W2PGqzP9Q_o"
+thumbnail: "https://i.ytimg.com/vi/W2PGqzP9Q_o/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-14T22:54:40.000Z"
+published_date: "2025-11-15T15:09:26.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-16T07:41:53.674Z"
+extracted_at: "2025-11-16T07:41:52.817Z"
 
 ---
 
-# 🟢 Revamped Trust Center and A2P Experience!
+# 🟢 Ayden payments now Live (Cards,EU, &amp; North America!)
 
-**Video ID:** `cq28388shN8`
+**Video ID:** `W2PGqzP9Q_o`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/14/2025
+**Published:** 11/15/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-16T07:41:53.674Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cq28388shN8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=W2PGqzP9Q_o)
+- [📷 Thumbnail](https://i.ytimg.com/vi/W2PGqzP9Q_o/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-15T07:41:38.220Z",
+  "generated": "2025-11-16T07:42:00.008Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 17,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -156,7 +156,7 @@
       "publishedDate": "2025-11-10T19:39:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -1900,18 +1900,6 @@
       "slug": "klj5anxy0wq-create-your-conversation-ai-bot"
     },
     {
-      "filename": "ktoxvj0zmrm-tina-diamond-s-highlevel-review-one-platform-to-replace-five.md",
-      "title": "Tina Diamond’s HighLevel Review: One Platform to Replace Five",
-      "videoId": "kToXVJ0zmrM",
-      "url": "https://www.youtube.com/watch?v=kToXVJ0zmrM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-16T22:57:00.000Z",
-      "freshnessStatus": "warning",
-      "contentCategory": "standard",
-      "ageInMonths": "4.2",
-      "slug": "ktoxvj0zmrm-tina-diamond-s-highlevel-review-one-platform-to-replace-five"
-    },
-    {
       "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
       "title": "How to Use Quick Filters to Improve Your Dashboard Efficiency",
       "videoId": "kVSpv_01AoM",
@@ -2604,7 +2592,7 @@
       "publishedDate": "2025-11-10T19:37:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -2928,7 +2916,7 @@
       "publishedDate": "2025-11-14T05:55:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
@@ -3098,6 +3086,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "w1e6fkbcbwk-how-to-easily-add-whatsapp-templates-to-your-snapshots"
+    },
+    {
+      "filename": "w2pgqzp9q-o-ayden-payments-now-live-cards-eu-amp-north-america.md",
+      "title": "Ayden payments now Live (Cards,EU, &amp; North America!)",
+      "videoId": "W2PGqzP9Q_o",
+      "url": "https://www.youtube.com/watch?v=W2PGqzP9Q_o",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-15T15:09:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w2pgqzp9q-o-ayden-payments-now-live-cards-eu-amp-north-america"
     },
     {
       "filename": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel.md",
@@ -3672,7 +3672,7 @@
       "publishedDate": "2025-11-10T19:41:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -3686,6 +3686,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zhpg1y7ia1m-funnel-amp-website-enhancements"
+    },
+    {
+      "filename": "zivxidgq7p0-google-analytics-widgets-in-dashboard-and-custom-reports.md",
+      "title": "Google Analytics Widgets in Dashboard and Custom Reports!",
+      "videoId": "zivXIdGQ7p0",
+      "url": "https://www.youtube.com/watch?v=zivXIdGQ7p0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-15T15:08:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zivxidgq7p0-google-analytics-widgets-in-dashboard-and-custom-reports"
     },
     {
       "filename": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel.md",
@@ -3725,8 +3737,8 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 272,
-    "warning": 2,
+    "fresh": 274,
+    "warning": 1,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
@@ -3737,8 +3749,8 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 263,
-        "warning": 1,
+        "fresh": 265,
+        "warning": 0,
         "expired": 0,
         "unknown": null
       },

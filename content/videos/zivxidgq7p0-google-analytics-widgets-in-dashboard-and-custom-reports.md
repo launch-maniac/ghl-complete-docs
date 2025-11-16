@@ -1,10 +1,10 @@
 ---
-title: "Revamped Trust Center and A2P Experience!"
-video_id: "cq28388shN8"
-url: "https://www.youtube.com/watch?v=cq28388shN8"
-thumbnail: "https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg"
+title: "Google Analytics Widgets in Dashboard and Custom Reports!"
+video_id: "zivXIdGQ7p0"
+url: "https://www.youtube.com/watch?v=zivXIdGQ7p0"
+thumbnail: "https://i.ytimg.com/vi/zivXIdGQ7p0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-14T22:54:40.000Z"
+published_date: "2025-11-15T15:08:48.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-16T07:41:53.674Z"
+extracted_at: "2025-11-16T07:41:52.594Z"
 
 ---
 
-# 🟢 Revamped Trust Center and A2P Experience!
+# 🟢 Google Analytics Widgets in Dashboard and Custom Reports!
 
-**Video ID:** `cq28388shN8`
+**Video ID:** `zivXIdGQ7p0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/14/2025
+**Published:** 11/15/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-16T07:41:53.674Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cq28388shN8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zivXIdGQ7p0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/zivXIdGQ7p0/hqdefault.jpg)
 
 
 ## Content Guidelines
