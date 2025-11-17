@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "68fbfde67979307605325906"
+guid: "6918b94ad5c98232e444da30"
 author: "Sales &amp; Marketing"
-pubDate: "2025-10-24T22:37:34.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-65"
+pubDate: "2025-11-15T17:38:28.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-68"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-65"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-68"
 index: 2
 ---
 
@@ -17,11 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Funnel Templates Published** 🚀
+🚀 **3 New Funnel Templates Published** 🚀
 
 \------------------------------------------------------
 
-Home Services - 1
+Marketing Agency - 3
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Home Services - 1
 
 \------------------------------------------------------
 
-Automotive - 1
+Health & Wellness - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Automotive - 1
 
 \-----------------------------------------------------
 
-Creative - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +45,7 @@ Creative - 1
 
 \-----------------------------------------------------
 
-Travel & Hospitality - 1
+Financial - 1
 
 \-----------------------------------------------------
 
@@ -53,37 +53,37 @@ Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
-Automotive - 2
+Other - 2
 
-Beauty & Fashion - 2
+Real Estate - 2
 
-Business Coaching and Consulting - 2
+Restaurant and Bar - 2
 
-Creative - 2
-
-\-----------------------------------------------------
-
-🚀 **1 Facebook Ad Templates Published** 🚀
+Travel & Hospitality - 2
 
 \-----------------------------------------------------
 
-Other - 1
+🚀 **1 New Facebook Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-🚀 **5 Google Ad Templates Published** 🚀
+Restaurant & Bar - 1
 
 \-----------------------------------------------------
 
-Health & Wellness - Mental Health Therapy
+🚀 **5 New Google Ad Templates Published** 🚀
 
-Home Services - Window and Door Installation
+\-----------------------------------------------------
 
-Insurance - Medical Health Insurance
+Health & Wellness - Weight Loss Coach
 
-Legal - Intellectual Property Attorney
+Home Services - Appliance Technician
 
-Marketing Agency - Customer Management Software
+Insurance - Travel Insurance Cover
+
+Legal - Legal Mediation Services
+
+Marketing Agency - Influencer Marketing Agency
 
 \------------------------------------------------------
 
@@ -91,38 +91,38 @@ Marketing Agency - Customer Management Software
 
 \------------------------------------------------------
 
-Medical - Home Health Care
+Real Estate - Title Company
 
-![Artist - Social](https://canny-assets.io/images/cc83e7acf221c3dbcbab3857acc38a7f.png)
+![AI-Powered Assistant - Funnel](https://canny-assets.io/images/361f401b68a4b8fbad6430d7e7881f02.png)
 
-![Bookkeeping Solutions - Quiz](https://canny-assets.io/images/d5a597bcc86fde4505485c64386ba869.png)
+![Appliance Technician - Google Ad](https://canny-assets.io/images/cfe6aec8361ef6a56022d3e96f4cb6e7.png)
 
-![Career Development Coach - Social](https://canny-assets.io/images/817e8341e2a34b95108d73ad719093af.png)
+![Cloud Monitoring - Funnel](https://canny-assets.io/images/6e9a7fa863933263a470327f6f9e25dc.png)
 
-![Customer Management Software - Google Ad](https://canny-assets.io/images/062e269547ee38a12491cabe297af3a1.png)
+![Commercial Property Inspector - Social](https://canny-assets.io/images/badf790ee5b38034192a51ad3ce3a59f.png)
 
-![Hair Parlor - Social](https://canny-assets.io/images/cdeed566bd78fc28b0440f59d14ffcc4.png)
+![Food Delivery - Facebook Ad](https://canny-assets.io/images/e491ec8a00aaf339d17824fd714ee650.png)
 
-![Home Health Care - Snapshot](https://canny-assets.io/images/9e48468be4d156328f4333f5c9fec4d5.png)
+![Food Delivery & Logistics - Social](https://canny-assets.io/images/4e8addc88bb4994a6726641e38db0ba4.png)
 
-![Intellectual Property Attorney - Google Ad](https://canny-assets.io/images/744edc71e942152c8652b855d7075d1c.png)
+![Influencer Marketing Agency - Google Ad](https://canny-assets.io/images/3a40905e3aca16d866fd9c2e52393a12.png)
 
-![Medical Health Insurance - Google Ad](https://canny-assets.io/images/614afe19a307d4624db4167c5f3b2911.png)
+![Legal Mediation Services - Google Ad](https://canny-assets.io/images/78f35e0bfb29e5735b3eb75ba5ad4408.png)
 
-![Mental Health Therapy - Google Ad](https://canny-assets.io/images/078dcdd6f60e13500c7436b83ef4e73d.png)
+![Mediation and Arbitration Services Contact - Form](https://canny-assets.io/images/b24daef70b1038ab76db260e8fdf58ef.png)
 
-![Pressure Washing - Funnel](https://canny-assets.io/images/bb67b5eb61420e6acfca308444b974df.png)
+![Mental Health - Email](https://canny-assets.io/images/1bbbe9dcbc45da46d12861df2868faab.png)
 
-![Retirement Community - Facebook Ad](https://canny-assets.io/images/ba2f8ab920a19cfa5b3fb29b5fbc592f.png)
+![Phone Repair Services - Social](https://canny-assets.io/images/f8bd98e6bbbad5d380ebff0ad25c37fc.png)
 
-![Roadside Assistance - Email](https://canny-assets.io/images/e8dbacb1d41069b7b81d3a13fcd53a1c.png)
+![Software Platform - Funnel](https://canny-assets.io/images/ecf119d5a0ce242d3f766e3f6f89bf09.png)
 
-!\[Tire Depot - Social\](https://
+![Tax Accounting Market Analysis - Survey](https://canny-assets.io/images/a1419a59d0cf800303b278a2444d91c6.png)
 
-![Video Production and Editing Request - Form](https://canny-assets.io/images/e07768b087b60919a8a37fb16d409619.png)
+![Title Company - Snapshot](https://canny-assets.io/images/df2f6689dc8a67571a445071fb2bd8e6.png)
 
-![Window and Door Installation - Google Ad](https://canny-assets.io/images/56bea72dab3207abb1d40531ea6e934b.png)
+![Travel Insurance Cover - Google Ad](https://canny-assets.io/images/7ae1f0d72373b9c0b6da25cae2abb65d.png)
 
-[canny-assets.io/images/ab7c732e3e81d6f66cf7c30733a2ec09.png](http://canny-assets.io/images/ab7c732e3e81d6f66cf7c30733a2ec09.png))
+![Vacation Lodge - Social](https://canny-assets.io/images/5536e78d3cde00e6f5bf2dfdfcee284f.png)
 
-![Tour Guide Market Analysis - Survey](https://canny-assets.io/images/feb9d0bb903bef84e32666d59ed95603.png)
+![Weight Loss Coach - Google Ad](https://canny-assets.io/images/a71a07252d981f1ab65827e55b1ba8b5.png)
