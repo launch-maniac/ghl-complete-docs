@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-16T07:42:00.008Z",
+  "generated": "2025-11-17T07:45:04.453Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 12,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -336,7 +336,7 @@
       "publishedDate": "2025-11-15T06:17:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
@@ -1044,7 +1044,7 @@
       "publishedDate": "2025-11-14T22:54:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cq28388shn8-revamped-trust-center-and-a2p-experience"
     },
     {
@@ -1140,7 +1140,7 @@
       "publishedDate": "2025-11-15T06:57:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dljeza-zjli-the-highlevel-release-radar-november-10th-november-14th-2025"
     },
     {
@@ -2052,7 +2052,7 @@
       "publishedDate": "2025-11-14T22:55:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lw7ppsydtna-clipboard-attachment-support-across-all-channels"
     },
     {
@@ -3096,7 +3096,7 @@
       "publishedDate": "2025-11-15T15:09:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-cards-eu-amp-north-america"
     },
     {
@@ -3504,7 +3504,7 @@
       "publishedDate": "2025-11-14T22:56:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yaebvskdgig-community-course-attribution-reporting-is-live"
     },
     {
@@ -3696,7 +3696,7 @@
       "publishedDate": "2025-11-15T15:08:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zivxidgq7p0-google-analytics-widgets-in-dashboard-and-custom-reports"
     },
     {
