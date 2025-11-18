@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (November 10th - November 14th 2025)"
-video_id: "DljEzA_zJlI"
-url: "https://www.youtube.com/watch?v=DljEzA_zJlI"
-thumbnail: "https://i.ytimg.com/vi/DljEzA_zJlI/hqdefault.jpg"
+title: "Revamped Trust Center and A2P Experience"
+video_id: "0f5Jw67CuGo"
+url: "https://www.youtube.com/watch?v=0f5Jw67CuGo"
+thumbnail: "https://i.ytimg.com/vi/0f5Jw67CuGo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-15T06:57:54.000Z"
+published_date: "2025-11-18T01:00:03.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-18T07:41:05.094Z"
+extracted_at: "2025-11-18T07:41:03.351Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (November 10th - November 14th 2025)
+# 🟢 Revamped Trust Center and A2P Experience
 
-**Video ID:** `DljEzA_zJlI`
+**Video ID:** `0f5Jw67CuGo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/15/2025
+**Published:** 11/18/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-18T07:41:05.094Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DljEzA_zJlI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/DljEzA_zJlI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0f5Jw67CuGo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/0f5Jw67CuGo/hqdefault.jpg)
 
 
 ## Content Guidelines
