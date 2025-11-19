@@ -1,10 +1,10 @@
 ---
-title: "Did You Know You Can Run All Your Socials from the HighLevel Mobile App?"
-video_id: "PfoN_xNo080"
-url: "https://www.youtube.com/watch?v=PfoN_xNo080"
-thumbnail: "https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg"
+title: "Ayden Payments Now Live inside HighLevel — Cards, EU &amp; North America!"
+video_id: "W2PGqzP9Q_o"
+url: "https://www.youtube.com/watch?v=W2PGqzP9Q_o"
+thumbnail: "https://i.ytimg.com/vi/W2PGqzP9Q_o/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-17T15:42:00.000Z"
+published_date: "2025-11-15T15:09:26.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-19T07:39:47.729Z"
+extracted_at: "2025-11-19T07:39:47.975Z"
 
 ---
 
-# 🟢 Did You Know You Can Run All Your Socials from the HighLevel Mobile App?
+# 🟢 Ayden Payments Now Live inside HighLevel — Cards, EU &amp; North America!
 
-**Video ID:** `PfoN_xNo080`
+**Video ID:** `W2PGqzP9Q_o`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/17/2025
+**Published:** 11/15/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-19T07:39:47.729Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PfoN_xNo080)
-- [📷 Thumbnail](https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=W2PGqzP9Q_o)
+- [📷 Thumbnail](https://i.ytimg.com/vi/W2PGqzP9Q_o/hqdefault.jpg)
 
 
 ## Content Guidelines

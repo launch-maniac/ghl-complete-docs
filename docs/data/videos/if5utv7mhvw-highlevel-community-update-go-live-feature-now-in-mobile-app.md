@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Run All Your Socials from the HighLevel Mobile App?"
-video_id: "PfoN_xNo080"
-url: "https://www.youtube.com/watch?v=PfoN_xNo080"
-thumbnail: "https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg"
+title: "HighLevel Community Update: “Go Live” Feature Now in Mobile App!"
+video_id: "IF5UTV7Mhvw"
+url: "https://www.youtube.com/watch?v=IF5UTV7Mhvw"
+thumbnail: "https://i.ytimg.com/vi/IF5UTV7Mhvw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-17T15:42:00.000Z"
+published_date: "2025-11-10T14:38:35.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.3 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.3"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-19T07:39:47.729Z"
+extracted_at: "2025-11-19T07:39:50.828Z"
 
 ---
 
-# 🟢 Did You Know You Can Run All Your Socials from the HighLevel Mobile App?
+# 🟢 HighLevel Community Update: “Go Live” Feature Now in Mobile App!
 
-**Video ID:** `PfoN_xNo080`
+**Video ID:** `IF5UTV7Mhvw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/17/2025
+**Published:** 11/10/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.3 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-19T07:39:47.729Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PfoN_xNo080)
-- [📷 Thumbnail](https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IF5UTV7Mhvw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/IF5UTV7Mhvw/hqdefault.jpg)
 
 
 ## Content Guidelines

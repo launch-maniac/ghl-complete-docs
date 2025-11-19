@@ -1,10 +1,10 @@
 ---
-title: "Did You Know You Can Run All Your Socials from the HighLevel Mobile App?"
-video_id: "PfoN_xNo080"
-url: "https://www.youtube.com/watch?v=PfoN_xNo080"
-thumbnail: "https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg"
+title: "HighLevel Revamped Trust Center and A2P Experience Now Live"
+video_id: "cq28388shN8"
+url: "https://www.youtube.com/watch?v=cq28388shN8"
+thumbnail: "https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-17T15:42:00.000Z"
+published_date: "2025-11-14T22:54:40.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-19T07:39:47.729Z"
+extracted_at: "2025-11-19T07:39:48.763Z"
 
 ---
 
-# 🟢 Did You Know You Can Run All Your Socials from the HighLevel Mobile App?
+# 🟢 HighLevel Revamped Trust Center and A2P Experience Now Live
 
-**Video ID:** `PfoN_xNo080`
+**Video ID:** `cq28388shN8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/17/2025
+**Published:** 11/14/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-19T07:39:47.729Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PfoN_xNo080)
-- [📷 Thumbnail](https://i.ytimg.com/vi/PfoN_xNo080/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cq28388shN8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/cq28388shN8/hqdefault.jpg)
 
 
 ## Content Guidelines

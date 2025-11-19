@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-18T07:41:09.822Z",
+  "generated": "2025-11-19T07:39:55.475Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 25,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -165,10 +165,10 @@
       "videoId": "2gHZmrHN5Fk",
       "url": "https://www.youtube.com/watch?v=2gHZmrHN5Fk",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-10T19:39:03.000Z",
+      "publishedDate": "2025-11-19T06:08:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -412,6 +412,18 @@
       "slug": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025"
     },
     {
+      "filename": "5qitjzlcxmo-how-mitchell-j-alomar-scale-revenue-amp-retention-using-highlevel-crm.md",
+      "title": "How Mitchell J Alomar Scale Revenue &amp; Retention using HighLevel CRM",
+      "videoId": "5QItJzlCXmo",
+      "url": "https://www.youtube.com/watch?v=5QItJzlCXmo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T15:59:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "5qitjzlcxmo-how-mitchell-j-alomar-scale-revenue-amp-retention-using-highlevel-crm"
+    },
+    {
       "filename": "5qitjzlcxmo-scaling-client-revenue-and-retention-with-highlevel.md",
       "title": "Scaling Client Revenue and Retention with HighLevel",
       "videoId": "5QItJzlCXmo",
@@ -446,6 +458,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "5twhobwcipy-from-crm-expert-to-highlevel-power-user-simplifying-automation-and-lead-generation"
+    },
+    {
+      "filename": "5twhobwcipy-highlevel-testimonial-from-crm-expert-to-power-user.md",
+      "title": "HighLevel Testimonial: From CRM Expert to Power User",
+      "videoId": "5tWhoBWCIpY",
+      "url": "https://www.youtube.com/watch?v=5tWhoBWCIpY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T16:26:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "5twhobwcipy-highlevel-testimonial-from-crm-expert-to-power-user"
     },
     {
       "filename": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system.md",
@@ -554,6 +578,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "6rddlchdckm-certificates-badges"
+    },
+    {
+      "filename": "6x6v49krxdg-new-highlevel-templates-are-live.md",
+      "title": "New HighLevel Templates Are Live!",
+      "videoId": "6X6v49kRxdg",
+      "url": "https://www.youtube.com/watch?v=6X6v49kRxdg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:53:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "6x6v49krxdg-new-highlevel-templates-are-live"
     },
     {
       "filename": "6x6v49krxdg-new-templates-live.md",
@@ -1048,6 +1084,18 @@
       "slug": "cnfkp-hw4im-conduct-sales-calls"
     },
     {
+      "filename": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live.md",
+      "title": "HighLevel Voice AI: Noise Cancellation &amp; Backchanneling Are Live!",
+      "videoId": "cNKGA7DAoxE",
+      "url": "https://www.youtube.com/watch?v=cNKGA7DAoxE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-13T14:57:16.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live"
+    },
+    {
       "filename": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling.md",
       "title": "Voice AI - Noise Cancellation &amp; Backchanneling!",
       "videoId": "cNKGA7DAoxE",
@@ -1058,6 +1106,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling"
+    },
+    {
+      "filename": "cq28388shn8-highlevel-revamped-trust-center-and-a2p-experience-now-live.md",
+      "title": "HighLevel Revamped Trust Center and A2P Experience Now Live",
+      "videoId": "cq28388shN8",
+      "url": "https://www.youtube.com/watch?v=cq28388shN8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:54:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "cq28388shn8-highlevel-revamped-trust-center-and-a2p-experience-now-live"
     },
     {
       "filename": "cq28388shn8-revamped-trust-center-and-a2p-experience.md",
@@ -1252,6 +1312,18 @@
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
+      "filename": "ehqhcnk4bqe-how-to-use-csv-to-quickly-upload-and-schedule-blog-posts-in-highlevel.md",
+      "title": "How To Use CSV to Quickly Upload and Schedule Blog Posts in HighLevel",
+      "videoId": "EHQHCNk4bQE",
+      "url": "https://www.youtube.com/watch?v=EHQHCNk4bQE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-18T21:43:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ehqhcnk4bqe-how-to-use-csv-to-quickly-upload-and-schedule-blog-posts-in-highlevel"
+    },
+    {
       "filename": "emsskunf4e0-how-to-enable-or-disable-customers-in-affiliate-management.md",
       "title": "How to Enable or Disable Customers in Affiliate Management",
       "videoId": "EmssKunf4e0",
@@ -1274,6 +1346,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "emsskunf4e0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
+    },
+    {
+      "filename": "erhlhwzjgqe-own-your-brand-amp-scale-without-limits-with-highlevel-39-s-white-labeled-crm.md",
+      "title": "Own Your Brand &amp; Scale Without Limits with HighLevel&#39;s White-Labeled CRM",
+      "videoId": "eRHlHWZJGqE",
+      "url": "https://www.youtube.com/watch?v=eRHlHWZJGqE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-11T16:14:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "erhlhwzjgqe-own-your-brand-amp-scale-without-limits-with-highlevel-39-s-white-labeled-crm"
     },
     {
       "filename": "erhlhwzjgqe-owning-your-brand-and-scaling-without-limits-with-highlevel.md",
@@ -1454,6 +1538,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "g83r-vqplri-backend-trigger-flow-enhancements"
+    },
+    {
+      "filename": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here.md",
+      "title": "Big upgrade alert! HighLevel’s Backend Trigger Flow Enhancements are here.",
+      "videoId": "g83R-VQPlRI",
+      "url": "https://www.youtube.com/watch?v=g83R-VQPlRI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:49:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here"
     },
     {
       "filename": "gadvqqb8lla-page-builder-autosave-performance-enhancements.md",
@@ -1696,6 +1792,18 @@
       "slug": "if5utv7mhvw-community-update-go-live-in-mobile-app-is-live"
     },
     {
+      "filename": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app.md",
+      "title": "HighLevel Community Update: “Go Live” Feature Now in Mobile App!",
+      "videoId": "IF5UTV7Mhvw",
+      "url": "https://www.youtube.com/watch?v=IF5UTV7Mhvw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-10T14:38:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app"
+    },
+    {
       "filename": "ipdspsuthc8-email-builder-bulk-action-campaigns-now-visible-in-email-marketing.md",
       "title": "Email Builder  Bulk Action Campaigns Now Visible in Email Marketing",
       "videoId": "IpDSPSuthC8",
@@ -1752,7 +1860,7 @@
       "publishedDate": "2025-11-17T16:01:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "iy-cwx7-2xg-adyen-payments-now-live-cards-eu-amp-north-america"
     },
     {
@@ -1968,7 +2076,7 @@
       "publishedDate": "2025-11-17T19:00:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kz9ale7oojo-community-course-attribution-reporting"
     },
     {
@@ -2102,6 +2210,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "lw7ppsydtna-clipboard-attachment-support-across-all-channels"
+    },
+    {
+      "filename": "lw7ppsydtna-highlevel-clipboard-attachment-support-across-all-channels-now-live.md",
+      "title": "HighLevel Clipboard Attachment Support Across All Channels Now Live",
+      "videoId": "Lw7pPSyDtnA",
+      "url": "https://www.youtube.com/watch?v=Lw7pPSyDtnA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:55:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "lw7ppsydtna-highlevel-clipboard-attachment-support-across-all-channels-now-live"
     },
     {
       "filename": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests.md",
@@ -2388,7 +2508,7 @@
       "publishedDate": "2025-11-17T15:42:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pfon-xno080-did-you-know-you-can-run-all-your-socials-from-the-highlevel-mobile-app"
     },
     {
@@ -2508,7 +2628,7 @@
       "publishedDate": "2025-11-17T15:43:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert"
     },
     {
@@ -2522,6 +2642,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.9",
       "slug": "qp9xbeseu40-the-highlevel-release-radar-august-18th-august-22nd-2025"
+    },
+    {
+      "filename": "qqjkvzcfumw-from-0-to-780k-how-lorenzo-built-a-thriving-paid-community-on-highlevel.md",
+      "title": "From 0 to $780K: How Lorenzo Built a Thriving Paid Community on HighLevel",
+      "videoId": "QqJKvZcfUmw",
+      "url": "https://www.youtube.com/watch?v=QqJKvZcfUmw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-18T20:15:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qqjkvzcfumw-from-0-to-780k-how-lorenzo-built-a-thriving-paid-community-on-highlevel"
     },
     {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
@@ -2836,6 +2968,30 @@
       "slug": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance"
     },
     {
+      "filename": "tgcabjhecxa-how-to-enhance-your-highlevel-automation-with-typeform-integration.md",
+      "title": "How To Enhance Your HighLevel Automation with Typeform Integration",
+      "videoId": "TgCAbJHecxA",
+      "url": "https://www.youtube.com/watch?v=TgCAbJHecxA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-18T21:45:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tgcabjhecxa-how-to-enhance-your-highlevel-automation-with-typeform-integration"
+    },
+    {
+      "filename": "thhvmv4dqke-conversations-clipboard-attachment-support-across-all-channels.md",
+      "title": "Conversations  Clipboard Attachment Support Across All Channels",
+      "videoId": "THhVMV4dQKE",
+      "url": "https://www.youtube.com/watch?v=THhVMV4dQKE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-18T16:00:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "thhvmv4dqke-conversations-clipboard-attachment-support-across-all-channels"
+    },
+    {
       "filename": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal.md",
       "title": "How to Seamlessly Access Custom Form Data in Appointment Modal",
       "videoId": "TLcKHg01Bfk",
@@ -2858,6 +3014,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
+    },
+    {
+      "filename": "tyhijn6cjva-highlevel-workflows-bulk-operations-are-now-live.md",
+      "title": "HighLevel Workflows: Bulk Operations Are Now Live!",
+      "videoId": "TYHIJn6cjvA",
+      "url": "https://www.youtube.com/watch?v=TYHIJn6cjvA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-12T01:48:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "tyhijn6cjva-highlevel-workflows-bulk-operations-are-now-live"
     },
     {
       "filename": "tyhijn6cjva-workflows-bulk-operations-live.md",
@@ -3170,6 +3338,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-cards-eu-amp-north-america"
+    },
+    {
+      "filename": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america.md",
+      "title": "Ayden Payments Now Live inside HighLevel — Cards, EU &amp; North America!",
+      "videoId": "W2PGqzP9Q_o",
+      "url": "https://www.youtube.com/watch?v=W2PGqzP9Q_o",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-15T15:09:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
     },
     {
       "filename": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel.md",
@@ -3580,6 +3760,18 @@
       "slug": "yaebvskdgig-community-course-attribution-reporting-is-live"
     },
     {
+      "filename": "yaebvskdgig-community-course-attribution-reporting-now-live-highlevel.md",
+      "title": "Community Course Attribution Reporting Now Live - HighLevel",
+      "videoId": "YaeBvSKdGIg",
+      "url": "https://www.youtube.com/watch?v=YaeBvSKdGIg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-14T22:56:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "yaebvskdgig-community-course-attribution-reporting-now-live-highlevel"
+    },
+    {
       "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
       "title": "Day 4 - Five Day AI Employee Challenge",
       "videoId": "YeMyBfRaBnM",
@@ -3744,7 +3936,7 @@
       "publishedDate": "2025-11-10T19:41:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -3809,7 +4001,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 280,
+    "fresh": 296,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -3821,7 +4013,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 271,
+        "fresh": 287,
         "warning": 0,
         "expired": 0,
         "unknown": null
