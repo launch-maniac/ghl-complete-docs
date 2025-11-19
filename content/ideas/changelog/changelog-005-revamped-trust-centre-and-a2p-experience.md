@@ -11,68 +11,76 @@ url: "https://ideas.gohighlevel.com/changelog/revamped-trust-centre-and-a2p-expe
 index: 5
 ---
 
-We’ve rebuilt the Trust Center and the A2P registration flow in Trust Center to make it faster, clearer, and more predictable. Expect cleaner screens, smarter field validations, and a helpful Submission Review step before you hit submit.
+We’ve rebuilt the Trust Center and the A2P registration flow from the ground up — with a sharper focus on clarity, guidance, and reliability.
 
-🔄 What changed :
+The new experience is faster, easier to navigate, and gives users the confidence to submit compliant A2P registrations with fewer rejections.
 
--   A simplified, guided flow with improved labels and inline tips
--   New Submission Review step to verify details before submitting
--   Smarter validations to catch errors early
--   Upcoming additions : Join a Support Call 🎧 and Video Walkthrough ▶️
+**🔄 What’s New :**
 
-🕹How it differs from the old experience :
+-   Guided, step-by-step registration with contextual tips and examples
+-   New Submission Review step to verify all details before submitting
+-   Modern, unified Trust Center layout with clearer structure and help content
+-   Interactive tooltips and inline guidance across every step — including visual aids for EIN, address, and consent examples
+-   Cleaner design system for consistency across all compliance products
 
-Before: the older UI was fragmented — Unclear validation, few support tools and no way to double‑check details before submitting.
+**🕹 How It Differs from the Old Experience :**
 
-Now: the process is simplified, guided, and visually consistent.
+**Entry & Layout :**
 
-🔹 Entry & Progress :
+-   Before: The Trust Center page was fragmented, with separate product cards and minimal context. Information about A2P, CNAM, SHAKEN/STIR, and Voice Integrity was spread across tabs, making it harder for users to understand which product applied to their business needs..
 
--   Old: Separate Brand/Campaign cards under Trust Center with inconsistent design and visual communication
--   New: Modernised Trust Center with revamped, guided flow in Trust Center with clear layout, support articles and tooltips.
+![Screenshot 2025-11-19 at 11](https://canny-assets.io/images/0607d6bb44a4a983b7805cfd21240dc5.png)
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/41482034e9bc3d8e04ba3b533873fa40.png)
+-   Now: The redesigned Trust Center introduces a modern, unified interface that visually groups all trust products in one clear, well-structured view. Each product card now highlights its core value proposition (e.g., compliance, verification, or caller trust) with crisp descriptions, actionable “Start Registration” buttons, and links to detailed resources.
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/55cfaf875b87635d729c65f18407e61e.png)
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/d2d3e16db5b15d7c908adf426dc3464e.png)
 
-🔹 Business/Profile Details :
+**Business & Profile Details:**
 
--   Old: Cluttered UI/UX providing minimal clarity on compliant Brand submissions.
--   New: Inline instructions and with tool-tips to reduce confusion.
+-   Before: Dense forms with limited clarity, often causing incorrect submissions.
+-   Now: Structured sections with inline instructions, live tooltips, and visual reference examples for tax ID, address, and contact information — making compliant data entry simple and foolproof.
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/5da11c96add960414e500f7e5c87a831.png)
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/5b15872359659b795184409b5a709e56.png)
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/0b17fecfa64f55f4f967517b3a3f7994.png)
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/744fc3fb19454b346814dec59d5d16f5.png)
 
-🔹 Consent & Opt‑in :
+**Consent & Opt-In :**
 
--   Old: Static form with minimal clarity.
--   New: Stronger examples and validation for compliant consent text.
+-   Before: Static, text-heavy forms offering little clarity on compliance expectations.
+-   Now: Improved tooltips, visual best practices, check-list for best practises that guide users to complete TCR complaint A2P campaign submissions.
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/c3db03299b654c712caf104cbf5abb2b.png)
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/b563db6a1842d0a7be70d12aa7230671.png)
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/8c0f912d05743431fe543138a161fa7f.png)
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/04e6622411b81432065e7fbae22d687a.png)
 
-🔹 Review & Submission :
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/e8ba7bb06121669cf81d073a3ffd99b7.png)
 
--   Old: Submission occurred directly after data entry — no review.
--   New: Submission Review screen to confirm everything before sending.
+**Review & Submission:**
 
-![Screenshot 2025-11-14 at 9](https://canny-assets.io/images/061626550f7cfea56b7bac23b50cdd90.png)
+-   Before: Users submitted directly after data entry with no way to verify accuracy.
+-   Now: A dedicated Submission Review screen lets users confirm every detail before submitting — reducing avoidable rejections and resubmissions.
 
-🔹 Help & Education :
+![Screenshot 2025-11-19 at 7](https://canny-assets.io/images/e3bf1ea4df5f5adc042b8523490a5ac0.png)
 
--   Old: Limited static notes.
--   New: IN-line guidance, Tool-tips, and Join a Support Call 🎧 and Video Walkthrough ▶️ (both coming soon!).
+**Help & Education:**
 
-💡 Benefits :
+-   Before: Limited tool-tips, no visual examples.
+-   Now: Contextual assistance baked into every step — inline tooltips, visual examples, and embedded best practices — plus upcoming access to Join a Support Call 🎧 and Video Walkthrough ▶️ options directly within the flow.
 
--   Fewer rejections
--   Faster approvals
--   Clearer guidance
--   Streamlined, confidence‑building experience
+**💡 Why This Matters:**
 
-⏳ Coming soon :
+This redesign isn’t just visual polish — it’s a fundamental shift toward a predictable, self-guided, and educational experience that reduces friction and improves compliance outcomes.
 
--   Join a Support Call — live help from inside the flow
--   Video Walkthrough — short visual explainer
+**Users now get:**
+
+-   Fewer rejections and faster approvals
+-   Real-time guidance on compliant input
+-   Clarity at every step, from EIN entry to opt-in setup
+-   A more confident, transparent registration process
+
+**⏳ Coming Soon :**
+
+-   Join a Support Call — live help directly inside the flow
+-   Video Walkthrough — quick in-product visual guide to the entire A2P process
+
+**NOTE** : We’ll update this post once these are live.
