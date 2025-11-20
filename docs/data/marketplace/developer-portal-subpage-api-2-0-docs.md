@@ -3,7 +3,7 @@ title: "API 2.0 Docs"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview"
-extracted_at: "2025-11-20T00:07:46.643Z"
+extracted_at: "2025-11-20T03:26:01.160Z"
 ---
 
 Project not found
