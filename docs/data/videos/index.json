@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-19T07:39:55.475Z",
+  "generated": "2025-11-20T07:40:00.905Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 31,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 31
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -96,7 +96,7 @@
       "publishedDate": "2025-11-18T01:00:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0f5jw67cugo-revamped-trust-center-and-a2p-experience"
     },
     {
@@ -588,7 +588,7 @@
       "publishedDate": "2025-11-12T01:53:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "6x6v49krxdg-new-highlevel-templates-are-live"
     },
     {
@@ -696,7 +696,7 @@
       "publishedDate": "2025-11-17T22:00:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "90g44xiyfba-reporting-google-analytics-widgets-in-dashboard-and-custom-reports"
     },
     {
@@ -888,7 +888,7 @@
       "publishedDate": "2025-10-28T15:31:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.7",
       "slug": "b0hfribiueg-highlevel-funnel-amp-website-enhancements-are-live"
     },
     {
@@ -1116,7 +1116,7 @@
       "publishedDate": "2025-11-14T22:54:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "cq28388shn8-highlevel-revamped-trust-center-and-a2p-experience-now-live"
     },
     {
@@ -1310,6 +1310,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern"
+    },
+    {
+      "filename": "eesm5y1kfyw-how-to-create-report-and-dashboard-templates-in-highlevel.md",
+      "title": "How To Create Report and Dashboard Templates in HighLevel",
+      "videoId": "eEsM5Y1kfYw",
+      "url": "https://www.youtube.com/watch?v=eEsM5Y1kfYw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-19T16:30:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "eesm5y1kfyw-how-to-create-report-and-dashboard-templates-in-highlevel"
     },
     {
       "filename": "ehqhcnk4bqe-how-to-use-csv-to-quickly-upload-and-schedule-blog-posts-in-highlevel.md",
@@ -1548,7 +1560,7 @@
       "publishedDate": "2025-11-12T01:49:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here"
     },
     {
@@ -2220,7 +2232,7 @@
       "publishedDate": "2025-11-14T22:55:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "lw7ppsydtna-highlevel-clipboard-attachment-support-across-all-channels-now-live"
     },
     {
@@ -2752,6 +2764,18 @@
       "slug": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection"
     },
     {
+      "filename": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel.md",
+      "title": "6 Figures from 10 Clients with HighLevel",
+      "videoId": "Rz9tgZFnSQg",
+      "url": "https://www.youtube.com/watch?v=Rz9tgZFnSQg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-19T14:15:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
+    },
+    {
       "filename": "s15-kqskcc4-site-analytics-updates.md",
       "title": "Site Analytics Updates",
       "videoId": "S15-KQSkcc4",
@@ -2796,7 +2820,7 @@
       "publishedDate": "2025-11-18T06:00:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -2920,6 +2944,18 @@
       "slug": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business"
     },
     {
+      "filename": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 1 Replay - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "swVPAeC5ht0",
+      "url": "https://www.youtube.com/watch?v=swVPAeC5ht0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-19T19:09:07.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
       "filename": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights.md",
       "title": "How to Set Up Dashboard Reporting with Payment Widgets and Insights",
       "videoId": "sYz9PE0QWDs",
@@ -2988,7 +3024,7 @@
       "publishedDate": "2025-11-18T16:00:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "thhvmv4dqke-conversations-clipboard-attachment-support-across-all-channels"
     },
     {
@@ -3024,7 +3060,7 @@
       "publishedDate": "2025-11-12T01:48:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "tyhijn6cjva-highlevel-workflows-bulk-operations-are-now-live"
     },
     {
@@ -3348,7 +3384,7 @@
       "publishedDate": "2025-11-15T15:09:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
     },
     {
@@ -3468,7 +3504,7 @@
       "publishedDate": "2025-10-28T15:30:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.7",
       "slug": "wjwsxsfc-e-new-templates-inside-highlevel-are-live"
     },
     {
@@ -3768,7 +3804,7 @@
       "publishedDate": "2025-11-14T22:56:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "yaebvskdgig-community-course-attribution-reporting-now-live-highlevel"
     },
     {
@@ -3904,6 +3940,18 @@
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
+      "filename": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert.md",
+      "title": "Day 2 Replay - Build Your AI Sales Team: Track, Follow Up, Convert",
+      "videoId": "zegb5Rwo834",
+      "url": "https://www.youtube.com/watch?v=zegb5Rwo834",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-19T19:11:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
       "filename": "zgh1gkg5lzy-forms-and-funnels.md",
       "title": "Forms and Funnels",
       "videoId": "ZgH1GKG5LZY",
@@ -3933,10 +3981,10 @@
       "videoId": "zhMg4CPR4Bg",
       "url": "https://www.youtube.com/watch?v=zhMg4CPR4Bg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-10T19:41:11.000Z",
+      "publishedDate": "2025-11-20T06:09:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -4001,7 +4049,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 296,
+    "fresh": 300,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4013,7 +4061,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 287,
+        "fresh": 291,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Voice AI: Noise Cancellation &amp; Backchanneling Are Live!"
-video_id: "cNKGA7DAoxE"
-url: "https://www.youtube.com/watch?v=cNKGA7DAoxE"
-thumbnail: "https://i.ytimg.com/vi/cNKGA7DAoxE/hqdefault.jpg"
+title: "How To Create Report and Dashboard Templates in HighLevel"
+video_id: "eEsM5Y1kfYw"
+url: "https://www.youtube.com/watch?v=eEsM5Y1kfYw"
+thumbnail: "https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-13T14:57:16.000Z"
+published_date: "2025-11-19T16:30:47.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-20T07:39:54.539Z"
+extracted_at: "2025-11-20T07:39:50.918Z"
 
 ---
 
-# 🟢 HighLevel Voice AI: Noise Cancellation &amp; Backchanneling Are Live!
+# 🟢 How To Create Report and Dashboard Templates in HighLevel
 
-**Video ID:** `cNKGA7DAoxE`
+**Video ID:** `eEsM5Y1kfYw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/13/2025
+**Published:** 11/19/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-20T07:39:54.539Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cNKGA7DAoxE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cNKGA7DAoxE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eEsM5Y1kfYw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg)
 
 
 ## Content Guidelines
