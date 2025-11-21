@@ -30,6 +30,12 @@ Each collector can be branded with your logo, and customised background, text, a
 
 ![Screenshot 2025-11-13 at 1](https://canny-assets.io/images/c19646c925ca058cc2e90e2ac6421626.png)
 
+![Collector3](https://canny-assets.io/images/a0c9507c84106f451e103371f2ee2cac.png)
+
+![Collector4](https://canny-assets.io/images/f046c13ce20730666642473f0dd1c49b.png)
+
+![Collector6](https://canny-assets.io/images/fd52d5f0880f1f4b445d2cec75d32b2b.png)
+
 **🗂️ Manage Collectors with Ease**
 
 -   Create unlimited collectors per location.
@@ -45,8 +51,6 @@ Each collector can be branded with your logo, and customised background, text, a
 -   End users can record or upload videos directly from desktop or mobile — no app required!
 -   The Video Length is capped at 2 minute 30 seconds.
 
-![Screenshot 2025-11-13 at 2](https://canny-assets.io/images/23e0dc2059f5fa4878a27a738c82eeb6.png)
-
 **💬Manage and Download Responses**
 
 -   All received videos appear in the Responses tab.
@@ -61,8 +65,6 @@ Each collector can be branded with your logo, and customised background, text, a
 -   Choose from multiple layouts: List, Carousel, Grid, Slider, or Column.
 
 ![Screenshot 2025-11-13 at 2](https://canny-assets.io/images/88303c08acc9aa23f2f31319260a7f89.png)
-
-Click [Here](https://share.synthesia.io/c90ad61b-2d7b-478a-be24-7101600ad049) to see a Video Tutorial on How it Works!
 
 **🧪 Available in Labs Now! Head to Settings → Labs → Video Testimonials to enable it.**
 
