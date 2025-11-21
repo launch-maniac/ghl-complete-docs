@@ -1,14 +1,14 @@
 ---
-title: "How To Create Report and Dashboard Templates in HighLevel"
-video_id: "eEsM5Y1kfYw"
-url: "https://www.youtube.com/watch?v=eEsM5Y1kfYw"
-thumbnail: "https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg"
+title: "Video Testimonials Live!"
+video_id: "JgRqXpe_OTU"
+url: "https://www.youtube.com/watch?v=JgRqXpe_OTU"
+thumbnail: "https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-19T16:30:47.000Z"
+published_date: "2025-11-21T03:12:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-21T07:40:21.287Z"
+extracted_at: "2025-11-21T07:40:20.413Z"
 
 ---
 
-# 🟢 How To Create Report and Dashboard Templates in HighLevel
+# 🟢 Video Testimonials Live!
 
-**Video ID:** `eEsM5Y1kfYw`
+**Video ID:** `JgRqXpe_OTU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/19/2025
+**Published:** 11/21/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-21T07:40:21.287Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eEsM5Y1kfYw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JgRqXpe_OTU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg)
 
 
 ## Content Guidelines

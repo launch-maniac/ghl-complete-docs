@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-20T07:40:00.905Z",
+  "generated": "2025-11-21T07:40:33.999Z",
   "stats": {
     "channels": 1,
-    "videos": 31,
+    "videos": 30,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 31
+    "transcriptsFailed": 30
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -168,7 +168,7 @@
       "publishedDate": "2025-11-19T06:08:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -856,6 +856,18 @@
       "slug": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge"
     },
     {
+      "filename": "azakhuhejke-gift-cards-full-gift-card-creation-selling-sending-amp-redemption-live.md",
+      "title": "Gift Cards – Full Gift Card Creation, Selling, Sending &amp; Redemption Live!",
+      "videoId": "azaKHUHeJkE",
+      "url": "https://www.youtube.com/watch?v=azaKHUHeJkE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T03:13:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "azakhuhejke-gift-cards-full-gift-card-creation-selling-sending-amp-redemption-live"
+    },
+    {
       "filename": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "B-KBD7Y3aGE",
@@ -888,7 +900,7 @@
       "publishedDate": "2025-10-28T15:31:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.7",
+      "ageInMonths": "0.8",
       "slug": "b0hfribiueg-highlevel-funnel-amp-website-enhancements-are-live"
     },
     {
@@ -1092,7 +1104,7 @@
       "publishedDate": "2025-11-13T14:57:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live"
     },
     {
@@ -1320,7 +1332,7 @@
       "publishedDate": "2025-11-19T16:30:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "eesm5y1kfyw-how-to-create-report-and-dashboard-templates-in-highlevel"
     },
     {
@@ -1332,7 +1344,7 @@
       "publishedDate": "2025-11-18T21:43:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ehqhcnk4bqe-how-to-use-csv-to-quickly-upload-and-schedule-blog-posts-in-highlevel"
     },
     {
@@ -1672,6 +1684,18 @@
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
+      "filename": "hekfqly173k-feature-update-public-apis-for-highlevel-ai-agent-studio-now-live.md",
+      "title": "Feature Update: Public APIs for HighLevel AI Agent Studio Now Live",
+      "videoId": "HeKfqLY173k",
+      "url": "https://www.youtube.com/watch?v=HeKfqLY173k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-25T00:46:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.9",
+      "slug": "hekfqly173k-feature-update-public-apis-for-highlevel-ai-agent-studio-now-live"
+    },
+    {
       "filename": "hekfqly173k-public-apis-for-ai-agent-studio-live.md",
       "title": "Public APIs for AI Agent Studio Live!",
       "videoId": "HeKfqLY173k",
@@ -1812,7 +1836,7 @@
       "publishedDate": "2025-11-10T14:38:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app"
     },
     {
@@ -1922,6 +1946,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.4",
       "slug": "jey-jrzmssy-activate-ai-employee"
+    },
+    {
+      "filename": "jgrqxpe-otu-video-testimonials-live.md",
+      "title": "Video Testimonials Live!",
+      "videoId": "JgRqXpe_OTU",
+      "url": "https://www.youtube.com/watch?v=JgRqXpe_OTU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T03:12:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jgrqxpe-otu-video-testimonials-live"
     },
     {
       "filename": "jtrcg8b76wu-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel.md",
@@ -2282,18 +2318,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
-    },
-    {
-      "filename": "mp6fjvxisv8-reputation-management-reviews-ai-agents.md",
-      "title": "Reputation Management  Reviews AI Agents",
-      "videoId": "mp6fjvXISV8",
-      "url": "https://www.youtube.com/watch?v=mp6fjvXISV8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-22T15:01:19.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "4.0",
-      "slug": "mp6fjvxisv8-reputation-management-reviews-ai-agents"
     },
     {
       "filename": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text.md",
@@ -2664,7 +2688,7 @@
       "publishedDate": "2025-11-18T20:15:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qqjkvzcfumw-from-0-to-780k-how-lorenzo-built-a-thriving-paid-community-on-highlevel"
     },
     {
@@ -2772,7 +2796,7 @@
       "publishedDate": "2025-11-19T14:15:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
     },
     {
@@ -3012,7 +3036,7 @@
       "publishedDate": "2025-11-18T21:45:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tgcabjhecxa-how-to-enhance-your-highlevel-automation-with-typeform-integration"
     },
     {
@@ -3504,7 +3528,7 @@
       "publishedDate": "2025-10-28T15:30:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.7",
+      "ageInMonths": "0.8",
       "slug": "wjwsxsfc-e-new-templates-inside-highlevel-are-live"
     },
     {
@@ -3602,6 +3626,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots"
+    },
+    {
+      "filename": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots.md",
+      "title": "Feature Update: HighLevel Agent Studio Integration Now in Snapshots",
+      "videoId": "wY8Nb4aPnWQ",
+      "url": "https://www.youtube.com/watch?v=wY8Nb4aPnWQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-10-25T00:44:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.9",
+      "slug": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots"
     },
     {
       "filename": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing.md",
@@ -4049,7 +4085,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 300,
+    "fresh": 303,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4061,7 +4097,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 291,
+        "fresh": 294,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "How To Create Report and Dashboard Templates in HighLevel"
-video_id: "eEsM5Y1kfYw"
-url: "https://www.youtube.com/watch?v=eEsM5Y1kfYw"
-thumbnail: "https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg"
+title: "Feature Update: HighLevel Agent Studio Integration Now in Snapshots"
+video_id: "wY8Nb4aPnWQ"
+url: "https://www.youtube.com/watch?v=wY8Nb4aPnWQ"
+thumbnail: "https://i.ytimg.com/vi/wY8Nb4aPnWQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-19T16:30:47.000Z"
+published_date: "2025-10-25T00:44:12.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.9 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.9"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-21T07:40:21.287Z"
+extracted_at: "2025-11-21T07:40:26.091Z"
 
 ---
 
-# 🟢 How To Create Report and Dashboard Templates in HighLevel
+# 🟢 Feature Update: HighLevel Agent Studio Integration Now in Snapshots
 
-**Video ID:** `eEsM5Y1kfYw`
+**Video ID:** `wY8Nb4aPnWQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/19/2025
+**Published:** 10/25/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.9 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-21T07:40:21.287Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eEsM5Y1kfYw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/eEsM5Y1kfYw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=wY8Nb4aPnWQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/wY8Nb4aPnWQ/hqdefault.jpg)
 
 
 ## Content Guidelines
