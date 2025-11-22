@@ -1,10 +1,10 @@
 ---
-title: "Video Testimonials Live!"
-video_id: "JgRqXpe_OTU"
-url: "https://www.youtube.com/watch?v=JgRqXpe_OTU"
-thumbnail: "https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg"
+title: "Did You Know You Can Split Test Email Subject Lines in HighLevel?"
+video_id: "hSWfn9v_svQ"
+url: "https://www.youtube.com/watch?v=hSWfn9v_svQ"
+thumbnail: "https://i.ytimg.com/vi/hSWfn9v_svQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-21T03:12:22.000Z"
+published_date: "2025-11-21T17:49:25.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-22T07:38:37.560Z"
+extracted_at: "2025-11-22T07:38:37.048Z"
 
 ---
 
-# 🟢 Video Testimonials Live!
+# 🟢 Did You Know You Can Split Test Email Subject Lines in HighLevel?
 
-**Video ID:** `JgRqXpe_OTU`
+**Video ID:** `hSWfn9v_svQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 11/21/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-11-22T07:38:37.560Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JgRqXpe_OTU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hSWfn9v_svQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/hSWfn9v_svQ/hqdefault.jpg)
 
 
 ## Content Guidelines

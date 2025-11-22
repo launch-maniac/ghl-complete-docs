@@ -1,14 +1,14 @@
 ---
-title: "Summer of AI Coming Soon! Get Prepared Today!"
-video_id: "kjciDM-ylrw"
-url: "https://www.youtube.com/watch?v=kjciDM-ylrw"
-thumbnail: "https://i.ytimg.com/vi/kjciDM-ylrw/hqdefault.jpg"
+title: "The HighLevel Release Radar (November 17th - November 21st 2025)"
+video_id: "Xm3KV78Oqf0"
+url: "https://www.youtube.com/watch?v=Xm3KV78Oqf0"
+thumbnail: "https://i.ytimg.com/vi/Xm3KV78Oqf0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-05-22T20:54:31.000Z"
+published_date: "2025-11-22T07:13:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 4.0 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "4.0"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:14.504Z"
+extracted_at: "2025-11-22T07:38:36.463Z"
 
 ---
 
-# 🟢 Summer of AI Coming Soon! Get Prepared Today!
+# 🟢 The HighLevel Release Radar (November 17th - November 21st 2025)
 
-**Video ID:** `kjciDM-ylrw`
+**Video ID:** `Xm3KV78Oqf0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 5/22/2025
+**Published:** 11/22/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 4.0 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:14.504Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kjciDM-ylrw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/kjciDM-ylrw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Xm3KV78Oqf0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Xm3KV78Oqf0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/22/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

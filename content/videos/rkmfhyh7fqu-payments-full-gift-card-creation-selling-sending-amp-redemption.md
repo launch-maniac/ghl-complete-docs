@@ -1,10 +1,10 @@
 ---
-title: "Video Testimonials Live!"
-video_id: "JgRqXpe_OTU"
-url: "https://www.youtube.com/watch?v=JgRqXpe_OTU"
-thumbnail: "https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg"
+title: "Payments  Full Gift Card Creation, Selling, Sending &amp; Redemption"
+video_id: "rkMFhyh7fQU"
+url: "https://www.youtube.com/watch?v=rkMFhyh7fQU"
+thumbnail: "https://i.ytimg.com/vi/rkMFhyh7fQU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-21T03:12:22.000Z"
+published_date: "2025-11-21T19:01:01.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-22T07:38:37.560Z"
+extracted_at: "2025-11-22T07:38:36.749Z"
 
 ---
 
-# 🟢 Video Testimonials Live!
+# 🟢 Payments  Full Gift Card Creation, Selling, Sending &amp; Redemption
 
-**Video ID:** `JgRqXpe_OTU`
+**Video ID:** `rkMFhyh7fQU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 11/21/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-11-22T07:38:37.560Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JgRqXpe_OTU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=rkMFhyh7fQU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/rkMFhyh7fQU/hqdefault.jpg)
 
 
 ## Content Guidelines

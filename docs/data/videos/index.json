@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-21T07:40:33.999Z",
+  "generated": "2025-11-22T07:38:43.573Z",
   "stats": {
     "channels": 1,
-    "videos": 30,
+    "videos": 14,
     "playlists": 0,
-    "expired": 2,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 30
+    "transcriptsFailed": 14
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -604,18 +604,6 @@
       "slug": "6x6v49krxdg-new-templates-live"
     },
     {
-      "filename": "6xhbm-azwyy-wishlisting-products-in-ecommerce-stores-live.md",
-      "title": "Wishlisting Products in Ecommerce Stores Live!",
-      "videoId": "6XhBM-azwYY",
-      "url": "https://www.youtube.com/watch?v=6XhBM-azwYY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-22T22:27:49.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "4.0",
-      "slug": "6xhbm-azwyy-wishlisting-products-in-ecommerce-stores-live"
-    },
-    {
       "filename": "7-ts0msgbvi-how-to-enable-translation-services-for-voice-ai-calls.md",
       "title": "How to Enable Translation Services for Voice AI Calls",
       "videoId": "7_Ts0MSGbVI",
@@ -662,6 +650,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel"
+    },
+    {
+      "filename": "77r2pv9teng-reputation-management-video-testimonials.md",
+      "title": "Reputation Management  Video Testimonials",
+      "videoId": "77r2PV9teNg",
+      "url": "https://www.youtube.com/watch?v=77r2PV9teNg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T16:30:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "77r2pv9teng-reputation-management-video-testimonials"
     },
     {
       "filename": "7cuxytosawg-user-management-login-as-permission.md",
@@ -1744,6 +1744,18 @@
       "slug": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge"
     },
     {
+      "filename": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel.md",
+      "title": "Did You Know You Can Split Test Email Subject Lines in HighLevel?",
+      "videoId": "hSWfn9v_svQ",
+      "url": "https://www.youtube.com/watch?v=hSWfn9v_svQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T17:49:25.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
+    },
+    {
       "filename": "hvt3wz6dwrm-get-paid.md",
       "title": "Get Paid",
       "videoId": "HvT3wz6DWrM",
@@ -2068,18 +2080,6 @@
       "slug": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025"
     },
     {
-      "filename": "kjcidm-ylrw-summer-of-ai-coming-soon-get-prepared-today.md",
-      "title": "Summer of AI Coming Soon! Get Prepared Today!",
-      "videoId": "kjciDM-ylrw",
-      "url": "https://www.youtube.com/watch?v=kjciDM-ylrw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-22T20:54:31.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "4.0",
-      "slug": "kjcidm-ylrw-summer-of-ai-coming-soon-get-prepared-today"
-    },
-    {
       "filename": "klj5anxy0wq-create-your-conversation-ai-bot.md",
       "title": "Create Your Conversation AI Bot",
       "videoId": "KlJ5anXY0WQ",
@@ -2198,6 +2198,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.7",
       "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
+    },
+    {
+      "filename": "lngnnn9fwcs-did-you-know-you-can-sell-gift-cards-in-highlevel.md",
+      "title": "Did You Know You Can Sell Gift Cards in HighLevel?",
+      "videoId": "lnGNnn9fWCs",
+      "url": "https://www.youtube.com/watch?v=lnGNnn9fWCs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T17:48:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lngnnn9fwcs-did-you-know-you-can-sell-gift-cards-in-highlevel"
     },
     {
       "filename": "lnvtbxni8va-day-1-five-day-ai-employee-challenge.md",
@@ -2776,6 +2788,18 @@
       "slug": "rkhdxe6glx4-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
+      "filename": "rkmfhyh7fqu-payments-full-gift-card-creation-selling-sending-amp-redemption.md",
+      "title": "Payments  Full Gift Card Creation, Selling, Sending &amp; Redemption",
+      "videoId": "rkMFhyh7fQU",
+      "url": "https://www.youtube.com/watch?v=rkMFhyh7fQU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T19:01:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rkmfhyh7fqu-payments-full-gift-card-creation-selling-sending-amp-redemption"
+    },
+    {
       "filename": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection.md",
       "title": "How to Add &#39;Other&#39; Option to Forms &amp; Surveys for Accurate Data Collection",
       "videoId": "RWWjxMOy2cA",
@@ -2793,10 +2817,10 @@
       "videoId": "Rz9tgZFnSQg",
       "url": "https://www.youtube.com/watch?v=Rz9tgZFnSQg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-19T14:15:20.000Z",
+      "publishedDate": "2025-11-22T06:16:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
     },
     {
@@ -2976,7 +3000,7 @@
       "publishedDate": "2025-11-19T19:09:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -3724,6 +3748,18 @@
       "slug": "xlyn7boxilc-wordpress-native-html-embed-for-funnels"
     },
     {
+      "filename": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025.md",
+      "title": "The HighLevel Release Radar (November 17th - November 21st 2025)",
+      "videoId": "Xm3KV78Oqf0",
+      "url": "https://www.youtube.com/watch?v=Xm3KV78Oqf0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-22T07:13:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025"
+    },
+    {
       "filename": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge.md",
       "title": "Day 3 - Five Day AI Employee Challenge",
       "videoId": "XNuwjjQ5bN0",
@@ -3984,7 +4020,7 @@
       "publishedDate": "2025-11-19T19:11:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -4020,7 +4056,7 @@
       "publishedDate": "2025-11-20T06:09:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zhmg4cpr4bg-day-3-saaspreneur-workshop-with-frank-kern"
     },
     {
@@ -4085,7 +4121,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 303,
+    "fresh": 306,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4097,7 +4133,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 294,
+        "fresh": 297,
         "warning": 0,
         "expired": 0,
         "unknown": null

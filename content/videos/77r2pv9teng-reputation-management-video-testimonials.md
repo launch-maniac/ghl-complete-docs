@@ -1,10 +1,10 @@
 ---
-title: "Video Testimonials Live!"
-video_id: "JgRqXpe_OTU"
-url: "https://www.youtube.com/watch?v=JgRqXpe_OTU"
-thumbnail: "https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg"
+title: "Reputation Management  Video Testimonials"
+video_id: "77r2PV9teNg"
+url: "https://www.youtube.com/watch?v=77r2PV9teNg"
+thumbnail: "https://i.ytimg.com/vi/77r2PV9teNg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-21T03:12:22.000Z"
+published_date: "2025-11-21T16:30:06.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-22T07:38:37.560Z"
+extracted_at: "2025-11-22T07:38:37.276Z"
 
 ---
 
-# 🟢 Video Testimonials Live!
+# 🟢 Reputation Management  Video Testimonials
 
-**Video ID:** `JgRqXpe_OTU`
+**Video ID:** `77r2PV9teNg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 11/21/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-11-22T07:38:37.560Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JgRqXpe_OTU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=77r2PV9teNg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/77r2PV9teNg/hqdefault.jpg)
 
 
 ## Content Guidelines
