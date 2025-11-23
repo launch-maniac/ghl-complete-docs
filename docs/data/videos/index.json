@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-22T07:38:43.573Z",
+  "generated": "2025-11-23T07:39:45.594Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 12,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -660,7 +660,7 @@
       "publishedDate": "2025-11-21T16:30:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "77r2pv9teng-reputation-management-video-testimonials"
     },
     {
@@ -864,7 +864,7 @@
       "publishedDate": "2025-11-21T03:13:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "azakhuhejke-gift-cards-full-gift-card-creation-selling-sending-amp-redemption-live"
     },
     {
@@ -1692,7 +1692,7 @@
       "publishedDate": "2025-10-25T00:46:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.9",
+      "ageInMonths": "1.0",
       "slug": "hekfqly173k-feature-update-public-apis-for-highlevel-ai-agent-studio-now-live"
     },
     {
@@ -1752,7 +1752,7 @@
       "publishedDate": "2025-11-21T17:49:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
     },
     {
@@ -1968,7 +1968,7 @@
       "publishedDate": "2025-11-21T03:12:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "jgrqxpe-otu-video-testimonials-live"
     },
     {
@@ -2208,7 +2208,7 @@
       "publishedDate": "2025-11-21T17:48:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lngnnn9fwcs-did-you-know-you-can-sell-gift-cards-in-highlevel"
     },
     {
@@ -2796,7 +2796,7 @@
       "publishedDate": "2025-11-21T19:01:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rkmfhyh7fqu-payments-full-gift-card-creation-selling-sending-amp-redemption"
     },
     {
@@ -3660,7 +3660,7 @@
       "publishedDate": "2025-10-25T00:44:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.9",
+      "ageInMonths": "1.0",
       "slug": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots"
     },
     {
