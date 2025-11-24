@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-23T07:39:45.594Z",
+  "generated": "2025-11-24T07:40:10.858Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 8,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -2820,7 +2820,7 @@
       "publishedDate": "2025-11-22T06:16:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
     },
     {
@@ -3756,7 +3756,7 @@
       "publishedDate": "2025-11-22T07:13:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025"
     },
     {
