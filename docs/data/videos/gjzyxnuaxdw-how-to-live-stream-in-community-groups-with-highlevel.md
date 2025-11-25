@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (November 17th - November 21st 2025)"
-video_id: "Xm3KV78Oqf0"
-url: "https://www.youtube.com/watch?v=Xm3KV78Oqf0"
-thumbnail: "https://i.ytimg.com/vi/Xm3KV78Oqf0/hqdefault.jpg"
+title: "How To Live Stream in Community Groups with HighLevel"
+video_id: "GJZYXNuaXdw"
+url: "https://www.youtube.com/watch?v=GJZYXNuaXdw"
+thumbnail: "https://i.ytimg.com/vi/GJZYXNuaXdw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-22T07:13:22.000Z"
+published_date: "2025-11-24T17:40:17.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-25T07:40:37.084Z"
+extracted_at: "2025-11-25T07:40:36.859Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (November 17th - November 21st 2025)
+# 🟢 How To Live Stream in Community Groups with HighLevel
 
-**Video ID:** `Xm3KV78Oqf0`
+**Video ID:** `GJZYXNuaXdw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/22/2025
+**Published:** 11/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-25T07:40:37.084Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Xm3KV78Oqf0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Xm3KV78Oqf0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GJZYXNuaXdw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/GJZYXNuaXdw/hqdefault.jpg)
 
 
 ## Content Guidelines

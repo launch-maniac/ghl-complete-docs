@@ -2,13 +2,13 @@
 title: "Day 1 Replay - Build Your AI Sales Team: Track, Follow Up, Convert"
 video_id: "swVPAeC5ht0"
 url: "https://www.youtube.com/watch?v=swVPAeC5ht0"
-thumbnail: "https://i.ytimg.com/vi/swVPAeC5ht0/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/swVPAeC5ht0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2025-11-19T19:09:07.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-24T07:40:06.330Z"
+extracted_at: "2025-11-25T07:40:38.013Z"
 
 ---
 
@@ -30,7 +30,7 @@ extracted_at: "2025-11-24T07:40:06.330Z"
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-11-24T07:40:06.330Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=swVPAeC5ht0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/swVPAeC5ht0/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/swVPAeC5ht0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/24/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 11/25/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

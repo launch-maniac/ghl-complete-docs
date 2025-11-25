@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-24T07:40:10.858Z",
+  "generated": "2025-11-25T07:40:42.595Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 6,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1612,6 +1612,18 @@
       "slug": "gcjpjv-wea8-future-of-affiliate-marketing-with-dominic-baptist"
     },
     {
+      "filename": "gjzyxnuaxdw-how-to-live-stream-in-community-groups-with-highlevel.md",
+      "title": "How To Live Stream in Community Groups with HighLevel",
+      "videoId": "GJZYXNuaXdw",
+      "url": "https://www.youtube.com/watch?v=GJZYXNuaXdw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-24T17:40:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gjzyxnuaxdw-how-to-live-stream-in-community-groups-with-highlevel"
+    },
+    {
       "filename": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily.md",
       "title": "How to Connect Notes to Contacts and Opportunities Easily",
       "videoId": "GT5v_iooM_I",
@@ -3000,7 +3012,7 @@
       "publishedDate": "2025-11-19T19:09:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -4020,7 +4032,7 @@
       "publishedDate": "2025-11-19T19:11:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -4121,7 +4133,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 306,
+    "fresh": 307,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4133,7 +4145,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 297,
+        "fresh": 298,
         "warning": 0,
         "expired": 0,
         "unknown": null
