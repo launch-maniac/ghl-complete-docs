@@ -3,11 +3,11 @@
   "fullName": "GoHighLevel/highlevel-api-sdk",
   "description": "Official SDK for HighLevel Public APIs",
   "url": "https://github.com/GoHighLevel/highlevel-api-sdk",
-  "stars": 13,
+  "stars": 14,
   "forks": 6,
-  "lastUpdated": "2025-11-15T17:45:35Z",
+  "lastUpdated": "2025-11-24T17:15:52Z",
   "topics": [],
   "language": "TypeScript",
   "license": "MIT License",
-  "extractedAt": "2025-11-24T02:40:41.012Z"
+  "extractedAt": "2025-11-25T02:38:12.146Z"
 }
