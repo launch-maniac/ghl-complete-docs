@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-25T07:40:42.595Z",
+  "generated": "2025-11-26T07:40:32.382Z",
   "stats": {
     "channels": 1,
-    "videos": 6,
+    "videos": 13,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 6
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -398,6 +398,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.7",
       "slug": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline"
+    },
+    {
+      "filename": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed.md",
+      "title": "Day 1 - Scale with Digital Products, No Ad Spend Needed",
+      "videoId": "57MDqvtnZw4",
+      "url": "https://www.youtube.com/watch?v=57MDqvtnZw4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T20:19:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed"
     },
     {
       "filename": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025.md",
@@ -1120,6 +1132,18 @@
       "slug": "cnkga7daoxe-voice-ai-noise-cancellation-amp-backchanneling"
     },
     {
+      "filename": "cpd8cxmhp30-jake-setterlun-unique-offers-to-scale-your-agency.md",
+      "title": "Jake Setterlun: Unique Offers to Scale Your Agency",
+      "videoId": "cpD8cxmHP30",
+      "url": "https://www.youtube.com/watch?v=cpD8cxmHP30",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T21:12:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cpd8cxmhp30-jake-setterlun-unique-offers-to-scale-your-agency"
+    },
+    {
       "filename": "cq28388shn8-highlevel-revamped-trust-center-and-a2p-experience-now-live.md",
       "title": "HighLevel Revamped Trust Center and A2P Experience Now Live",
       "videoId": "cq28388shN8",
@@ -1620,7 +1644,7 @@
       "publishedDate": "2025-11-24T17:40:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gjzyxnuaxdw-how-to-live-stream-in-community-groups-with-highlevel"
     },
     {
@@ -1720,6 +1744,18 @@
       "slug": "hekfqly173k-public-apis-for-ai-agent-studio-live"
     },
     {
+      "filename": "hgntkmeoh-4-how-to-use-highlevel-39-s-ai-business-card-scanner.md",
+      "title": "How To Use HighLevel&#39;s AI Business Card Scanner",
+      "videoId": "hgntkmEoH-4",
+      "url": "https://www.youtube.com/watch?v=hgntkmEoH-4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T23:31:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hgntkmeoh-4-how-to-use-highlevel-39-s-ai-business-card-scanner"
+    },
+    {
       "filename": "hj1-3wxz1js-migrating-complex-tech-stacks-from-salesforce-and-hubspot-to-highlevel.md",
       "title": "Migrating Complex Tech Stacks From Salesforce and Hubspot to HighLevel",
       "videoId": "HJ1_3WxZ1Js",
@@ -1742,6 +1778,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel"
+    },
+    {
+      "filename": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed.md",
+      "title": "Day 2 - Scale with Digital Products, No Ad Spend Needed",
+      "videoId": "Hn328oEv_qg",
+      "url": "https://www.youtube.com/watch?v=Hn328oEv_qg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T20:20:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed"
     },
     {
       "filename": "hqqs1xvgozw-day-1-five-day-ai-employee-challenge.md",
@@ -2680,6 +2728,18 @@
       "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
     },
     {
+      "filename": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports.md",
+      "title": "How To Leverage HighLevel&#39;s SEO Heatmap for Better Business Ranking Reports",
+      "videoId": "PYUWNDAzLmk",
+      "url": "https://www.youtube.com/watch?v=PYUWNDAzLmk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T18:41:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports"
+    },
+    {
       "filename": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert.md",
       "title": "Did You Know You Can Get Certified to Earn Clients as a HighLevel Expert",
       "videoId": "qNBxLIl3xe8",
@@ -3009,10 +3069,10 @@
       "videoId": "swVPAeC5ht0",
       "url": "https://www.youtube.com/watch?v=swVPAeC5ht0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-19T19:09:07.000Z",
+      "publishedDate": "2025-11-25T08:10:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -3062,6 +3122,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance"
+    },
+    {
+      "filename": "tcmp-nhklq-leverage-highlevel-dashboards-and-custom-reports-for-business-success-across-all-three-hl.md",
+      "title": "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans",
+      "videoId": "_tCmp-nhkLQ",
+      "url": "https://www.youtube.com/watch?v=_tCmp-nhkLQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T19:17:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tcmp-nhklq-leverage-highlevel-dashboards-and-custom-reports-for-business-success-across-all-three-hl"
     },
     {
       "filename": "tgcabjhecxa-how-to-enhance-your-highlevel-automation-with-typeform-integration.md",
@@ -3676,6 +3748,18 @@
       "slug": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots"
     },
     {
+      "filename": "x2lbi7wahli-how-to-use-highlevel-39-s-auto-save-feature-to-safeguard-your-workflows.md",
+      "title": "How To Use HighLevel&#39;s Auto Save Feature to Safeguard Your Workflows",
+      "videoId": "x2Lbi7WahlI",
+      "url": "https://www.youtube.com/watch?v=x2Lbi7WahlI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T18:42:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x2lbi7wahli-how-to-use-highlevel-39-s-auto-save-feature-to-safeguard-your-workflows"
+    },
+    {
       "filename": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing.md",
       "title": "GoKollab BETA Mobile App v2 Now Live for Testing!",
       "videoId": "x3dJbY0SWdw",
@@ -3734,6 +3818,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "x8rjvanf79s-saaspreneur-workshop-with-frank-kern-day-3"
+    },
+    {
+      "filename": "xgavz9u84ka-how-to-automate-call-transcripts-in-highlevel.md",
+      "title": "How To Automate Call Transcripts in HighLevel",
+      "videoId": "Xgavz9U84KA",
+      "url": "https://www.youtube.com/watch?v=Xgavz9U84KA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-25T18:38:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xgavz9u84ka-how-to-automate-call-transcripts-in-highlevel"
     },
     {
       "filename": "xkvpovdribs-how-to-set-up-a-call-script.md",
@@ -4133,7 +4229,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 307,
+    "fresh": 315,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4145,7 +4241,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 298,
+        "fresh": 306,
         "warning": 0,
         "expired": 0,
         "unknown": null

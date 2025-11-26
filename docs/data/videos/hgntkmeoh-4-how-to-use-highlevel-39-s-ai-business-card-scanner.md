@@ -1,14 +1,14 @@
 ---
-title: "How To Live Stream in Community Groups with HighLevel"
-video_id: "GJZYXNuaXdw"
-url: "https://www.youtube.com/watch?v=GJZYXNuaXdw"
-thumbnail: "https://i.ytimg.com/vi/GJZYXNuaXdw/hqdefault.jpg"
+title: "How To Use HighLevel&#39;s AI Business Card Scanner"
+video_id: "hgntkmEoH-4"
+url: "https://www.youtube.com/watch?v=hgntkmEoH-4"
+thumbnail: "https://i.ytimg.com/vi/hgntkmEoH-4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-24T17:40:17.000Z"
+published_date: "2025-11-25T23:31:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-26T07:40:26.778Z"
+extracted_at: "2025-11-26T07:40:24.603Z"
 
 ---
 
-# 🟢 How To Live Stream in Community Groups with HighLevel
+# 🟢 How To Use HighLevel&#39;s AI Business Card Scanner
 
-**Video ID:** `GJZYXNuaXdw`
+**Video ID:** `hgntkmEoH-4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/24/2025
+**Published:** 11/25/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-26T07:40:26.778Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GJZYXNuaXdw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GJZYXNuaXdw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hgntkmEoH-4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/hgntkmEoH-4/hqdefault.jpg)
 
 
 ## Content Guidelines

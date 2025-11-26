@@ -1,14 +1,14 @@
 ---
-title: "Day 2 Replay - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "zegb5Rwo834"
-url: "https://www.youtube.com/watch?v=zegb5Rwo834"
-thumbnail: "https://i.ytimg.com/vi/zegb5Rwo834/hqdefault.jpg"
+title: "Day 1 - Scale with Digital Products, No Ad Spend Needed"
+video_id: "57MDqvtnZw4"
+url: "https://www.youtube.com/watch?v=57MDqvtnZw4"
+thumbnail: "https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-19T19:11:36.000Z"
+published_date: "2025-11-25T20:19:02.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-26T07:40:27.662Z"
+extracted_at: "2025-11-26T07:40:25.259Z"
 
 ---
 
-# 🟢 Day 2 Replay - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Day 1 - Scale with Digital Products, No Ad Spend Needed
 
-**Video ID:** `zegb5Rwo834`
+**Video ID:** `57MDqvtnZw4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/19/2025
+**Published:** 11/25/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-26T07:40:27.662Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zegb5Rwo834)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zegb5Rwo834/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=57MDqvtnZw4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault_live.jpg)
 
 
 ## Content Guidelines
