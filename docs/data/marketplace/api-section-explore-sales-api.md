@@ -3,7 +3,7 @@ title: "Explore Sales API →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/ghl/opportunities/opportunities"
-extracted_at: "2025-11-26T12:10:37.258Z"
+extracted_at: "2025-11-26T15:10:02.845Z"
 ---
 
 -   [](/docs/)
