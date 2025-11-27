@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-26T07:40:32.382Z",
+  "generated": "2025-11-27T07:40:44.815Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 20,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -448,18 +448,6 @@
       "slug": "5qitjzlcxmo-scaling-client-revenue-and-retention-with-highlevel"
     },
     {
-      "filename": "5r-srd0e5q-whatsapp-whatsapp-v2-action.md",
-      "title": "WhatsApp  WhatsApp V2 Action",
-      "videoId": "_5R_sRd0e5Q",
-      "url": "https://www.youtube.com/watch?v=_5R_sRd0e5Q",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-05-28T15:00:56.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.8",
-      "slug": "5r-srd0e5q-whatsapp-whatsapp-v2-action"
-    },
-    {
       "filename": "5twhobwcipy-from-crm-expert-to-highlevel-power-user-simplifying-automation-and-lead-generation.md",
       "title": "From CRM Expert to HighLevel Power User: Simplifying Automation and Lead Generation",
       "videoId": "5tWhoBWCIpY",
@@ -832,6 +820,18 @@
       "slug": "asdysa8yn38-notification-sound-option-in-chat-widget"
     },
     {
+      "filename": "asz98ylsehq-mobile-app-service-v2-appointments-in-calendars-live.md",
+      "title": "Mobile App - Service v2 Appointments in Calendars Live!",
+      "videoId": "aSZ98ylsEhQ",
+      "url": "https://www.youtube.com/watch?v=aSZ98ylsEhQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T23:23:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "asz98ylsehq-mobile-app-service-v2-appointments-in-calendars-live"
+    },
+    {
       "filename": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop.md",
       "title": "Day 1 - Chat Smarter, Sell Faster: The AI Chat Workshop",
       "videoId": "autII1ofRSc",
@@ -878,6 +878,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "azakhuhejke-gift-cards-full-gift-card-creation-selling-sending-amp-redemption-live"
+    },
+    {
+      "filename": "azakhuhejke-highlevel-gift-cards-now-live-with-full-creation-selling-sending-and-redemption.md",
+      "title": "HighLevel Gift Cards Now Live with Full Creation Selling Sending and Redemption",
+      "videoId": "azaKHUHeJkE",
+      "url": "https://www.youtube.com/watch?v=azaKHUHeJkE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T03:13:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "azakhuhejke-highlevel-gift-cards-now-live-with-full-creation-selling-sending-and-redemption"
     },
     {
       "filename": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
@@ -1600,6 +1612,18 @@
       "slug": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here"
     },
     {
+      "filename": "gaaenp-pz5a-forms-one-click-order-upsell-live.md",
+      "title": "Forms One Click Order Upsell Live!",
+      "videoId": "GaaeNp-pZ5A",
+      "url": "https://www.youtube.com/watch?v=GaaeNp-pZ5A",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T23:21:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gaaenp-pz5a-forms-one-click-order-upsell-live"
+    },
+    {
       "filename": "gadvqqb8lla-page-builder-autosave-performance-enhancements.md",
       "title": "Page Builder  Autosave   Performance Enhancements",
       "videoId": "GaDVqqB8llA",
@@ -2018,6 +2042,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.4",
       "slug": "jey-jrzmssy-activate-ai-employee"
+    },
+    {
+      "filename": "jgrqxpe-otu-video-testimonials-collection-feature-now-live.md",
+      "title": "Video Testimonials Collection Feature Now Live",
+      "videoId": "JgRqXpe_OTU",
+      "url": "https://www.youtube.com/watch?v=JgRqXpe_OTU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-21T03:12:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "jgrqxpe-otu-video-testimonials-collection-feature-now-live"
     },
     {
       "filename": "jgrqxpe-otu-video-testimonials-live.md",
@@ -2500,6 +2536,18 @@
       "slug": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
+      "filename": "ojjohwrq-f4-button-icons-for-form-builder.md",
+      "title": "Button Icons for Form Builder!",
+      "videoId": "ojJohwRq-f4",
+      "url": "https://www.youtube.com/watch?v=ojJohwRq-f4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T23:20:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ojjohwrq-f4-button-icons-for-form-builder"
+    },
+    {
       "filename": "ookdrqriqmi-barbershop-playbook-is-live.md",
       "title": "Barbershop Playbook is Live!",
       "videoId": "OokDRQrIQMI",
@@ -2736,7 +2784,7 @@
       "publishedDate": "2025-11-25T18:41:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports"
     },
     {
@@ -2892,7 +2940,7 @@
       "publishedDate": "2025-11-22T06:16:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
     },
     {
@@ -3072,7 +3120,7 @@
       "publishedDate": "2025-11-25T08:10:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -3350,6 +3398,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "uqzjm8bis10-welcome-to-saaspeneurship"
+    },
+    {
+      "filename": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel.md",
+      "title": "Did You Know You Can Auto Assign Leads in HighLevel?",
+      "videoId": "-url8myu0Uc",
+      "url": "https://www.youtube.com/watch?v=-url8myu0Uc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T16:24:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel"
     },
     {
       "filename": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win.md",
@@ -3688,6 +3748,18 @@
       "slug": "wq3ewc-lcig-day-3-the-five-day-ai-employee-challenge"
     },
     {
+      "filename": "wrxt4uzke1m-google-business-profile-post-scheduler-live.md",
+      "title": "Google Business Profile Post Scheduler Live!",
+      "videoId": "wrXt4uzke1M",
+      "url": "https://www.youtube.com/watch?v=wrXt4uzke1M",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T23:22:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wrxt4uzke1m-google-business-profile-post-scheduler-live"
+    },
+    {
       "filename": "wurrxzeawr4-ads-manager-google.md",
       "title": "Ads Manager (Google)",
       "videoId": "wURrxZEawr4",
@@ -3756,7 +3828,7 @@
       "publishedDate": "2025-11-25T18:42:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "x2lbi7wahli-how-to-use-highlevel-39-s-auto-save-feature-to-safeguard-your-workflows"
     },
     {
@@ -3828,7 +3900,7 @@
       "publishedDate": "2025-11-25T18:38:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xgavz9u84ka-how-to-automate-call-transcripts-in-highlevel"
     },
     {
@@ -4072,6 +4144,18 @@
       "slug": "ywqst7pv7i8-quick-wins-introduction"
     },
     {
+      "filename": "yx7etoh9qos-did-you-know-you-can-monetize-courses-amp-content-with-communities.md",
+      "title": "Did You Know You Can Monetize Courses &amp; Content with Communities",
+      "videoId": "Yx7eToH9qOs",
+      "url": "https://www.youtube.com/watch?v=Yx7eToH9qOs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-11-26T16:09:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yx7etoh9qos-did-you-know-you-can-monetize-courses-amp-content-with-communities"
+    },
+    {
       "filename": "z0bez-tosym-bot-goals.md",
       "title": "Bot Goals",
       "videoId": "Z0BEZ_TosyM",
@@ -4125,10 +4209,10 @@
       "videoId": "zegb5Rwo834",
       "url": "https://www.youtube.com/watch?v=zegb5Rwo834",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-19T19:11:36.000Z",
+      "publishedDate": "2025-11-26T08:17:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
@@ -4229,7 +4313,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 315,
+    "fresh": 322,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4241,7 +4325,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 306,
+        "fresh": 313,
         "warning": 0,
         "expired": 0,
         "unknown": null

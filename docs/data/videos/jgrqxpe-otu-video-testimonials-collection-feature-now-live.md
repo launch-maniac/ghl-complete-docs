@@ -1,14 +1,14 @@
 ---
-title: "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans"
-video_id: "_tCmp-nhkLQ"
-url: "https://www.youtube.com/watch?v=_tCmp-nhkLQ"
-thumbnail: "https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg"
+title: "Video Testimonials Collection Feature Now Live"
+video_id: "JgRqXpe_OTU"
+url: "https://www.youtube.com/watch?v=JgRqXpe_OTU"
+thumbnail: "https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T19:17:56.000Z"
+published_date: "2025-11-21T03:12:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.0 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.0"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-27T07:40:38.950Z"
+extracted_at: "2025-11-27T07:40:40.371Z"
 
 ---
 
-# 🟢 Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans
+# 🟢 Video Testimonials Collection Feature Now Live
 
-**Video ID:** `_tCmp-nhkLQ`
+**Video ID:** `JgRqXpe_OTU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 11/21/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.0 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-27T07:40:38.950Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_tCmp-nhkLQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JgRqXpe_OTU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/JgRqXpe_OTU/hqdefault.jpg)
 
 
 ## Content Guidelines

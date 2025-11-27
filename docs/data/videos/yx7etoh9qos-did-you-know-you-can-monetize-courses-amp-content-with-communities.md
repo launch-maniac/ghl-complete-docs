@@ -1,10 +1,10 @@
 ---
-title: "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans"
-video_id: "_tCmp-nhkLQ"
-url: "https://www.youtube.com/watch?v=_tCmp-nhkLQ"
-thumbnail: "https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg"
+title: "Did You Know You Can Monetize Courses &amp; Content with Communities"
+video_id: "Yx7eToH9qOs"
+url: "https://www.youtube.com/watch?v=Yx7eToH9qOs"
+thumbnail: "https://i.ytimg.com/vi/Yx7eToH9qOs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T19:17:56.000Z"
+published_date: "2025-11-26T16:09:01.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-27T07:40:38.950Z"
+extracted_at: "2025-11-27T07:40:37.908Z"
 
 ---
 
-# 🟢 Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans
+# 🟢 Did You Know You Can Monetize Courses &amp; Content with Communities
 
-**Video ID:** `_tCmp-nhkLQ`
+**Video ID:** `Yx7eToH9qOs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 11/26/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-27T07:40:38.950Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_tCmp-nhkLQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Yx7eToH9qOs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Yx7eToH9qOs/hqdefault.jpg)
 
 
 ## Content Guidelines

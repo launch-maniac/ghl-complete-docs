@@ -1,10 +1,10 @@
 ---
-title: "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans"
-video_id: "_tCmp-nhkLQ"
-url: "https://www.youtube.com/watch?v=_tCmp-nhkLQ"
-thumbnail: "https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg"
+title: "Forms One Click Order Upsell Live!"
+video_id: "GaaeNp-pZ5A"
+url: "https://www.youtube.com/watch?v=GaaeNp-pZ5A"
+thumbnail: "https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T19:17:56.000Z"
+published_date: "2025-11-26T23:21:19.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-27T07:40:38.950Z"
+extracted_at: "2025-11-27T07:40:37.365Z"
 
 ---
 
-# 🟢 Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans
+# 🟢 Forms One Click Order Upsell Live!
 
-**Video ID:** `_tCmp-nhkLQ`
+**Video ID:** `GaaeNp-pZ5A`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 11/26/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-27T07:40:38.950Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_tCmp-nhkLQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GaaeNp-pZ5A)
+- [📷 Thumbnail](https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg)
 
 
 ## Content Guidelines

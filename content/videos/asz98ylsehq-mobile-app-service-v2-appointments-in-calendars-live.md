@@ -1,10 +1,10 @@
 ---
-title: "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans"
-video_id: "_tCmp-nhkLQ"
-url: "https://www.youtube.com/watch?v=_tCmp-nhkLQ"
-thumbnail: "https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg"
+title: "Mobile App - Service v2 Appointments in Calendars Live!"
+video_id: "aSZ98ylsEhQ"
+url: "https://www.youtube.com/watch?v=aSZ98ylsEhQ"
+thumbnail: "https://i.ytimg.com/vi/aSZ98ylsEhQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T19:17:56.000Z"
+published_date: "2025-11-26T23:23:01.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-27T07:40:38.950Z"
+extracted_at: "2025-11-27T07:40:37.247Z"
 
 ---
 
-# 🟢 Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans
+# 🟢 Mobile App - Service v2 Appointments in Calendars Live!
 
-**Video ID:** `_tCmp-nhkLQ`
+**Video ID:** `aSZ98ylsEhQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 11/26/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-27T07:40:38.950Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_tCmp-nhkLQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_tCmp-nhkLQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aSZ98ylsEhQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/aSZ98ylsEhQ/hqdefault.jpg)
 
 
 ## Content Guidelines
