@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-11-28T03:26:57.419Z"
+extracted_at: "2025-11-28T06:08:30.810Z"
 ---
 
 # Hi, how can we help you?
@@ -156,17 +156,17 @@ Modified on Tue, 26 Aug at 3:40 AM
 
 ](/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq)[
 
-How to set up Root Domain/Subdomain for your Funnels/Websites?
-
-Modified on Thu, 4 Sep at 11:13 PM
-
-](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
-
 LC Phone Pricing & Billing Guide
 
 Modified on Tue, 4 Nov at 9:05 AM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
+
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+
+Modified on Thu, 4 Sep at 11:13 PM
+
+](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
 List of Merge Fields
 
