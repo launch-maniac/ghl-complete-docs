@@ -1,14 +1,14 @@
 ---
-title: "Jake Setterlun: Unique Offers to Scale Your Agency"
-video_id: "cpD8cxmHP30"
-url: "https://www.youtube.com/watch?v=cpD8cxmHP30"
-thumbnail: "https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (November 24th - November 28th 2025)"
+video_id: "O9zOFzhTm9s"
+url: "https://www.youtube.com/watch?v=O9zOFzhTm9s"
+thumbnail: "https://i.ytimg.com/vi/O9zOFzhTm9s/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T21:12:29.000Z"
+published_date: "2025-11-29T07:08:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-29T07:39:08.510Z"
+extracted_at: "2025-11-29T07:39:06.303Z"
 
 ---
 
-# 🟢 Jake Setterlun: Unique Offers to Scale Your Agency
+# 🟢 The HighLevel Release Radar (November 24th - November 28th 2025)
 
-**Video ID:** `cpD8cxmHP30`
+**Video ID:** `O9zOFzhTm9s`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 11/29/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-11-29T07:39:08.510Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cpD8cxmHP30)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=O9zOFzhTm9s)
+- [📷 Thumbnail](https://i.ytimg.com/vi/O9zOFzhTm9s/hqdefault.jpg)
 
 
 ## Content Guidelines

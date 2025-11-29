@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Monetize Courses &amp; Content with Communities"
-video_id: "Yx7eToH9qOs"
-url: "https://www.youtube.com/watch?v=Yx7eToH9qOs"
-thumbnail: "https://i.ytimg.com/vi/Yx7eToH9qOs/hqdefault.jpg"
+title: "Voice AI - More Voices, More Languages &amp; ElevenLabs Import Live!"
+video_id: "Redmtab3CgI"
+url: "https://www.youtube.com/watch?v=Redmtab3CgI"
+thumbnail: "https://i.ytimg.com/vi/Redmtab3CgI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-26T16:09:01.000Z"
+published_date: "2025-11-28T22:30:17.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-29T07:39:07.783Z"
+extracted_at: "2025-11-29T07:39:06.549Z"
 
 ---
 
-# 🟢 Did You Know You Can Monetize Courses &amp; Content with Communities
+# 🟢 Voice AI - More Voices, More Languages &amp; ElevenLabs Import Live!
 
-**Video ID:** `Yx7eToH9qOs`
+**Video ID:** `Redmtab3CgI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/26/2025
+**Published:** 11/28/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-29T07:39:07.783Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Yx7eToH9qOs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Yx7eToH9qOs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Redmtab3CgI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Redmtab3CgI/hqdefault.jpg)
 
 
 ## Content Guidelines
