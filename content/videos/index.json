@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-29T07:39:15.846Z",
+  "generated": "2025-11-30T07:39:02.905Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 8,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1149,10 +1149,10 @@
       "videoId": "cpD8cxmHP30",
       "url": "https://www.youtube.com/watch?v=cpD8cxmHP30",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-25T21:12:29.000Z",
+      "publishedDate": "2025-11-30T05:50:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "cpd8cxmhp30-jake-setterlun-unique-offers-to-scale-your-agency"
     },
     {
