@@ -1,14 +1,14 @@
 {
-  "generated": "2025-11-30T07:39:02.905Z",
+  "generated": "2025-12-01T07:42:45.580Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 6,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -408,7 +408,7 @@
       "publishedDate": "2025-11-25T20:19:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed"
     },
     {
@@ -1812,7 +1812,7 @@
       "publishedDate": "2025-11-25T20:20:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed"
     },
     {
@@ -2544,7 +2544,7 @@
       "publishedDate": "2025-11-29T07:08:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "o9zofzhtm9s-the-highlevel-release-radar-november-24th-november-28th-2025"
     },
     {
@@ -2892,7 +2892,7 @@
       "publishedDate": "2025-11-28T22:30:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "redmtab3cgi-voice-ai-more-voices-more-languages-amp-elevenlabs-import-live"
     },
     {
@@ -3432,7 +3432,7 @@
       "publishedDate": "2025-11-26T16:24:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel"
     },
     {
