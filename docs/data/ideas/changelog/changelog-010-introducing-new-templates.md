@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "6921fd73d6312856f78ec21e"
+guid: "692a2e36c329c3bae8eab8e3"
 author: "Sales &amp; Marketing"
-pubDate: "2025-11-22T18:18:36.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-69"
+pubDate: "2025-11-28T23:28:08.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-70"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-69"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-70"
 index: 10
 ---
 
@@ -17,69 +17,59 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Website Templates Published** 🚀
+🚀 **2 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Medical - 1
+Restaurant and Bar - 1
+
+Home Services - 1
 
 \------------------------------------------------------
 
-🚀 **3 New Funnel Templates Published** 🚀
+🚀 **1 New Funnel Templates Published** 🚀
 
 \------------------------------------------------------
-
-Marketing Agency - 2
 
 Other - 1
 
 \------------------------------------------------------
 
-🚀 **1 New Store Templates Published** 🚀
+🚀 **1 New Email Templates Published** 🚀
 
 \------------------------------------------------------
 
-Apparel - 1
+Other - 1
 
 \-----------------------------------------------------
 
-🚀 **8 New Social Templates Published** 🚀
+🚀 **1 New Form Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Beauty & Fashion - 2
-
-Business Coaching and Consulting - 2
-
-Creative - 2
-
-Financial - 2
-
-Health & Wellness - 2
+Marketing Agency - 1
 
 \-----------------------------------------------------
 
-🚀 **1 New Facebook Ad Templates Published** 🚀
+🚀 **1 New Survey Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Travel & Hospitality - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
-🚀 **5 New Google Ad Templates Published** 🚀
+🚀 **4 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Medical - Chiropractic
+Home Services - 2
 
-Other - Local Art Gallery
+Insurance - 2
 
-Real Estate - Realtor
+Legal - 2
 
-Restaurant & Bar - Banquet Hall
-
-Travel & Hospitality - Bed & Breakfast Stay
+Marketing Agency - 2
 
 \------------------------------------------------------
 
@@ -87,40 +77,26 @@ Travel & Hospitality - Bed & Breakfast Stay
 
 \------------------------------------------------------
 
-Travel & Hospitality - RV Rental Agency
+Automotive - Brake & Muffler Shop
 
-![Apparel - Store](https://canny-assets.io/images/c039991b814b56881125c3d1aebfc0d5.png)
+![Affiliate Marketing Agency Lead - Form](https://canny-assets.io/images/8bdf3cf3545efc19c8baa8b82553e8e3.png)
 
-![Architecture Design - Social](https://canny-assets.io/images/c22c5ec5df3095c6ab21ca504f762da8.png)
+![Brake & Muffler Shop - Snapshot](https://canny-assets.io/images/cfd6c42b7323826dc4cb07df31cadecb.png)
 
-![B2B SaaS - Funnel](https://canny-assets.io/images/b68cce102599312af02bcc70f355b998.png)
+![Cyber Monday - Email](https://canny-assets.io/images/af7c69133b4a3fd3c0e6c73a563a0886.png)
 
-![Banquet Hall - Google Ad](https://canny-assets.io/images/a3c10c8c5d88f5b0d0dff209570f6cef.png)
+![Deck Builder Customer Satisfaction - Survey](https://canny-assets.io/images/7df64443950ba85d589a4960155fc3d4.png)
 
-![Bed & Breakfast Stay - Google Ad](https://canny-assets.io/images/aceed82bc50910e7f44622fd6886619b.png)
+![Home Insulation - Social](https://canny-assets.io/images/e6e20453fa1c1560417a471d5f52a794.png)
 
-![Chiropractic - Google Ad](https://canny-assets.io/images/8af8928dee494597d2931ec27a703a39.png)
+![Junk Haulers - Website](https://canny-assets.io/images/f8ae739aabf379409f6bec269470c694.png)
 
-![Health Care - Website](https://canny-assets.io/images/0560ac2cc0ecb398af60f9fba9dbd318.png)
+![Life Insurance Cover - Social](https://canny-assets.io/images/7d2ad3c5686846c386643be950fd2fc8.png)
 
-!\[Lash Extension Salon - Social\](htt
+![Public Relations Firm - Social](https://canny-assets.io/images/52530720a53e09da40c45f24ae3dc4ef.png)
 
-![Muffler & Brake Depot - Social](https://canny-assets.io/images/1b2e2a06de10c8d6daf1af7d97896441.png)
+![Real Estate Attorney - Social](https://canny-assets.io/images/cd61067ffe5dab1c04c0f2a3ed407ee6.png)
 
-![Realtor - Google Ad](https://canny-assets.io/images/230ff90756d8e239a6656c5bdd7c65ca.png)
+![Café - Website](https://canny-assets.io/images/365b6933015c5cd8a978aa22210c8619.png)
 
-![RV Rental Agency - Snapshot](https://canny-assets.io/images/f953e6a5a5aa7d7a9e934c0a1d75e2e1.png)
-
-!\[Success Coaching - Social\]([https://canny-](https://canny-)
-
-![Project Management AI - Funnel](https://canny-assets.io/images/626608dde024d1b62e5d18e59703f791.png)
-
-[assets.io/images/ab97fa581fd4c87e0bb66f3eb9e09d64.png](http://assets.io/images/ab97fa581fd4c87e0bb66f3eb9e09d64.png))
-
-![Campgrounds - Facebook Ad](https://canny-assets.io/images/e18429d400735522b134f571e0326c8e.png)
-
-![Product Launch - Funnel](https://canny-assets.io/images/681379540ee6b0f24794d58e0ec61aa8.png)
-
-ps:)
-
-![Local Art Gallery - Google Ad](https://canny-assets.io/images/bbb1dc7fe6ae61d91430065aa7edb9fa.png)
+![Product Awareness - Funnel](https://canny-assets.io/images/838826a155ec86f5e3d0a159ba0fabcb.png)
