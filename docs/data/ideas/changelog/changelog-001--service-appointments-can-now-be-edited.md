@@ -55,3 +55,5 @@ Modifying paid appointments remain locked for structural changes (e.g., service 
 -   🛠️ **Operational Flexibility**: Accommodate client requests **without rebooking** from scratch due to minor errors or updates.
 -   ⏱ **Save time** by editing or duplicating directly in-app
 -   🔁 Great for **rebooking** repeat customers with minor changes
+
+`Note: Editing Service Appointments is currently available on the web app only. Support for the mobile app is coming soon.`
