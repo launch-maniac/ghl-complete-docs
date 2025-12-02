@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Scale with Digital Products, No Ad Spend Needed"
-video_id: "Hn328oEv_qg"
-url: "https://www.youtube.com/watch?v=Hn328oEv_qg"
-thumbnail: "https://i.ytimg.com/vi/Hn328oEv_qg/hqdefault_live.jpg"
+title: "Snapshot Masterclass: Build Smarter with HighLevel"
+video_id: "M90nBYL8gds"
+url: "https://www.youtube.com/watch?v=M90nBYL8gds"
+thumbnail: "https://i.ytimg.com/vi/M90nBYL8gds/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T20:20:46.000Z"
+published_date: "2025-12-01T22:30:18.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-02T07:42:11.611Z"
+extracted_at: "2025-12-02T07:42:08.815Z"
 
 ---
 
-# 🟢 Day 2 - Scale with Digital Products, No Ad Spend Needed
+# 🟢 Snapshot Masterclass: Build Smarter with HighLevel
 
-**Video ID:** `Hn328oEv_qg`
+**Video ID:** `M90nBYL8gds`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 12/1/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-12-02T07:42:11.611Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Hn328oEv_qg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Hn328oEv_qg/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=M90nBYL8gds)
+- [📷 Thumbnail](https://i.ytimg.com/vi/M90nBYL8gds/hqdefault_live.jpg)
 
 
 ## Content Guidelines

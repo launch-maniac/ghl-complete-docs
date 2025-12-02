@@ -1,14 +1,14 @@
 ---
-title: "Jake Setterlun: Unique Offers to Scale Your Agency"
-video_id: "cpD8cxmHP30"
-url: "https://www.youtube.com/watch?v=cpD8cxmHP30"
-thumbnail: "https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg"
+title: "Google Business Profile Post Scheduler"
+video_id: "B4anFNRqj3I"
+url: "https://www.youtube.com/watch?v=B4anFNRqj3I"
+thumbnail: "https://i.ytimg.com/vi/B4anFNRqj3I/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-30T05:50:04.000Z"
+published_date: "2025-12-01T19:00:28.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-02T07:42:10.091Z"
+extracted_at: "2025-12-02T07:42:09.313Z"
 
 ---
 
-# 🟢 Jake Setterlun: Unique Offers to Scale Your Agency
+# 🟢 Google Business Profile Post Scheduler
 
-**Video ID:** `cpD8cxmHP30`
+**Video ID:** `B4anFNRqj3I`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/30/2025
+**Published:** 12/1/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-02T07:42:10.091Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cpD8cxmHP30)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=B4anFNRqj3I)
+- [📷 Thumbnail](https://i.ytimg.com/vi/B4anFNRqj3I/hqdefault.jpg)
 
 
 ## Content Guidelines

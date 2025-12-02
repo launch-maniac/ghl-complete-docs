@@ -1,14 +1,14 @@
 ---
-title: "Jake Setterlun: Unique Offers to Scale Your Agency"
-video_id: "cpD8cxmHP30"
-url: "https://www.youtube.com/watch?v=cpD8cxmHP30"
-thumbnail: "https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg"
+title: "HighLevel Form Builder Button Icons Now Live"
+video_id: "ojJohwRq-f4"
+url: "https://www.youtube.com/watch?v=ojJohwRq-f4"
+thumbnail: "https://i.ytimg.com/vi/ojJohwRq-f4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-30T05:50:04.000Z"
+published_date: "2025-11-26T23:20:37.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-02T07:42:10.091Z"
+extracted_at: "2025-12-02T07:42:11.342Z"
 
 ---
 
-# 🟢 Jake Setterlun: Unique Offers to Scale Your Agency
+# 🟢 HighLevel Form Builder Button Icons Now Live
 
-**Video ID:** `cpD8cxmHP30`
+**Video ID:** `ojJohwRq-f4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/30/2025
+**Published:** 11/26/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-02T07:42:10.091Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cpD8cxmHP30)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ojJohwRq-f4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ojJohwRq-f4/hqdefault.jpg)
 
 
 ## Content Guidelines

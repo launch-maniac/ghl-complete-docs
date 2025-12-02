@@ -1,10 +1,10 @@
 ---
-title: "Jake Setterlun: Unique Offers to Scale Your Agency"
-video_id: "cpD8cxmHP30"
-url: "https://www.youtube.com/watch?v=cpD8cxmHP30"
-thumbnail: "https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg"
+title: "HighLevel Voice AI More Voices More Languages and ElevenLabs Import Now Live"
+video_id: "Redmtab3CgI"
+url: "https://www.youtube.com/watch?v=Redmtab3CgI"
+thumbnail: "https://i.ytimg.com/vi/Redmtab3CgI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-30T05:50:04.000Z"
+published_date: "2025-11-28T22:30:17.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-02T07:42:10.091Z"
+extracted_at: "2025-12-02T07:42:10.741Z"
 
 ---
 
-# 🟢 Jake Setterlun: Unique Offers to Scale Your Agency
+# 🟢 HighLevel Voice AI More Voices More Languages and ElevenLabs Import Now Live
 
-**Video ID:** `cpD8cxmHP30`
+**Video ID:** `Redmtab3CgI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/30/2025
+**Published:** 11/28/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-02T07:42:10.091Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cpD8cxmHP30)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cpD8cxmHP30/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Redmtab3CgI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Redmtab3CgI/hqdefault.jpg)
 
 
 ## Content Guidelines

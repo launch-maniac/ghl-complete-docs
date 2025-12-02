@@ -2,13 +2,13 @@
 title: "Day 1 - Scale with Digital Products, No Ad Spend Needed"
 video_id: "57MDqvtnZw4"
 url: "https://www.youtube.com/watch?v=57MDqvtnZw4"
-thumbnail: "https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-25T20:19:02.000Z"
+published_date: "2025-12-02T06:51:04.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-01T07:42:39.283Z"
+extracted_at: "2025-12-02T07:42:08.170Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-12-01T07:42:39.283Z"
 **Video ID:** `57MDqvtnZw4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/25/2025
+**Published:** 12/2/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-12-01T07:42:39.283Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=57MDqvtnZw4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/1/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/2/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
