@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-02T07:42:16.037Z",
+  "generated": "2025-12-03T07:41:59.446Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 18,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -196,6 +196,18 @@
       "slug": "2gji9tntwuu-day-4-five-day-ai-employee-challenge"
     },
     {
+      "filename": "2juwxxpqg1e-facebook-instagram-amp-voice-ai-added-to-chat-widgets-all-in-one-widget.md",
+      "title": "Facebook, Instagram &amp; Voice AI Added to Chat Widgets + All In One Widget",
+      "videoId": "2JUWxxpQg1E",
+      "url": "https://www.youtube.com/watch?v=2JUWxxpQg1E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-02T19:00:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "2juwxxpqg1e-facebook-instagram-amp-voice-ai-added-to-chat-widgets-all-in-one-widget"
+    },
+    {
       "filename": "2xyh00mnfao-kalvin-morris-easy-ways-to-scale-with-highlevel-and-smart-systems.md",
       "title": "Kalvin Morris – Easy Ways to Scale with HighLevel and Smart Systems",
       "videoId": "2xYH00MNFao",
@@ -362,18 +374,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
-    },
-    {
-      "filename": "4i4ipi-ocyw-support-for-multiple-products-in-payment-links.md",
-      "title": "Support for multiple products in payment links!",
-      "videoId": "4i4iPI-OCyw",
-      "url": "https://www.youtube.com/watch?v=4i4iPI-OCyw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-03T00:22:36.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.6",
-      "slug": "4i4ipi-ocyw-support-for-multiple-products-in-payment-links"
     },
     {
       "filename": "4nygrn1i4d0-how-to-offer-courses-with-different-unlock-criteria.md",
@@ -700,6 +700,18 @@
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
     },
     {
+      "filename": "85j7iduopxy-highlevel-desktop-app-live-for-windows.md",
+      "title": "Highlevel Desktop App Live for Windows!",
+      "videoId": "85J7IDuOpxY",
+      "url": "https://www.youtube.com/watch?v=85J7IDuOpxY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-02T22:51:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "85j7iduopxy-highlevel-desktop-app-live-for-windows"
+    },
+    {
       "filename": "90g44xiyfba-reporting-google-analytics-widgets-in-dashboard-and-custom-reports.md",
       "title": "Reporting  Google Analytics Widgets in Dashboard and Custom Reports",
       "videoId": "90G44XiyFBA",
@@ -948,7 +960,7 @@
       "publishedDate": "2025-12-01T19:00:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b4anfnrqj3i-google-business-profile-post-scheduler"
     },
     {
@@ -1284,7 +1296,7 @@
       "publishedDate": "2025-12-01T16:00:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "depxrdcjcqi-mobile-service-v2-appointments-in-calendars"
     },
     {
@@ -1857,10 +1869,10 @@
       "videoId": "Hn328oEv_qg",
       "url": "https://www.youtube.com/watch?v=Hn328oEv_qg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-25T20:20:46.000Z",
+      "publishedDate": "2025-12-03T06:43:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed"
     },
     {
@@ -2462,6 +2474,18 @@
       "contentCategory": "standard",
       "ageInMonths": "3.5",
       "slug": "mcmvrudcj0-onboarding-and-voice-ai-fulfillment"
+    },
+    {
+      "filename": "mffr9blzwdq-button-icons-for-form-builder.md",
+      "title": "Button Icons for Form Builder",
+      "videoId": "mffr9BlZwdQ",
+      "url": "https://www.youtube.com/watch?v=mffr9BlZwdQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-02T16:01:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mffr9blzwdq-button-icons-for-form-builder"
     },
     {
       "filename": "mj6bs2swyv4-how-to-set-up-and-use-stripe-internet-readers-with-the-leadconnector-mobile-app.md",
@@ -3952,6 +3976,18 @@
       "slug": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots"
     },
     {
+      "filename": "wzsg-jztz4g-service-appointments-can-now-be-edited.md",
+      "title": "Service Appointments Can Now Be Edited!",
+      "videoId": "WZsg_jZtz4g",
+      "url": "https://www.youtube.com/watch?v=WZsg_jZtz4g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-02T22:45:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wzsg-jztz4g-service-appointments-can-now-be-edited"
+    },
+    {
       "filename": "x2lbi7wahli-how-to-use-highlevel-39-s-auto-save-feature-to-safeguard-your-workflows.md",
       "title": "How To Use HighLevel&#39;s Auto Save Feature to Safeguard Your Workflows",
       "videoId": "x2Lbi7WahlI",
@@ -4046,18 +4082,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.7",
       "slug": "xkvpovdribs-how-to-set-up-a-call-script"
-    },
-    {
-      "filename": "xlyn7boxilc-wordpress-native-html-embed-for-funnels.md",
-      "title": "Wordpress  Native HTML Embed for Funnels",
-      "videoId": "XLYN7bOXILc",
-      "url": "https://www.youtube.com/watch?v=XLYN7bOXILc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-02T18:00:33.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.6",
-      "slug": "xlyn7boxilc-wordpress-native-html-embed-for-funnels"
     },
     {
       "filename": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025.md",
@@ -4200,7 +4224,7 @@
       "publishedDate": "2025-12-01T18:41:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yatsunajkju-from-overwhelmed-to-scalable-sana-gebarin-shares-her-highlevel-success-story"
     },
     {
@@ -4457,7 +4481,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 334,
+    "fresh": 336,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4469,7 +4493,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 325,
+        "fresh": 327,
         "warning": 0,
         "expired": 0,
         "unknown": null

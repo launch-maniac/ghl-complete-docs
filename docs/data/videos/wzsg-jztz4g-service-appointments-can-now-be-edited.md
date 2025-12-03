@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Forms One Click Order Upsell Now Live"
-video_id: "GaaeNp-pZ5A"
-url: "https://www.youtube.com/watch?v=GaaeNp-pZ5A"
-thumbnail: "https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg"
+title: "Service Appointments Can Now Be Edited!"
+video_id: "WZsg_jZtz4g"
+url: "https://www.youtube.com/watch?v=WZsg_jZtz4g"
+thumbnail: "https://i.ytimg.com/vi/WZsg_jZtz4g/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-26T23:21:19.000Z"
+published_date: "2025-12-02T22:45:57.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-03T07:41:54.837Z"
+extracted_at: "2025-12-03T07:41:52.142Z"
 
 ---
 
-# 🟢 HighLevel Forms One Click Order Upsell Now Live
+# 🟢 Service Appointments Can Now Be Edited!
 
-**Video ID:** `GaaeNp-pZ5A`
+**Video ID:** `WZsg_jZtz4g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/26/2025
+**Published:** 12/2/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-03T07:41:54.837Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GaaeNp-pZ5A)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WZsg_jZtz4g)
+- [📷 Thumbnail](https://i.ytimg.com/vi/WZsg_jZtz4g/hqdefault.jpg)
 
 
 ## Content Guidelines

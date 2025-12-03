@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Forms One Click Order Upsell Now Live"
-video_id: "GaaeNp-pZ5A"
-url: "https://www.youtube.com/watch?v=GaaeNp-pZ5A"
-thumbnail: "https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg"
+title: "Button Icons for Form Builder"
+video_id: "mffr9BlZwdQ"
+url: "https://www.youtube.com/watch?v=mffr9BlZwdQ"
+thumbnail: "https://i.ytimg.com/vi/mffr9BlZwdQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-26T23:21:19.000Z"
+published_date: "2025-12-02T16:01:19.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-03T07:41:54.837Z"
+extracted_at: "2025-12-03T07:41:52.535Z"
 
 ---
 
-# 🟢 HighLevel Forms One Click Order Upsell Now Live
+# 🟢 Button Icons for Form Builder
 
-**Video ID:** `GaaeNp-pZ5A`
+**Video ID:** `mffr9BlZwdQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/26/2025
+**Published:** 12/2/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-03T07:41:54.837Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GaaeNp-pZ5A)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GaaeNp-pZ5A/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mffr9BlZwdQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/mffr9BlZwdQ/hqdefault.jpg)
 
 
 ## Content Guidelines
