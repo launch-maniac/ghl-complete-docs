@@ -40,11 +40,18 @@ Agencies can still upgrade to Prospecting Premium for:
 -   Does not apply to all sub-accounts
 -   Can be toggled ON/OFF from Agency Labs
 
-# How to Enable
+# How to Enable this new feature
 
 You must toggle this on from the Agency level:
 
 -   Agency → Labs → Prospecting Free Tier in Sub-Accounts
 -   → Enable for Sub-Accounts marked as Agency-Sub Accounts.
+
+# How to mark a sub-account as agency-owned?
+
+1.  Go to Agency View
+2.  Then navigate to Sub-Accounts - then click 3 dots in the bottom right > "Add as Agency Sub-Account"
+
+![image](https://canny-assets.io/images/6a4d18904924c325e469d565b434bb8a.png)
 
 If you have any suggestions or requests- please drop them here [https://ideas.gohighlevel.com/prospecting-tool](https://ideas.gohighlevel.com/prospecting-tool)
