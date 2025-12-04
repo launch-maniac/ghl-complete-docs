@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Scale with Digital Products, No Ad Spend Needed"
-video_id: "57MDqvtnZw4"
-url: "https://www.youtube.com/watch?v=57MDqvtnZw4"
-thumbnail: "https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault.jpg"
+title: "HighLevel Desktop App Now Live for Windows"
+video_id: "85J7IDuOpxY"
+url: "https://www.youtube.com/watch?v=85J7IDuOpxY"
+thumbnail: "https://i.ytimg.com/vi/85J7IDuOpxY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-02T06:51:04.000Z"
+published_date: "2025-12-02T22:51:50.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-04T07:41:17.900Z"
+extracted_at: "2025-12-04T07:41:16.833Z"
 
 ---
 
-# 🟢 Day 1 - Scale with Digital Products, No Ad Spend Needed
+# 🟢 HighLevel Desktop App Now Live for Windows
 
-**Video ID:** `57MDqvtnZw4`
+**Video ID:** `85J7IDuOpxY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 12/2/2025
@@ -30,7 +30,7 @@ extracted_at: "2025-12-04T07:41:17.900Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-04T07:41:17.900Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=57MDqvtnZw4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/57MDqvtnZw4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=85J7IDuOpxY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/85J7IDuOpxY/hqdefault.jpg)
 
 
 ## Content Guidelines
