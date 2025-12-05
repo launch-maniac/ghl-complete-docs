@@ -1,14 +1,14 @@
 ---
-title: "Get Paid"
-video_id: "HvT3wz6DWrM"
-url: "https://www.youtube.com/watch?v=HvT3wz6DWrM"
-thumbnail: "https://i.ytimg.com/vi/HvT3wz6DWrM/hqdefault.jpg"
+title: "1B Views Later: How to Win on Social Media"
+video_id: "K9fl_SWkV7w"
+url: "https://www.youtube.com/watch?v=K9fl_SWkV7w"
+thumbnail: "https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-06-05T14:57:47.000Z"
+published_date: "2025-12-04T14:34:04.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 3.5 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "3.5"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:13.988Z"
+extracted_at: "2025-12-05T07:42:00.431Z"
 
 ---
 
-# 🟢 Get Paid
+# 🟢 1B Views Later: How to Win on Social Media
 
-**Video ID:** `HvT3wz6DWrM`
+**Video ID:** `K9fl_SWkV7w`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 6/5/2025
+**Published:** 12/4/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 3.5 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:13.988Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HvT3wz6DWrM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/HvT3wz6DWrM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=K9fl_SWkV7w)
+- [📷 Thumbnail](https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/5/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

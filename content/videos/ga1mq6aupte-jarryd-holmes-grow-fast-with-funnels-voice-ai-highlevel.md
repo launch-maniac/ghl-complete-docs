@@ -1,14 +1,14 @@
 ---
-title: "Conduct Sales Calls"
-video_id: "cnfKp-hw4IM"
-url: "https://www.youtube.com/watch?v=cnfKp-hw4IM"
-thumbnail: "https://i.ytimg.com/vi/cnfKp-hw4IM/hqdefault.jpg"
+title: "Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel"
+video_id: "gA1MQ6aUPTE"
+url: "https://www.youtube.com/watch?v=gA1MQ6aUPTE"
+thumbnail: "https://i.ytimg.com/vi/gA1MQ6aUPTE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-06-05T14:56:38.000Z"
+published_date: "2025-12-04T14:08:48.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 3.5 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "3.5"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:14.102Z"
+extracted_at: "2025-12-05T07:42:00.540Z"
 
 ---
 
-# 🟢 Conduct Sales Calls
+# 🟢 Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel
 
-**Video ID:** `cnfKp-hw4IM`
+**Video ID:** `gA1MQ6aUPTE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 6/5/2025
+**Published:** 12/4/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 3.5 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:14.102Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cnfKp-hw4IM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cnfKp-hw4IM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gA1MQ6aUPTE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/gA1MQ6aUPTE/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/5/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

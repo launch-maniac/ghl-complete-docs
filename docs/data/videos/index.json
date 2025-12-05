@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-04T07:41:23.967Z",
+  "generated": "2025-12-05T07:42:06.501Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 17,
     "playlists": 0,
-    "expired": 4,
+    "expired": 10,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -304,6 +304,18 @@
       "slug": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel"
     },
     {
+      "filename": "3rtms9gglfe-how-to-track-gift-card-performance-analytics.md",
+      "title": "How To Track Gift Card Performance Analytics",
+      "videoId": "3rtMS9gGlFE",
+      "url": "https://www.youtube.com/watch?v=3rtMS9gGlFE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3rtms9gglfe-how-to-track-gift-card-performance-analytics"
+    },
+    {
       "filename": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025.md",
       "title": "The HighLevel Release Radar (September 15th - September 19th 2025)",
       "videoId": "3vaTmPdBDHk",
@@ -580,6 +592,18 @@
       "slug": "6e2w-quva-day-1-five-day-ai-employee-challenge"
     },
     {
+      "filename": "6ino1sj-bqa-how-to-send-gift-cards.md",
+      "title": "How to Send Gift Cards",
+      "videoId": "6INO1Sj_BQA",
+      "url": "https://www.youtube.com/watch?v=6INO1Sj_BQA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:25.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6ino1sj-bqa-how-to-send-gift-cards"
+    },
+    {
       "filename": "6rddlchdckm-certificates-badges.md",
       "title": "Certificates  Badges",
       "videoId": "6rDdLcHdckM",
@@ -720,7 +744,7 @@
       "publishedDate": "2025-12-02T22:51:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "85j7iduopxy-highlevel-desktop-app-now-live-for-windows"
     },
     {
@@ -1144,18 +1168,6 @@
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
     },
     {
-      "filename": "cnfkp-hw4im-conduct-sales-calls.md",
-      "title": "Conduct Sales Calls",
-      "videoId": "cnfKp-hw4IM",
-      "url": "https://www.youtube.com/watch?v=cnfKp-hw4IM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-05T14:56:38.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "cnfkp-hw4im-conduct-sales-calls"
-    },
-    {
       "filename": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live.md",
       "title": "HighLevel Voice AI: Noise Cancellation &amp; Backchanneling Are Live!",
       "videoId": "cNKGA7DAoxE",
@@ -1564,18 +1576,6 @@
       "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
-      "filename": "fn2m1qffdys-set-up-calendars.md",
-      "title": "Set Up Calendars",
-      "videoId": "fn2m1qFFdys",
-      "url": "https://www.youtube.com/watch?v=fn2m1qFFdys",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-05T14:56:19.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "fn2m1qffdys-set-up-calendars"
-    },
-    {
       "filename": "fnt94hq-uyy-highlevel-website-amp-funnel-update-faster-order-forms-for-a-smoother-checkout-experienc.md",
       "title": "HighLevel Website &amp; Funnel Update: Faster Order Forms for a Smoother Checkout Experience!",
       "videoId": "FnT94Hq_uYY",
@@ -1658,6 +1658,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here"
+    },
+    {
+      "filename": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
+      "title": "Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel",
+      "videoId": "gA1MQ6aUPTE",
+      "url": "https://www.youtube.com/watch?v=gA1MQ6aUPTE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T14:08:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
       "filename": "gaaenp-pz5a-forms-one-click-order-upsell-live.md",
@@ -1872,7 +1884,7 @@
       "publishedDate": "2025-12-03T06:43:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed"
     },
     {
@@ -1898,18 +1910,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
-    },
-    {
-      "filename": "hvt3wz6dwrm-get-paid.md",
-      "title": "Get Paid",
-      "videoId": "HvT3wz6DWrM",
-      "url": "https://www.youtube.com/watch?v=HvT3wz6DWrM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-05T14:57:47.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "hvt3wz6dwrm-get-paid"
     },
     {
       "filename": "hwhga1dbvqu-new-integration-highlevel-jobber-live.md",
@@ -2200,6 +2200,18 @@
       "slug": "k6-n-eildwu-notion-integration-is-live"
     },
     {
+      "filename": "k9fl-swkv7w-1b-views-later-how-to-win-on-social-media.md",
+      "title": "1B Views Later: How to Win on Social Media",
+      "videoId": "K9fl_SWkV7w",
+      "url": "https://www.youtube.com/watch?v=K9fl_SWkV7w",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T14:34:04.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k9fl-swkv7w-1b-views-later-how-to-win-on-social-media"
+    },
+    {
       "filename": "katv-bvrttu-how-to-automate-review-responses-with-ai-agents.md",
       "title": "How to Automate Review Responses with AI Agents",
       "videoId": "KaTV_bvRTTU",
@@ -2450,18 +2462,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests"
-    },
-    {
-      "filename": "mcmvrudcj0-onboarding-and-voice-ai-fulfillment.md",
-      "title": "Onboarding And Voice AI Fulfillment",
-      "videoId": "-mcmVRuDCj0",
-      "url": "https://www.youtube.com/watch?v=-mcmVRuDCj0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-05T14:56:45.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "mcmvrudcj0-onboarding-and-voice-ai-fulfillment"
     },
     {
       "filename": "mffr9blzwdq-button-icons-for-form-builder.md",
@@ -3316,6 +3316,18 @@
       "slug": "t8i-zzrlcwi-reviews-ai-upgrades-with-gbp-notifications-granular-permissions-hipaa-compliance"
     },
     {
+      "filename": "tb1afd5crfm-selling-gift-cards-through-existing-checkouts.md",
+      "title": "Selling Gift Cards Through Existing Checkouts",
+      "videoId": "TB1AFd5CrfM",
+      "url": "https://www.youtube.com/watch?v=TB1AFd5CrfM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tb1afd5crfm-selling-gift-cards-through-existing-checkouts"
+    },
+    {
       "filename": "tcmp-nhklq-leverage-highlevel-dashboards-and-custom-reports-for-business-success-across-all-three-hl.md",
       "title": "Leverage HighLevel Dashboards and Custom Reports for Business Success Across All Three HL Plans",
       "videoId": "_tCmp-nhkLQ",
@@ -3532,18 +3544,6 @@
       "slug": "up93a7gt0hi-sms-messaging-ramp-a-step-by-step-guide"
     },
     {
-      "filename": "uqzjm8bis10-welcome-to-saaspeneurship.md",
-      "title": "Welcome to SaaSPENEURSHIP",
-      "videoId": "UQZjm8bIs10",
-      "url": "https://www.youtube.com/watch?v=UQZjm8bIs10",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-05T14:54:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "uqzjm8bis10-welcome-to-saaspeneurship"
-    },
-    {
       "filename": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel.md",
       "title": "Did You Know You Can Auto Assign Leads in HighLevel?",
       "videoId": "-url8myu0Uc",
@@ -3672,7 +3672,7 @@
       "publishedDate": "2025-12-03T19:00:38.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vt07z-nlqj8-highlevel-desktop-app-live-for-windows"
     },
     {
@@ -3904,6 +3904,18 @@
       "slug": "wq3ewc-lcig-day-3-the-five-day-ai-employee-challenge"
     },
     {
+      "filename": "wquckwmkhnc-selling-gift-cards-using-the-qr-code.md",
+      "title": "Selling Gift Cards Using the QR Code",
+      "videoId": "WQuCKWmkHNc",
+      "url": "https://www.youtube.com/watch?v=WQuCKWmkHNc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wquckwmkhnc-selling-gift-cards-using-the-qr-code"
+    },
+    {
       "filename": "wrxt4uzke1m-google-business-profile-post-scheduler-live.md",
       "title": "Google Business Profile Post Scheduler Live!",
       "videoId": "wrXt4uzke1M",
@@ -3996,7 +4008,7 @@
       "publishedDate": "2025-12-02T22:45:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wzsg-jztz4g-service-based-appointments-can-now-be-edited-inside-highlevel"
     },
     {
@@ -4106,6 +4118,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025"
+    },
+    {
+      "filename": "xmouhskcjc4-selling-gift-cards-with-highlevel-checkout-link.md",
+      "title": "Selling Gift Cards with HighLevel Checkout Link",
+      "videoId": "XmoUhsKCJC4",
+      "url": "https://www.youtube.com/watch?v=XmoUhsKCJC4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xmouhskcjc4-selling-gift-cards-with-highlevel-checkout-link"
     },
     {
       "filename": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge.md",
@@ -4262,6 +4286,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
+    },
+    {
+      "filename": "yn-qmp6mv4k-selling-gift-cards-using-the-embed-code.md",
+      "title": "Selling Gift Cards Using the Embed Code",
+      "videoId": "yn_QMp6MV4k",
+      "url": "https://www.youtube.com/watch?v=yn_QMp6MV4k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-04T16:46:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yn-qmp6mv4k-selling-gift-cards-using-the-embed-code"
     },
     {
       "filename": "yn3avtoeijq-backend-trigger-flow-enhancements.md",
@@ -4505,7 +4541,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 338,
+    "fresh": 341,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4517,7 +4553,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 329,
+        "fresh": 332,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Desktop App Live for Windows"
-video_id: "Vt07z-nlQj8"
-url: "https://www.youtube.com/watch?v=Vt07z-nlQj8"
-thumbnail: "https://i.ytimg.com/vi/Vt07z-nlQj8/hqdefault.jpg"
+title: "Selling Gift Cards Through Existing Checkouts"
+video_id: "TB1AFd5CrfM"
+url: "https://www.youtube.com/watch?v=TB1AFd5CrfM"
+thumbnail: "https://i.ytimg.com/vi/TB1AFd5CrfM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-03T19:00:38.000Z"
+published_date: "2025-12-04T16:46:35.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-05T07:42:00.911Z"
+extracted_at: "2025-12-05T07:41:59.731Z"
 
 ---
 
-# 🟢 HighLevel Desktop App Live for Windows
+# 🟢 Selling Gift Cards Through Existing Checkouts
 
-**Video ID:** `Vt07z-nlQj8`
+**Video ID:** `TB1AFd5CrfM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/3/2025
+**Published:** 12/4/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-05T07:42:00.911Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Vt07z-nlQj8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Vt07z-nlQj8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TB1AFd5CrfM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/TB1AFd5CrfM/hqdefault.jpg)
 
 
 ## Content Guidelines
