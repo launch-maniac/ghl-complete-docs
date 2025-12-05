@@ -21,14 +21,14 @@ You can now set top spacing (margins) directly in the builder, no need to write 
 -   Updates show up instantly in the preview
 -   Default spacing stays the same if fields are left empty
 
-**❓How It Works**
+# **❓How It Works**
 
 1.  Open your form, survey, or quiz in the builder
 2.  Go to Styles > Layout
 3.  Set the top margins to control spacing
 4.  Preview updates live as you type
 
-**Why It Matters**
+# **Why It Matters**
 
 -   No more digging into custom code to adjust spacing
 -   Gives non-technical users more control over layout
