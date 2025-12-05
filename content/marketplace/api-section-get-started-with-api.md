@@ -3,7 +3,7 @@ title: "Get Started with API"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/oauth/GettingStarted"
-extracted_at: "2025-12-05T12:09:50.308Z"
+extracted_at: "2025-12-05T15:09:57.123Z"
 ---
 
 -   [](/docs/)
