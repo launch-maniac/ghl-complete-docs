@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-05T07:42:06.501Z",
+  "generated": "2025-12-06T07:39:08.595Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 18,
     "playlists": 0,
-    "expired": 10,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -134,6 +134,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "0psxm4sv9zq-lc-phone-system-enhanced-number-pool-management"
+    },
+    {
+      "filename": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel.md",
+      "title": "Did You Know You Can Resell Voice AI Agents in HighLevel?",
+      "videoId": "0TXSfG4jy-Q",
+      "url": "https://www.youtube.com/watch?v=0TXSfG4jy-Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-05T17:23:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel"
     },
     {
       "filename": "1es4xhosro0-forms-one-click-order-upsell.md",
@@ -312,7 +324,7 @@
       "publishedDate": "2025-12-04T16:46:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "3rtms9gglfe-how-to-track-gift-card-performance-analytics"
     },
     {
@@ -600,7 +612,7 @@
       "publishedDate": "2025-12-04T16:46:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6ino1sj-bqa-how-to-send-gift-cards"
     },
     {
@@ -902,6 +914,18 @@
       "contentCategory": "evergreen",
       "ageInMonths": "0.1",
       "slug": "axati7tlrdy-template-library-introducing-new-templates-no-66"
+    },
+    {
+      "filename": "axf3xc7zyhs-the-highlevel-release-radar-december-1st-december-5th-2025.md",
+      "title": "The HighLevel Release Radar (December 1st - December 5th 2025)",
+      "videoId": "AxF3xC7zyhs",
+      "url": "https://www.youtube.com/watch?v=AxF3xC7zyhs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-06T06:50:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "axf3xc7zyhs-the-highlevel-release-radar-december-1st-december-5th-2025"
     },
     {
       "filename": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge.md",
@@ -1668,7 +1692,7 @@
       "publishedDate": "2025-12-04T14:08:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -1754,6 +1778,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.5",
       "slug": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily"
+    },
+    {
+      "filename": "gwskfdobrec-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
+      "title": "Jarryd Holmes: Grow Fast with Funnels, Voice AI + HighLevel",
+      "videoId": "gWskfDoBrec",
+      "url": "https://www.youtube.com/watch?v=gWskfDoBrec",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-05T14:17:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gwskfdobrec-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
       "filename": "gy6xm-jcmga-social-planner-reschedule-in-approval-state.md",
@@ -2208,7 +2244,7 @@
       "publishedDate": "2025-12-04T14:34:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k9fl-swkv7w-1b-views-later-how-to-win-on-social-media"
     },
     {
@@ -2445,10 +2481,10 @@
       "videoId": "M90nBYL8gds",
       "url": "https://www.youtube.com/watch?v=M90nBYL8gds",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-01T22:30:18.000Z",
+      "publishedDate": "2025-12-06T06:16:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "m90nbyl8gds-snapshot-masterclass-build-smarter-with-highlevel"
     },
     {
@@ -3268,6 +3304,18 @@
       "slug": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
+      "filename": "sx1qwzn1yr8-did-you-know-you-can-run-your-agency-from-the-highlevel-mobile-app.md",
+      "title": "Did You Know You Can Run Your Agency from the HighLevel Mobile App?",
+      "videoId": "sx1QWzN1Yr8",
+      "url": "https://www.youtube.com/watch?v=sx1QWzN1Yr8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-05T17:23:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sx1qwzn1yr8-did-you-know-you-can-run-your-agency-from-the-highlevel-mobile-app"
+    },
+    {
       "filename": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights.md",
       "title": "How to Set Up Dashboard Reporting with Payment Widgets and Insights",
       "videoId": "sYz9PE0QWDs",
@@ -3324,7 +3372,7 @@
       "publishedDate": "2025-12-04T16:46:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tb1afd5crfm-selling-gift-cards-through-existing-checkouts"
     },
     {
@@ -3912,7 +3960,7 @@
       "publishedDate": "2025-12-04T16:46:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wquckwmkhnc-selling-gift-cards-using-the-qr-code"
     },
     {
@@ -4128,7 +4176,7 @@
       "publishedDate": "2025-12-04T16:46:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xmouhskcjc4-selling-gift-cards-with-highlevel-checkout-link"
     },
     {
@@ -4296,7 +4344,7 @@
       "publishedDate": "2025-12-04T16:46:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yn-qmp6mv4k-selling-gift-cards-using-the-embed-code"
     },
     {
@@ -4536,12 +4584,12 @@
       "publishedDate": "2025-12-03T22:01:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zzctptk6taa-service-appointments-can-now-be-edited"
     }
   ],
   "freshnessSummary": {
-    "fresh": 341,
+    "fresh": 345,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4553,7 +4601,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 332,
+        "fresh": 336,
         "warning": 0,
         "expired": 0,
         "unknown": null

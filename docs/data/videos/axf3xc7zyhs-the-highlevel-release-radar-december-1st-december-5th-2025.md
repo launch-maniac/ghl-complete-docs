@@ -1,14 +1,14 @@
 ---
-title: "Selling Gift Cards Using the Embed Code"
-video_id: "yn_QMp6MV4k"
-url: "https://www.youtube.com/watch?v=yn_QMp6MV4k"
-thumbnail: "https://i.ytimg.com/vi/yn_QMp6MV4k/hqdefault.jpg"
+title: "The HighLevel Release Radar (December 1st - December 5th 2025)"
+video_id: "AxF3xC7zyhs"
+url: "https://www.youtube.com/watch?v=AxF3xC7zyhs"
+thumbnail: "https://i.ytimg.com/vi/AxF3xC7zyhs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-04T16:46:44.000Z"
+published_date: "2025-12-06T06:50:48.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-06T07:39:01.979Z"
+extracted_at: "2025-12-06T07:38:59.722Z"
 
 ---
 
-# 🟢 Selling Gift Cards Using the Embed Code
+# 🟢 The HighLevel Release Radar (December 1st - December 5th 2025)
 
-**Video ID:** `yn_QMp6MV4k`
+**Video ID:** `AxF3xC7zyhs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/4/2025
+**Published:** 12/6/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-06T07:39:01.979Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yn_QMp6MV4k)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yn_QMp6MV4k/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AxF3xC7zyhs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AxF3xC7zyhs/hqdefault.jpg)
 
 
 ## Content Guidelines
