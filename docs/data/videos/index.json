@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-06T07:39:08.595Z",
+  "generated": "2025-12-07T07:38:59.375Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 13,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -144,7 +144,7 @@
       "publishedDate": "2025-12-05T17:23:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel"
     },
     {
@@ -1120,18 +1120,6 @@
       "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
-      "filename": "c67ofgaw0m8-wordpress-ssh-access-amp-ssh-key-management.md",
-      "title": "WordPress  SSH Access &amp; SSH Key Management",
-      "videoId": "C67OFgaw0m8",
-      "url": "https://www.youtube.com/watch?v=C67OFgaw0m8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-07T00:00:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.5",
-      "slug": "c67ofgaw0m8-wordpress-ssh-access-amp-ssh-key-management"
-    },
-    {
       "filename": "cai2kwbaowm-how-to-personalize-your-highlevel-prospecting-reports.md",
       "title": "How to Personalize Your HighLevel Prospecting Reports",
       "videoId": "cai2kWBAOWM",
@@ -1689,10 +1677,10 @@
       "videoId": "gA1MQ6aUPTE",
       "url": "https://www.youtube.com/watch?v=gA1MQ6aUPTE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-04T14:08:48.000Z",
+      "publishedDate": "2025-12-07T06:25:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -1788,7 +1776,7 @@
       "publishedDate": "2025-12-05T14:17:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gwskfdobrec-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -3312,7 +3300,7 @@
       "publishedDate": "2025-12-05T17:23:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sx1qwzn1yr8-did-you-know-you-can-run-your-agency-from-the-highlevel-mobile-app"
     },
     {
@@ -4589,7 +4577,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 345,
+    "fresh": 344,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4601,7 +4589,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 336,
+        "fresh": 335,
         "warning": 0,
         "expired": 0,
         "unknown": null
