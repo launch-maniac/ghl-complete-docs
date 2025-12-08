@@ -3,7 +3,7 @@ title: "Documentation"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://marketplace.gohighlevel.com/docs/"
-extracted_at: "2025-12-08T09:08:16.546Z"
+extracted_at: "2025-12-08T12:06:39.976Z"
 ---
 
 ## Comprehensive API Coverage
