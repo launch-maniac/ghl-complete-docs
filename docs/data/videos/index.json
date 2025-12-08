@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-07T07:38:59.375Z",
+  "generated": "2025-12-08T07:43:07.108Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 7,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 7
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -924,7 +924,7 @@
       "publishedDate": "2025-12-06T06:50:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "axf3xc7zyhs-the-highlevel-release-radar-december-1st-december-5th-2025"
     },
     {
@@ -2472,7 +2472,7 @@
       "publishedDate": "2025-12-06T06:16:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "m90nbyl8gds-snapshot-masterclass-build-smarter-with-highlevel"
     },
     {
