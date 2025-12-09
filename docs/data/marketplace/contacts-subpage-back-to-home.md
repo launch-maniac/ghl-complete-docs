@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-12-09T18:08:39.541Z"
+extracted_at: "2025-12-09T21:09:09.498Z"
 ---
 
 # Hi, how can we help you?
@@ -162,17 +162,17 @@ Modified on Tue, 4 Nov at 9:05 AM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
 
-How to set up Root Domain/Subdomain for your Funnels/Websites?
-
-Modified on Thu, 4 Sep at 11:13 PM
-
-](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
-
 List of Merge Fields
 
 Modified on Mon, 10 Nov at 10:19 AM
 
 ](/support/solutions/articles/48001078171-list-of-merge-fields)[
+
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+
+Modified on Thu, 4 Sep at 11:13 PM
+
+](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
 What is LC (Lead Connector) Phone System?
 
