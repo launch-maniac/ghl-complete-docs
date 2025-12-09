@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-08T07:43:07.108Z",
+  "generated": "2025-12-09T07:41:56.885Z",
   "stats": {
     "channels": 1,
-    "videos": 7,
+    "videos": 6,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 7
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1680,7 +1680,7 @@
       "publishedDate": "2025-12-07T06:25:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -2229,10 +2229,10 @@
       "videoId": "K9fl_SWkV7w",
       "url": "https://www.youtube.com/watch?v=K9fl_SWkV7w",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-04T14:34:04.000Z",
+      "publishedDate": "2025-12-09T06:10:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "k9fl-swkv7w-1b-views-later-how-to-win-on-social-media"
     },
     {
@@ -2270,6 +2270,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.4",
       "slug": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025"
+    },
+    {
+      "filename": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai.md",
+      "title": "Boost Local SEO With AI Review Replies | HighLevel Reviews AI",
+      "videoId": "KIu0DURqbzw",
+      "url": "https://www.youtube.com/watch?v=KIu0DURqbzw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-08T19:33:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai"
     },
     {
       "filename": "klj5anxy0wq-create-your-conversation-ai-bot.md",
@@ -2354,6 +2366,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "l1v5yzy-da0-order-form-speed-improvements"
+    },
+    {
+      "filename": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel.md",
+      "title": "Day 2 - Upgrade Outdated Businesses with AI + HighLevel",
+      "videoId": "ldfuKAF2Kb0",
+      "url": "https://www.youtube.com/watch?v=ldfuKAF2Kb0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-08T18:31:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {
       "filename": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth.md",
@@ -4564,6 +4588,18 @@
       "slug": "zukt1zif-80-how-to-set-up-and-use-stripe-internet-readers-with-the-leadconnector-mobile-app"
     },
     {
+      "filename": "zusjxrcyuhs-day-1-upgrade-outdated-businesses-with-ai-highlevel.md",
+      "title": "Day 1 - Upgrade Outdated Businesses with AI + HighLevel",
+      "videoId": "zusjXrCyUhs",
+      "url": "https://www.youtube.com/watch?v=zusjXrCyUhs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-08T18:29:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zusjxrcyuhs-day-1-upgrade-outdated-businesses-with-ai-highlevel"
+    },
+    {
       "filename": "zzctptk6taa-service-appointments-can-now-be-edited.md",
       "title": "Service Appointments Can Now Be Edited!",
       "videoId": "zZCTpTK6tAA",
@@ -4577,7 +4613,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 344,
+    "fresh": 347,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4589,7 +4625,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 335,
+        "fresh": 338,
         "warning": 0,
         "expired": 0,
         "unknown": null

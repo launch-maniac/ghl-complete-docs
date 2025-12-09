@@ -1,14 +1,14 @@
 ---
-title: "Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel"
-video_id: "gA1MQ6aUPTE"
-url: "https://www.youtube.com/watch?v=gA1MQ6aUPTE"
-thumbnail: "https://i.ytimg.com/vi/gA1MQ6aUPTE/hqdefault.jpg"
+title: "Boost Local SEO With AI Review Replies | HighLevel Reviews AI"
+video_id: "KIu0DURqbzw"
+url: "https://www.youtube.com/watch?v=KIu0DURqbzw"
+thumbnail: "https://i.ytimg.com/vi/KIu0DURqbzw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-07T06:25:12.000Z"
+published_date: "2025-12-08T19:33:58.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-09T07:41:49.518Z"
+extracted_at: "2025-12-09T07:41:48.707Z"
 
 ---
 
-# 🟢 Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel
+# 🟢 Boost Local SEO With AI Review Replies | HighLevel Reviews AI
 
-**Video ID:** `gA1MQ6aUPTE`
+**Video ID:** `KIu0DURqbzw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/7/2025
+**Published:** 12/8/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-09T07:41:49.518Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gA1MQ6aUPTE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/gA1MQ6aUPTE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=KIu0DURqbzw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/KIu0DURqbzw/hqdefault.jpg)
 
 
 ## Content Guidelines
