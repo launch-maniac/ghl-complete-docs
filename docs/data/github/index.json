@@ -11,7 +11,7 @@
       "topics": [],
       "language": "TypeScript",
       "license": "Unknown",
-      "extractedAt": "2025-12-08T02:39:27.034Z"
+      "extractedAt": "2025-12-09T02:39:10.845Z"
     },
     {
       "name": "ghl-sdk-examples",
@@ -24,7 +24,7 @@
       "topics": [],
       "language": "HTML",
       "license": "Unknown",
-      "extractedAt": "2025-12-08T02:39:28.507Z"
+      "extractedAt": "2025-12-09T02:39:11.780Z"
     },
     {
       "name": "highlevel-api-sdk",
@@ -32,15 +32,15 @@
       "description": "Official SDK for HighLevel Public APIs",
       "url": "https://github.com/GoHighLevel/highlevel-api-sdk",
       "stars": 14,
-      "forks": 8,
+      "forks": 10,
       "lastUpdated": "2025-11-24T17:15:52Z",
       "topics": [],
       "language": "TypeScript",
       "license": "MIT License",
-      "extractedAt": "2025-12-08T02:39:29.973Z"
+      "extractedAt": "2025-12-09T02:39:12.633Z"
     }
   ],
   "totalDocuments": 3,
   "totalCodeExamples": 6,
-  "lastUpdate": "2025-12-08T02:39:29.974Z"
+  "lastUpdate": "2025-12-09T02:39:12.633Z"
 }
