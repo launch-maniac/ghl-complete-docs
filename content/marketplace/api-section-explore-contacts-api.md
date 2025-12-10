@@ -3,7 +3,7 @@ title: "Explore Contacts API →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/ghl/contacts/contacts"
-extracted_at: "2025-12-10T15:10:51.710Z"
+extracted_at: "2025-12-10T18:10:09.489Z"
 ---
 
 -   [](/docs/)
