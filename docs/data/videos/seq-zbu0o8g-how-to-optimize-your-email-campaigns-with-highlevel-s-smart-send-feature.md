@@ -1,10 +1,10 @@
 ---
-title: "1B Views Later: How to Win on Social Media"
-video_id: "K9fl_SWkV7w"
-url: "https://www.youtube.com/watch?v=K9fl_SWkV7w"
-thumbnail: "https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault.jpg"
+title: "How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature"
+video_id: "sEQ_zBU0O8g"
+url: "https://www.youtube.com/watch?v=sEQ_zBU0O8g"
+thumbnail: "https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-09T06:10:53.000Z"
+published_date: "2025-12-09T13:37:57.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-10T07:42:14.040Z"
+extracted_at: "2025-12-10T07:42:13.831Z"
 
 ---
 
-# 🟢 1B Views Later: How to Win on Social Media
+# 🟢 How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature
 
-**Video ID:** `K9fl_SWkV7w`
+**Video ID:** `sEQ_zBU0O8g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 12/9/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-12-10T07:42:14.040Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=K9fl_SWkV7w)
-- [📷 Thumbnail](https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sEQ_zBU0O8g)
+- [📷 Thumbnail](https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg)
 
 
 ## Content Guidelines

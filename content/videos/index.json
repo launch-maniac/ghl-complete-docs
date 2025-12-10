@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-09T07:41:56.885Z",
+  "generated": "2025-12-10T07:42:18.875Z",
   "stats": {
     "channels": 1,
-    "videos": 6,
+    "videos": 8,
     "playlists": 0,
-    "expired": 0,
+    "expired": 8,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 6
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -98,18 +98,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0f5jw67cugo-revamped-trust-center-and-a2p-experience"
-    },
-    {
-      "filename": "0joylvnvtf8-dashboard-and-reporting-reschedule-filter-for-appointments.md",
-      "title": "Dashboard and Reporting  Reschedule Filter for Appointments",
-      "videoId": "0JoylvNVTF8",
-      "url": "https://www.youtube.com/watch?v=0JoylvNVTF8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-09T21:00:00.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.4",
-      "slug": "0joylvnvtf8-dashboard-and-reporting-reschedule-filter-for-appointments"
     },
     {
       "filename": "0ly0a7s-bay-how-to-set-up-a-recurring-countdown-timer.md",
@@ -854,18 +842,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live"
-    },
-    {
-      "filename": "arikpay-ago-pricing-analysis.md",
-      "title": "Pricing Analysis",
-      "videoId": "ARiKpay-AGo",
-      "url": "https://www.youtube.com/watch?v=ARiKpay-AGo",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-10T14:16:44.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.4",
-      "slug": "arikpay-ago-pricing-analysis"
     },
     {
       "filename": "asdysa8yn38-notification-sound-option-in-chat-widget.md",
@@ -2020,18 +1996,6 @@
       "slug": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app"
     },
     {
-      "filename": "ipdspsuthc8-email-builder-bulk-action-campaigns-now-visible-in-email-marketing.md",
-      "title": "Email Builder  Bulk Action Campaigns Now Visible in Email Marketing",
-      "videoId": "IpDSPSuthC8",
-      "url": "https://www.youtube.com/watch?v=IpDSPSuthC8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-10T00:00:15.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.4",
-      "slug": "ipdspsuthc8-email-builder-bulk-action-campaigns-now-visible-in-email-marketing"
-    },
-    {
       "filename": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks.md",
       "title": "Did You Know You Can Generate a Prospect List with Just a Few Clicks?",
       "videoId": "ipE4YrNgk78",
@@ -2114,18 +2078,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
-    },
-    {
-      "filename": "jey-jrzmssy-activate-ai-employee.md",
-      "title": "Activate AI Employee",
-      "videoId": "Jey-JRzMSSY",
-      "url": "https://www.youtube.com/watch?v=Jey-JRzMSSY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-10T14:16:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.4",
-      "slug": "jey-jrzmssy-activate-ai-employee"
     },
     {
       "filename": "jgrqxpe-otu-video-testimonials-collection-feature-now-live.md",
@@ -2376,7 +2328,7 @@
       "publishedDate": "2025-12-08T18:31:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {
@@ -2908,6 +2860,18 @@
       "slug": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling"
     },
     {
+      "filename": "pu-rmwtrg-8-how-to-maximize-your-webinar-insights-with-highlevel-analytics.md",
+      "title": "How To Maximize Your Webinar Insights with HighLevel Analytics",
+      "videoId": "Pu_RMwTRg_8",
+      "url": "https://www.youtube.com/watch?v=Pu_RMwTRg_8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-09T20:06:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pu-rmwtrg-8-how-to-maximize-your-webinar-insights-with-highlevel-analytics"
+    },
+    {
       "filename": "pua2c60lggg-voice-ai-noise-cancellation-amp-backchanneling.md",
       "title": "Voice AI  Noise Cancellation &amp; Backchanneling",
       "videoId": "PUa2C60lggg",
@@ -3064,6 +3028,18 @@
       "slug": "rejar47m0vq-day-3-five-day-ai-employee-challenge"
     },
     {
+      "filename": "rf6rcpcwu2a-get-barbershop-reviews-reactivations-amp-bookings-on-autopilot.md",
+      "title": "Get Barbershop Reviews, Reactivations &amp; Bookings on Autopilot",
+      "videoId": "rF6RcPCwu2A",
+      "url": "https://www.youtube.com/watch?v=rF6RcPCwu2A",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-09T18:23:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rf6rcpcwu2a-get-barbershop-reviews-reactivations-amp-bookings-on-autopilot"
+    },
+    {
       "filename": "rg0xdnktgtm-day-4-five-day-ai-employee-challenge.md",
       "title": "Day 4 - Five Day AI Employee Challenge",
       "videoId": "RG0xdnKtgtM",
@@ -3170,6 +3146,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live"
+    },
+    {
+      "filename": "seq-zbu0o8g-how-to-optimize-your-email-campaigns-with-highlevel-s-smart-send-feature.md",
+      "title": "How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature",
+      "videoId": "sEQ_zBU0O8g",
+      "url": "https://www.youtube.com/watch?v=sEQ_zBU0O8g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-09T13:37:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "seq-zbu0o8g-how-to-optimize-your-email-campaigns-with-highlevel-s-smart-send-feature"
     },
     {
       "filename": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern.md",
@@ -4564,6 +4552,18 @@
       "slug": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel"
     },
     {
+      "filename": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel.md",
+      "title": "How To Bulk Manage QR Codes in HighLevel",
+      "videoId": "ZSsviiAkEXc",
+      "url": "https://www.youtube.com/watch?v=ZSsviiAkEXc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-09T20:05:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel"
+    },
+    {
       "filename": "zukt1zif-80-how-to-deliver-client-value-through-detailed-marketing-audit-reports-for-sub-accounts.md",
       "title": "How to Deliver Client Value through Detailed Marketing Audit Reports for Sub-Accounts",
       "videoId": "zukT1ZIF_80",
@@ -4596,7 +4596,7 @@
       "publishedDate": "2025-12-08T18:29:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zusjxrcyuhs-day-1-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {

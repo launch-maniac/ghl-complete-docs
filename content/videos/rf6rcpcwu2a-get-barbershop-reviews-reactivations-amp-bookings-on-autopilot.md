@@ -1,14 +1,14 @@
 ---
-title: "Dashboard and Reporting  Reschedule Filter for Appointments"
-video_id: "0JoylvNVTF8"
-url: "https://www.youtube.com/watch?v=0JoylvNVTF8"
-thumbnail: "https://i.ytimg.com/vi/0JoylvNVTF8/hqdefault.jpg"
+title: "Get Barbershop Reviews, Reactivations &amp; Bookings on Autopilot"
+video_id: "rF6RcPCwu2A"
+url: "https://www.youtube.com/watch?v=rF6RcPCwu2A"
+thumbnail: "https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-06-09T21:00:00.000Z"
+published_date: "2025-12-09T18:23:37.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 3.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "3.4"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:13.839Z"
+extracted_at: "2025-12-10T07:42:13.598Z"
 
 ---
 
-# 🟢 Dashboard and Reporting  Reschedule Filter for Appointments
+# 🟢 Get Barbershop Reviews, Reactivations &amp; Bookings on Autopilot
 
-**Video ID:** `0JoylvNVTF8`
+**Video ID:** `rF6RcPCwu2A`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 6/9/2025
+**Published:** 12/9/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 3.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:13.839Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0JoylvNVTF8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/0JoylvNVTF8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=rF6RcPCwu2A)
+- [📷 Thumbnail](https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/10/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

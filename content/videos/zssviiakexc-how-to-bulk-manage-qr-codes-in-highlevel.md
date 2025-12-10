@@ -1,10 +1,10 @@
 ---
-title: "1B Views Later: How to Win on Social Media"
-video_id: "K9fl_SWkV7w"
-url: "https://www.youtube.com/watch?v=K9fl_SWkV7w"
-thumbnail: "https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault.jpg"
+title: "How To Bulk Manage QR Codes in HighLevel"
+video_id: "ZSsviiAkEXc"
+url: "https://www.youtube.com/watch?v=ZSsviiAkEXc"
+thumbnail: "https://i.ytimg.com/vi/ZSsviiAkEXc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-09T06:10:53.000Z"
+published_date: "2025-12-09T20:05:58.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-10T07:42:14.040Z"
+extracted_at: "2025-12-10T07:42:13.362Z"
 
 ---
 
-# 🟢 1B Views Later: How to Win on Social Media
+# 🟢 How To Bulk Manage QR Codes in HighLevel
 
-**Video ID:** `K9fl_SWkV7w`
+**Video ID:** `ZSsviiAkEXc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 12/9/2025
@@ -47,8 +47,8 @@ extracted_at: "2025-12-10T07:42:14.040Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=K9fl_SWkV7w)
-- [📷 Thumbnail](https://i.ytimg.com/vi/K9fl_SWkV7w/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZSsviiAkEXc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZSsviiAkEXc/hqdefault.jpg)
 
 
 ## Content Guidelines
