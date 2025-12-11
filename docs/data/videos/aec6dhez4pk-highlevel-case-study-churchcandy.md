@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Upgrade Outdated Businesses with AI + HighLevel"
-video_id: "zusjXrCyUhs"
-url: "https://www.youtube.com/watch?v=zusjXrCyUhs"
-thumbnail: "https://i.ytimg.com/vi/zusjXrCyUhs/hqdefault_live.jpg"
+title: "HighLevel Case Study: ChurchCandy"
+video_id: "aEC6DhEz4pk"
+url: "https://www.youtube.com/watch?v=aEC6DhEz4pk"
+thumbnail: "https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-08T18:29:43.000Z"
+published_date: "2025-12-10T19:30:18.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-11T07:42:47.646Z"
+extracted_at: "2025-12-11T07:42:45.766Z"
 
 ---
 
-# 🟢 Day 1 - Upgrade Outdated Businesses with AI + HighLevel
+# 🟢 HighLevel Case Study: ChurchCandy
 
-**Video ID:** `zusjXrCyUhs`
+**Video ID:** `aEC6DhEz4pk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/8/2025
+**Published:** 12/10/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-12-11T07:42:47.646Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zusjXrCyUhs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zusjXrCyUhs/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aEC6DhEz4pk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault_live.jpg)
 
 
 ## Content Guidelines

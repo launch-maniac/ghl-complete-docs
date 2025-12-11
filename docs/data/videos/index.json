@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-10T07:42:18.875Z",
+  "generated": "2025-12-11T07:42:52.243Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 12,
     "playlists": 0,
-    "expired": 8,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -772,6 +772,18 @@
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
+      "filename": "a3oalhvoaq4-custom-call-disposition-live.md",
+      "title": "Custom Call Disposition Live!",
+      "videoId": "a3oAlhvOAq4",
+      "url": "https://www.youtube.com/watch?v=a3oAlhvOAq4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T21:45:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "a3oalhvoaq4-custom-call-disposition-live"
+    },
+    {
       "filename": "a4tkrd4icgc-how-to-edit-images-directly-in-highlevel.md",
       "title": "How To Edit Images Directly in HighLevel",
       "videoId": "A4tKrd4ICgc",
@@ -806,6 +818,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "aatwuqgm-9q-how-to-master-dashboard-widgets-for-improved-business-insights"
+    },
+    {
+      "filename": "aec6dhez4pk-highlevel-case-study-churchcandy.md",
+      "title": "HighLevel Case Study: ChurchCandy",
+      "videoId": "aEC6DhEz4pk",
+      "url": "https://www.youtube.com/watch?v=aEC6DhEz4pk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T19:30:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "aec6dhez4pk-highlevel-case-study-churchcandy"
     },
     {
       "filename": "ahca-d-hqrw-content-library-live-for-documents-amp-contracts.md",
@@ -2184,7 +2208,7 @@
       "publishedDate": "2025-12-09T06:10:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k9fl-swkv7w-1b-views-later-how-to-win-on-social-media"
     },
     {
@@ -2232,7 +2256,7 @@
       "publishedDate": "2025-12-08T19:33:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai"
     },
     {
@@ -2716,6 +2740,18 @@
       "slug": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
     },
     {
+      "filename": "oxja9n6ggwm-manuel-reviews-is-live.md",
+      "title": "Manuel Reviews Is Live!",
+      "videoId": "OxJa9n6GGWM",
+      "url": "https://www.youtube.com/watch?v=OxJa9n6GGWM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T21:54:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "oxja9n6ggwm-manuel-reviews-is-live"
+    },
+    {
       "filename": "ozb-kswmp0e-did-you-know-you-can-offer-expiring-coupons-for-limited-time-promos.md",
       "title": "Did You Know You Can Offer Expiring Coupons for Limited Time Promos?",
       "videoId": "oZb-kSwmP0E",
@@ -3036,7 +3072,7 @@
       "publishedDate": "2025-12-09T18:23:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rf6rcpcwu2a-get-barbershop-reviews-reactivations-amp-bookings-on-autopilot"
     },
     {
@@ -3156,7 +3192,7 @@
       "publishedDate": "2025-12-09T13:37:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "seq-zbu0o8g-how-to-optimize-your-email-campaigns-with-highlevel-s-smart-send-feature"
     },
     {
@@ -3662,6 +3698,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.8",
       "slug": "vbg1zkugla0-typescript-javascript-sdk-live-for-developers"
+    },
+    {
+      "filename": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots.md",
+      "title": "How To Activate Image Analysis in HighLevel AI Bots",
+      "videoId": "VH7Cd58XLlw",
+      "url": "https://www.youtube.com/watch?v=VH7Cd58XLlw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T14:15:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots"
     },
     {
       "filename": "vpng-i-qqy0-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel.md",
@@ -4613,7 +4661,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 347,
+    "fresh": 351,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4625,7 +4673,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 338,
+        "fresh": 342,
         "warning": 0,
         "expired": 0,
         "unknown": null
