@@ -2,7 +2,7 @@
 title: "Get Barbershop Reviews, Reactivations &amp; Bookings on Autopilot"
 video_id: "rF6RcPCwu2A"
 url: "https://www.youtube.com/watch?v=rF6RcPCwu2A"
-thumbnail: "https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2025-12-09T18:23:37.000Z"
 freshness_status: "fresh"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-11T07:42:46.688Z"
+extracted_at: "2025-12-12T07:42:27.712Z"
 
 ---
 
@@ -43,7 +43,7 @@ extracted_at: "2025-12-11T07:42:46.688Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=rF6RcPCwu2A)
-- [📷 Thumbnail](https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/rF6RcPCwu2A/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/11/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/12/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

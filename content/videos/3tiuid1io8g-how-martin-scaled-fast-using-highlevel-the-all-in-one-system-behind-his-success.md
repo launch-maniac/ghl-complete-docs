@@ -1,14 +1,14 @@
 ---
-title: "How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature"
-video_id: "sEQ_zBU0O8g"
-url: "https://www.youtube.com/watch?v=sEQ_zBU0O8g"
-thumbnail: "https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg"
+title: "How Martin Scaled Fast Using HighLevel: The All-in-One System Behind His Success"
+video_id: "3TIUid1Io8g"
+url: "https://www.youtube.com/watch?v=3TIUid1Io8g"
+thumbnail: "https://i.ytimg.com/vi/3TIUid1Io8g/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-09T13:37:57.000Z"
+published_date: "2025-12-11T22:10:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-12T07:42:27.914Z"
+extracted_at: "2025-12-12T07:42:25.656Z"
 
 ---
 
-# 🟢 How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature
+# 🟢 How Martin Scaled Fast Using HighLevel: The All-in-One System Behind His Success
 
-**Video ID:** `sEQ_zBU0O8g`
+**Video ID:** `3TIUid1Io8g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/9/2025
+**Published:** 12/11/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-12T07:42:27.914Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sEQ_zBU0O8g)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3TIUid1Io8g)
+- [📷 Thumbnail](https://i.ytimg.com/vi/3TIUid1Io8g/hqdefault.jpg)
 
 
 ## Content Guidelines

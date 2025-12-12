@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-11T07:42:52.243Z",
+  "generated": "2025-12-12T07:42:32.927Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 17,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -314,6 +314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "3rtms9gglfe-how-to-track-gift-card-performance-analytics"
+    },
+    {
+      "filename": "3tiuid1io8g-how-martin-scaled-fast-using-highlevel-the-all-in-one-system-behind-his-success.md",
+      "title": "How Martin Scaled Fast Using HighLevel: The All-in-One System Behind His Success",
+      "videoId": "3TIUid1Io8g",
+      "url": "https://www.youtube.com/watch?v=3TIUid1Io8g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-11T22:10:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3tiuid1io8g-how-martin-scaled-fast-using-highlevel-the-all-in-one-system-behind-his-success"
     },
     {
       "filename": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025.md",
@@ -772,6 +784,18 @@
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
+      "filename": "a3oalhvoaq4-custom-call-disposition-inside-highlevel-is-now-live.md",
+      "title": "Custom Call Disposition inside HighLevel is Now Live",
+      "videoId": "a3oAlhvOAq4",
+      "url": "https://www.youtube.com/watch?v=a3oAlhvOAq4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T21:45:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "a3oalhvoaq4-custom-call-disposition-inside-highlevel-is-now-live"
+    },
+    {
       "filename": "a3oalhvoaq4-custom-call-disposition-live.md",
       "title": "Custom Call Disposition Live!",
       "videoId": "a3oAlhvOAq4",
@@ -890,6 +914,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "asz98ylsehq-mobile-app-service-v2-appointments-in-calendars-live"
+    },
+    {
+      "filename": "auphhjubfcg-reputation-management-manual-reviews.md",
+      "title": "Reputation Management   Manual Reviews",
+      "videoId": "aUphhjUBFcg",
+      "url": "https://www.youtube.com/watch?v=aUphhjUBFcg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T01:00:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "auphhjubfcg-reputation-management-manual-reviews"
     },
     {
       "filename": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop.md",
@@ -1720,6 +1756,18 @@
       "slug": "gadvqqb8lla-page-builder-autosave-performance-enhancements"
     },
     {
+      "filename": "gbjaxl1cooa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed.md",
+      "title": "Did You Know AI Can Transfer Chats to a Human When Needed",
+      "videoId": "GbJAXl1CoOA",
+      "url": "https://www.youtube.com/watch?v=GbJAXl1CoOA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-11T18:00:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gbjaxl1cooa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed"
+    },
+    {
       "filename": "gbm57uundwq-day-3-five-day-ai-employee-challenge.md",
       "title": "Day 3 - Five Day AI Employee Challenge",
       "videoId": "gBm57UundwQ",
@@ -1766,6 +1814,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.5",
       "slug": "gt5v-ioom-i-how-to-connect-notes-to-contacts-and-opportunities-easily"
+    },
+    {
+      "filename": "gv5uxlkkff4-how-to-use-manual-and-smart-collections-in-highlevel-ecommerce-stores.md",
+      "title": "How To Use Manual and Smart Collections in HighLevel Ecommerce Stores",
+      "videoId": "GV5UXLKKFF4",
+      "url": "https://www.youtube.com/watch?v=GV5UXLKKFF4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-11T22:18:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gv5uxlkkff4-how-to-use-manual-and-smart-collections-in-highlevel-ecommerce-stores"
     },
     {
       "filename": "gwskfdobrec-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
@@ -2740,6 +2800,18 @@
       "slug": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
     },
     {
+      "filename": "oxja9n6ggwm-manual-reviews-is-live.md",
+      "title": "Manual Reviews Is Live!",
+      "videoId": "OxJa9n6GGWM",
+      "url": "https://www.youtube.com/watch?v=OxJa9n6GGWM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-10T21:54:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "oxja9n6ggwm-manual-reviews-is-live"
+    },
+    {
       "filename": "oxja9n6ggwm-manuel-reviews-is-live.md",
       "title": "Manuel Reviews Is Live!",
       "videoId": "OxJa9n6GGWM",
@@ -2904,7 +2976,7 @@
       "publishedDate": "2025-12-09T20:06:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pu-rmwtrg-8-how-to-maximize-your-webinar-insights-with-highlevel-analytics"
     },
     {
@@ -3708,7 +3780,7 @@
       "publishedDate": "2025-12-10T14:15:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots"
     },
     {
@@ -3988,18 +4060,6 @@
       "slug": "wn4i1ninpzm-whatsapp-support-for-internal-notifications"
     },
     {
-      "filename": "wq3ewc-lcig-day-3-the-five-day-ai-employee-challenge.md",
-      "title": "Day 3 - The Five Day AI Employee Challenge",
-      "videoId": "Wq3EWC_lcig",
-      "url": "https://www.youtube.com/watch?v=Wq3EWC_lcig",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-12T05:18:37.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.3",
-      "slug": "wq3ewc-lcig-day-3-the-five-day-ai-employee-challenge"
-    },
-    {
       "filename": "wquckwmkhnc-selling-gift-cards-using-the-qr-code.md",
       "title": "Selling Gift Cards Using the QR Code",
       "videoId": "WQuCKWmkHNc",
@@ -4238,6 +4298,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel.md",
+      "title": "Did You Know You Can Build a Marketing Scorecard in HighLevel",
+      "videoId": "Xs_9PGL6Uaw",
+      "url": "https://www.youtube.com/watch?v=Xs_9PGL6Uaw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-11T14:17:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
     },
     {
       "filename": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel.md",
@@ -4516,6 +4588,18 @@
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
+      "filename": "zedtwlrg1me-custom-dispositions-for-voice-calls.md",
+      "title": "Custom Dispositions for Voice Calls",
+      "videoId": "ZedTWLRG1mE",
+      "url": "https://www.youtube.com/watch?v=ZedTWLRG1mE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-11T22:00:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zedtwlrg1me-custom-dispositions-for-voice-calls"
+    },
+    {
       "filename": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 2 Replay - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "zegb5Rwo834",
@@ -4608,7 +4692,7 @@
       "publishedDate": "2025-12-09T20:05:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel"
     },
     {
@@ -4661,7 +4745,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 351,
+    "fresh": 358,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4673,7 +4757,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 342,
+        "fresh": 349,
         "warning": 0,
         "expired": 0,
         "unknown": null

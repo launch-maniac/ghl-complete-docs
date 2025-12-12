@@ -1,14 +1,14 @@
 ---
-title: "How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature"
-video_id: "sEQ_zBU0O8g"
-url: "https://www.youtube.com/watch?v=sEQ_zBU0O8g"
-thumbnail: "https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg"
+title: "How To Use Manual and Smart Collections in HighLevel Ecommerce Stores"
+video_id: "GV5UXLKKFF4"
+url: "https://www.youtube.com/watch?v=GV5UXLKKFF4"
+thumbnail: "https://i.ytimg.com/vi/GV5UXLKKFF4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-09T13:37:57.000Z"
+published_date: "2025-12-11T22:18:13.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-12T07:42:27.914Z"
+extracted_at: "2025-12-12T07:42:25.414Z"
 
 ---
 
-# 🟢 How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature
+# 🟢 How To Use Manual and Smart Collections in HighLevel Ecommerce Stores
 
-**Video ID:** `sEQ_zBU0O8g`
+**Video ID:** `GV5UXLKKFF4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/9/2025
+**Published:** 12/11/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-12T07:42:27.914Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sEQ_zBU0O8g)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GV5UXLKKFF4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/GV5UXLKKFF4/hqdefault.jpg)
 
 
 ## Content Guidelines

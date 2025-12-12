@@ -1,14 +1,14 @@
 ---
-title: "How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature"
-video_id: "sEQ_zBU0O8g"
-url: "https://www.youtube.com/watch?v=sEQ_zBU0O8g"
-thumbnail: "https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg"
+title: "Did You Know You Can Build a Marketing Scorecard in HighLevel"
+video_id: "Xs_9PGL6Uaw"
+url: "https://www.youtube.com/watch?v=Xs_9PGL6Uaw"
+thumbnail: "https://i.ytimg.com/vi/Xs_9PGL6Uaw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-09T13:37:57.000Z"
+published_date: "2025-12-11T14:17:56.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-12T07:42:27.914Z"
+extracted_at: "2025-12-12T07:42:26.344Z"
 
 ---
 
-# 🟢 How To Optimize Your Email Campaigns with HighLevel’s Smart Send Feature
+# 🟢 Did You Know You Can Build a Marketing Scorecard in HighLevel
 
-**Video ID:** `sEQ_zBU0O8g`
+**Video ID:** `Xs_9PGL6Uaw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/9/2025
+**Published:** 12/11/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-12T07:42:27.914Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sEQ_zBU0O8g)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sEQ_zBU0O8g/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Xs_9PGL6Uaw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Xs_9PGL6Uaw/hqdefault.jpg)
 
 
 ## Content Guidelines
