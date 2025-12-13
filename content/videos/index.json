@@ -1,10 +1,10 @@
 {
-  "generated": "2025-12-12T07:42:32.927Z",
+  "generated": "2025-12-13T07:40:13.929Z",
   "stats": {
     "channels": 1,
     "videos": 17,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -784,6 +784,18 @@
       "slug": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live"
     },
     {
+      "filename": "9z1ofo5o4ga-how-to-use-highlevel-39-s-conversation-ai-to-automate-voice-message-replies.md",
+      "title": "How To Use HighLevel&#39;s Conversation AI to Automate Voice Message Replies",
+      "videoId": "9z1oFO5o4gA",
+      "url": "https://www.youtube.com/watch?v=9z1oFO5o4gA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T14:21:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "9z1ofo5o4ga-how-to-use-highlevel-39-s-conversation-ai-to-automate-voice-message-replies"
+    },
+    {
       "filename": "a3oalhvoaq4-custom-call-disposition-inside-highlevel-is-now-live.md",
       "title": "Custom Call Disposition inside HighLevel is Now Live",
       "videoId": "a3oAlhvOAq4",
@@ -792,7 +804,7 @@
       "publishedDate": "2025-12-10T21:45:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "a3oalhvoaq4-custom-call-disposition-inside-highlevel-is-now-live"
     },
     {
@@ -852,7 +864,7 @@
       "publishedDate": "2025-12-10T19:30:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aec6dhez4pk-highlevel-case-study-churchcandy"
     },
     {
@@ -1130,6 +1142,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights"
+    },
+    {
+      "filename": "bulg9z0suea-workflow-update-inbound-dnd-support-live.md",
+      "title": "Workflow Update: Inbound DND Support Live!",
+      "videoId": "bulg9Z0sUeA",
+      "url": "https://www.youtube.com/watch?v=bulg9Z0sUeA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T22:41:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bulg9z0suea-workflow-update-inbound-dnd-support-live"
     },
     {
       "filename": "bxyulaxp2f0-how-to-resell-the-prospecting-tool-to-all-your-sub-account-clients.md",
@@ -1764,7 +1788,7 @@
       "publishedDate": "2025-12-11T18:00:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gbjaxl1cooa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed"
     },
     {
@@ -2808,7 +2832,7 @@
       "publishedDate": "2025-12-10T21:54:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "oxja9n6ggwm-manual-reviews-is-live"
     },
     {
@@ -3141,10 +3165,10 @@
       "videoId": "rF6RcPCwu2A",
       "url": "https://www.youtube.com/watch?v=rF6RcPCwu2A",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-09T18:23:37.000Z",
+      "publishedDate": "2025-12-12T05:47:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "rf6rcpcwu2a-get-barbershop-reviews-reactivations-amp-bookings-on-autopilot"
     },
     {
@@ -3544,6 +3568,18 @@
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
     },
     {
+      "filename": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025.md",
+      "title": "The HighLevel Release Radar (December 8th - December 12th 2025)",
+      "videoId": "TxuaYmoekq0",
+      "url": "https://www.youtube.com/watch?v=TxuaYmoekq0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-13T07:11:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025"
+    },
+    {
       "filename": "tyhijn6cjva-highlevel-workflows-bulk-operations-are-now-live.md",
       "title": "HighLevel Workflows: Bulk Operations Are Now Live!",
       "videoId": "TYHIJn6cjvA",
@@ -3902,6 +3938,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
+    },
+    {
+      "filename": "w4dwgietew8-asana-integration-workflow-actions-amp-triggers-live.md",
+      "title": "Asana Integration: Workflow Actions &amp; Triggers Live!",
+      "videoId": "w4dwgiETEw8",
+      "url": "https://www.youtube.com/watch?v=w4dwgiETEw8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T22:43:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w4dwgietew8-asana-integration-workflow-actions-amp-triggers-live"
     },
     {
       "filename": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel.md",
@@ -4308,7 +4356,7 @@
       "publishedDate": "2025-12-11T14:17:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
     },
     {
@@ -4745,7 +4793,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 358,
+    "fresh": 362,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4757,7 +4805,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 349,
+        "fresh": 353,
         "warning": 0,
         "expired": 0,
         "unknown": null

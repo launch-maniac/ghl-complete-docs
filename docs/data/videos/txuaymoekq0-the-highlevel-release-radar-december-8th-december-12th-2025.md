@@ -1,10 +1,10 @@
 ---
-title: "Custom Dispositions for Voice Calls"
-video_id: "ZedTWLRG1mE"
-url: "https://www.youtube.com/watch?v=ZedTWLRG1mE"
-thumbnail: "https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg"
+title: "The HighLevel Release Radar (December 8th - December 12th 2025)"
+video_id: "TxuaYmoekq0"
+url: "https://www.youtube.com/watch?v=TxuaYmoekq0"
+thumbnail: "https://i.ytimg.com/vi/TxuaYmoekq0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-11T22:00:47.000Z"
+published_date: "2025-12-13T07:11:42.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-13T07:40:07.805Z"
+extracted_at: "2025-12-13T07:40:05.814Z"
 
 ---
 
-# 🟢 Custom Dispositions for Voice Calls
+# 🟢 The HighLevel Release Radar (December 8th - December 12th 2025)
 
-**Video ID:** `ZedTWLRG1mE`
+**Video ID:** `TxuaYmoekq0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/11/2025
+**Published:** 12/13/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-13T07:40:07.805Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZedTWLRG1mE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TxuaYmoekq0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/TxuaYmoekq0/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,10 +1,10 @@
 ---
-title: "Custom Dispositions for Voice Calls"
-video_id: "ZedTWLRG1mE"
-url: "https://www.youtube.com/watch?v=ZedTWLRG1mE"
-thumbnail: "https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg"
+title: "How To Use HighLevel&#39;s Conversation AI to Automate Voice Message Replies"
+video_id: "9z1oFO5o4gA"
+url: "https://www.youtube.com/watch?v=9z1oFO5o4gA"
+thumbnail: "https://i.ytimg.com/vi/9z1oFO5o4gA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-11T22:00:47.000Z"
+published_date: "2025-12-12T14:21:11.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-13T07:40:07.805Z"
+extracted_at: "2025-12-13T07:40:06.508Z"
 
 ---
 
-# 🟢 Custom Dispositions for Voice Calls
+# 🟢 How To Use HighLevel&#39;s Conversation AI to Automate Voice Message Replies
 
-**Video ID:** `ZedTWLRG1mE`
+**Video ID:** `9z1oFO5o4gA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/11/2025
+**Published:** 12/12/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-13T07:40:07.805Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZedTWLRG1mE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=9z1oFO5o4gA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/9z1oFO5o4gA/hqdefault.jpg)
 
 
 ## Content Guidelines

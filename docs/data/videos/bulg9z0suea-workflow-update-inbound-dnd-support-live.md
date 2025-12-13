@@ -1,10 +1,10 @@
 ---
-title: "Custom Dispositions for Voice Calls"
-video_id: "ZedTWLRG1mE"
-url: "https://www.youtube.com/watch?v=ZedTWLRG1mE"
-thumbnail: "https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg"
+title: "Workflow Update: Inbound DND Support Live!"
+video_id: "bulg9Z0sUeA"
+url: "https://www.youtube.com/watch?v=bulg9Z0sUeA"
+thumbnail: "https://i.ytimg.com/vi/bulg9Z0sUeA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-11T22:00:47.000Z"
+published_date: "2025-12-12T22:41:01.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-13T07:40:07.805Z"
+extracted_at: "2025-12-13T07:40:06.260Z"
 
 ---
 
-# 🟢 Custom Dispositions for Voice Calls
+# 🟢 Workflow Update: Inbound DND Support Live!
 
-**Video ID:** `ZedTWLRG1mE`
+**Video ID:** `bulg9Z0sUeA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/11/2025
+**Published:** 12/12/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-13T07:40:07.805Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZedTWLRG1mE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bulg9Z0sUeA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/bulg9Z0sUeA/hqdefault.jpg)
 
 
 ## Content Guidelines

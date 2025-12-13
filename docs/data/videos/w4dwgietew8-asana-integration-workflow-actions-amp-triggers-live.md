@@ -1,10 +1,10 @@
 ---
-title: "Custom Dispositions for Voice Calls"
-video_id: "ZedTWLRG1mE"
-url: "https://www.youtube.com/watch?v=ZedTWLRG1mE"
-thumbnail: "https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg"
+title: "Asana Integration: Workflow Actions &amp; Triggers Live!"
+video_id: "w4dwgiETEw8"
+url: "https://www.youtube.com/watch?v=w4dwgiETEw8"
+thumbnail: "https://i.ytimg.com/vi/w4dwgiETEw8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-11T22:00:47.000Z"
+published_date: "2025-12-12T22:43:06.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-13T07:40:07.805Z"
+extracted_at: "2025-12-13T07:40:06.016Z"
 
 ---
 
-# 🟢 Custom Dispositions for Voice Calls
+# 🟢 Asana Integration: Workflow Actions &amp; Triggers Live!
 
-**Video ID:** `ZedTWLRG1mE`
+**Video ID:** `w4dwgiETEw8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/11/2025
+**Published:** 12/12/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-13T07:40:07.805Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZedTWLRG1mE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZedTWLRG1mE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=w4dwgiETEw8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/w4dwgiETEw8/hqdefault.jpg)
 
 
 ## Content Guidelines
