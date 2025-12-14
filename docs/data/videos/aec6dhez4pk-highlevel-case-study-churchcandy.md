@@ -2,21 +2,21 @@
 title: "HighLevel Case Study: ChurchCandy"
 video_id: "aEC6DhEz4pk"
 url: "https://www.youtube.com/watch?v=aEC6DhEz4pk"
-thumbnail: "https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-10T19:30:18.000Z"
+published_date: "2025-12-14T06:18:28.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
-has_transcript: false
-transcript_language: "none"
-transcript_type: "none"
+age_in_months: "0.0"
+has_transcript: true
+transcript_language: "en"
+transcript_type: "asr"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-13T07:40:08.841Z"
+extracted_at: "2025-12-14T07:39:45.251Z"
 
 ---
 
@@ -25,25 +25,30 @@ extracted_at: "2025-12-13T07:40:08.841Z"
 **Video ID:** `aEC6DhEz4pk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/10/2025
+**Published:** 12/14/2025
 **Content Type:** standard
-**Transcript:** ❌ Not available
+**Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript
-❌ **Transcript not available** - This video does not have captions or transcripts available.
+## 📝 Transcript Information
+
+**Language:** en
+**Type:** Auto-generated
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
 
 ---
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aEC6DhEz4pk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/aEC6DhEz4pk/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -52,7 +57,7 @@ extracted_at: "2025-12-13T07:40:08.841Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
 
 
 
@@ -62,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/13/2025*
-*Transcript extraction: ❌ Not available*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/14/2025*
+*Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
