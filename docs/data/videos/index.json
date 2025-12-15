@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-14T07:39:52.631Z",
+  "generated": "2025-12-15T07:43:25.291Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 11,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 11
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1152,7 +1152,7 @@
       "publishedDate": "2025-12-12T22:41:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bulg9z0suea-workflow-update-inbound-dnd-support-live"
     },
     {
@@ -3576,7 +3576,7 @@
       "publishedDate": "2025-12-13T07:11:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025"
     },
     {
@@ -3816,7 +3816,7 @@
       "publishedDate": "2025-12-10T14:15:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots"
     },
     {
@@ -3948,7 +3948,7 @@
       "publishedDate": "2025-12-12T22:43:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w4dwgietew8-asana-integration-workflow-actions-amp-triggers-live"
     },
     {
