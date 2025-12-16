@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Upgrade Outdated Businesses with AI + HighLevel"
-video_id: "ldfuKAF2Kb0"
-url: "https://www.youtube.com/watch?v=ldfuKAF2Kb0"
-thumbnail: "https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault_live.jpg"
+title: "Land Your First 5 Clients with HighLevel (No Ads Needed)"
+video_id: "F-HVcamwwEU"
+url: "https://www.youtube.com/watch?v=F-HVcamwwEU"
+thumbnail: "https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-08T18:31:11.000Z"
+published_date: "2025-12-15T15:06:31.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-16T07:42:18.967Z"
+extracted_at: "2025-12-16T07:42:18.194Z"
 
 ---
 
-# 🟢 Day 2 - Upgrade Outdated Businesses with AI + HighLevel
+# 🟢 Land Your First 5 Clients with HighLevel (No Ads Needed)
 
-**Video ID:** `ldfuKAF2Kb0`
+**Video ID:** `F-HVcamwwEU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/8/2025
+**Published:** 12/15/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-12-16T07:42:18.967Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ldfuKAF2Kb0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F-HVcamwwEU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault_live.jpg)
 
 
 ## Content Guidelines

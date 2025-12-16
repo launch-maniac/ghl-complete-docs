@@ -1,14 +1,14 @@
 ---
-title: "How To Use HighLevel&#39;s Conversation AI to Automate Voice Message Replies"
-video_id: "9z1oFO5o4gA"
-url: "https://www.youtube.com/watch?v=9z1oFO5o4gA"
-thumbnail: "https://i.ytimg.com/vi/9z1oFO5o4gA/hqdefault.jpg"
+title: "How To Build an AI Powered Email Campaign with HighLevel"
+video_id: "xCazOZdTJ_c"
+url: "https://www.youtube.com/watch?v=xCazOZdTJ_c"
+thumbnail: "https://i.ytimg.com/vi/xCazOZdTJ_c/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-12T14:21:11.000Z"
+published_date: "2025-12-15T15:13:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-16T07:42:18.862Z"
+extracted_at: "2025-12-16T07:42:18.012Z"
 
 ---
 
-# 🟢 How To Use HighLevel&#39;s Conversation AI to Automate Voice Message Replies
+# 🟢 How To Build an AI Powered Email Campaign with HighLevel
 
-**Video ID:** `9z1oFO5o4gA`
+**Video ID:** `xCazOZdTJ_c`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/12/2025
+**Published:** 12/15/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-16T07:42:18.862Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=9z1oFO5o4gA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/9z1oFO5o4gA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=xCazOZdTJ_c)
+- [📷 Thumbnail](https://i.ytimg.com/vi/xCazOZdTJ_c/hqdefault.jpg)
 
 
 ## Content Guidelines
