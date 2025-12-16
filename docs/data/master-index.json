@@ -1,6 +1,6 @@
 {
   "totalDocuments": 2041,
-  "lastUpdate": "2025-12-16T09:12:33.428Z",
+  "lastUpdate": "2025-12-16T12:10:39.854Z",
   "categories": {
     "Ad-manager": 1,
     "Ad-reporting-and-attribution": 1,
@@ -79,38 +79,38 @@
     "Widgets": 1,
     "Wordpress": 1,
     "Changelog": 1390,
-    "Marketplace Documentation": 155,
+    "Marketplace Documentation": 156,
     "Video Tutorials": 401
   },
   "sources": {
     "ideas.gohighlevel.com": {
       "documents": 1466,
-      "lastSync": "2025-12-16T09:12:33.433Z",
+      "lastSync": "2025-12-16T12:10:39.859Z",
       "status": "active"
     },
     "marketplace.gohighlevel.com": {
       "documents": 26,
-      "lastSync": "2025-12-16T09:12:33.688Z",
+      "lastSync": "2025-12-16T12:10:40.137Z",
       "status": "active"
     },
     "developers.gohighlevel.com": {
       "documents": 1,
-      "lastSync": "2025-12-16T09:12:33.691Z",
+      "lastSync": "2025-12-16T12:10:40.139Z",
       "status": "active"
     },
     "highlevel.stoplight.io": {
       "documents": 124,
-      "lastSync": "2025-12-16T09:12:33.691Z",
+      "lastSync": "2025-12-16T12:10:40.139Z",
       "status": "active"
     },
     "help.gohighlevel.com": {
       "documents": 23,
-      "lastSync": "2025-12-16T09:12:33.691Z",
+      "lastSync": "2025-12-16T12:10:40.140Z",
       "status": "active"
     },
     "youtube.com/@gohighlevel": {
       "documents": 401,
-      "lastSync": "2025-12-16T09:12:33.719Z",
+      "lastSync": "2025-12-16T12:10:40.167Z",
       "status": "active"
     }
   },
@@ -132,7 +132,7 @@
   },
   "metadata": {
     "version": "2.0.0",
-    "buildDate": "2025-12-16T09:12:33.428Z",
+    "buildDate": "2025-12-16T12:10:39.854Z",
     "extractionEngine": "GHL Complete Docs v2.0",
     "dataRetentionDays": 90
   }
