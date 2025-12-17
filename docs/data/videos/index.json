@@ -1,10 +1,10 @@
 {
-  "generated": "2025-12-16T07:42:25.009Z",
+  "generated": "2025-12-17T07:42:41.930Z",
   "stats": {
     "channels": 1,
     "videos": 11,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -768,7 +768,7 @@
       "publishedDate": "2025-12-15T19:00:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "8ilfuohgnf0-asana-integration-workflow-actions-amp-triggers"
     },
     {
@@ -1154,6 +1154,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights"
+    },
+    {
+      "filename": "bulg9z0suea-highlevel-workflow-update-inbound-dnd-support-now-live.md",
+      "title": "HighLevel Workflow Update Inbound DND Support Now Live",
+      "videoId": "bulg9Z0sUeA",
+      "url": "https://www.youtube.com/watch?v=bulg9Z0sUeA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T22:41:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "bulg9z0suea-highlevel-workflow-update-inbound-dnd-support-now-live"
     },
     {
       "filename": "bulg9z0suea-workflow-update-inbound-dnd-support-live.md",
@@ -1584,7 +1596,7 @@
       "publishedDate": "2025-12-15T15:06:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "f-hvcamwweu-land-your-first-5-clients-with-highlevel-no-ads-needed"
     },
     {
@@ -2457,10 +2469,10 @@
       "videoId": "ldfuKAF2Kb0",
       "url": "https://www.youtube.com/watch?v=ldfuKAF2Kb0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-08T18:31:11.000Z",
+      "publishedDate": "2025-12-17T06:37:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {
@@ -2676,7 +2688,7 @@
       "publishedDate": "2025-12-15T15:14:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "njpunwtuin4-how-to-easily-clone-elements-and-slides-in-highlevel"
     },
     {
@@ -3496,6 +3508,18 @@
       "slug": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights"
     },
     {
+      "filename": "sziftlumlca-google-lead-ad-integration-live.md",
+      "title": "Google Lead Ad Integration Live!",
+      "videoId": "SzIftLUmLcA",
+      "url": "https://www.youtube.com/watch?v=SzIftLUmLcA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-16T23:26:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sziftlumlca-google-lead-ad-integration-live"
+    },
+    {
       "filename": "t3jnjguok1c-automatic-seo-now-live-for-external-sites.md",
       "title": "Automatic SEO Now Live for External Sites!",
       "videoId": "T3JNjgUoK1c",
@@ -3820,18 +3844,6 @@
       "slug": "v6estea4h7u-wordpress-disk-space-add-on-for-wordpress-hosting"
     },
     {
-      "filename": "v89xbvm7obg-30-day-free-whatsapp-subscription-trial.md",
-      "title": "30 Day Free WhatsApp Subscription Trial!",
-      "videoId": "v89xBvM7oBg",
-      "url": "https://www.youtube.com/watch?v=v89xBvM7oBg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-16T22:50:16.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.2",
-      "slug": "v89xbvm7obg-30-day-free-whatsapp-subscription-trial"
-    },
-    {
       "filename": "vbg1zkugla0-typescript-javascript-sdk-live-for-developers.md",
       "title": "TypeScript JavaScript SDK Live for Developers",
       "videoId": "vbG1ZkuGLa0",
@@ -3864,7 +3876,7 @@
       "publishedDate": "2025-12-15T16:01:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vpeetx6m79a-workflows-update-inbound-dnd-support"
     },
     {
@@ -3998,6 +4010,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "w4dwgietew8-asana-integration-workflow-actions-amp-triggers-live"
+    },
+    {
+      "filename": "w4dwgietew8-highlevel-workflow-update-asana-actions-and-triggers-now-live.md",
+      "title": "HighLevel Workflow Update: Asana Actions and Triggers Now Live",
+      "videoId": "w4dwgiETEw8",
+      "url": "https://www.youtube.com/watch?v=w4dwgiETEw8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-12T22:43:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "w4dwgietew8-highlevel-workflow-update-asana-actions-and-triggers-now-live"
     },
     {
       "filename": "w78rkrx9esy-how-to-centralize-staff-scheduling-in-highlevel.md",
@@ -4344,7 +4368,7 @@
       "publishedDate": "2025-12-15T15:13:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xcazozdtj-c-how-to-build-an-ai-powered-email-campaign-with-highlevel"
     },
     {
@@ -4836,7 +4860,7 @@
       "publishedDate": "2025-12-15T18:47:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zusjxrcyuhs-day-1-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {
@@ -4853,7 +4877,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 367,
+    "fresh": 369,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4865,7 +4889,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 358,
+        "fresh": 360,
         "warning": 0,
         "expired": 0,
         "unknown": null

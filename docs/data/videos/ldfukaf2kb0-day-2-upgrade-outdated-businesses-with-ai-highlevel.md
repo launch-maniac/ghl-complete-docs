@@ -2,13 +2,13 @@
 title: "Day 2 - Upgrade Outdated Businesses with AI + HighLevel"
 video_id: "ldfuKAF2Kb0"
 url: "https://www.youtube.com/watch?v=ldfuKAF2Kb0"
-thumbnail: "https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-08T18:31:11.000Z"
+published_date: "2025-12-17T06:37:13.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-16T07:42:18.967Z"
+extracted_at: "2025-12-17T07:42:35.530Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-12-16T07:42:18.967Z"
 **Video ID:** `ldfuKAF2Kb0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/8/2025
+**Published:** 12/17/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-12-16T07:42:18.967Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ldfuKAF2Kb0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ldfuKAF2Kb0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/16/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/17/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
