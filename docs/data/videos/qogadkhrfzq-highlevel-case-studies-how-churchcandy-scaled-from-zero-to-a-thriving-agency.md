@@ -1,14 +1,14 @@
 ---
-title: "How To Easily Clone Elements and Slides in HighLevel"
-video_id: "NJPunWtUIN4"
-url: "https://www.youtube.com/watch?v=NJPunWtUIN4"
-thumbnail: "https://i.ytimg.com/vi/NJPunWtUIN4/hqdefault.jpg"
+title: "HighLevel Case Studies: How ChurchCandy Scaled from Zero to a Thriving Agency"
+video_id: "qoGADkHRFZQ"
+url: "https://www.youtube.com/watch?v=qoGADkHRFZQ"
+thumbnail: "https://i.ytimg.com/vi/qoGADkHRFZQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-15T15:14:58.000Z"
+published_date: "2025-12-17T19:22:12.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-18T07:42:24.911Z"
+extracted_at: "2025-12-18T07:42:23.118Z"
 
 ---
 
-# 🟢 How To Easily Clone Elements and Slides in HighLevel
+# 🟢 HighLevel Case Studies: How ChurchCandy Scaled from Zero to a Thriving Agency
 
-**Video ID:** `NJPunWtUIN4`
+**Video ID:** `qoGADkHRFZQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/15/2025
+**Published:** 12/17/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-18T07:42:24.911Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=NJPunWtUIN4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/NJPunWtUIN4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qoGADkHRFZQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/qoGADkHRFZQ/hqdefault.jpg)
 
 
 ## Content Guidelines

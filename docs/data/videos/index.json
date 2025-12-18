@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-17T07:42:41.930Z",
+  "generated": "2025-12-18T07:42:34.772Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 17,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -146,6 +146,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "1es4xhosro0-forms-one-click-order-upsell"
+    },
+    {
+      "filename": "1kipnxnv2pm-did-you-know-your-ai-can-do-more-than-chat.md",
+      "title": "Did you know? Your AI can do more than chat",
+      "videoId": "1KipnxNv2pM",
+      "url": "https://www.youtube.com/watch?v=1KipnxNv2pM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T16:05:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "1kipnxnv2pm-did-you-know-your-ai-can-do-more-than-chat"
     },
     {
       "filename": "2250rdwqs7a-oscar-gonzalez-scale-your-brand-and-book-more-calls-with-highlevel.md",
@@ -724,6 +736,18 @@
       "slug": "7cuxytosawg-user-management-login-as-permission"
     },
     {
+      "filename": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
+      "title": "Day 1 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
+      "videoId": "7qayv9yoHgo",
+      "url": "https://www.youtube.com/watch?v=7qayv9yoHgo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T20:50:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
+    },
+    {
       "filename": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days.md",
       "title": "Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days",
       "videoId": "7xl6GPLYXqg",
@@ -1164,7 +1188,7 @@
       "publishedDate": "2025-12-12T22:41:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "bulg9z0suea-highlevel-workflow-update-inbound-dnd-support-now-live"
     },
     {
@@ -3004,6 +3028,18 @@
       "slug": "pj1bqffxbi-simplifying-snapshot-updates-with-rolling-notifications"
     },
     {
+      "filename": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
+      "title": "Day 2 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
+      "videoId": "pnt6a3UZrmc",
+      "url": "https://www.youtube.com/watch?v=pnt6a3UZrmc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T20:57:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
+    },
+    {
       "filename": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live.md",
       "title": "Countdown Timers in WhatsApp Messages Live!",
       "videoId": "Po2i0GTX_LU",
@@ -3098,6 +3134,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert"
+    },
+    {
+      "filename": "qogadkhrfzq-highlevel-case-studies-how-churchcandy-scaled-from-zero-to-a-thriving-agency.md",
+      "title": "HighLevel Case Studies: How ChurchCandy Scaled from Zero to a Thriving Agency",
+      "videoId": "qoGADkHRFZQ",
+      "url": "https://www.youtube.com/watch?v=qoGADkHRFZQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T19:22:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qogadkhrfzq-highlevel-case-studies-how-churchcandy-scaled-from-zero-to-a-thriving-agency"
     },
     {
       "filename": "qp9xbeseu40-the-highlevel-release-radar-august-18th-august-22nd-2025.md",
@@ -3604,6 +3652,18 @@
       "slug": "thhvmv4dqke-conversations-clipboard-attachment-support-across-all-channels"
     },
     {
+      "filename": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel.md",
+      "title": "James Call: Automate Real Estate Leads with HighLevel",
+      "videoId": "tJhT5rw3Cso",
+      "url": "https://www.youtube.com/watch?v=tJhT5rw3Cso",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T15:17:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel"
+    },
+    {
       "filename": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal.md",
       "title": "How to Seamlessly Access Custom Form Data in Appointment Modal",
       "videoId": "TLcKHg01Bfk",
@@ -3636,7 +3696,7 @@
       "publishedDate": "2025-12-13T07:11:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025"
     },
     {
@@ -4020,7 +4080,7 @@
       "publishedDate": "2025-12-12T22:43:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "w4dwgietew8-highlevel-workflow-update-asana-actions-and-triggers-now-live"
     },
     {
@@ -4214,18 +4274,6 @@
       "contentCategory": "standard",
       "ageInMonths": "2.5",
       "slug": "wurrxzeawr4-ads-manager-google"
-    },
-    {
-      "filename": "wuu27zoxsha-lc-domain-multiple-year-domain-purchase.md",
-      "title": "LC Domain  Multiple Year Domain Purchase",
-      "videoId": "WUu27zOXshA",
-      "url": "https://www.youtube.com/watch?v=WUu27zOXshA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-18T00:00:40.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.1",
-      "slug": "wuu27zoxsha-lc-domain-multiple-year-domain-purchase"
     },
     {
       "filename": "wy-miebt-sw-blogs-auto-save-available-in-blog-posts.md",
@@ -4454,6 +4502,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
+    },
+    {
+      "filename": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
+      "title": "Day 3 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
+      "videoId": "xXK2_dwYEr4",
+      "url": "https://www.youtube.com/watch?v=xXK2_dwYEr4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-17T21:00:41.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
       "filename": "xxpcofkrqga-how-to-manage-appointment-reminders-and-confirmations-in-highlevel.md",
@@ -4877,7 +4937,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 369,
+    "fresh": 374,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -4889,7 +4949,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 360,
+        "fresh": 365,
         "warning": 0,
         "expired": 0,
         "unknown": null

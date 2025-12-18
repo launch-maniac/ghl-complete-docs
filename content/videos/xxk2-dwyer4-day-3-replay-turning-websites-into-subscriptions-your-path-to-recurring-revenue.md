@@ -1,14 +1,14 @@
 ---
-title: "Land Your First 5 Clients with HighLevel (No Ads Needed)"
-video_id: "F-HVcamwwEU"
-url: "https://www.youtube.com/watch?v=F-HVcamwwEU"
-thumbnail: "https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault_live.jpg"
+title: "Day 3 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue"
+video_id: "xXK2_dwYEr4"
+url: "https://www.youtube.com/watch?v=xXK2_dwYEr4"
+thumbnail: "https://i.ytimg.com/vi/xXK2_dwYEr4/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-15T15:06:31.000Z"
+published_date: "2025-12-17T21:00:41.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-18T07:42:25.327Z"
+extracted_at: "2025-12-18T07:42:22.497Z"
 
 ---
 
-# 🟢 Land Your First 5 Clients with HighLevel (No Ads Needed)
+# 🟢 Day 3 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue
 
-**Video ID:** `F-HVcamwwEU`
+**Video ID:** `xXK2_dwYEr4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/15/2025
+**Published:** 12/17/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-12-18T07:42:25.327Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F-HVcamwwEU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=xXK2_dwYEr4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/xXK2_dwYEr4/hqdefault_live.jpg)
 
 
 ## Content Guidelines
