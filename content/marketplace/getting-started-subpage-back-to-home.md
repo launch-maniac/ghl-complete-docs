@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-12-18T12:08:56.300Z"
+extracted_at: "2025-12-18T15:09:07.087Z"
 ---
 
 # Hi, how can we help you?
@@ -170,7 +170,7 @@ Modified on Mon, 10 Nov at 10:19 AM
 
 How to set up Root Domain/Subdomain for your Funnels/Websites?
 
-Modified on Thu, 4 Sep at 11:13 PM
+Modified on Thu, 18 Dec at 6:36 AM
 
 ](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
