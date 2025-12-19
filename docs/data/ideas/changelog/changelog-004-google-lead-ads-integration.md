@@ -23,7 +23,7 @@ We’re excited to introduce the **Google Lead Ads Integration**, enabling seaml
 
 How to Use
 
-1.  Navigate to Sub-account → Settings → Integrations and search for Google Ads.
+1.  **Enable on Labs** and Navigate to Sub-account → Settings → Integrations and search for Google Ads.
 
 ![Screenshot 2025-12-16 at 5](https://canny-assets.io/images/2b926767e7d96e6b8dfa5fe5821342b2.png)
 
