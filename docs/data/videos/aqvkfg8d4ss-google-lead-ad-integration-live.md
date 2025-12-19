@@ -1,10 +1,10 @@
 ---
-title: "Land Your First 5 Clients with HighLevel (No Ads Needed)"
-video_id: "F-HVcamwwEU"
-url: "https://www.youtube.com/watch?v=F-HVcamwwEU"
-thumbnail: "https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg"
+title: "Google Lead Ad Integration Live!"
+video_id: "aQVkfg8d4ss"
+url: "https://www.youtube.com/watch?v=aQVkfg8d4ss"
+thumbnail: "https://i.ytimg.com/vi/aQVkfg8d4ss/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-19T06:22:22.000Z"
+published_date: "2025-12-18T19:00:00.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-19T07:41:52.183Z"
+extracted_at: "2025-12-19T07:41:52.367Z"
 
 ---
 
-# 🟢 Land Your First 5 Clients with HighLevel (No Ads Needed)
+# 🟢 Google Lead Ad Integration Live!
 
-**Video ID:** `F-HVcamwwEU`
+**Video ID:** `aQVkfg8d4ss`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/19/2025
+**Published:** 12/18/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-19T07:41:52.183Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F-HVcamwwEU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aQVkfg8d4ss)
+- [📷 Thumbnail](https://i.ytimg.com/vi/aQVkfg8d4ss/hqdefault.jpg)
 
 
 ## Content Guidelines

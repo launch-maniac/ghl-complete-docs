@@ -1,10 +1,10 @@
 ---
-title: "Land Your First 5 Clients with HighLevel (No Ads Needed)"
-video_id: "F-HVcamwwEU"
-url: "https://www.youtube.com/watch?v=F-HVcamwwEU"
-thumbnail: "https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg"
+title: "Did You Know You Can Use a Simple Workflow to Increase Conversions After a Call?"
+video_id: "_4znwak-XVI"
+url: "https://www.youtube.com/watch?v=_4znwak-XVI"
+thumbnail: "https://i.ytimg.com/vi/_4znwak-XVI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-19T06:22:22.000Z"
+published_date: "2025-12-18T15:50:50.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-19T07:41:52.183Z"
+extracted_at: "2025-12-19T07:41:53.251Z"
 
 ---
 
-# 🟢 Land Your First 5 Clients with HighLevel (No Ads Needed)
+# 🟢 Did You Know You Can Use a Simple Workflow to Increase Conversions After a Call?
 
-**Video ID:** `F-HVcamwwEU`
+**Video ID:** `_4znwak-XVI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/19/2025
+**Published:** 12/18/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-19T07:41:52.183Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F-HVcamwwEU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_4znwak-XVI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/_4znwak-XVI/hqdefault.jpg)
 
 
 ## Content Guidelines

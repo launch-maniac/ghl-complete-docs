@@ -1,10 +1,10 @@
 ---
-title: "Land Your First 5 Clients with HighLevel (No Ads Needed)"
-video_id: "F-HVcamwwEU"
-url: "https://www.youtube.com/watch?v=F-HVcamwwEU"
-thumbnail: "https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg"
+title: "Did You Know One HighLevel Workflow Can Unlock 3× Better Email ROI"
+video_id: "yfqdj2W6xVQ"
+url: "https://www.youtube.com/watch?v=yfqdj2W6xVQ"
+thumbnail: "https://i.ytimg.com/vi/yfqdj2W6xVQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-19T06:22:22.000Z"
+published_date: "2025-12-18T15:52:22.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-19T07:41:52.183Z"
+extracted_at: "2025-12-19T07:41:53.081Z"
 
 ---
 
-# 🟢 Land Your First 5 Clients with HighLevel (No Ads Needed)
+# 🟢 Did You Know One HighLevel Workflow Can Unlock 3× Better Email ROI
 
-**Video ID:** `F-HVcamwwEU`
+**Video ID:** `yfqdj2W6xVQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/19/2025
+**Published:** 12/18/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-19T07:41:52.183Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F-HVcamwwEU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/F-HVcamwwEU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yfqdj2W6xVQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/yfqdj2W6xVQ/hqdefault.jpg)
 
 
 ## Content Guidelines
