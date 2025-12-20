@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-19T07:42:02.070Z",
+  "generated": "2025-12-20T07:39:20.101Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 16,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -84,7 +84,7 @@
       "publishedDate": "2025-12-18T18:25:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0d1kigh3aqc-how-to-control-banners-in-highlevel-for-a-cleaner-user-experience"
     },
     {
@@ -468,7 +468,7 @@
       "publishedDate": "2025-12-18T15:50:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4znwak-xvi-did-you-know-you-can-use-a-simple-workflow-to-increase-conversions-after-a-call"
     },
     {
@@ -768,7 +768,7 @@
       "publishedDate": "2025-12-17T20:50:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -854,6 +854,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "9z1ofo5o4ga-how-to-use-highlevel-39-s-conversation-ai-to-automate-voice-message-replies"
+    },
+    {
+      "filename": "a-h4jd2mb9g-how-to-use-element-templates-in-highlevel-for-consistent-designs.md",
+      "title": "How To Use Element Templates in HighLevel for Consistent Designs",
+      "videoId": "a-h4JD2Mb9g",
+      "url": "https://www.youtube.com/watch?v=a-h4JD2Mb9g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-19T15:36:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "a-h4jd2mb9g-how-to-use-element-templates-in-highlevel-for-consistent-designs"
     },
     {
       "filename": "a3oalhvoaq4-custom-call-disposition-inside-highlevel-is-now-live.md",
@@ -972,7 +984,7 @@
       "publishedDate": "2025-12-18T19:00:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aqvkfg8d4ss-google-lead-ad-integration-live"
     },
     {
@@ -1656,7 +1668,7 @@
       "publishedDate": "2025-12-18T18:28:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "etgmsisomqs-how-to-seamlessly-integrate-custom-agents-into-ask-ai-with-highlevel"
     },
     {
@@ -1682,6 +1694,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "f73fighm4ys-did-you-know-highlevel-can-remind-your-customers-of-appointments-by-email-text-or-voicem.md",
+      "title": "Did you know HighLevel can remind your customers of appointments by email, text or voicemail drop",
+      "videoId": "F73FiGHM4ys",
+      "url": "https://www.youtube.com/watch?v=F73FiGHM4ys",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-19T17:41:16.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "f73fighm4ys-did-you-know-highlevel-can-remind-your-customers-of-appointments-by-email-text-or-voicem"
     },
     {
       "filename": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
@@ -1994,6 +2018,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "gz1zza1-ao0-how-to-master-dashboard-widgets-for-improved-business-insights"
+    },
+    {
+      "filename": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025.md",
+      "title": "The HighLevel Release Radar (December 15th - December 19th 2025)",
+      "videoId": "h6Kd-hvsK9k",
+      "url": "https://www.youtube.com/watch?v=h6Kd-hvsK9k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-19T19:18:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025"
     },
     {
       "filename": "h6lhmvi5dzm-the-quarterly-ama-with-co-founders-shaun-varun-and-robin.md",
@@ -2498,18 +2534,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "kz9ale7oojo-community-course-attribution-reporting"
-    },
-    {
-      "filename": "l-lh-13izyg-use-physical-deskphones-linked-to-your-crm-sip-endpoints-live.md",
-      "title": "Use Physical Deskphones linked to your CRM SIP Endpoints Live!",
-      "videoId": "l-lh_13IZYg",
-      "url": "https://www.youtube.com/watch?v=l-lh_13IZYg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-20T00:32:45.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.1",
-      "slug": "l-lh-13izyg-use-physical-deskphones-linked-to-your-crm-sip-endpoints-live"
     },
     {
       "filename": "l15zpi7epsa-granular-permissions-for-voice-ai-agents.md",
@@ -3084,7 +3108,7 @@
       "publishedDate": "2025-12-17T20:57:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -3192,7 +3216,7 @@
       "publishedDate": "2025-12-17T19:22:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qogadkhrfzq-highlevel-case-studies-how-churchcandy-scaled-from-zero-to-a-thriving-agency"
     },
     {
@@ -4560,7 +4584,7 @@
       "publishedDate": "2025-12-17T21:00:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -4692,7 +4716,7 @@
       "publishedDate": "2025-12-18T15:52:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yfqdj2w6xvq-did-you-know-one-highlevel-workflow-can-unlock-3-better-email-roi"
     },
     {
@@ -4997,7 +5021,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 379,
+    "fresh": 381,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5009,7 +5033,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 370,
+        "fresh": 372,
         "warning": 0,
         "expired": 0,
         "unknown": null

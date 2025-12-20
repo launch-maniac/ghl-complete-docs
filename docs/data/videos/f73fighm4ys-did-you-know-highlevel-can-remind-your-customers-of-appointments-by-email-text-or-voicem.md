@@ -1,14 +1,14 @@
 ---
-title: "How To Control Banners in HighLevel for a Cleaner User Experience"
-video_id: "0D1kIGh3AQc"
-url: "https://www.youtube.com/watch?v=0D1kIGh3AQc"
-thumbnail: "https://i.ytimg.com/vi/0D1kIGh3AQc/hqdefault.jpg"
+title: "Did you know HighLevel can remind your customers of appointments by email, text or voicemail drop"
+video_id: "F73FiGHM4ys"
+url: "https://www.youtube.com/watch?v=F73FiGHM4ys"
+thumbnail: "https://i.ytimg.com/vi/F73FiGHM4ys/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-18T18:25:20.000Z"
+published_date: "2025-12-19T17:41:16.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-20T07:39:14.053Z"
+extracted_at: "2025-12-20T07:39:12.773Z"
 
 ---
 
-# 🟢 How To Control Banners in HighLevel for a Cleaner User Experience
+# 🟢 Did you know HighLevel can remind your customers of appointments by email, text or voicemail drop
 
-**Video ID:** `0D1kIGh3AQc`
+**Video ID:** `F73FiGHM4ys`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/18/2025
+**Published:** 12/19/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-20T07:39:14.053Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0D1kIGh3AQc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/0D1kIGh3AQc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F73FiGHM4ys)
+- [📷 Thumbnail](https://i.ytimg.com/vi/F73FiGHM4ys/hqdefault.jpg)
 
 
 ## Content Guidelines
