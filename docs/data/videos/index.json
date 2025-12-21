@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-20T07:39:20.101Z",
+  "generated": "2025-12-21T07:40:29.492Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 13,
     "playlists": 0,
-    "expired": 2,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -864,7 +864,7 @@
       "publishedDate": "2025-12-19T15:36:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "a-h4jd2mb9g-how-to-use-element-templates-in-highlevel-for-consistent-designs"
     },
     {
@@ -1680,7 +1680,7 @@
       "publishedDate": "2025-12-19T06:22:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "f-hvcamwweu-land-your-first-5-clients-with-highlevel-no-ads-needed"
     },
     {
@@ -1704,7 +1704,7 @@
       "publishedDate": "2025-12-19T17:41:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "f73fighm4ys-did-you-know-highlevel-can-remind-your-customers-of-appointments-by-email-text-or-voicem"
     },
     {
@@ -2025,7 +2025,7 @@
       "videoId": "h6Kd-hvsK9k",
       "url": "https://www.youtube.com/watch?v=h6Kd-hvsK9k",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-19T19:18:42.000Z",
+      "publishedDate": "2025-12-20T07:46:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -2306,18 +2306,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "iyzk54iazry-saaspreneur-workshop-with-frank-kern-day-2"
-    },
-    {
-      "filename": "j-95efk3dly-whatsapp-media-action.md",
-      "title": "WhatsApp Media Action",
-      "videoId": "J_95eFk3dlY",
-      "url": "https://www.youtube.com/watch?v=J_95eFk3dlY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-21T00:00:23.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.0",
-      "slug": "j-95efk3dly-whatsapp-media-action"
     },
     {
       "filename": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships.md",
@@ -3136,18 +3124,6 @@
       "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
     },
     {
-      "filename": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling.md",
-      "title": "How to Resend Unopened Emails Using RSS and Batch Scheduling",
-      "videoId": "pTiyZwBlZpg",
-      "url": "https://www.youtube.com/watch?v=pTiyZwBlZpg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-21T12:36:06.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "3.0",
-      "slug": "ptiyzwblzpg-how-to-resend-unopened-emails-using-rss-and-batch-scheduling"
-    },
-    {
       "filename": "pu-rmwtrg-8-how-to-maximize-your-webinar-insights-with-highlevel-analytics.md",
       "title": "How To Maximize Your Webinar Insights with HighLevel Analytics",
       "videoId": "Pu_RMwTRg_8",
@@ -3729,10 +3705,10 @@
       "videoId": "tJhT5rw3Cso",
       "url": "https://www.youtube.com/watch?v=tJhT5rw3Cso",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-17T15:17:33.000Z",
+      "publishedDate": "2025-12-21T05:58:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel"
     },
     {
@@ -5021,7 +4997,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 381,
+    "fresh": 379,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5033,7 +5009,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 372,
+        "fresh": 370,
         "warning": 0,
         "expired": 0,
         "unknown": null
