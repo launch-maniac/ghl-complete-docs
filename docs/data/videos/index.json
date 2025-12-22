@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-21T07:40:29.492Z",
+  "generated": "2025-12-22T07:42:57.326Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 8,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -2028,7 +2028,7 @@
       "publishedDate": "2025-12-20T07:46:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025"
     },
     {
