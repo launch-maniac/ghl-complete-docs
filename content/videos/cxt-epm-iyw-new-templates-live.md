@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (December 15th - December 19th 2025)"
-video_id: "h6Kd-hvsK9k"
-url: "https://www.youtube.com/watch?v=h6Kd-hvsK9k"
-thumbnail: "https://i.ytimg.com/vi/h6Kd-hvsK9k/hqdefault.jpg"
+title: "New Templates Live!"
+video_id: "CxT_ePm-iYw"
+url: "https://www.youtube.com/watch?v=CxT_ePm-iYw"
+thumbnail: "https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-20T07:46:26.000Z"
+published_date: "2025-12-23T02:42:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-23T07:42:55.690Z"
+extracted_at: "2025-12-23T07:42:55.262Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (December 15th - December 19th 2025)
+# 🟢 New Templates Live!
 
-**Video ID:** `h6Kd-hvsK9k`
+**Video ID:** `CxT_ePm-iYw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/20/2025
+**Published:** 12/23/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-23T07:42:55.690Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=h6Kd-hvsK9k)
-- [📷 Thumbnail](https://i.ytimg.com/vi/h6Kd-hvsK9k/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CxT_ePm-iYw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg)
 
 
 ## Content Guidelines

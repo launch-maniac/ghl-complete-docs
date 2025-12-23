@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-22T07:42:57.326Z",
+  "generated": "2025-12-23T07:43:02.860Z",
   "stats": {
     "channels": 1,
     "videos": 8,
@@ -765,10 +765,10 @@
       "videoId": "7qayv9yoHgo",
       "url": "https://www.youtube.com/watch?v=7qayv9yoHgo",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-17T20:50:36.000Z",
+      "publishedDate": "2025-12-23T07:05:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -1406,6 +1406,18 @@
       "contentCategory": "critical",
       "ageInMonths": "0.4",
       "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
+    },
+    {
+      "filename": "cxt-epm-iyw-new-templates-live.md",
+      "title": "New Templates Live!",
+      "videoId": "CxT_ePm-iYw",
+      "url": "https://www.youtube.com/watch?v=CxT_ePm-iYw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T02:42:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cxt-epm-iyw-new-templates-live"
     },
     {
       "filename": "czpiokfyiza-levelup-day-2025-intro.md",
@@ -2716,6 +2728,18 @@
       "slug": "mj6bs2swyv4-how-to-set-up-and-use-stripe-internet-readers-with-the-leadconnector-mobile-app"
     },
     {
+      "filename": "mk-apiboca4-search-amp-replace-tool-in-highlevel-wordpress-hosting-live.md",
+      "title": "Search &amp; Replace Tool in HighLevel WordPress Hosting Live!",
+      "videoId": "mK-apiBoCa4",
+      "url": "https://www.youtube.com/watch?v=mK-apiBoCa4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T02:43:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mk-apiboca4-search-amp-replace-tool-in-highlevel-wordpress-hosting-live"
+    },
+    {
       "filename": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "mn7dKUzhbg4",
@@ -3096,7 +3120,7 @@
       "publishedDate": "2025-12-17T20:57:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -3708,7 +3732,7 @@
       "publishedDate": "2025-12-21T05:58:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel"
     },
     {
@@ -4560,7 +4584,7 @@
       "publishedDate": "2025-12-17T21:00:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -4997,7 +5021,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 379,
+    "fresh": 381,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5009,7 +5033,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 370,
+        "fresh": 372,
         "warning": 0,
         "expired": 0,
         "unknown": null

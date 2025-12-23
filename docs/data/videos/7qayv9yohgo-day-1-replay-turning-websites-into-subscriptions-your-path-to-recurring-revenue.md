@@ -2,13 +2,13 @@
 title: "Day 1 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue"
 video_id: "7qayv9yoHgo"
 url: "https://www.youtube.com/watch?v=7qayv9yoHgo"
-thumbnail: "https://i.ytimg.com/vi/7qayv9yoHgo/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/7qayv9yoHgo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-17T20:50:36.000Z"
+published_date: "2025-12-23T07:05:46.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-22T07:42:52.883Z"
+extracted_at: "2025-12-23T07:42:54.786Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-12-22T07:42:52.883Z"
 **Video ID:** `7qayv9yoHgo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/17/2025
+**Published:** 12/23/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-12-22T07:42:52.883Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7qayv9yoHgo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7qayv9yoHgo/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7qayv9yoHgo/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/22/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/23/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
