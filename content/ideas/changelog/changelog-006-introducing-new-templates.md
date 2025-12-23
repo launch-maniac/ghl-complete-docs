@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "693cbf58182998223681a850"
+guid: "6946f6fd3765eca1e119f1f1"
 author: "Sales &amp; Marketing"
-pubDate: "2025-12-13T01:25:03.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-72"
+pubDate: "2025-12-20T19:28:27.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-73"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-72"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-73"
 index: 6
 ---
 
@@ -21,17 +21,21 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-Creative - 1
+Health & Wellness - 1
+
+LinkTree - 1
+
+\------------------------------------------------------
+
+🚀 **3 New Funnel Templates Published** 🚀
+
+\------------------------------------------------------
+
+Automotive - 1
 
 Business, Coaching & Consulting - 1
 
-\------------------------------------------------------
-
-🚀 **1 New Funnel Templates Published** 🚀
-
-\------------------------------------------------------
-
-Finance - 1
+Beauty & Fashion - 1
 
 \------------------------------------------------------
 
@@ -39,9 +43,7 @@ Finance - 1
 
 \------------------------------------------------------
 
-Home Services - 1
-
-Holidays - 1
+Marketing Agency - 1
 
 \-----------------------------------------------------
 
@@ -49,7 +51,7 @@ Holidays - 1
 
 \-----------------------------------------------------
 
-Medical - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
@@ -57,7 +59,7 @@ Medical - 1
 
 \-----------------------------------------------------
 
-Legal - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -65,29 +67,13 @@ Legal - 1
 
 \-----------------------------------------------------
 
-Beauty & Fashion - 2
-
-Business Coaching and Consulting - 2
-
-Creative - 2
-
-Financial - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
+Health & Wellness - 1
 
 Home Services - 1
 
-Real Estate - 1
-
-Beauty & Fashion - 1
+Holidays - 1
 
 Travel & Hospitality - 1
-
-Automotive - 1
 
 \-----------------------------------------------------
 
@@ -95,15 +81,15 @@ Automotive - 1
 
 \-----------------------------------------------------
 
-Automotive - Vehicle Rental
+Medical - Hair Loss Treatment
 
-Beauty & Fashion - Talent Modeling Agency
+Other - Staffing Agency
 
-Business Coaching & Consulting - Cyber Security Experts
+Real Estate - Real Estate Staging
 
-Creative - Flower Shop
+Restaurant and Bar - Janitorial Services
 
-Finance - Financial Investor
+Travel & Hospitality - Camp Grounds
 
 \------------------------------------------------------
 
@@ -111,46 +97,40 @@ Finance - Financial Investor
 
 \------------------------------------------------------
 
-Beauty & Fashion - Modeling Agency
+Business, Coaching & Consulting - IT Consultant
 
-![Commerical Development- Facebook Ad](https://canny-assets.io/images/55dfe4a9e5699fc1173304e6e381e2e2.png)
+![IT Consultant - Snapshot](https://canny-assets.io/images/9ea52b947d5e54e41e1f0a0677a12c64.png)
 
-![Cyber Security Experts - Google Ad](https://canny-assets.io/images/2780619cb85b0ae210aabc62aaaa001e.png)
+![Affiliate Marketing Agency Promotional - Email](https://canny-assets.io/images/8192381b0fa377d33cfe82cada16853b.png)
 
-![Financial Investor - Google Ad](https://canny-assets.io/images/6b3c9f989c1064cece4c855ab7519129.png)
+![Camp Grounds - Google Ad](https://canny-assets.io/images/17a100aef7d83032e5e178fcfadc279c.png)
 
-![Flower Shop - Google Ad](https://canny-assets.io/images/7bb58b707316d3cbd467481a7fd94934.png)
+![General Contractor - Social](https://canny-assets.io/images/a18e93aba728ee146f14b215f6368d12.png)
 
-![Lawn Care- Facebook Ad](https://canny-assets.io/images/8e41f023384578553e8f9d0c151955d1.png)
+![Graphic Designer Customer Satisfaction - Survey](https://canny-assets.io/images/bb8d9566a0995f61369b58833a0b8694.png)
 
-![Modeling Agency - Snapshot](https://canny-assets.io/images/60387f5e312e01d1002da2d6ed3469c0.png)
+![Hair Loss Treatment - Google Ad](https://canny-assets.io/images/28d9cdbcb6c6f47a19d0c09cb19d72a0.png)
 
-![Skin Care Clinic - Facebook Ad](https://canny-assets.io/images/67159c8a0843407523688295be62963c.png)
+![Holistic Healing - Social](https://canny-assets.io/images/fd8974fc954ff48e33a9815911baa531.png)
 
-![Talent Modeling Agency - Google Ad](https://canny-assets.io/images/91436756aeb010af5be2862eb5a51d9d.png)
+![Janitorial Services - Google Ad](https://canny-assets.io/images/073815f739069afe04448ec64eabf7c8.png)
 
-![Tire Store- Facebook Ad](https://canny-assets.io/images/381f41bc5944bc1305584b1006912976.png)
+![New Years - Social](https://canny-assets.io/images/37bddf66ea59ac63378642a9d20fa974.png)
 
-![Travel Agency- Facebook Ad](https://canny-assets.io/images/c00a2d9b36d76e6f2266bbaea687e1ab.png)
+![Real Estate Staging - Google Ad](https://canny-assets.io/images/799497d5066f0713150e0ee8a5a9a3be.png)
 
-![Vehicle Rental - Google Ad](https://canny-assets.io/images/38d96cbe69ee8082c35cc5bbca21f00b.png)
+![Solar Lead - Form](https://canny-assets.io/images/1ba475ca59db6da677e23d339d2665ed.png)
 
-![Family Attorneys Customer Satisfaction - Survey](https://canny-assets.io/images/006758a15a7bcce21e2b094e213a6bef.png)
+![Staffing Agency - Google Ad](https://canny-assets.io/images/e59d5541426bc3998a9ddb01a9dedc29.png)
 
-![Pain Management Clinic - Form](https://canny-assets.io/images/7447cf59452decaacf4157573d45665a.png)
+![Travel Insurance Cover - Social](https://canny-assets.io/images/6fdcb967d0181424ed34c63a79204151.png)
 
-![Pest Control - Email](https://canny-assets.io/images/ffa35a7416a951b4e17e4ffac85db8d3.png)
+![Wellness Journey - Website](https://canny-assets.io/images/37640b8d1daa0ebc7663d8db610e82b1.png)
 
-![Child Education - Website](https://canny-assets.io/images/6edf3b8524c1f7ef4f803a986a0172e2.png)
+![Auto Body Shop - Funnel](https://canny-assets.io/images/ab6ea8f67e57db0d4c93761b7177fcf3.png)
 
-![Financial Consultant - Social](https://canny-assets.io/images/9c430e90c6f819f1a501387c6c75181d.png)
+![Hair Boutique - Funnel](https://canny-assets.io/images/863bed7388b3dac4018b1775cdeb11b6.png)
 
-![Financial Investor - Social](https://canny-assets.io/images/377c19b139a76923e0dfc7e71f4127b9.png)
+![Life Consultant - Funnel](https://canny-assets.io/images/848e424682b723577bd265df2d9b7501.png)
 
-![Hip-Hop Dance Studio - Social](https://canny-assets.io/images/feb4073efae4dee1d4b68a2a7d9514cc.png)
-
-![Nail Spa - Social](https://canny-assets.io/images/8029d1d347dee9f168dcf017faba47c4.png)
-
-![Seasons Greetings - Email](https://canny-assets.io/images/586514a61e724325b906e47d33ba6fb5.png)
-
-![Smart Finance - Funnel](https://canny-assets.io/images/231380200f21bf79a502568f7cab84ce.png)
+![LinkTree - Vintage Store - Link Tree](https://canny-assets.io/images/980a5e224c17607b8c362fb160d4e181.png)
