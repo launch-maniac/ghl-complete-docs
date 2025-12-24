@@ -1,10 +1,10 @@
 ---
-title: "New Templates Live!"
-video_id: "CxT_ePm-iYw"
-url: "https://www.youtube.com/watch?v=CxT_ePm-iYw"
-thumbnail: "https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg"
+title: "Recurring Listings Performance Recap Reports"
+video_id: "Dg3Vi7cJvtc"
+url: "https://www.youtube.com/watch?v=Dg3Vi7cJvtc"
+thumbnail: "https://i.ytimg.com/vi/Dg3Vi7cJvtc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T02:42:52.000Z"
+published_date: "2025-12-24T01:00:30.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-24T07:42:43.874Z"
+extracted_at: "2025-12-24T07:42:42.524Z"
 
 ---
 
-# 🟢 New Templates Live!
+# 🟢 Recurring Listings Performance Recap Reports
 
-**Video ID:** `CxT_ePm-iYw`
+**Video ID:** `Dg3Vi7cJvtc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-24T07:42:43.874Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CxT_ePm-iYw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Dg3Vi7cJvtc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Dg3Vi7cJvtc/hqdefault.jpg)
 
 
 ## Content Guidelines

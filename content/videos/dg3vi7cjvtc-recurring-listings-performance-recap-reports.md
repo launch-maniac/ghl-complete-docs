@@ -1,14 +1,14 @@
 ---
-title: "App Marketplace  Jobber Integration"
-video_id: "IR0Lkzcw2WM"
-url: "https://www.youtube.com/watch?v=IR0Lkzcw2WM"
-thumbnail: "https://i.ytimg.com/vi/IR0Lkzcw2WM/hqdefault.jpg"
+title: "Recurring Listings Performance Recap Reports"
+video_id: "Dg3Vi7cJvtc"
+url: "https://www.youtube.com/watch?v=Dg3Vi7cJvtc"
+thumbnail: "https://i.ytimg.com/vi/Dg3Vi7cJvtc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T18:00:16.000Z"
+published_date: "2025-12-24T01:00:30.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
-content_category: "critical"
-age_in_months: "0.1"
+freshness_message: "Video is 0.0 months old (fresh)"
+content_category: "standard"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-26T07:43:10.025Z"
+extracted_at: "2025-12-24T07:42:42.524Z"
 
 ---
 
-# 🟢 App Marketplace  Jobber Integration
+# 🟢 Recurring Listings Performance Recap Reports
 
-**Video ID:** `IR0Lkzcw2WM`
+**Video ID:** `Dg3Vi7cJvtc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/23/2025
-**Content Type:** critical
+**Published:** 12/24/2025
+**Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,14 +47,14 @@ extracted_at: "2025-09-26T07:43:10.025Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IR0Lkzcw2WM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/IR0Lkzcw2WM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Dg3Vi7cJvtc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Dg3Vi7cJvtc/hqdefault.jpg)
 
 
 ## Content Guidelines
-⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.
 
 
+📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/26/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/24/2025*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 3 months*
+*Freshness monitored: Videos expire after 6 months*

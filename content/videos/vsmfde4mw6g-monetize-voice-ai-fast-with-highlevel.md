@@ -1,33 +1,33 @@
 ---
-title: "New Templates Live!"
-video_id: "CxT_ePm-iYw"
-url: "https://www.youtube.com/watch?v=CxT_ePm-iYw"
-thumbnail: "https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg"
+title: "Monetize Voice AI Fast with HighLevel"
+video_id: "vSMFdE4MW6g"
+url: "https://www.youtube.com/watch?v=vSMFdE4MW6g"
+thumbnail: "https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T02:42:52.000Z"
+published_date: "2025-12-23T14:25:28.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
 age_in_months: "0.0"
-has_transcript: true
-transcript_language: "en"
-transcript_type: "asr"
+has_transcript: false
+transcript_language: "none"
+transcript_type: "none"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-24T07:42:43.874Z"
+extracted_at: "2025-12-24T07:42:43.521Z"
 
 ---
 
-# 🟢 New Templates Live!
+# 🟢 Monetize Voice AI Fast with HighLevel
 
-**Video ID:** `CxT_ePm-iYw`
+**Video ID:** `vSMFdE4MW6g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 12/23/2025
 **Content Type:** standard
-**Transcript:** 🔐 Available (requires OAuth2)
+**Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
 **Video is 0.0 months old (fresh)**
@@ -36,19 +36,14 @@ extracted_at: "2025-12-24T07:42:43.874Z"
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript Information
-
-**Language:** en
-**Type:** Auto-generated
-**Status:** 🔐 Available but requires OAuth2 authentication
-
-⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
+## 📝 Transcript
+❌ **Transcript not available** - This video does not have captions or transcripts available.
 
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CxT_ePm-iYw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/CxT_ePm-iYw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vSMFdE4MW6g)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -57,7 +52,7 @@ extracted_at: "2025-12-24T07:42:43.874Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
+This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
 
 
 
@@ -68,5 +63,5 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 12/24/2025*
-*Transcript extraction: ✅ 0 words (en)*
+*Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

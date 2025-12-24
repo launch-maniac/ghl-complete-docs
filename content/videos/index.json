@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-23T07:43:02.860Z",
+  "generated": "2025-12-24T07:42:48.764Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 13,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -446,6 +446,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel"
+    },
+    {
+      "filename": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm.md",
+      "title": "Turn DMs into Sales with HighLevel with Raquel Diehm",
+      "videoId": "4WABz8SQkSU",
+      "url": "https://www.youtube.com/watch?v=4WABz8SQkSU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T14:33:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
       "filename": "4yltqo0mdb8-how-to-quickly-edit-your-forms-surveys-and-quizzes-inline.md",
@@ -950,6 +962,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.6",
       "slug": "ahca-d-hqrw-content-library-live-for-documents-amp-contracts"
+    },
+    {
+      "filename": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel.md",
+      "title": "Web Design to Recurring Revenue with HighLevel",
+      "videoId": "aljEpZqF5Ho",
+      "url": "https://www.youtube.com/watch?v=aljEpZqF5Ho",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T14:37:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
       "filename": "aoctn6xbtai-all-sites-better-uptime-performance-and-reliability-now-live.md",
@@ -1492,6 +1516,18 @@
       "slug": "depxrdcjcqi-mobile-service-v2-appointments-in-calendars"
     },
     {
+      "filename": "dg3vi7cjvtc-recurring-listings-performance-recap-reports.md",
+      "title": "Recurring Listings Performance Recap Reports",
+      "videoId": "Dg3Vi7cJvtc",
+      "url": "https://www.youtube.com/watch?v=Dg3Vi7cJvtc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T01:00:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dg3vi7cjvtc-recurring-listings-performance-recap-reports"
+    },
+    {
       "filename": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel.md",
       "title": "The New Advanced Workflow Builder In HighLevel",
       "videoId": "djJeYJlBGMc",
@@ -1526,6 +1562,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.3",
       "slug": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live"
+    },
+    {
+      "filename": "dqbazc5plqe-search-amp-replace-tool-in-highlevel-wordpress-hosting.md",
+      "title": "Search &amp; Replace Tool in HighLevel WordPress Hosting",
+      "videoId": "dQBazC5PLqE",
+      "url": "https://www.youtube.com/watch?v=dQBazC5PLqE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T22:00:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dqbazc5plqe-search-amp-replace-tool-in-highlevel-wordpress-hosting"
     },
     {
       "filename": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern.md",
@@ -1826,6 +1874,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fqebgwsygb4-agent-studio-integration-now-in-snapshots"
+    },
+    {
+      "filename": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car.md",
+      "title": "Automate Networking and Lead Follow-Up IRL with a HighLevel Powered Digital Business Card",
+      "videoId": "FxAIHVkNJLQ",
+      "url": "https://www.youtube.com/watch?v=FxAIHVkNJLQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T14:29:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car"
     },
     {
       "filename": "fxnf8gkajfo-template-library-introducing-new-templates.md",
@@ -2270,18 +2330,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks"
-    },
-    {
-      "filename": "ir0lkzcw2wm-app-marketplace-jobber-integration.md",
-      "title": "App Marketplace  Jobber Integration",
-      "videoId": "IR0Lkzcw2WM",
-      "url": "https://www.youtube.com/watch?v=IR0Lkzcw2WM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-23T18:00:16.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "critical",
-      "ageInMonths": "0.1",
-      "slug": "ir0lkzcw2wm-app-marketplace-jobber-integration"
     },
     {
       "filename": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
@@ -3117,10 +3165,10 @@
       "videoId": "pnt6a3UZrmc",
       "url": "https://www.youtube.com/watch?v=pnt6a3UZrmc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-17T20:57:06.000Z",
+      "publishedDate": "2025-12-24T07:07:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -4048,6 +4096,18 @@
       "slug": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you"
     },
     {
+      "filename": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel.md",
+      "title": "Monetize Voice AI Fast with HighLevel",
+      "videoId": "vSMFdE4MW6g",
+      "url": "https://www.youtube.com/watch?v=vSMFdE4MW6g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T14:25:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
+    },
+    {
       "filename": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner.md",
       "title": "Did You Know Content AI Can Create Community Posts for You in the Social Planner?",
       "videoId": "VStN73NOMCA",
@@ -4094,6 +4154,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "vxkqyrqofvq-notification-sound-option-in-chat-widget"
+    },
+    {
+      "filename": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients.md",
+      "title": "Build &amp; Multiply High-Ticket Clients",
+      "videoId": "w0M5cqmVoCs",
+      "url": "https://www.youtube.com/watch?v=w0M5cqmVoCs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T14:35:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients"
     },
     {
       "filename": "w1e6fkbcbwk-how-to-easily-add-whatsapp-templates-to-your-snapshots.md",
@@ -5021,19 +5093,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 381,
+    "fresh": 387,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 3,
+        "fresh": 2,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 372,
+        "fresh": 379,
         "warning": 0,
         "expired": 0,
         "unknown": null
