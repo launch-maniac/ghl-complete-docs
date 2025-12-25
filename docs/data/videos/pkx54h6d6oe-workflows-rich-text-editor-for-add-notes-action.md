@@ -1,10 +1,10 @@
 ---
-title: "Search &amp; Replace Tool in HighLevel WordPress Hosting"
-video_id: "dQBazC5PLqE"
-url: "https://www.youtube.com/watch?v=dQBazC5PLqE"
-thumbnail: "https://i.ytimg.com/vi/dQBazC5PLqE/hqdefault.jpg"
+title: "Workflows  Rich Text Editor for “Add Notes” action"
+video_id: "pKx54H6D6oE"
+url: "https://www.youtube.com/watch?v=pKx54H6D6oE"
+thumbnail: "https://i.ytimg.com/vi/pKx54H6D6oE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T22:00:59.000Z"
+published_date: "2025-12-24T22:00:50.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-25T07:41:38.651Z"
+extracted_at: "2025-12-25T07:41:36.369Z"
 
 ---
 
-# 🟢 Search &amp; Replace Tool in HighLevel WordPress Hosting
+# 🟢 Workflows  Rich Text Editor for “Add Notes” action
 
-**Video ID:** `dQBazC5PLqE`
+**Video ID:** `pKx54H6D6oE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-25T07:41:38.651Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=dQBazC5PLqE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/dQBazC5PLqE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pKx54H6D6oE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/pKx54H6D6oE/hqdefault.jpg)
 
 
 ## Content Guidelines

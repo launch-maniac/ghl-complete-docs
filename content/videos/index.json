@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-24T07:42:48.764Z",
+  "generated": "2025-12-25T07:41:45.227Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 20,
     "playlists": 0,
-    "expired": 2,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -456,7 +456,7 @@
       "publishedDate": "2025-12-23T14:33:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -780,7 +780,7 @@
       "publishedDate": "2025-12-23T07:05:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -972,7 +972,7 @@
       "publishedDate": "2025-12-23T14:37:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1276,18 +1276,6 @@
       "slug": "bulg9z0suea-workflow-update-inbound-dnd-support-live"
     },
     {
-      "filename": "bxyulaxp2f0-how-to-resell-the-prospecting-tool-to-all-your-sub-account-clients.md",
-      "title": "How to Resell the Prospecting Tool to All Your Sub-Account Clients",
-      "videoId": "BXYULaXp2f0",
-      "url": "https://www.youtube.com/watch?v=BXYULaXp2f0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-25T00:33:32.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.9",
-      "slug": "bxyulaxp2f0-how-to-resell-the-prospecting-tool-to-all-your-sub-account-clients"
-    },
-    {
       "filename": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel.md",
       "title": "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel",
       "videoId": "BYm0e46nFmw",
@@ -1440,7 +1428,7 @@
       "publishedDate": "2025-12-23T02:42:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cxt-epm-iyw-new-templates-live"
     },
     {
@@ -1586,6 +1574,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
+    },
+    {
+      "filename": "dw7twbht1oo-template-library-introducing-new-templates-no-73.md",
+      "title": "Template Library: Introducing New Templates (no. 73)",
+      "videoId": "DW7twBHt1Oo",
+      "url": "https://www.youtube.com/watch?v=DW7twBHt1Oo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T16:00:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "dw7twbht1oo-template-library-introducing-new-templates-no-73"
     },
     {
       "filename": "dynrsohdpiu-automatic-seo-now-live-for-external-sites.md",
@@ -1884,7 +1884,7 @@
       "publishedDate": "2025-12-23T14:29:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car"
     },
     {
@@ -2100,7 +2100,7 @@
       "publishedDate": "2025-12-20T07:46:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025"
     },
     {
@@ -2234,6 +2234,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
+    },
+    {
+      "filename": "hu-m-cpdjhm-meta-ads-now-live-in-australia-singapore-amp-taiwan.md",
+      "title": "Meta Ads Now Live in Australia, Singapore &amp; Taiwan!",
+      "videoId": "hu-m-CPDjhM",
+      "url": "https://www.youtube.com/watch?v=hu-m-CPDjhM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:08:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hu-m-cpdjhm-meta-ads-now-live-in-australia-singapore-amp-taiwan"
     },
     {
       "filename": "hwhga1dbvqu-new-integration-highlevel-jobber-live.md",
@@ -2784,7 +2796,7 @@
       "publishedDate": "2025-12-23T02:43:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mk-apiboca4-search-amp-replace-tool-in-highlevel-wordpress-hosting-live"
     },
     {
@@ -3016,6 +3028,18 @@
       "slug": "or-qgu3k2fw-clickup-integration-live"
     },
     {
+      "filename": "or7xtzkeqgg-workflow-rich-text-editor-for-quot-add-notes-quot-action.md",
+      "title": "Workflow: Rich Text Editor for &quot;Add Notes&quot; action",
+      "videoId": "or7XtzkeQGg",
+      "url": "https://www.youtube.com/watch?v=or7XtzkeQGg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:09:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "or7xtzkeqgg-workflow-rich-text-editor-for-quot-add-notes-quot-action"
+    },
+    {
       "filename": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale.md",
       "title": "Did You Know HighLevel Just Made Using AI Affordable at Scale?",
       "videoId": "OU-h27EJ6Xg",
@@ -3026,6 +3050,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
+    },
+    {
+      "filename": "ow2-li7ec4i-ecommerce-mobile-ui-improvements-sorting-amp-filtering.md",
+      "title": "ECommerce: Mobile UI Improvements - Sorting &amp; Filtering!",
+      "videoId": "ow2-Li7Ec4I",
+      "url": "https://www.youtube.com/watch?v=ow2-Li7Ec4I",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:10:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ow2-li7ec4i-ecommerce-mobile-ui-improvements-sorting-amp-filtering"
     },
     {
       "filename": "oxja9n6ggwm-manual-reviews-is-live.md",
@@ -3160,6 +3196,18 @@
       "slug": "pj1bqffxbi-simplifying-snapshot-updates-with-rolling-notifications"
     },
     {
+      "filename": "pkx54h6d6oe-workflows-rich-text-editor-for-add-notes-action.md",
+      "title": "Workflows  Rich Text Editor for “Add Notes” action",
+      "videoId": "pKx54H6D6oE",
+      "url": "https://www.youtube.com/watch?v=pKx54H6D6oE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T22:00:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pkx54h6d6oe-workflows-rich-text-editor-for-add-notes-action"
+    },
+    {
       "filename": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
       "title": "Day 2 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
       "videoId": "pnt6a3UZrmc",
@@ -3290,6 +3338,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "qqjkvzcfumw-from-0-to-780k-how-lorenzo-built-a-thriving-paid-community-on-highlevel"
+    },
+    {
+      "filename": "qsis7q-9p-m-recurring-listing-performance-recap-reports-live.md",
+      "title": "Recurring Listing Performance Recap Reports Live!",
+      "videoId": "QsIs7q-9p_M",
+      "url": "https://www.youtube.com/watch?v=QsIs7q-9p_M",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:11:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qsis7q-9p-m-recurring-listing-performance-recap-reports-live"
     },
     {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
@@ -3664,6 +3724,18 @@
       "slug": "sx1qwzn1yr8-did-you-know-you-can-run-your-agency-from-the-highlevel-mobile-app"
     },
     {
+      "filename": "sx6tz-ybu5k-ecommerce-mobile-ui-improvements-sorting-amp-filtering.md",
+      "title": "ECommerce  Mobile UI Improvements – Sorting &amp; Filtering",
+      "videoId": "sX6TZ-YBu5k",
+      "url": "https://www.youtube.com/watch?v=sX6TZ-YBu5k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T19:00:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sx6tz-ybu5k-ecommerce-mobile-ui-improvements-sorting-amp-filtering"
+    },
+    {
       "filename": "syz9pe0qwds-how-to-set-up-dashboard-reporting-with-payment-widgets-and-insights.md",
       "title": "How to Set Up Dashboard Reporting with Payment Widgets and Insights",
       "videoId": "sYz9PE0QWDs",
@@ -3964,18 +4036,6 @@
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
-      "filename": "up93a7gt0hi-sms-messaging-ramp-a-step-by-step-guide.md",
-      "title": "SMS Messaging Ramp: A Step-by-Step Guide",
-      "videoId": "UP93A7GT0hI",
-      "url": "https://www.youtube.com/watch?v=UP93A7GT0hI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-25T00:32:44.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.9",
-      "slug": "up93a7gt0hi-sms-messaging-ramp-a-step-by-step-guide"
-    },
-    {
       "filename": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel.md",
       "title": "Did You Know You Can Auto Assign Leads in HighLevel?",
       "videoId": "-url8myu0Uc",
@@ -4104,7 +4164,7 @@
       "publishedDate": "2025-12-23T14:25:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
     },
     {
@@ -4164,7 +4224,7 @@
       "publishedDate": "2025-12-23T14:35:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients"
     },
     {
@@ -4653,10 +4713,10 @@
       "videoId": "xXK2_dwYEr4",
       "url": "https://www.youtube.com/watch?v=xXK2_dwYEr4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-17T21:00:41.000Z",
+      "publishedDate": "2025-12-25T06:51:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -5093,7 +5153,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 387,
+    "fresh": 392,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5105,13 +5165,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 379,
+        "fresh": 383,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 6,
+        "fresh": 7,
         "warning": 1,
         "expired": 0
       }

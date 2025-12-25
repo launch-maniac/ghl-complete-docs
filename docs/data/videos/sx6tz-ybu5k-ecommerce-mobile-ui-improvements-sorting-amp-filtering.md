@@ -1,10 +1,10 @@
 ---
-title: "Search &amp; Replace Tool in HighLevel WordPress Hosting"
-video_id: "dQBazC5PLqE"
-url: "https://www.youtube.com/watch?v=dQBazC5PLqE"
-thumbnail: "https://i.ytimg.com/vi/dQBazC5PLqE/hqdefault.jpg"
+title: "ECommerce  Mobile UI Improvements – Sorting &amp; Filtering"
+video_id: "sX6TZ-YBu5k"
+url: "https://www.youtube.com/watch?v=sX6TZ-YBu5k"
+thumbnail: "https://i.ytimg.com/vi/sX6TZ-YBu5k/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T22:00:59.000Z"
+published_date: "2025-12-24T19:00:55.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-25T07:41:38.651Z"
+extracted_at: "2025-12-25T07:41:36.603Z"
 
 ---
 
-# 🟢 Search &amp; Replace Tool in HighLevel WordPress Hosting
+# 🟢 ECommerce  Mobile UI Improvements – Sorting &amp; Filtering
 
-**Video ID:** `dQBazC5PLqE`
+**Video ID:** `sX6TZ-YBu5k`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-25T07:41:38.651Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=dQBazC5PLqE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/dQBazC5PLqE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sX6TZ-YBu5k)
+- [📷 Thumbnail](https://i.ytimg.com/vi/sX6TZ-YBu5k/hqdefault.jpg)
 
 
 ## Content Guidelines
