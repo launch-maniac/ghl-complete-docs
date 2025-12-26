@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-25T07:41:45.227Z",
+  "generated": "2025-12-26T07:41:51.506Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 17,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1512,7 +1512,7 @@
       "publishedDate": "2025-12-24T01:00:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dg3vi7cjvtc-recurring-listings-performance-recap-reports"
     },
     {
@@ -1560,7 +1560,7 @@
       "publishedDate": "2025-12-23T22:00:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dqbazc5plqe-search-amp-replace-tool-in-highlevel-wordpress-hosting"
     },
     {
@@ -1584,7 +1584,7 @@
       "publishedDate": "2025-12-24T16:00:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dw7twbht1oo-template-library-introducing-new-templates-no-73"
     },
     {
@@ -2244,7 +2244,7 @@
       "publishedDate": "2025-12-24T14:08:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hu-m-cpdjhm-meta-ads-now-live-in-australia-singapore-amp-taiwan"
     },
     {
@@ -3036,7 +3036,7 @@
       "publishedDate": "2025-12-24T14:09:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "or7xtzkeqgg-workflow-rich-text-editor-for-quot-add-notes-quot-action"
     },
     {
@@ -3060,7 +3060,7 @@
       "publishedDate": "2025-12-24T14:10:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ow2-li7ec4i-ecommerce-mobile-ui-improvements-sorting-amp-filtering"
     },
     {
@@ -3216,7 +3216,7 @@
       "publishedDate": "2025-12-24T07:07:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -3348,7 +3348,7 @@
       "publishedDate": "2025-12-24T14:11:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qsis7q-9p-m-recurring-listing-performance-recap-reports-live"
     },
     {
@@ -3732,7 +3732,7 @@
       "publishedDate": "2025-12-24T19:00:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sx6tz-ybu5k-ecommerce-mobile-ui-improvements-sorting-amp-filtering"
     },
     {
