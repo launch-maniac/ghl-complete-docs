@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-26T07:41:51.506Z",
+  "generated": "2025-12-27T07:39:49.420Z",
   "stats": {
     "channels": 1,
-    "videos": 17,
+    "videos": 16,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 17
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -110,6 +110,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0f5jw67cugo-revamped-trust-center-and-a2p-experience"
+    },
+    {
+      "filename": "0gk0rrzk1yg-did-you-know-highlevel-can-automatically-text-customers-when-you-miss-a-call.md",
+      "title": "Did you know HighLevel can automatically text customers when you miss a call? 🤯",
+      "videoId": "0gK0RRZK1yg",
+      "url": "https://www.youtube.com/watch?v=0gK0RRZK1yg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-26T17:45:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0gk0rrzk1yg-did-you-know-highlevel-can-automatically-text-customers-when-you-miss-a-call"
     },
     {
       "filename": "0ly0a7s-bay-how-to-set-up-a-recurring-countdown-timer.md",
@@ -1346,6 +1358,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "cfcxbdd9ady-day-5-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "ckeonbrekyg-the-highlevel-release-radar-december-22nd-december-26th-2025.md",
+      "title": "The HighLevel Release Radar (December 22nd - December 26th 2025)",
+      "videoId": "ckEonBrekyg",
+      "url": "https://www.youtube.com/watch?v=ckEonBrekyg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-27T05:29:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ckeonbrekyg-the-highlevel-release-radar-december-22nd-december-26th-2025"
     },
     {
       "filename": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live.md",
@@ -3204,7 +3228,7 @@
       "publishedDate": "2025-12-24T22:00:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pkx54h6d6oe-workflows-rich-text-editor-for-add-notes-action"
     },
     {
@@ -3518,18 +3542,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
-    },
-    {
-      "filename": "s15-kqskcc4-site-analytics-updates.md",
-      "title": "Site Analytics Updates",
-      "videoId": "S15-KQSkcc4",
-      "url": "https://www.youtube.com/watch?v=S15-KQSkcc4",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-26T18:00:29.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "critical",
-      "ageInMonths": "0.1",
-      "slug": "s15-kqskcc4-site-analytics-updates"
     },
     {
       "filename": "s5jxr9w7yng-day-2-build-your-agency-fast-with-highlevel-ai.md",
@@ -4480,18 +4492,6 @@
       "slug": "wurrxzeawr4-ads-manager-google"
     },
     {
-      "filename": "wy-miebt-sw-blogs-auto-save-available-in-blog-posts.md",
-      "title": "Blogs - Auto Save Available in Blog Posts!",
-      "videoId": "Wy-MieBT_Sw",
-      "url": "https://www.youtube.com/watch?v=Wy-MieBT_Sw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-26T22:03:57.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.8",
-      "slug": "wy-miebt-sw-blogs-auto-save-available-in-blog-posts"
-    },
-    {
       "filename": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots.md",
       "title": "Agent Studio Integration Now in Snapshots!",
       "videoId": "wY8Nb4aPnWQ",
@@ -4716,7 +4716,7 @@
       "publishedDate": "2025-12-25T06:51:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
     },
     {
@@ -5159,13 +5159,13 @@
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 2,
+        "fresh": 1,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 383,
+        "fresh": 384,
         "warning": 0,
         "expired": 0,
         "unknown": null
