@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "funnels-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2025-12-28T18:08:52.684Z"
+extracted_at: "2025-12-28T21:08:44.667Z"
 ---
 
 # Hi, how can we help you?
