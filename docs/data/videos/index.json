@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-27T07:39:49.420Z",
+  "generated": "2025-12-28T07:40:35.115Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 7,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 7
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -120,7 +120,7 @@
       "publishedDate": "2025-12-26T17:45:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0gk0rrzk1yg-did-you-know-highlevel-can-automatically-text-customers-when-you-miss-a-call"
     },
     {
@@ -468,7 +468,7 @@
       "publishedDate": "2025-12-23T14:33:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -984,7 +984,7 @@
       "publishedDate": "2025-12-23T14:37:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1908,7 +1908,7 @@
       "publishedDate": "2025-12-23T14:29:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car"
     },
     {
@@ -4176,7 +4176,7 @@
       "publishedDate": "2025-12-23T14:25:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
     },
     {
@@ -4236,7 +4236,7 @@
       "publishedDate": "2025-12-23T14:35:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients"
     },
     {
