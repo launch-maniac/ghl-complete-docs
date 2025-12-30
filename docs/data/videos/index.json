@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-29T07:43:53.585Z",
+  "generated": "2025-12-30T07:42:34.833Z",
   "stats": {
     "channels": 1,
-    "videos": 7,
+    "videos": 8,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 7
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1564,6 +1564,18 @@
       "slug": "dljeza-zjli-the-highlevel-release-radar-november-10th-november-14th-2025"
     },
     {
+      "filename": "dnoypsca4q0-meta-ads-now-live-in-australia-singapore-amp-taiwan.md",
+      "title": "Meta Ads Now Live in Australia, Singapore &amp; Taiwan!",
+      "videoId": "DnOYpsca4q0",
+      "url": "https://www.youtube.com/watch?v=DnOYpsca4q0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-29T16:00:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dnoypsca4q0-meta-ads-now-live-in-australia-singapore-amp-taiwan"
+    },
+    {
       "filename": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live.md",
       "title": "Mobile App  Self Service Whitelabelled Mobile App Customizer Live!",
       "videoId": "DotDaQ_B7tk",
@@ -1936,6 +1948,18 @@
       "slug": "fyazvkynhto-introducing-badges-live-now"
     },
     {
+      "filename": "fzbk72llkmu-did-you-know-highlevel-just-made-using-ai-affordable-at-scale.md",
+      "title": "Did You Know HighLevel Just Made Using AI Affordable at Scale",
+      "videoId": "FZBK72lLKmU",
+      "url": "https://www.youtube.com/watch?v=FZBK72lLKmU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-29T14:34:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fzbk72llkmu-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
+    },
+    {
       "filename": "g83r-vqplri-backend-trigger-flow-enhancements.md",
       "title": "Backend Trigger Flow Enhancements!",
       "videoId": "g83R-VQPlRI",
@@ -1994,18 +2018,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "gaaenp-pz5a-highlevel-forms-one-click-order-upsell-now-live"
-    },
-    {
-      "filename": "gadvqqb8lla-page-builder-autosave-performance-enhancements.md",
-      "title": "Page Builder  Autosave   Performance Enhancements",
-      "videoId": "GaDVqqB8llA",
-      "url": "https://www.youtube.com/watch?v=GaDVqqB8llA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-06-30T15:00:27.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.7",
-      "slug": "gadvqqb8lla-page-builder-autosave-performance-enhancements"
     },
     {
       "filename": "gbjaxl1cooa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed.md",
@@ -4173,10 +4185,10 @@
       "videoId": "vSMFdE4MW6g",
       "url": "https://www.youtube.com/watch?v=vSMFdE4MW6g",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-23T14:25:28.000Z",
+      "publishedDate": "2025-12-30T06:25:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
     },
     {
@@ -5153,7 +5165,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 392,
+    "fresh": 393,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5165,7 +5177,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 384,
+        "fresh": 385,
         "warning": 0,
         "expired": 0,
         "unknown": null

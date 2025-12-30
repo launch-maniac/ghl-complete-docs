@@ -2,13 +2,13 @@
 title: "Monetize Voice AI Fast with HighLevel"
 video_id: "vSMFdE4MW6g"
 url: "https://www.youtube.com/watch?v=vSMFdE4MW6g"
-thumbnail: "https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T14:25:28.000Z"
+published_date: "2025-12-30T06:25:10.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-29T07:43:49.242Z"
+extracted_at: "2025-12-30T07:42:28.949Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2025-12-29T07:43:49.242Z"
 **Video ID:** `vSMFdE4MW6g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/30/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2025-12-29T07:43:49.242Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vSMFdE4MW6g)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vSMFdE4MW6g/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 12/29/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 12/30/2025*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

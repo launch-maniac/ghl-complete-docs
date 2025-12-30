@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (December 22nd - December 26th 2025)"
-video_id: "ckEonBrekyg"
-url: "https://www.youtube.com/watch?v=ckEonBrekyg"
-thumbnail: "https://i.ytimg.com/vi/ckEonBrekyg/hqdefault.jpg"
+title: "Meta Ads Now Live in Australia, Singapore &amp; Taiwan!"
+video_id: "DnOYpsca4q0"
+url: "https://www.youtube.com/watch?v=DnOYpsca4q0"
+thumbnail: "https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-27T05:29:00.000Z"
+published_date: "2025-12-29T16:00:30.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-30T07:42:29.555Z"
+extracted_at: "2025-12-30T07:42:29.160Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (December 22nd - December 26th 2025)
+# 🟢 Meta Ads Now Live in Australia, Singapore &amp; Taiwan!
 
-**Video ID:** `ckEonBrekyg`
+**Video ID:** `DnOYpsca4q0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/27/2025
+**Published:** 12/29/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-30T07:42:29.555Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ckEonBrekyg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ckEonBrekyg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DnOYpsca4q0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg)
 
 
 ## Content Guidelines
