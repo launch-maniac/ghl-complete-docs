@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (December 22nd - December 26th 2025)"
-video_id: "ckEonBrekyg"
-url: "https://www.youtube.com/watch?v=ckEonBrekyg"
-thumbnail: "https://i.ytimg.com/vi/ckEonBrekyg/hqdefault.jpg"
+title: "HighLevel WordPress Hosting - Search and Replace Tool Now Live"
+video_id: "mK-apiBoCa4"
+url: "https://www.youtube.com/watch?v=mK-apiBoCa4"
+thumbnail: "https://i.ytimg.com/vi/mK-apiBoCa4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-27T05:29:00.000Z"
+published_date: "2025-12-23T02:43:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.3 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.3"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-12-31T07:42:49.320Z"
+extracted_at: "2025-12-31T07:42:50.387Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (December 22nd - December 26th 2025)
+# 🟢 HighLevel WordPress Hosting - Search and Replace Tool Now Live
 
-**Video ID:** `ckEonBrekyg`
+**Video ID:** `mK-apiBoCa4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/27/2025
+**Published:** 12/23/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.3 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-12-31T07:42:49.320Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ckEonBrekyg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ckEonBrekyg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mK-apiBoCa4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/mK-apiBoCa4/hqdefault.jpg)
 
 
 ## Content Guidelines

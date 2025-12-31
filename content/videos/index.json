@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-30T07:42:34.833Z",
+  "generated": "2025-12-31T07:42:55.348Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 12,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -468,7 +468,7 @@
       "publishedDate": "2025-12-23T14:33:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -984,7 +984,7 @@
       "publishedDate": "2025-12-23T14:37:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1444,6 +1444,18 @@
       "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
     },
     {
+      "filename": "cxt-epm-iyw-highlevel-update-new-templates-now-live.md",
+      "title": "HighLevel Update - New Templates Now Live",
+      "videoId": "CxT_ePm-iYw",
+      "url": "https://www.youtube.com/watch?v=CxT_ePm-iYw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T02:42:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "cxt-epm-iyw-highlevel-update-new-templates-now-live"
+    },
+    {
       "filename": "cxt-epm-iyw-new-templates-live.md",
       "title": "New Templates Live!",
       "videoId": "CxT_ePm-iYw",
@@ -1572,7 +1584,7 @@
       "publishedDate": "2025-12-29T16:00:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dnoypsca4q0-meta-ads-now-live-in-australia-singapore-amp-taiwan"
     },
     {
@@ -1917,10 +1929,10 @@
       "videoId": "FxAIHVkNJLQ",
       "url": "https://www.youtube.com/watch?v=FxAIHVkNJLQ",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-23T14:29:57.000Z",
+      "publishedDate": "2025-12-31T06:07:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car"
     },
     {
@@ -1956,7 +1968,7 @@
       "publishedDate": "2025-12-29T14:34:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fzbk72llkmu-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
     },
     {
@@ -2270,6 +2282,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
+    },
+    {
+      "filename": "hu-m-cpdjhm-highlevel-meta-ads-now-live-in-australia-singapore-and-taiwan.md",
+      "title": "HighLevel Meta Ads Now Live in Australia Singapore and Taiwan",
+      "videoId": "hu-m-CPDjhM",
+      "url": "https://www.youtube.com/watch?v=hu-m-CPDjhM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:08:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "hu-m-cpdjhm-highlevel-meta-ads-now-live-in-australia-singapore-and-taiwan"
     },
     {
       "filename": "hu-m-cpdjhm-meta-ads-now-live-in-australia-singapore-amp-taiwan.md",
@@ -2822,6 +2846,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "mj6bs2swyv4-how-to-set-up-and-use-stripe-internet-readers-with-the-leadconnector-mobile-app"
+    },
+    {
+      "filename": "mk-apiboca4-highlevel-wordpress-hosting-search-and-replace-tool-now-live.md",
+      "title": "HighLevel WordPress Hosting - Search and Replace Tool Now Live",
+      "videoId": "mK-apiBoCa4",
+      "url": "https://www.youtube.com/watch?v=mK-apiBoCa4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-23T02:43:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "mk-apiboca4-highlevel-wordpress-hosting-search-and-replace-tool-now-live"
     },
     {
       "filename": "mk-apiboca4-search-amp-replace-tool-in-highlevel-wordpress-hosting-live.md",
@@ -3784,6 +3820,18 @@
       "slug": "sziftlumlca-google-lead-ad-integration-live"
     },
     {
+      "filename": "sziftlumlca-highlevel-google-lead-ads-integration-now-live.md",
+      "title": "HighLevel Google Lead Ads Integration Now Live",
+      "videoId": "SzIftLUmLcA",
+      "url": "https://www.youtube.com/watch?v=SzIftLUmLcA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-16T23:26:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.5",
+      "slug": "sziftlumlca-highlevel-google-lead-ads-integration-now-live"
+    },
+    {
       "filename": "t3jnjguok1c-automatic-seo-now-live-for-external-sites.md",
       "title": "Automatic SEO Now Live for External Sites!",
       "videoId": "T3JNjgUoK1c",
@@ -4248,7 +4296,7 @@
       "publishedDate": "2025-12-23T14:35:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients"
     },
     {
@@ -5165,7 +5213,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 393,
+    "fresh": 397,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5177,7 +5225,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 385,
+        "fresh": 389,
         "warning": 0,
         "expired": 0,
         "unknown": null
