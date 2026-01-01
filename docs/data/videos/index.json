@@ -1,14 +1,14 @@
 {
-  "generated": "2025-12-31T07:42:55.348Z",
+  "generated": "2026-01-01T07:42:21.039Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 22,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 22
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -328,6 +328,18 @@
       "slug": "3hef1fbqrs0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
     },
     {
+      "filename": "3kpl07hrviw-external-tracking-script-mega-upgrade.md",
+      "title": "External Tracking Script Mega Upgrade!",
+      "videoId": "3KPL07hrvIw",
+      "url": "https://www.youtube.com/watch?v=3KPL07hrvIw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-01T00:28:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3kpl07hrviw-external-tracking-script-mega-upgrade"
+    },
+    {
       "filename": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel.md",
       "title": "How To Customize the Add Contact Modal in HighLevel",
       "videoId": "3LphthBR4J0",
@@ -465,10 +477,10 @@
       "videoId": "4WABz8SQkSU",
       "url": "https://www.youtube.com/watch?v=4WABz8SQkSU",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-23T14:33:59.000Z",
+      "publishedDate": "2026-01-01T06:13:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -506,6 +518,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed"
+    },
+    {
+      "filename": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas.md",
+      "title": "3 Strategies Agencies Use to Convert into SaaS",
+      "videoId": "5DIYYqH3G8I",
+      "url": "https://www.youtube.com/watch?v=5DIYYqH3G8I",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T14:56:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
       "filename": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025.md",
@@ -1368,7 +1392,7 @@
       "publishedDate": "2025-12-27T05:29:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ckeonbrekyg-the-highlevel-release-radar-december-22nd-december-26th-2025"
     },
     {
@@ -1466,6 +1490,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "cxt-epm-iyw-new-templates-live"
+    },
+    {
+      "filename": "cyasy4b9zjs-external-tracking-script-upgrade.md",
+      "title": "External Tracking Script Upgrade",
+      "videoId": "Cyasy4B9Zjs",
+      "url": "https://www.youtube.com/watch?v=Cyasy4B9Zjs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-01T01:00:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cyasy4b9zjs-external-tracking-script-upgrade"
     },
     {
       "filename": "czpiokfyiza-levelup-day-2025-intro.md",
@@ -1924,6 +1960,18 @@
       "slug": "fqebgwsygb4-agent-studio-integration-now-in-snapshots"
     },
     {
+      "filename": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner.md",
+      "title": "Going from Mom to 7-Figure Agency Owner",
+      "videoId": "fUASYPjQUC4",
+      "url": "https://www.youtube.com/watch?v=fUASYPjQUC4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T14:47:38.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
+    },
+    {
       "filename": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car.md",
       "title": "Automate Networking and Lead Follow-Up IRL with a HighLevel Powered Digital Business Card",
       "videoId": "FxAIHVkNJLQ",
@@ -1970,6 +2018,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fzbk72llkmu-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
+    },
+    {
+      "filename": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas.md",
+      "title": "From Overdrawn Accounts to 7-Figure Agency &amp; SaaS",
+      "videoId": "G0DThO4-8D4",
+      "url": "https://www.youtube.com/watch?v=G0DThO4-8D4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T14:50:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas"
     },
     {
       "filename": "g83r-vqplri-backend-trigger-flow-enhancements.md",
@@ -2292,7 +2352,7 @@
       "publishedDate": "2025-12-24T14:08:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "hu-m-cpdjhm-highlevel-meta-ads-now-live-in-australia-singapore-and-taiwan"
     },
     {
@@ -3100,6 +3160,18 @@
       "slug": "or-qgu3k2fw-clickup-integration-live"
     },
     {
+      "filename": "or7xtzkeqgg-highlevel-workflow-update-rich-text-editor-for-add-notes-action.md",
+      "title": "HighLevel Workflow Update Rich Text Editor for Add Notes Action",
+      "videoId": "or7XtzkeQGg",
+      "url": "https://www.youtube.com/watch?v=or7XtzkeQGg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-24T14:09:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "or7xtzkeqgg-highlevel-workflow-update-rich-text-editor-for-add-notes-action"
+    },
+    {
       "filename": "or7xtzkeqgg-workflow-rich-text-editor-for-quot-add-notes-quot-action.md",
       "title": "Workflow: Rich Text Editor for &quot;Add Notes&quot; action",
       "videoId": "or7XtzkeQGg",
@@ -3376,6 +3448,18 @@
       "slug": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert"
     },
     {
+      "filename": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel.md",
+      "title": "Focus on Fundamentals While Scaling with HighLevel",
+      "videoId": "qNPEfhfX4rg",
+      "url": "https://www.youtube.com/watch?v=qNPEfhfX4rg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T14:52:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel"
+    },
+    {
       "filename": "qogadkhrfzq-highlevel-case-studies-how-churchcandy-scaled-from-zero-to-a-thriving-agency.md",
       "title": "HighLevel Case Studies: How ChurchCandy Scaled from Zero to a Thriving Agency",
       "videoId": "qoGADkHRFZQ",
@@ -3422,6 +3506,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "qsis7q-9p-m-recurring-listing-performance-recap-reports-live"
+    },
+    {
+      "filename": "qx6mapqup5w-prospecting-tool-improvements-live.md",
+      "title": "Prospecting Tool Improvements Live!",
+      "videoId": "QX6mapqUP5w",
+      "url": "https://www.youtube.com/watch?v=QX6mapqUP5w",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-01T00:26:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qx6mapqup5w-prospecting-tool-improvements-live"
     },
     {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
@@ -3650,6 +3746,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.1",
       "slug": "shyftg1utxi-listings-food-amp-healthcare-add-ons"
+    },
+    {
+      "filename": "siamntkzu-g-agency-client-acquisition-formula.md",
+      "title": "Agency Client Acquisition Formula",
+      "videoId": "siAmnTkZu-g",
+      "url": "https://www.youtube.com/watch?v=siAmnTkZu-g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T14:54:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
       "filename": "slcfzzeum8-from-mechanic-and-restaurant-manager-to-award-winning-saas-affiliates-nick-ponte-amp-tom-.md",
@@ -4236,7 +4344,7 @@
       "publishedDate": "2025-12-30T06:25:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
     },
     {
@@ -4418,6 +4526,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wf-wk7mgwwe-how-to-delete-affiliate-commissions-in-your-affiliate-manager-final"
+    },
+    {
+      "filename": "wf5mcjx8yui-prospecting-tool-improvements.md",
+      "title": "Prospecting Tool Improvements",
+      "videoId": "Wf5McjX8YuI",
+      "url": "https://www.youtube.com/watch?v=Wf5McjX8YuI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2025-12-31T22:04:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wf5mcjx8yui-prospecting-tool-improvements"
     },
     {
       "filename": "wgke-pdbepq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
@@ -5213,7 +5333,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 397,
+    "fresh": 407,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5225,13 +5345,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 389,
+        "fresh": 398,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 7,
+        "fresh": 8,
         "warning": 1,
         "expired": 0
       }

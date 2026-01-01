@@ -1,14 +1,14 @@
 ---
-title: "Web Design to Recurring Revenue with HighLevel"
-video_id: "aljEpZqF5Ho"
-url: "https://www.youtube.com/watch?v=aljEpZqF5Ho"
-thumbnail: "https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg"
+title: "Focus on Fundamentals While Scaling with HighLevel"
+video_id: "qNPEfhfX4rg"
+url: "https://www.youtube.com/watch?v=qNPEfhfX4rg"
+thumbnail: "https://i.ytimg.com/vi/qNPEfhfX4rg/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T14:37:20.000Z"
+published_date: "2025-12-31T14:52:26.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
-content_category: "standard"
-age_in_months: "0.3"
+freshness_message: "Video is 0.0 months old (fresh)"
+content_category: "evergreen"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-01T07:42:15.883Z"
+extracted_at: "2026-01-01T07:42:13.198Z"
 
 ---
 
-# 🟢 Web Design to Recurring Revenue with HighLevel
+# 🟢 Focus on Fundamentals While Scaling with HighLevel
 
-**Video ID:** `aljEpZqF5Ho`
+**Video ID:** `qNPEfhfX4rg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
-**Content Type:** standard
+**Published:** 12/31/2025
+**Content Type:** evergreen
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,14 +42,14 @@ extracted_at: "2026-01-01T07:42:15.883Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aljEpZqF5Ho)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qNPEfhfX4rg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/qNPEfhfX4rg/hqdefault_live.jpg)
 
 
 ## Content Guidelines
 
+🌿 **Evergreen Content:** This video covers fundamental concepts that remain relevant over time.
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
@@ -64,4 +64,4 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 1/1/2026*
 *Transcript extraction: ❌ Not available*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after never months*

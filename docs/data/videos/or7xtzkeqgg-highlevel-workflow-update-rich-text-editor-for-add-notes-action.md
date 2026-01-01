@@ -1,14 +1,14 @@
 ---
-title: "Meta Ads Now Live in Australia, Singapore &amp; Taiwan!"
-video_id: "DnOYpsca4q0"
-url: "https://www.youtube.com/watch?v=DnOYpsca4q0"
-thumbnail: "https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg"
+title: "HighLevel Workflow Update Rich Text Editor for Add Notes Action"
+video_id: "or7XtzkeQGg"
+url: "https://www.youtube.com/watch?v=or7XtzkeQGg"
+thumbnail: "https://i.ytimg.com/vi/or7XtzkeQGg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-29T16:00:30.000Z"
+published_date: "2025-12-24T14:09:32.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.3 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.3"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-01T07:42:14.471Z"
+extracted_at: "2026-01-01T07:42:15.522Z"
 
 ---
 
-# 🟢 Meta Ads Now Live in Australia, Singapore &amp; Taiwan!
+# 🟢 HighLevel Workflow Update Rich Text Editor for Add Notes Action
 
-**Video ID:** `DnOYpsca4q0`
+**Video ID:** `or7XtzkeQGg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/29/2025
+**Published:** 12/24/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.3 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-01T07:42:14.471Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DnOYpsca4q0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=or7XtzkeQGg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/or7XtzkeQGg/hqdefault.jpg)
 
 
 ## Content Guidelines

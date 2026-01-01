@@ -1,14 +1,14 @@
 ---
-title: "Web Design to Recurring Revenue with HighLevel"
-video_id: "aljEpZqF5Ho"
-url: "https://www.youtube.com/watch?v=aljEpZqF5Ho"
-thumbnail: "https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg"
+title: "3 Strategies Agencies Use to Convert into SaaS"
+video_id: "5DIYYqH3G8I"
+url: "https://www.youtube.com/watch?v=5DIYYqH3G8I"
+thumbnail: "https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T14:37:20.000Z"
+published_date: "2025-12-31T14:56:21.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-01T07:42:15.883Z"
+extracted_at: "2026-01-01T07:42:12.743Z"
 
 ---
 
-# 🟢 Web Design to Recurring Revenue with HighLevel
+# 🟢 3 Strategies Agencies Use to Convert into SaaS
 
-**Video ID:** `aljEpZqF5Ho`
+**Video ID:** `5DIYYqH3G8I`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/31/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-01T07:42:15.883Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aljEpZqF5Ho)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5DIYYqH3G8I)
+- [📷 Thumbnail](https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault_live.jpg)
 
 
 ## Content Guidelines

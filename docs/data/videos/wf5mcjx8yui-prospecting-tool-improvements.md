@@ -1,14 +1,14 @@
 ---
-title: "Meta Ads Now Live in Australia, Singapore &amp; Taiwan!"
-video_id: "DnOYpsca4q0"
-url: "https://www.youtube.com/watch?v=DnOYpsca4q0"
-thumbnail: "https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg"
+title: "Prospecting Tool Improvements"
+video_id: "Wf5McjX8YuI"
+url: "https://www.youtube.com/watch?v=Wf5McjX8YuI"
+thumbnail: "https://i.ytimg.com/vi/Wf5McjX8YuI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-29T16:00:30.000Z"
+published_date: "2025-12-31T22:04:21.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-01T07:42:14.471Z"
+extracted_at: "2026-01-01T07:42:12.503Z"
 
 ---
 
-# 🟢 Meta Ads Now Live in Australia, Singapore &amp; Taiwan!
+# 🟢 Prospecting Tool Improvements
 
-**Video ID:** `DnOYpsca4q0`
+**Video ID:** `Wf5McjX8YuI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/29/2025
+**Published:** 12/31/2025
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-01T07:42:14.471Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DnOYpsca4q0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/DnOYpsca4q0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Wf5McjX8YuI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Wf5McjX8YuI/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 ---
-title: "Web Design to Recurring Revenue with HighLevel"
-video_id: "aljEpZqF5Ho"
-url: "https://www.youtube.com/watch?v=aljEpZqF5Ho"
-thumbnail: "https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg"
+title: "Agency Client Acquisition Formula"
+video_id: "siAmnTkZu-g"
+url: "https://www.youtube.com/watch?v=siAmnTkZu-g"
+thumbnail: "https://i.ytimg.com/vi/siAmnTkZu-g/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-12-23T14:37:20.000Z"
+published_date: "2025-12-31T14:54:51.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-01T07:42:15.883Z"
+extracted_at: "2026-01-01T07:42:12.974Z"
 
 ---
 
-# 🟢 Web Design to Recurring Revenue with HighLevel
+# 🟢 Agency Client Acquisition Formula
 
-**Video ID:** `aljEpZqF5Ho`
+**Video ID:** `siAmnTkZu-g`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 12/23/2025
+**Published:** 12/31/2025
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-01T07:42:15.883Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aljEpZqF5Ho)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aljEpZqF5Ho/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=siAmnTkZu-g)
+- [📷 Thumbnail](https://i.ytimg.com/vi/siAmnTkZu-g/hqdefault_live.jpg)
 
 
 ## Content Guidelines
