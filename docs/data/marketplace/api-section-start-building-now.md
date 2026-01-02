@@ -3,7 +3,7 @@ title: "Start Building Now"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc"
-extracted_at: "2026-01-02T18:10:32.133Z"
+extracted_at: "2026-01-02T21:10:18.314Z"
 ---
 
 -   [](/docs/)
