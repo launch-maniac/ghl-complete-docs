@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-02T07:43:14.478Z",
+  "generated": "2026-01-03T07:39:53.511Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 16,
     "playlists": 0,
-    "expired": 2,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -184,18 +184,6 @@
       "slug": "1kipnxnv2pm-did-you-know-your-ai-can-do-more-than-chat"
     },
     {
-      "filename": "2250rdwqs7a-oscar-gonzalez-scale-your-brand-and-book-more-calls-with-highlevel.md",
-      "title": "Oscar Gonzalez: Scale Your Brand and Book More Calls with HighLevel",
-      "videoId": "2250RDWqs7A",
-      "url": "https://www.youtube.com/watch?v=2250RDWqs7A",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-04T14:26:47.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.6",
-      "slug": "2250rdwqs7a-oscar-gonzalez-scale-your-brand-and-book-more-calls-with-highlevel"
-    },
-    {
       "filename": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system.md",
       "title": "How to Manage Duplicate Contacts in Your CRM System",
       "videoId": "25NTVCZroCc",
@@ -336,7 +324,7 @@
       "publishedDate": "2026-01-01T00:28:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "3kpl07hrviw-external-tracking-script-mega-upgrade"
     },
     {
@@ -480,7 +468,7 @@
       "publishedDate": "2026-01-01T06:13:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
@@ -650,6 +638,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "62vb4uteb1m-how-to-launch-your-first-google-ads-search-campaign"
+    },
+    {
+      "filename": "69-kigrekra-did-you-know-highlevel-lets-you-a-b-test-your-funnel-pages-all-in-one-place.md",
+      "title": "Did you know HighLevel lets you A B test your funnel pages all in one place",
+      "videoId": "69-kiGrekrA",
+      "url": "https://www.youtube.com/watch?v=69-kiGrekrA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-02T17:00:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "69-kigrekra-did-you-know-highlevel-lets-you-a-b-test-your-funnel-pages-all-in-one-place"
     },
     {
       "filename": "6be2dcacvak-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text.md",
@@ -1005,10 +1005,10 @@
       "videoId": "aljEpZqF5Ho",
       "url": "https://www.youtube.com/watch?v=aljEpZqF5Ho",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-23T14:37:20.000Z",
+      "publishedDate": "2026-01-03T06:32:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1264,18 +1264,6 @@
       "slug": "bn-njfphc8-how-to-use-highlevel-workflow-switcher-like-a-pro"
     },
     {
-      "filename": "bn8plhg5o7a-lead-nurturing.md",
-      "title": "Lead Nurturing",
-      "videoId": "bN8plHg5O7A",
-      "url": "https://www.youtube.com/watch?v=bN8plHg5O7A",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-03T20:30:45.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.6",
-      "slug": "bn8plhg5o7a-lead-nurturing"
-    },
-    {
       "filename": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights.md",
       "title": "How To Utilize HighLevel&#39;s Course Dashboard for Detailed Student Insights",
       "videoId": "bNbn2sWGdNQ",
@@ -1500,7 +1488,7 @@
       "publishedDate": "2026-01-01T01:00:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cyasy4b9zjs-external-tracking-script-upgrade"
     },
     {
@@ -2164,6 +2152,18 @@
       "slug": "gv5uxlkkff4-how-to-use-manual-and-smart-collections-in-highlevel-ecommerce-stores"
     },
     {
+      "filename": "gw-bi-cvpc-the-highlevel-release-radar-december-29th-january-2nd-2026.md",
+      "title": "The HighLevel Release Radar (December 29th - January 2nd 2026)",
+      "videoId": "gw_-Bi_cVpc",
+      "url": "https://www.youtube.com/watch?v=gw_-Bi_cVpc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-02T19:15:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gw-bi-cvpc-the-highlevel-release-radar-december-29th-january-2nd-2026"
+    },
+    {
       "filename": "gwskfdobrec-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
       "title": "Jarryd Holmes: Grow Fast with Funnels, Voice AI + HighLevel",
       "videoId": "gWskfDoBrec",
@@ -2714,18 +2714,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "kz9ale7oojo-community-course-attribution-reporting"
-    },
-    {
-      "filename": "l15zpi7epsa-granular-permissions-for-voice-ai-agents.md",
-      "title": "Granular Permissions For Voice AI Agents!",
-      "videoId": "l15Zpi7EpsA",
-      "url": "https://www.youtube.com/watch?v=l15Zpi7EpsA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-03T22:45:54.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.6",
-      "slug": "l15zpi7epsa-granular-permissions-for-voice-ai-agents"
     },
     {
       "filename": "l1v5yzy-da0-order-form-speed-improvements.md",
@@ -3504,7 +3492,7 @@
       "publishedDate": "2026-01-01T00:26:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qx6mapqup5w-prospecting-tool-improvements-live"
     },
     {
@@ -4524,7 +4512,7 @@
       "publishedDate": "2025-12-31T22:04:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wf5mcjx8yui-prospecting-tool-improvements"
     },
     {
@@ -5321,7 +5309,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 406,
+    "fresh": 405,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5333,7 +5321,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 397,
+        "fresh": 396,
         "warning": 0,
         "expired": 0,
         "unknown": null

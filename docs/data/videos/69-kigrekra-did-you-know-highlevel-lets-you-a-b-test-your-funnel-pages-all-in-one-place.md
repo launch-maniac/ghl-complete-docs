@@ -1,14 +1,14 @@
 ---
-title: "External Tracking Script Upgrade"
-video_id: "Cyasy4B9Zjs"
-url: "https://www.youtube.com/watch?v=Cyasy4B9Zjs"
-thumbnail: "https://i.ytimg.com/vi/Cyasy4B9Zjs/hqdefault.jpg"
+title: "Did you know HighLevel lets you A B test your funnel pages all in one place"
+video_id: "69-kiGrekrA"
+url: "https://www.youtube.com/watch?v=69-kiGrekrA"
+thumbnail: "https://i.ytimg.com/vi/69-kiGrekrA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-01T01:00:24.000Z"
+published_date: "2026-01-02T17:00:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-03T07:39:46.766Z"
+extracted_at: "2026-01-03T07:39:45.968Z"
 
 ---
 
-# 🟢 External Tracking Script Upgrade
+# 🟢 Did you know HighLevel lets you A B test your funnel pages all in one place
 
-**Video ID:** `Cyasy4B9Zjs`
+**Video ID:** `69-kiGrekrA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/1/2026
+**Published:** 1/2/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-03T07:39:46.766Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Cyasy4B9Zjs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Cyasy4B9Zjs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=69-kiGrekrA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/69-kiGrekrA/hqdefault.jpg)
 
 
 ## Content Guidelines

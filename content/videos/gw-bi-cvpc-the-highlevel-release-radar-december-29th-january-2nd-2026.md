@@ -1,14 +1,14 @@
 ---
-title: "Oscar Gonzalez: Scale Your Brand and Book More Calls with HighLevel"
-video_id: "2250RDWqs7A"
-url: "https://www.youtube.com/watch?v=2250RDWqs7A"
-thumbnail: "https://i.ytimg.com/vi/2250RDWqs7A/hqdefault.jpg"
+title: "The HighLevel Release Radar (December 29th - January 2nd 2026)"
+video_id: "gw_-Bi_cVpc"
+url: "https://www.youtube.com/watch?v=gw_-Bi_cVpc"
+thumbnail: "https://i.ytimg.com/vi/gw_-Bi_cVpc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-07-04T14:26:47.000Z"
+published_date: "2026-01-02T19:15:51.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 2.6 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "2.6"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:13.004Z"
+extracted_at: "2026-01-03T07:39:45.685Z"
 
 ---
 
-# 🟢 Oscar Gonzalez: Scale Your Brand and Book More Calls with HighLevel
+# 🟢 The HighLevel Release Radar (December 29th - January 2nd 2026)
 
-**Video ID:** `2250RDWqs7A`
+**Video ID:** `gw_-Bi_cVpc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 7/4/2025
+**Published:** 1/2/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 2.6 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:13.004Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=2250RDWqs7A)
-- [📷 Thumbnail](https://i.ytimg.com/vi/2250RDWqs7A/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gw_-Bi_cVpc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/gw_-Bi_cVpc/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/3/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
