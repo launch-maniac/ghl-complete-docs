@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-03T07:39:53.511Z",
+  "generated": "2026-01-04T07:41:26.683Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 9,
     "playlists": 0,
-    "expired": 6,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 9
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -648,7 +648,7 @@
       "publishedDate": "2026-01-02T17:00:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "69-kigrekra-did-you-know-highlevel-lets-you-a-b-test-your-funnel-pages-all-in-one-place"
     },
     {
@@ -2157,7 +2157,7 @@
       "videoId": "gw_-Bi_cVpc",
       "url": "https://www.youtube.com/watch?v=gw_-Bi_cVpc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-02T19:15:51.000Z",
+      "publishedDate": "2026-01-03T07:45:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -4380,7 +4380,7 @@
       "publishedDate": "2026-01-02T06:01:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w0m5cqmvocs-build-amp-multiply-high-ticket-clients"
     },
     {
