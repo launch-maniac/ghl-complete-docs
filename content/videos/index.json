@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-04T07:41:26.683Z",
+  "generated": "2026-01-05T07:46:33.723Z",
   "stats": {
     "channels": 1,
-    "videos": 9,
+    "videos": 8,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 9
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -516,7 +516,7 @@
       "publishedDate": "2025-12-31T14:56:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
@@ -1008,7 +1008,7 @@
       "publishedDate": "2026-01-03T06:32:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
@@ -1956,7 +1956,7 @@
       "publishedDate": "2025-12-31T14:47:38.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -2016,7 +2016,7 @@
       "publishedDate": "2025-12-31T14:50:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas"
     },
     {
@@ -2160,7 +2160,7 @@
       "publishedDate": "2026-01-03T07:45:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gw-bi-cvpc-the-highlevel-release-radar-december-29th-january-2nd-2026"
     },
     {
@@ -3432,7 +3432,7 @@
       "publishedDate": "2025-12-31T14:52:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel"
     },
     {
@@ -3732,7 +3732,7 @@
       "publishedDate": "2025-12-31T14:54:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
