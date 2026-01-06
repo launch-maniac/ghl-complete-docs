@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "6934ce780f875822bffe862d"
+guid: "695972b3557152abe3914938"
 author: "Sales &amp; Marketing"
-pubDate: "2025-12-07T00:59:51.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-71"
+pubDate: "2026-01-03T19:52:35.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-74"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-71"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-74"
 index: 2
 ---
 
@@ -17,25 +17,43 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Website Templates Published** 🚀
+🚀 **3 New Funnel Templates Published** 🚀
 
 \------------------------------------------------------
 
-Financial - 1
+Health & Wellness - 1
+
+Creative - 1
+
+Finance - 1
 
 \------------------------------------------------------
 
-🚀 **7 New Funnel Templates Published** 🚀
+🚀 **1 New Email Templates Published** 🚀
 
 \------------------------------------------------------
-
-Marketing Agency - 1
 
 Medical - 1
 
 \-----------------------------------------------------
 
-🚀 **12 New Social Templates Published** 🚀
+🚀 **1 New Form Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Travel & Hospitality - 1
+
+\-----------------------------------------------------
+
+🚀 **1 New Survey Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Marketing Agency - 1
+
+\-----------------------------------------------------
+
+🚀 **4 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
@@ -43,37 +61,21 @@ Medical - 2
 
 Other - 2
 
-Real Estate - 2
-
-Restaurant and Bar - 2
-
-Travel & Hospitality - 2
-
-Automotive - 2
-
-\-----------------------------------------------------
-
-🚀 **1 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Health & Wellness - 1
-
 \-----------------------------------------------------
 
 🚀 **5 New Google Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Health & Wellness - Yoga Class
+Automotive - Auto Dealer/Sales
 
-Home Services - Construction Framing Company
+Beauty & Fashion - Skin Care Clinic
 
-Insurance - Life Insurance Plans
+Business Coaching & Consulting - Real Estate Consultant
 
-Legal - Property Attorney
+Creative - Video Production & Editing Services
 
-Marketing Agency - Influencer Marketing
+Finance - Lender Services
 
 \------------------------------------------------------
 
@@ -81,36 +83,36 @@ Marketing Agency - Influencer Marketing
 
 \------------------------------------------------------
 
-Restaurant & Bar - Coffee Shop
+Creative - Photographer
 
-![Coffee Shop - Snapshot](https://canny-assets.io/images/fe4d31bc3eab94771c2fe2fce5bc9809.png)
+![Accounting Management - Funnel](https://canny-assets.io/images/da724da7ebeee2035c307901be9f48b9.png)
 
-![Construction Framing Company - Google Ad](https://canny-assets.io/images/ecd4a17238e479fa86e64fb08aef24be.png)
+![Auto DealerSales - Google Ad](https://canny-assets.io/images/4b8aef58b9bfa7715006b0b867a58e0d.png)
 
-![Gym - Facebook Ad](https://canny-assets.io/images/e415e1de69d909813447830a71dc388c.png)
+!\[Dermatology Product Launch - Email\]([https://canny-assets.io/images/49d6d1ec0eeb3090fc2420b4f](https://canny-assets.io/images/49d6d1ec0eeb3090fc2420b4f)
 
-![Home Healthcare Services - Social](https://canny-assets.io/images/0b0fe9ea6ba1501c16104f3d788dc1e4.png)
+![Lender Market Analysis - Survey](https://canny-assets.io/images/7335a47de3ad050609c32a5bc368d96f.png)
 
-![Influencer Marketing - Google Ad](https://canny-assets.io/images/0b88b0b878436c73267db3bf8032b332.png)
+![Lender Market Analysis - Survey](https://canny-assets.io/images/d1a54d71fd26e030647f13d492bbb59f.png)
 
-![Life Insurance Plans - Google Ad](https://canny-assets.io/images/d650b5f6f7f6800a38106fc6316c2872.png)
+![Lender Services - Google Ad](https://canny-assets.io/images/dbbef5410f04b07e609a87ae90780094.png)
 
-![Property Attorney - Google Ad](https://canny-assets.io/images/e2e36f510d51b7275fbbff6029c74279.png)
+![Medical Research Facility - Social](https://canny-assets.io/images/55bc171d73b49c91afa18653dd518792.png)
 
-![Residential Design Architect - Social](https://canny-assets.io/images/bf6db50be2d575e7b5a63b3310f29a6d.png)
+![Photographer - Snapshot](https://canny-assets.io/images/4bc272634d5ba7b85cc77b0a4ee5c4e3.png)
 
-![Yoga Class - Google Ad](https://canny-assets.io/images/80c57155c03f32d65c8ddfa33e2f3ac9.png)
+![Real Estate Consultant - Google Ad](https://canny-assets.io/images/d9ed4a009bd66a58f9382e20cd69738b.png)
 
-![Car Dealer - Social](https://canny-assets.io/images/8dfa373f5c6dced68307ea6812309f76.png)
+![Skin Care Clinic - Google Ad](https://canny-assets.io/images/738e37956fbb2d2c17d1959fcc97c688.png)
 
-![Coding Framework - Funnel](https://canny-assets.io/images/0f44fd1a1a9098a8097974909c0a57c7.png)
+![Travel Insurance Request - Form](https://canny-assets.io/images/36ef5e382a1b13641df3ef9756b0b56b.png)
 
-![Day Care - Social](https://canny-assets.io/images/16ad2f63e5aa7373f894fe86bde38efa.png)
+![Video Production & Editing Services - Google Ad](https://canny-assets.io/images/285ed39e7fa1befb264fafe135f527d2.png)
 
-![Health Products - Funnel](https://canny-assets.io/images/dd94074c27a53f9dfdecc702ed5585e4.png)
+24cc320.png)
 
-![Tax Experts - Website](https://canny-assets.io/images/b59da77d16cd87685ed0211df3019237.png)
+![Direct Primary Care Provider - Social](https://canny-assets.io/images/ed6d49c35b237abdb3969ea59ffec7be.png)
 
-![Tea Parlors - Social](https://canny-assets.io/images/228875bb7542bf1a17d9a2de9f345184.png)
+![Holistic Wellness - Funnel](https://canny-assets.io/images/3e429e6cb8bd5b742cf428051b71628d.png)
 
-![Travel Blogger - Social](https://canny-assets.io/images/2645330cc755a2178571c3676deada40.png)
+![Interior Designer - Funnel](https://canny-assets.io/images/af86b17235f4d27f007209b9f2ba62e8.png)
