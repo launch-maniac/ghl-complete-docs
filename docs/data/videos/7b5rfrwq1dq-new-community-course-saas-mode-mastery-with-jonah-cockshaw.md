@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (December 29th - January 2nd 2026)"
-video_id: "gw_-Bi_cVpc"
-url: "https://www.youtube.com/watch?v=gw_-Bi_cVpc"
-thumbnail: "https://i.ytimg.com/vi/gw_-Bi_cVpc/hqdefault.jpg"
+title: "New Community Course: SaaS Mode Mastery with Jonah Cockshaw!"
+video_id: "7b5rFRwq1dQ"
+url: "https://www.youtube.com/watch?v=7b5rFRwq1dQ"
+thumbnail: "https://i.ytimg.com/vi/7b5rFRwq1dQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-03T07:45:09.000Z"
+published_date: "2026-01-05T22:58:49.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-06T07:44:14.976Z"
+extracted_at: "2026-01-06T07:44:13.281Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (December 29th - January 2nd 2026)
+# 🟢 New Community Course: SaaS Mode Mastery with Jonah Cockshaw!
 
-**Video ID:** `gw_-Bi_cVpc`
+**Video ID:** `7b5rFRwq1dQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/3/2026
+**Published:** 1/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-06T07:44:14.976Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gw_-Bi_cVpc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/gw_-Bi_cVpc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7b5rFRwq1dQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7b5rFRwq1dQ/hqdefault.jpg)
 
 
 ## Content Guidelines

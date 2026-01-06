@@ -1,14 +1,14 @@
 ---
-title: "How to Implement Usage-Based Pricing in the App Marketplaces"
-video_id: "CTCr_wf8Yto"
-url: "https://www.youtube.com/watch?v=CTCr_wf8Yto"
-thumbnail: "https://i.ytimg.com/vi/CTCr_wf8Yto/hqdefault.jpg"
+title: "New Community Course: SaaS Mode Mastery with Jonah Cockshaw!"
+video_id: "7b5rFRwq1dQ"
+url: "https://www.youtube.com/watch?v=7b5rFRwq1dQ"
+thumbnail: "https://i.ytimg.com/vi/7b5rFRwq1dQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:12:06.000Z"
+published_date: "2026-01-05T22:58:49.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
-content_category: "critical"
-age_in_months: "0.4"
+freshness_message: "Video is 0.0 months old (fresh)"
+content_category: "standard"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:18.781Z"
+extracted_at: "2026-01-06T07:44:13.281Z"
 
 ---
 
-# 🟢 How to Implement Usage-Based Pricing in the App Marketplaces
+# 🟢 New Community Course: SaaS Mode Mastery with Jonah Cockshaw!
 
-**Video ID:** `CTCr_wf8Yto`
+**Video ID:** `7b5rFRwq1dQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
-**Content Type:** critical
+**Published:** 1/5/2026
+**Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,14 +47,14 @@ extracted_at: "2025-10-17T07:43:18.781Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CTCr_wf8Yto)
-- [📷 Thumbnail](https://i.ytimg.com/vi/CTCr_wf8Yto/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7b5rFRwq1dQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7b5rFRwq1dQ/hqdefault.jpg)
 
 
 ## Content Guidelines
-⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.
 
 
+📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 3 months*
+*Freshness monitored: Videos expire after 6 months*

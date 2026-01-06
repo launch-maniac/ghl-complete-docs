@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-05T07:46:33.723Z",
+  "generated": "2026-01-06T07:44:20.128Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 16,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -448,6 +448,18 @@
       "slug": "4nygrn1i4d0-how-to-offer-courses-with-different-unlock-criteria"
     },
     {
+      "filename": "4uwvx6pq-as-email-forwarding-is-live.md",
+      "title": "Email Forwarding is Live!",
+      "videoId": "4UwVX6pQ-as",
+      "url": "https://www.youtube.com/watch?v=4UwVX6pQ-as",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T22:58:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "4uwvx6pq-as-email-forwarding-is-live"
+    },
+    {
       "filename": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel.md",
       "title": "How To Host Livestreaming Webinars and Community Events in HighLevel",
       "videoId": "4UYuVgIcDkY",
@@ -796,6 +808,18 @@
       "slug": "77r2pv9teng-reputation-management-video-testimonials"
     },
     {
+      "filename": "7b5rfrwq1dq-new-community-course-saas-mode-mastery-with-jonah-cockshaw.md",
+      "title": "New Community Course: SaaS Mode Mastery with Jonah Cockshaw!",
+      "videoId": "7b5rFRwq1dQ",
+      "url": "https://www.youtube.com/watch?v=7b5rFRwq1dQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T22:58:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7b5rfrwq1dq-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
+    },
+    {
       "filename": "7cuxytosawg-user-management-login-as-permission.md",
       "title": "User Management  Login As Permission",
       "videoId": "7cuxyTOsAWg",
@@ -830,6 +854,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
+    },
+    {
+      "filename": "7zovxtpov0-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number.md",
+      "title": "Mobile Upgrade - Custom Dispositions &amp; Sticky Outbound Number!",
+      "videoId": "_7ZoVXtPov0",
+      "url": "https://www.youtube.com/watch?v=_7ZoVXtPov0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T17:16:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7zovxtpov0-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number"
     },
     {
       "filename": "85j7iduopxy-highlevel-desktop-app-live-for-windows.md",
@@ -1444,18 +1480,6 @@
       "slug": "cq28388shn8-revamped-trust-center-and-a2p-experience"
     },
     {
-      "filename": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces.md",
-      "title": "How to Implement Usage-Based Pricing in the App Marketplaces",
-      "videoId": "CTCr_wf8Yto",
-      "url": "https://www.youtube.com/watch?v=CTCr_wf8Yto",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-06T13:12:06.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "critical",
-      "ageInMonths": "0.4",
-      "slug": "ctcr-wf8yto-how-to-implement-usage-based-pricing-in-the-app-marketplaces"
-    },
-    {
       "filename": "cxt-epm-iyw-highlevel-update-new-templates-now-live.md",
       "title": "HighLevel Update - New Templates Now Live",
       "videoId": "CxT_ePm-iYw",
@@ -1708,6 +1732,18 @@
       "slug": "ebbp-wl7j70-how-to-track-and-improve-your-business-profile-health-score"
     },
     {
+      "filename": "ebf2aiptr-c-cloning-content-in-new-course-builder-live.md",
+      "title": "Cloning Content in New Course Builder Live!",
+      "videoId": "Ebf2AiptR-c",
+      "url": "https://www.youtube.com/watch?v=Ebf2AiptR-c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T22:57:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ebf2aiptr-c-cloning-content-in-new-course-builder-live"
+    },
+    {
       "filename": "edntjmteuay-day-3-saaspreneur-workshop-with-frank-kern.md",
       "title": "Day 3 - SaaSPRENEUR Workshop with Frank Kern",
       "videoId": "eDNTJMtEuAY",
@@ -1912,6 +1948,18 @@
       "slug": "fm0vglqszcs-the-highlevel-release-radar-september-22nd-september-26th-2025"
     },
     {
+      "filename": "fn3b1knali0-did-you-know-you-can-build-and-sell-your-expertise-directly-in-highlevel.md",
+      "title": "Did You Know You Can Build and Sell Your Expertise Directly in HighLevel?",
+      "videoId": "Fn3B1KnALi0",
+      "url": "https://www.youtube.com/watch?v=Fn3B1KnALi0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T13:53:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fn3b1knali0-did-you-know-you-can-build-and-sell-your-expertise-directly-in-highlevel"
+    },
+    {
       "filename": "fnt94hq-uyy-highlevel-website-amp-funnel-update-faster-order-forms-for-a-smoother-checkout-experienc.md",
       "title": "HighLevel Website &amp; Funnel Update: Faster Order Forms for a Smoother Checkout Experience!",
       "videoId": "FnT94Hq_uYY",
@@ -1953,10 +2001,10 @@
       "videoId": "fUASYPjQUC4",
       "url": "https://www.youtube.com/watch?v=fUASYPjQUC4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-31T14:47:38.000Z",
+      "publishedDate": "2026-01-06T06:04:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -2114,6 +2162,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "gcjpjv-wea8-future-of-affiliate-marketing-with-dominic-baptist"
+    },
+    {
+      "filename": "ghnzpkinnbw-smartlist-performance-amp-stability-improvements-live.md",
+      "title": "Smartlist Performance &amp; Stability Improvements Live!",
+      "videoId": "GhnzpKINnBw",
+      "url": "https://www.youtube.com/watch?v=GhnzpKINnBw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T17:15:04.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ghnzpkinnbw-smartlist-performance-amp-stability-improvements-live"
     },
     {
       "filename": "gjzyxnuaxdw-how-to-live-stream-in-community-groups-with-highlevel.md",
@@ -4216,6 +4276,18 @@
       "slug": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win"
     },
     {
+      "filename": "urzsyynhync-new-template-live.md",
+      "title": "New Template Live!",
+      "videoId": "UrZsYynHyNc",
+      "url": "https://www.youtube.com/watch?v=UrZsYynHyNc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T22:56:04.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "urzsyynhync-new-template-live"
+    },
+    {
       "filename": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users.md",
       "title": "Documents and Contracts: Improved Language Support for International Users!",
       "videoId": "V_ADAxTOWmI",
@@ -4252,6 +4324,18 @@
       "slug": "vbg1zkugla0-typescript-javascript-sdk-live-for-developers"
     },
     {
+      "filename": "vfncuwggsba-smartlist-performance-amp-stability-improvements.md",
+      "title": "Smartlist Performance &amp; Stability Improvements",
+      "videoId": "vFNcuwgGsbA",
+      "url": "https://www.youtube.com/watch?v=vFNcuwgGsbA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T19:00:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vfncuwggsba-smartlist-performance-amp-stability-improvements"
+    },
+    {
       "filename": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots.md",
       "title": "How To Activate Image Analysis in HighLevel AI Bots",
       "videoId": "VH7Cd58XLlw",
@@ -4262,6 +4346,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots"
+    },
+    {
+      "filename": "vmri0aj9yo0-funnel-amp-website-ai-upgrades-live.md",
+      "title": "Funnel &amp; Website AI Upgrades Live!",
+      "videoId": "VMRI0Aj9yO0",
+      "url": "https://www.youtube.com/watch?v=VMRI0Aj9yO0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T22:56:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vmri0aj9yo0-funnel-amp-website-ai-upgrades-live"
     },
     {
       "filename": "vpeetx6m79a-workflows-update-inbound-dnd-support.md",
@@ -5068,6 +5164,18 @@
       "slug": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
+      "filename": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number.md",
+      "title": "Mobile Upgrade - Custom Dispositions &amp; Sticky Outbound Number",
+      "videoId": "ySNIYeH1svg",
+      "url": "https://www.youtube.com/watch?v=ySNIYeH1svg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-05T16:01:41.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number"
+    },
+    {
       "filename": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel.md",
       "title": "How to Create Snapshots with Custom Objects in HighLevel",
       "videoId": "yuTziRmdQps",
@@ -5309,19 +5417,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 405,
+    "fresh": 414,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 1,
+        "fresh": 0,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 396,
+        "fresh": 406,
         "warning": 0,
         "expired": 0,
         "unknown": null
