@@ -1,14 +1,14 @@
 ---
-title: "Smartlist Performance &amp; Stability Improvements"
-video_id: "vFNcuwgGsbA"
-url: "https://www.youtube.com/watch?v=vFNcuwgGsbA"
-thumbnail: "https://i.ytimg.com/vi/vFNcuwgGsbA/hqdefault.jpg"
+title: "Reputation Management - Drip Mode in Reviews AI!"
+video_id: "Q4J5JTYeiK8"
+url: "https://www.youtube.com/watch?v=Q4J5JTYeiK8"
+thumbnail: "https://i.ytimg.com/vi/Q4J5JTYeiK8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-05T19:00:57.000Z"
+published_date: "2026-01-07T01:19:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-07T07:43:49.681Z"
+extracted_at: "2026-01-07T07:43:46.907Z"
 
 ---
 
-# 🟢 Smartlist Performance &amp; Stability Improvements
+# 🟢 Reputation Management - Drip Mode in Reviews AI!
 
-**Video ID:** `vFNcuwgGsbA`
+**Video ID:** `Q4J5JTYeiK8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/5/2026
+**Published:** 1/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-07T07:43:49.681Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vFNcuwgGsbA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vFNcuwgGsbA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Q4J5JTYeiK8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Q4J5JTYeiK8/hqdefault.jpg)
 
 
 ## Content Guidelines

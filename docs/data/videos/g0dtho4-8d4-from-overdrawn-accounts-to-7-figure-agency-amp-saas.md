@@ -2,7 +2,7 @@
 title: "From Overdrawn Accounts to 7-Figure Agency &amp; SaaS"
 video_id: "G0DThO4-8D4"
 url: "https://www.youtube.com/watch?v=G0DThO4-8D4"
-thumbnail: "https://i.ytimg.com/vi/G0DThO4-8D4/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/G0DThO4-8D4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2025-12-31T14:50:37.000Z"
 freshness_status: "fresh"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-06T07:44:15.686Z"
+extracted_at: "2026-01-07T07:43:51.503Z"
 
 ---
 
@@ -43,7 +43,7 @@ extracted_at: "2026-01-06T07:44:15.686Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=G0DThO4-8D4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/G0DThO4-8D4/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/G0DThO4-8D4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 1/6/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/7/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-06T07:44:20.128Z",
+  "generated": "2026-01-07T07:43:58.804Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 25,
     "playlists": 0,
-    "expired": 2,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -158,6 +158,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel"
+    },
+    {
+      "filename": "18ckgdgzily-funnel-amp-website-ai-upgrades.md",
+      "title": "Funnel &amp; Website AI Upgrades",
+      "videoId": "18ckgDGZIlY",
+      "url": "https://www.youtube.com/watch?v=18ckgDGZIlY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T01:00:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "18ckgdgzily-funnel-amp-website-ai-upgrades"
     },
     {
       "filename": "1es4xhosro0-forms-one-click-order-upsell.md",
@@ -864,7 +876,7 @@
       "publishedDate": "2026-01-05T17:16:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7zovxtpov0-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number"
     },
     {
@@ -1956,7 +1968,7 @@
       "publishedDate": "2026-01-05T13:53:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fn3b1knali0-did-you-know-you-can-build-and-sell-your-expertise-directly-in-highlevel"
     },
     {
@@ -2172,7 +2184,7 @@
       "publishedDate": "2026-01-05T17:15:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ghnzpkinnbw-smartlist-performance-amp-stability-improvements-live"
     },
     {
@@ -2726,6 +2738,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai"
+    },
+    {
+      "filename": "kk-d1vlytey-phone-number-sync-for-calendly-appointments.md",
+      "title": "Phone Number Sync for Calendly Appointments",
+      "videoId": "Kk-d1vlyteY",
+      "url": "https://www.youtube.com/watch?v=Kk-d1vlyteY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T01:20:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kk-d1vlytey-phone-number-sync-for-calendly-appointments"
     },
     {
       "filename": "klj5anxy0wq-create-your-conversation-ai-bot.md",
@@ -3472,6 +3496,18 @@
       "slug": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports"
     },
     {
+      "filename": "q4j5jtyeik8-reputation-management-drip-mode-in-reviews-ai.md",
+      "title": "Reputation Management - Drip Mode in Reviews AI!",
+      "videoId": "Q4J5JTYeiK8",
+      "url": "https://www.youtube.com/watch?v=Q4J5JTYeiK8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T01:19:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "q4j5jtyeik8-reputation-management-drip-mode-in-reviews-ai"
+    },
+    {
       "filename": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert.md",
       "title": "Did You Know You Can Get Certified to Earn Clients as a HighLevel Expert",
       "videoId": "qNBxLIl3xe8",
@@ -3734,6 +3770,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "s5jxr9w7yng-day-2-build-your-agency-fast-with-highlevel-ai"
+    },
+    {
+      "filename": "s9b5a4wnzxa-template-library-introducing-new-templates-no-74.md",
+      "title": "Template Library  Introducing New Templates no  74",
+      "videoId": "S9b5a4WnzXA",
+      "url": "https://www.youtube.com/watch?v=S9b5a4WnzXA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-06T22:00:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "s9b5a4wnzxa-template-library-introducing-new-templates-no-74"
     },
     {
       "filename": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live.md",
@@ -4252,6 +4300,18 @@
       "slug": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge"
     },
     {
+      "filename": "up2fllu16wy-from-tool-chaos-to-scalable-growth-how-julio-roldos-uses-highlevel-ai.md",
+      "title": "From Tool Chaos to Scalable Growth: How Julio Roldos Uses HighLevel AI",
+      "videoId": "Up2FLLu16WY",
+      "url": "https://www.youtube.com/watch?v=Up2FLLu16WY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-06T16:25:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "up2fllu16wy-from-tool-chaos-to-scalable-growth-how-julio-roldos-uses-highlevel-ai"
+    },
+    {
       "filename": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel.md",
       "title": "Did You Know You Can Auto Assign Leads in HighLevel?",
       "videoId": "-url8myu0Uc",
@@ -4324,6 +4384,18 @@
       "slug": "vbg1zkugla0-typescript-javascript-sdk-live-for-developers"
     },
     {
+      "filename": "vbvxaqcxtte-new-community-course-saas-mode-mastery-with-jonah-cockshaw.md",
+      "title": "New Community Course  SaaS Mode Mastery with Jonah Cockshaw",
+      "videoId": "VBVXAqCXTtE",
+      "url": "https://www.youtube.com/watch?v=VBVXAqCXTtE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-06T16:12:08.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vbvxaqcxtte-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
+    },
+    {
       "filename": "vfncuwggsba-smartlist-performance-amp-stability-improvements.md",
       "title": "Smartlist Performance &amp; Stability Improvements",
       "videoId": "vFNcuwgGsbA",
@@ -4332,7 +4404,7 @@
       "publishedDate": "2026-01-05T19:00:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vfncuwggsba-smartlist-performance-amp-stability-improvements"
     },
     {
@@ -4416,8 +4488,20 @@
       "publishedDate": "2025-12-30T06:25:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "vsmfde4mw6g-monetize-voice-ai-fast-with-highlevel"
+    },
+    {
+      "filename": "vst9tl4hgna-email-forwarding.md",
+      "title": "Email Forwarding",
+      "videoId": "Vst9tL4HGnA",
+      "url": "https://www.youtube.com/watch?v=Vst9tL4HGnA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-06T19:00:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vst9tl4hgna-email-forwarding"
     },
     {
       "filename": "vstn73nomca-did-you-know-content-ai-can-create-community-posts-for-you-in-the-social-planner.md",
@@ -4732,18 +4816,6 @@
       "slug": "wrxt4uzke1m-google-business-profile-post-scheduler-live"
     },
     {
-      "filename": "wurrxzeawr4-ads-manager-google.md",
-      "title": "Ads Manager (Google)",
-      "videoId": "wURrxZEawr4",
-      "url": "https://www.youtube.com/watch?v=wURrxZEawr4",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-07T21:35:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.5",
-      "slug": "wurrxzeawr4-ads-manager-google"
-    },
-    {
       "filename": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots.md",
       "title": "Agent Studio Integration Now in Snapshots!",
       "videoId": "wY8Nb4aPnWQ",
@@ -4948,6 +5020,18 @@
       "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
     },
     {
+      "filename": "xve6bfthnau-support-for-custom-values-in-calendars.md",
+      "title": "Support for Custom Values in Calendars!",
+      "videoId": "xVE6BfThNAU",
+      "url": "https://www.youtube.com/watch?v=xVE6BfThNAU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T01:17:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xve6bfthnau-support-for-custom-values-in-calendars"
+    },
+    {
       "filename": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel.md",
       "title": "How to Set Up the All-In-One Chat Feature for Your Website or Funnel",
       "videoId": "xWTo2auRI6s",
@@ -4994,18 +5078,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "y3b14vd7teo-communities-newsletter"
-    },
-    {
-      "filename": "y4fy6df2iwm-affiliate-manager-export-affiliate-sales-data-from-dashboard.md",
-      "title": "Affiliate Manager  Export Affiliate Sales Data from Dashboard",
-      "videoId": "y4fy6df2iWM",
-      "url": "https://www.youtube.com/watch?v=y4fy6df2iWM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-07T18:00:58.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.5",
-      "slug": "y4fy6df2iwm-affiliate-manager-export-affiliate-sales-data-from-dashboard"
     },
     {
       "filename": "y5kakgdv7ns-day-2-five-day-ai-employee-challenge.md",
@@ -5172,7 +5244,7 @@
       "publishedDate": "2026-01-05T16:01:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number"
     },
     {
@@ -5282,18 +5354,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
-    },
-    {
-      "filename": "zgh1gkg5lzy-forms-and-funnels.md",
-      "title": "Forms and Funnels",
-      "videoId": "ZgH1GKG5LZY",
-      "url": "https://www.youtube.com/watch?v=ZgH1GKG5LZY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-07T21:35:18.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.5",
-      "slug": "zgh1gkg5lzy-forms-and-funnels"
     },
     {
       "filename": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
@@ -5417,7 +5477,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 414,
+    "fresh": 419,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5429,13 +5489,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 406,
+        "fresh": 410,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 8,
+        "fresh": 9,
         "warning": 1,
         "expired": 0
       }
