@@ -1,14 +1,14 @@
 ---
-title: "Funnel &amp; Website AI Upgrades Live!"
-video_id: "VMRI0Aj9yO0"
-url: "https://www.youtube.com/watch?v=VMRI0Aj9yO0"
-thumbnail: "https://i.ytimg.com/vi/VMRI0Aj9yO0/hqdefault.jpg"
+title: "Reputation Management – Drip Mode in Reviews AI"
+video_id: "KF6xJwyFyAI"
+url: "https://www.youtube.com/watch?v=KF6xJwyFyAI"
+thumbnail: "https://i.ytimg.com/vi/KF6xJwyFyAI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-05T22:56:35.000Z"
+published_date: "2026-01-07T19:00:21.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-08T07:43:13.556Z"
+extracted_at: "2026-01-08T07:43:10.134Z"
 
 ---
 
-# 🟢 Funnel &amp; Website AI Upgrades Live!
+# 🟢 Reputation Management – Drip Mode in Reviews AI
 
-**Video ID:** `VMRI0Aj9yO0`
+**Video ID:** `KF6xJwyFyAI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/5/2026
+**Published:** 1/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-08T07:43:13.556Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=VMRI0Aj9yO0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/VMRI0Aj9yO0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=KF6xJwyFyAI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/KF6xJwyFyAI/hqdefault.jpg)
 
 
 ## Content Guidelines

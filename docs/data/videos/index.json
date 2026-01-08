@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-07T07:43:58.804Z",
+  "generated": "2026-01-08T07:43:19.944Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 31,
     "playlists": 0,
-    "expired": 6,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 31
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -468,7 +468,7 @@
       "publishedDate": "2026-01-05T22:58:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4uwvx6pq-as-email-forwarding-is-live"
     },
     {
@@ -540,7 +540,7 @@
       "publishedDate": "2025-12-31T14:56:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
@@ -828,7 +828,7 @@
       "publishedDate": "2026-01-05T22:58:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7b5rfrwq1dq-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
     },
     {
@@ -1752,7 +1752,7 @@
       "publishedDate": "2026-01-05T22:57:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ebf2aiptr-c-cloning-content-in-new-course-builder-live"
     },
     {
@@ -2016,7 +2016,7 @@
       "publishedDate": "2026-01-06T06:04:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -2073,10 +2073,10 @@
       "videoId": "G0DThO4-8D4",
       "url": "https://www.youtube.com/watch?v=G0DThO4-8D4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-31T14:50:37.000Z",
+      "publishedDate": "2026-01-07T11:20:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas"
     },
     {
@@ -2232,7 +2232,7 @@
       "publishedDate": "2026-01-03T07:45:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "gw-bi-cvpc-the-highlevel-release-radar-december-29th-january-2nd-2026"
     },
     {
@@ -2524,6 +2524,18 @@
       "slug": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app"
     },
     {
+      "filename": "ifzczbxahtm-cloning-content-in-new-course-builder.md",
+      "title": "Cloning Content in New Course Builder",
+      "videoId": "IFZCzbxahtM",
+      "url": "https://www.youtube.com/watch?v=IFZCzbxahtM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T16:00:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ifzczbxahtm-cloning-content-in-new-course-builder"
+    },
+    {
       "filename": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks.md",
       "title": "Did You Know You Can Generate a Prospect List with Just a Few Clicks?",
       "videoId": "ipE4YrNgk78",
@@ -2726,6 +2738,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.4",
       "slug": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025"
+    },
+    {
+      "filename": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai.md",
+      "title": "Reputation Management – Drip Mode in Reviews AI",
+      "videoId": "KF6xJwyFyAI",
+      "url": "https://www.youtube.com/watch?v=KF6xJwyFyAI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T19:00:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai"
     },
     {
       "filename": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai.md",
@@ -3528,7 +3552,7 @@
       "publishedDate": "2025-12-31T14:52:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel"
     },
     {
@@ -3626,6 +3650,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "r0yae8psxzg-bot-actions-dashboard"
+    },
+    {
+      "filename": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments.md",
+      "title": "Phone Number Sync for Calendly Appointments",
+      "videoId": "R1f_iYxRFms",
+      "url": "https://www.youtube.com/watch?v=R1f_iYxRFms",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T01:00:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments"
     },
     {
       "filename": "rdpysvgnerg-why-ai-chat-widgets-snapshot-resources-here.md",
@@ -3840,7 +3876,7 @@
       "publishedDate": "2025-12-31T14:54:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
@@ -4204,6 +4240,18 @@
       "slug": "u1cylh-cpdi-day-1-launch-your-ai-sales-engine-with-highlevel"
     },
     {
+      "filename": "u1fslnw5zs0-why-i-stopped-building-custom-automations-and-switched-to-highlevel.md",
+      "title": "Why I Stopped Building Custom Automations and Switched to HighLevel",
+      "videoId": "u1fslNw5zS0",
+      "url": "https://www.youtube.com/watch?v=u1fslNw5zS0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T18:15:07.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u1fslnw5zs0-why-i-stopped-building-custom-automations-and-switched-to-highlevel"
+    },
+    {
       "filename": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control.md",
       "title": "Reputation Management  New Widget Types + Full AI Summary Control",
       "videoId": "U1sSiyby6H8",
@@ -4308,7 +4356,7 @@
       "publishedDate": "2026-01-06T16:25:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "up2fllu16wy-from-tool-chaos-to-scalable-growth-how-julio-roldos-uses-highlevel-ai"
     },
     {
@@ -4344,7 +4392,7 @@
       "publishedDate": "2026-01-05T22:56:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "urzsyynhync-new-template-live"
     },
     {
@@ -4392,7 +4440,7 @@
       "publishedDate": "2026-01-06T16:12:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vbvxaqcxtte-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
     },
     {
@@ -4428,7 +4476,7 @@
       "publishedDate": "2026-01-05T22:56:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vmri0aj9yo0-funnel-amp-website-ai-upgrades-live"
     },
     {
@@ -4500,7 +4548,7 @@
       "publishedDate": "2026-01-06T19:00:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vst9tl4hgna-email-forwarding"
     },
     {
@@ -4996,6 +5044,18 @@
       "slug": "xmouhskcjc4-selling-gift-cards-with-highlevel-checkout-link"
     },
     {
+      "filename": "xn2zukgvbi4-add-multiple-date-specific-hours-for-services-v2.md",
+      "title": "Add Multiple Date Specific Hours for Services v2",
+      "videoId": "Xn2ZukgVBi4",
+      "url": "https://www.youtube.com/watch?v=Xn2ZukgVBi4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T22:00:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xn2zukgvbi4-add-multiple-date-specific-hours-for-services-v2"
+    },
+    {
       "filename": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge.md",
       "title": "Day 3 - Five Day AI Employee Challenge",
       "videoId": "XNuwjjQ5bN0",
@@ -5102,18 +5162,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "y7wztxdvkzq-workflows-bulk-operations-in-list-page"
-    },
-    {
-      "filename": "y8dmxitp4by-lesson-3-retention.md",
-      "title": "Lesson 3  Retention",
-      "videoId": "Y8dmXItp4BY",
-      "url": "https://www.youtube.com/watch?v=Y8dmXItp4BY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-08T22:05:08.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.4",
-      "slug": "y8dmxitp4by-lesson-3-retention"
     },
     {
       "filename": "yaebvskdgig-community-course-attribution-reporting-is-live.md",
@@ -5416,6 +5464,18 @@
       "slug": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel"
     },
     {
+      "filename": "zmsohcxheg-add-multiple-date-specific-hours-for-services.md",
+      "title": "Add Multiple Date -Specific Hours for Services",
+      "videoId": "-ZmSOhCxheg",
+      "url": "https://www.youtube.com/watch?v=-ZmSOhCxheg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-07T18:41:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zmsohcxheg-add-multiple-date-specific-hours-for-services"
+    },
+    {
       "filename": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel.md",
       "title": "How To Bulk Manage QR Codes in HighLevel",
       "videoId": "ZSsviiAkEXc",
@@ -5477,7 +5537,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 419,
+    "fresh": 424,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5489,7 +5549,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 410,
+        "fresh": 415,
         "warning": 0,
         "expired": 0,
         "unknown": null
