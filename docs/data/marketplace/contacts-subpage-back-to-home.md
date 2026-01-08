@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-01-08T15:09:43.179Z"
+extracted_at: "2026-01-08T18:08:54.608Z"
 ---
 
 # Hi, how can we help you?
@@ -128,7 +128,7 @@ Contacts
 
 HighLevel API
 
-Modified on Fri, 31 Oct, 2025 at 12:42 AM
+Modified on Thu, 8 Jan at 10:50 AM
 
 ](/support/solutions/articles/48001060529-highlevel-api)[
 
