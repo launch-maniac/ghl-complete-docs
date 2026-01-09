@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-08T07:43:19.944Z",
+  "generated": "2026-01-09T07:44:06.865Z",
   "stats": {
     "channels": 1,
-    "videos": 31,
+    "videos": 26,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 31
+    "transcriptsFailed": 26
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -168,7 +168,7 @@
       "publishedDate": "2026-01-07T01:00:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "18ckgdgzily-funnel-amp-website-ai-upgrades"
     },
     {
@@ -206,6 +206,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system"
+    },
+    {
+      "filename": "28xac9sm3-w-customizable-contact-form-messages-in-chat-widget-live.md",
+      "title": "Customizable Contact Form Messages in Chat Widget Live!",
+      "videoId": "28XAc9SM3_w",
+      "url": "https://www.youtube.com/watch?v=28XAc9SM3_w",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T20:14:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "28xac9sm3-w-customizable-contact-form-messages-in-chat-widget-live"
     },
     {
       "filename": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern.md",
@@ -904,6 +916,18 @@
       "slug": "85j7iduopxy-highlevel-desktop-app-now-live-for-windows"
     },
     {
+      "filename": "8cwe55ct75q-should-you-use-highlevel-here-s-an-honest-take-after-4-years.md",
+      "title": "Should You Use HighLevel? Here’s an Honest Take After 4 Years",
+      "videoId": "8cwe55cT75Q",
+      "url": "https://www.youtube.com/watch?v=8cwe55cT75Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T18:19:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "8cwe55ct75q-should-you-use-highlevel-here-s-an-honest-take-after-4-years"
+    },
+    {
       "filename": "8ilfuohgnf0-asana-integration-workflow-actions-amp-triggers.md",
       "title": "Asana Integration  Workflow Actions &amp; Triggers",
       "videoId": "8ILFUOHgNF0",
@@ -914,6 +938,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "8ilfuohgnf0-asana-integration-workflow-actions-amp-triggers"
+    },
+    {
+      "filename": "8jhs53pxtv0-analytics-dashboard-for-prospecting-in-sub-accounts-live.md",
+      "title": "Analytics Dashboard for Prospecting in Sub - Accounts Live!",
+      "videoId": "8jHs53PXtV0",
+      "url": "https://www.youtube.com/watch?v=8jHs53PXtV0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T20:06:08.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "8jhs53pxtv0-analytics-dashboard-for-prospecting-in-sub-accounts-live"
     },
     {
       "filename": "90g44xiyfba-reporting-google-analytics-widgets-in-dashboard-and-custom-reports.md",
@@ -1696,6 +1732,18 @@
       "slug": "dw7twbht1oo-template-library-introducing-new-templates-no-73"
     },
     {
+      "filename": "dx0eyi2vzhe-how-to-associate-multiple-objects-to-tasks-in-highlevel.md",
+      "title": "How To Associate Multiple Objects to Tasks in HighLevel",
+      "videoId": "dX0EYi2vzHE",
+      "url": "https://www.youtube.com/watch?v=dX0EYi2vzHE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T17:54:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dx0eyi2vzhe-how-to-associate-multiple-objects-to-tasks-in-highlevel"
+    },
+    {
       "filename": "dynrsohdpiu-automatic-seo-now-live-for-external-sites.md",
       "title": "Automatic SEO Now Live for External Sites!",
       "videoId": "DynrsOhDPIU",
@@ -2076,7 +2124,7 @@
       "publishedDate": "2026-01-07T11:20:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas"
     },
     {
@@ -2270,6 +2318,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "gz1zza1-ao0-how-to-master-dashboard-widgets-for-improved-business-insights"
+    },
+    {
+      "filename": "h6dvng-dih8-how-to-visualize-data-with-custom-objects-in-highlevel-dashboards.md",
+      "title": "How To Visualize Data with Custom Objects in HighLevel Dashboards",
+      "videoId": "H6DvNG-dIh8",
+      "url": "https://www.youtube.com/watch?v=H6DvNG-dIh8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T23:00:25.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h6dvng-dih8-how-to-visualize-data-with-custom-objects-in-highlevel-dashboards"
     },
     {
       "filename": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025.md",
@@ -2532,7 +2592,7 @@
       "publishedDate": "2026-01-07T16:00:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ifzczbxahtm-cloning-content-in-new-course-builder"
     },
     {
@@ -2656,6 +2716,18 @@
       "slug": "k19w9eefjgi-how-to-optimize-your-website-using-browser-and-ip-analytics"
     },
     {
+      "filename": "k3vuevrdlfc-how-to-manage-pipeline-permissions-in-highlevel.md",
+      "title": "How To Manage Pipeline Permissions in HighLevel",
+      "videoId": "k3vueVrdlFc",
+      "url": "https://www.youtube.com/watch?v=k3vueVrdlFc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T17:54:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k3vuevrdlfc-how-to-manage-pipeline-permissions-in-highlevel"
+    },
+    {
       "filename": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025.md",
       "title": "The HighLevel Release Radar (October 27th - October 31st 2025)",
       "videoId": "k5pgV7Yot2w",
@@ -2748,7 +2820,7 @@
       "publishedDate": "2026-01-07T19:00:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai"
     },
     {
@@ -2772,7 +2844,7 @@
       "publishedDate": "2026-01-07T01:20:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kk-d1vlytey-phone-number-sync-for-calendly-appointments"
     },
     {
@@ -2870,6 +2942,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.7",
       "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
+    },
+    {
+      "filename": "lkppwzjisf4-support-for-custom-values-in-calendars.md",
+      "title": "Support for Custom Values in Calendars",
+      "videoId": "LKPpwzjiSF4",
+      "url": "https://www.youtube.com/watch?v=LKPpwzjiSF4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-08T16:00:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lkppwzjisf4-support-for-custom-values-in-calendars"
     },
     {
       "filename": "lngnnn9fwcs-did-you-know-you-can-sell-gift-cards-in-highlevel.md",
@@ -3528,7 +3612,7 @@
       "publishedDate": "2026-01-07T01:19:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "q4j5jtyeik8-reputation-management-drip-mode-in-reviews-ai"
     },
     {
@@ -3816,7 +3900,7 @@
       "publishedDate": "2026-01-06T22:00:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "s9b5a4wnzxa-template-library-introducing-new-templates-no-74"
     },
     {
@@ -4248,7 +4332,7 @@
       "publishedDate": "2026-01-07T18:15:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u1fslnw5zs0-why-i-stopped-building-custom-automations-and-switched-to-highlevel"
     },
     {
@@ -5088,7 +5172,7 @@
       "publishedDate": "2026-01-07T01:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xve6bfthnau-support-for-custom-values-in-calendars"
     },
     {
@@ -5472,7 +5556,7 @@
       "publishedDate": "2026-01-07T18:41:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zmsohcxheg-add-multiple-date-specific-hours-for-services"
     },
     {
@@ -5537,7 +5621,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 424,
+    "fresh": 431,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5549,7 +5633,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 415,
+        "fresh": 422,
         "warning": 0,
         "expired": 0,
         "unknown": null

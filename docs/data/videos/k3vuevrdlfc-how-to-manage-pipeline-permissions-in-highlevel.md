@@ -1,14 +1,14 @@
 ---
-title: "Cloning Content in New Course Builder"
-video_id: "IFZCzbxahtM"
-url: "https://www.youtube.com/watch?v=IFZCzbxahtM"
-thumbnail: "https://i.ytimg.com/vi/IFZCzbxahtM/hqdefault.jpg"
+title: "How To Manage Pipeline Permissions in HighLevel"
+video_id: "k3vueVrdlFc"
+url: "https://www.youtube.com/watch?v=k3vueVrdlFc"
+thumbnail: "https://i.ytimg.com/vi/k3vueVrdlFc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-07T16:00:27.000Z"
+published_date: "2026-01-08T17:54:49.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-09T07:43:59.956Z"
+extracted_at: "2026-01-09T07:43:58.096Z"
 
 ---
 
-# 🟢 Cloning Content in New Course Builder
+# 🟢 How To Manage Pipeline Permissions in HighLevel
 
-**Video ID:** `IFZCzbxahtM`
+**Video ID:** `k3vueVrdlFc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/7/2026
+**Published:** 1/8/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-09T07:43:59.956Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IFZCzbxahtM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/IFZCzbxahtM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=k3vueVrdlFc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/k3vueVrdlFc/hqdefault.jpg)
 
 
 ## Content Guidelines

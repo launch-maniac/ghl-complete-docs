@@ -1,14 +1,14 @@
 ---
-title: "Cloning Content in New Course Builder"
-video_id: "IFZCzbxahtM"
-url: "https://www.youtube.com/watch?v=IFZCzbxahtM"
-thumbnail: "https://i.ytimg.com/vi/IFZCzbxahtM/hqdefault.jpg"
+title: "How To Visualize Data with Custom Objects in HighLevel Dashboards"
+video_id: "H6DvNG-dIh8"
+url: "https://www.youtube.com/watch?v=H6DvNG-dIh8"
+thumbnail: "https://i.ytimg.com/vi/H6DvNG-dIh8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-07T16:00:27.000Z"
+published_date: "2026-01-08T23:00:25.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-09T07:43:59.956Z"
+extracted_at: "2026-01-09T07:43:57.199Z"
 
 ---
 
-# 🟢 Cloning Content in New Course Builder
+# 🟢 How To Visualize Data with Custom Objects in HighLevel Dashboards
 
-**Video ID:** `IFZCzbxahtM`
+**Video ID:** `H6DvNG-dIh8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/7/2026
+**Published:** 1/8/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-09T07:43:59.956Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IFZCzbxahtM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/IFZCzbxahtM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=H6DvNG-dIh8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/H6DvNG-dIh8/hqdefault.jpg)
 
 
 ## Content Guidelines
