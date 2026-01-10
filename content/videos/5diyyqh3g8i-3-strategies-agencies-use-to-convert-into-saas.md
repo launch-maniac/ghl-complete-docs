@@ -2,7 +2,7 @@
 title: "3 Strategies Agencies Use to Convert into SaaS"
 video_id: "5DIYYqH3G8I"
 url: "https://www.youtube.com/watch?v=5DIYYqH3G8I"
-thumbnail: "https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2025-12-31T14:56:21.000Z"
 freshness_status: "fresh"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-09T07:44:01.879Z"
+extracted_at: "2026-01-10T07:40:28.397Z"
 
 ---
 
@@ -43,7 +43,7 @@ extracted_at: "2026-01-09T07:44:01.879Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5DIYYqH3G8I)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/5DIYYqH3G8I/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 1/9/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/10/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

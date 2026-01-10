@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-09T07:44:06.865Z",
+  "generated": "2026-01-10T07:40:32.892Z",
   "stats": {
     "channels": 1,
-    "videos": 26,
+    "videos": 32,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 26
+    "transcriptsFailed": 32
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -568,6 +568,18 @@
       "slug": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025"
     },
     {
+      "filename": "5lakeng-no8-the-highlevel-release-radar-january-5th-january-9th-2026.md",
+      "title": "The HighLevel Release Radar (January 5th - January 9th 2026)",
+      "videoId": "5lakeNg_nO8",
+      "url": "https://www.youtube.com/watch?v=5lakeNg_nO8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T19:18:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5lakeng-no8-the-highlevel-release-radar-january-5th-january-9th-2026"
+    },
+    {
       "filename": "5qitjzlcxmo-how-mitchell-j-alomar-scale-revenue-amp-retention-using-highlevel-crm.md",
       "title": "How Mitchell J Alomar Scale Revenue &amp; Retention using HighLevel CRM",
       "videoId": "5QItJzlCXmo",
@@ -734,6 +746,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6ino1sj-bqa-how-to-send-gift-cards"
+    },
+    {
+      "filename": "6mku8ti6yba-customizable-navigation-tabs-for-communities-live.md",
+      "title": "Customizable Navigation Tabs for Communities Live!",
+      "videoId": "6MKU8TI6yBA",
+      "url": "https://www.youtube.com/watch?v=6MKU8TI6yBA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T21:12:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6mku8ti6yba-customizable-navigation-tabs-for-communities-live"
     },
     {
       "filename": "6rddlchdckm-certificates-badges.md",
@@ -924,7 +948,7 @@
       "publishedDate": "2026-01-08T18:19:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "8cwe55ct75q-should-you-use-highlevel-here-s-an-honest-take-after-4-years"
     },
     {
@@ -1310,6 +1334,18 @@
       "contentCategory": "evergreen",
       "ageInMonths": "0.1",
       "slug": "b6qzcltuph8-template-library-introducing-new-templates-no-65"
+    },
+    {
+      "filename": "bj-g5hkmjg4-how-to-use-highlevel-39-s-conversation-ai-for-efficient-multi-calendar-bookings.md",
+      "title": "How To Use HighLevel&#39;s Conversation AI for Efficient Multi Calendar Bookings",
+      "videoId": "bj_g5hKmjg4",
+      "url": "https://www.youtube.com/watch?v=bj_g5hKmjg4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T15:30:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bj-g5hkmjg4-how-to-use-highlevel-39-s-conversation-ai-for-efficient-multi-calendar-bookings"
     },
     {
       "filename": "bkt-q8wlu-s-blog-statistics-track-blog-amp-post-performance-live.md",
@@ -1740,7 +1776,7 @@
       "publishedDate": "2026-01-08T17:54:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dx0eyi2vzhe-how-to-associate-multiple-objects-to-tasks-in-highlevel"
     },
     {
@@ -2320,6 +2356,18 @@
       "slug": "gz1zza1-ao0-how-to-master-dashboard-widgets-for-improved-business-insights"
     },
     {
+      "filename": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
+      "title": "Jarryd Holmes: Grow Fast with Funnels, Voice AI + HighLevel",
+      "videoId": "h6-AbRdPxAE",
+      "url": "https://www.youtube.com/watch?v=h6-AbRdPxAE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T16:12:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
+    },
+    {
       "filename": "h6dvng-dih8-how-to-visualize-data-with-custom-objects-in-highlevel-dashboards.md",
       "title": "How To Visualize Data with Custom Objects in HighLevel Dashboards",
       "videoId": "H6DvNG-dIh8",
@@ -2724,7 +2772,7 @@
       "publishedDate": "2026-01-08T17:54:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k3vuevrdlfc-how-to-manage-pipeline-permissions-in-highlevel"
     },
     {
@@ -2952,7 +3000,7 @@
       "publishedDate": "2026-01-08T16:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lkppwzjisf4-support-for-custom-values-in-calendars"
     },
     {
@@ -3134,6 +3182,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text"
+    },
+    {
+      "filename": "mvhkfjgdqjs-documents-amp-contracts-assign-fillable-fields-dynamically-from-workflows.md",
+      "title": "Documents &amp; Contracts: Assign fillable fields Dynamically from Workflows!",
+      "videoId": "MvHkFjgDQJs",
+      "url": "https://www.youtube.com/watch?v=MvHkFjgDQJs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T21:10:16.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mvhkfjgdqjs-documents-amp-contracts-assign-fillable-fields-dynamically-from-workflows"
     },
     {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
@@ -3424,6 +3484,18 @@
       "slug": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers"
     },
     {
+      "filename": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai.md",
+      "title": "Day 2 - Get More Clients with HighLevel + AI",
+      "videoId": "pc6k_nmVu_k",
+      "url": "https://www.youtube.com/watch?v=pc6k_nmVu_k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T18:11:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
+    },
+    {
       "filename": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel.md",
       "title": "Web Design to Recurring Revenue with HighLevel",
       "videoId": "pEFFQdgF3PM",
@@ -3633,10 +3705,10 @@
       "videoId": "qNPEfhfX4rg",
       "url": "https://www.youtube.com/watch?v=qNPEfhfX4rg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-31T14:52:26.000Z",
+      "publishedDate": "2026-01-09T14:09:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel"
     },
     {
@@ -3744,7 +3816,7 @@
       "publishedDate": "2026-01-08T01:00:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments"
     },
     {
@@ -3957,10 +4029,10 @@
       "videoId": "siAmnTkZu-g",
       "url": "https://www.youtube.com/watch?v=siAmnTkZu-g",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-31T14:54:51.000Z",
+      "publishedDate": "2026-01-09T22:31:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
@@ -3974,6 +4046,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "slcfzzeum8-from-mechanic-and-restaurant-manager-to-award-winning-saas-affiliates-nick-ponte-amp-tom-"
+    },
+    {
+      "filename": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai.md",
+      "title": "Day 2 Replay - Build Your Agency Fast with HighLevel + AI",
+      "videoId": "SmLR8HRUqPA",
+      "url": "https://www.youtube.com/watch?v=SmLR8HRUqPA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T16:08:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
       "filename": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone.md",
@@ -4348,6 +4432,18 @@
       "slug": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control"
     },
     {
+      "filename": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai.md",
+      "title": "Day 1 Replay - Build Your Agency Fast with HighLevel + AI",
+      "videoId": "u5ncJPWvPCs",
+      "url": "https://www.youtube.com/watch?v=u5ncJPWvPCs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T16:07:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai"
+    },
+    {
       "filename": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "u6VCeB7PlX4",
@@ -4480,6 +4576,18 @@
       "slug": "urzsyynhync-new-template-live"
     },
     {
+      "filename": "us9cfgbllrm-customizable-contact-form-messages-in-chat-widget.md",
+      "title": "Customizable Contact Form Messages in Chat Widget",
+      "videoId": "Us9cfgBlLRM",
+      "url": "https://www.youtube.com/watch?v=Us9cfgBlLRM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-10T01:00:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "us9cfgbllrm-customizable-contact-form-messages-in-chat-widget"
+    },
+    {
       "filename": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users.md",
       "title": "Documents and Contracts: Improved Language Support for International Users!",
       "videoId": "V_ADAxTOWmI",
@@ -4562,6 +4670,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "vmri0aj9yo0-funnel-amp-website-ai-upgrades-live"
+    },
+    {
+      "filename": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai.md",
+      "title": "Day 1 - Get More Clients with HighLevel + AI",
+      "videoId": "vNuRSmTM_hc",
+      "url": "https://www.youtube.com/watch?v=vNuRSmTM_hc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T18:07:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai"
     },
     {
       "filename": "vpeetx6m79a-workflows-update-inbound-dnd-support.md",
@@ -5136,7 +5256,7 @@
       "publishedDate": "2026-01-07T22:00:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xn2zukgvbi4-add-multiple-date-specific-hours-for-services-v2"
     },
     {
@@ -5150,6 +5270,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xnuwjjq5bn0-day-3-five-day-ai-employee-challenge"
+    },
+    {
+      "filename": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement.md",
+      "title": "Use WhatsApp in HighLevel to Boost Engagement",
+      "videoId": "XP7Tvsgr-5U",
+      "url": "https://www.youtube.com/watch?v=XP7Tvsgr-5U",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T16:11:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
       "filename": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel.md",
@@ -5284,6 +5416,18 @@
       "slug": "yatsunajkju-from-overwhelmed-to-scalable-sana-gebarin-shares-her-highlevel-success-story"
     },
     {
+      "filename": "ydexi47cigi-analytics-dashboard-for-prospecting-in-sub-accounts.md",
+      "title": "Analytics Dashboard for Prospecting in Sub Accounts",
+      "videoId": "yDExi47cIgI",
+      "url": "https://www.youtube.com/watch?v=yDExi47cIgI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T22:01:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ydexi47cigi-analytics-dashboard-for-prospecting-in-sub-accounts"
+    },
+    {
       "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
       "title": "Day 4 - Five Day AI Employee Challenge",
       "videoId": "YeMyBfRaBnM",
@@ -5342,6 +5486,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "yn3avtoeijq-backend-trigger-flow-enhancements"
+    },
+    {
+      "filename": "ypmjai6wc2i-site-analytics-average-time-on-page-stats-live.md",
+      "title": "Site Analytics - Average Time On Page Stats Live!",
+      "videoId": "ypMjAI6wc2I",
+      "url": "https://www.youtube.com/watch?v=ypMjAI6wc2I",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-09T21:11:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ypmjai6wc2i-site-analytics-average-time-on-page-stats-live"
     },
     {
       "filename": "yq2p-kwhtuk-communities-go-live-on-mobile-app.md",
@@ -5621,7 +5777,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 431,
+    "fresh": 444,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5633,7 +5789,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 422,
+        "fresh": 435,
         "warning": 0,
         "expired": 0,
         "unknown": null
