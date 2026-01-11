@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-10T07:40:32.892Z",
+  "generated": "2026-01-11T07:41:22.062Z",
   "stats": {
     "channels": 1,
-    "videos": 32,
+    "videos": 25,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 32
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -216,7 +216,7 @@
       "publishedDate": "2026-01-08T20:14:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "28xac9sm3-w-customizable-contact-form-messages-in-chat-widget-live"
     },
     {
@@ -549,10 +549,10 @@
       "videoId": "5DIYYqH3G8I",
       "url": "https://www.youtube.com/watch?v=5DIYYqH3G8I",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-12-31T14:56:21.000Z",
+      "publishedDate": "2026-01-10T08:09:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
@@ -573,7 +573,7 @@
       "videoId": "5lakeNg_nO8",
       "url": "https://www.youtube.com/watch?v=5lakeNg_nO8",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-09T19:18:50.000Z",
+      "publishedDate": "2026-01-10T08:02:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -972,7 +972,7 @@
       "publishedDate": "2026-01-08T20:06:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "8jhs53pxtv0-analytics-dashboard-for-prospecting-in-sub-accounts-live"
     },
     {
@@ -1344,7 +1344,7 @@
       "publishedDate": "2026-01-09T15:30:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bj-g5hkmjg4-how-to-use-highlevel-39-s-conversation-ai-for-efficient-multi-calendar-bookings"
     },
     {
@@ -2364,7 +2364,7 @@
       "publishedDate": "2026-01-09T16:12:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -2376,7 +2376,7 @@
       "publishedDate": "2026-01-08T23:00:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h6dvng-dih8-how-to-visualize-data-with-custom-objects-in-highlevel-dashboards"
     },
     {
@@ -3492,7 +3492,7 @@
       "publishedDate": "2026-01-09T18:11:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
     },
     {
@@ -3708,7 +3708,7 @@
       "publishedDate": "2026-01-09T14:09:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qnpefhfx4rg-focus-on-fundamentals-while-scaling-with-highlevel"
     },
     {
@@ -4056,7 +4056,7 @@
       "publishedDate": "2026-01-09T16:08:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
@@ -4440,7 +4440,7 @@
       "publishedDate": "2026-01-09T16:07:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
@@ -4536,7 +4536,7 @@
       "publishedDate": "2026-01-06T16:25:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "up2fllu16wy-from-tool-chaos-to-scalable-growth-how-julio-roldos-uses-highlevel-ai"
     },
     {
@@ -4680,7 +4680,7 @@
       "publishedDate": "2026-01-09T18:07:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai"
     },
     {
@@ -5280,7 +5280,7 @@
       "publishedDate": "2026-01-09T16:11:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
