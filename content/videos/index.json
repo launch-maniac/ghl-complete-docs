@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-11T07:41:22.062Z",
+  "generated": "2026-01-12T07:45:07.528Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 17,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -552,7 +552,7 @@
       "publishedDate": "2026-01-10T08:09:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
@@ -576,7 +576,7 @@
       "publishedDate": "2026-01-10T08:02:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5lakeng-no8-the-highlevel-release-radar-january-5th-january-9th-2026"
     },
     {
@@ -756,7 +756,7 @@
       "publishedDate": "2026-01-09T21:12:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6mku8ti6yba-customizable-navigation-tabs-for-communities-live"
     },
     {
@@ -3192,7 +3192,7 @@
       "publishedDate": "2026-01-09T21:10:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mvhkfjgdqjs-documents-amp-contracts-assign-fillable-fields-dynamically-from-workflows"
     },
     {
@@ -4032,7 +4032,7 @@
       "publishedDate": "2026-01-09T22:31:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
@@ -4584,7 +4584,7 @@
       "publishedDate": "2026-01-10T01:00:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "us9cfgbllrm-customizable-contact-form-messages-in-chat-widget"
     },
     {
@@ -5424,7 +5424,7 @@
       "publishedDate": "2026-01-09T22:01:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ydexi47cigi-analytics-dashboard-for-prospecting-in-sub-accounts"
     },
     {
@@ -5496,7 +5496,7 @@
       "publishedDate": "2026-01-09T21:11:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ypmjai6wc2i-site-analytics-average-time-on-page-stats-live"
     },
     {
