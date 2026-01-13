@@ -3,7 +3,7 @@ title: "Authentication Guide"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc"
-extracted_at: "2026-01-13T12:09:56.092Z"
+extracted_at: "2026-01-13T15:11:33.362Z"
 ---
 
 -   [](/docs/)
@@ -64,9 +64,9 @@ You should use OAuth 2.0 Flow if:
 
 Previous
 
-App Distribution
+How to Update Your APP
 
-](/docs/oauth/AppDistribution)[
+](/docs/oauth/HowToUpdateYourAPP)[
 
 Next
 
