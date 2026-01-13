@@ -1,10 +1,10 @@
 ---
-title: "The HighLevel Release Radar (January 5th - January 9th 2026)"
-video_id: "5lakeNg_nO8"
-url: "https://www.youtube.com/watch?v=5lakeNg_nO8"
-thumbnail: "https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg"
+title: "HighLevel Chat Widget Now Supports Customizable Contact Form Messages"
+video_id: "28XAc9SM3_w"
+url: "https://www.youtube.com/watch?v=28XAc9SM3_w"
+thumbnail: "https://i.ytimg.com/vi/28XAc9SM3_w/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-10T08:02:36.000Z"
+published_date: "2026-01-08T20:14:03.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-13T07:43:24.610Z"
+extracted_at: "2026-01-13T07:43:26.499Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 5th - January 9th 2026)
+# 🟢 HighLevel Chat Widget Now Supports Customizable Contact Form Messages
 
-**Video ID:** `5lakeNg_nO8`
+**Video ID:** `28XAc9SM3_w`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/10/2026
+**Published:** 1/8/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-13T07:43:24.610Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5lakeNg_nO8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=28XAc9SM3_w)
+- [📷 Thumbnail](https://i.ytimg.com/vi/28XAc9SM3_w/hqdefault.jpg)
 
 
 ## Content Guidelines

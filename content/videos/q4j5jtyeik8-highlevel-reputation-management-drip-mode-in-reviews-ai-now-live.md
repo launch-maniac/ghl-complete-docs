@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (January 5th - January 9th 2026)"
-video_id: "5lakeNg_nO8"
-url: "https://www.youtube.com/watch?v=5lakeNg_nO8"
-thumbnail: "https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg"
+title: "HighLevel Reputation Management Drip Mode in Reviews AI Now Live"
+video_id: "Q4J5JTYeiK8"
+url: "https://www.youtube.com/watch?v=Q4J5JTYeiK8"
+thumbnail: "https://i.ytimg.com/vi/Q4J5JTYeiK8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-10T08:02:36.000Z"
+published_date: "2026-01-07T01:19:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-13T07:43:24.610Z"
+extracted_at: "2026-01-13T07:43:27.259Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 5th - January 9th 2026)
+# 🟢 HighLevel Reputation Management Drip Mode in Reviews AI Now Live
 
-**Video ID:** `5lakeNg_nO8`
+**Video ID:** `Q4J5JTYeiK8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/10/2026
+**Published:** 1/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-13T07:43:24.610Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5lakeNg_nO8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Q4J5JTYeiK8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Q4J5JTYeiK8/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (January 5th - January 9th 2026)"
-video_id: "5lakeNg_nO8"
-url: "https://www.youtube.com/watch?v=5lakeNg_nO8"
-thumbnail: "https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg"
+title: "Customizable Navigation Tabs for Communities"
+video_id: "fPMa__5fl1Q"
+url: "https://www.youtube.com/watch?v=fPMa__5fl1Q"
+thumbnail: "https://i.ytimg.com/vi/fPMa__5fl1Q/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-10T08:02:36.000Z"
+published_date: "2026-01-12T19:00:43.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-13T07:43:24.610Z"
+extracted_at: "2026-01-13T07:43:23.767Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 5th - January 9th 2026)
+# 🟢 Customizable Navigation Tabs for Communities
 
-**Video ID:** `5lakeNg_nO8`
+**Video ID:** `fPMa__5fl1Q`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/10/2026
+**Published:** 1/12/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-13T07:43:24.610Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5lakeNg_nO8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fPMa__5fl1Q)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fPMa__5fl1Q/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,10 +1,10 @@
 ---
-title: "The HighLevel Release Radar (January 5th - January 9th 2026)"
-video_id: "5lakeNg_nO8"
-url: "https://www.youtube.com/watch?v=5lakeNg_nO8"
-thumbnail: "https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg"
+title: "HighLevel Documents and Contracts Dynamic Fillable Fields from Workflows Now Live"
+video_id: "MvHkFjgDQJs"
+url: "https://www.youtube.com/watch?v=MvHkFjgDQJs"
+thumbnail: "https://i.ytimg.com/vi/MvHkFjgDQJs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-10T08:02:36.000Z"
+published_date: "2026-01-09T21:10:16.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-13T07:43:24.610Z"
+extracted_at: "2026-01-13T07:43:25.344Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 5th - January 9th 2026)
+# 🟢 HighLevel Documents and Contracts Dynamic Fillable Fields from Workflows Now Live
 
-**Video ID:** `5lakeNg_nO8`
+**Video ID:** `MvHkFjgDQJs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/10/2026
+**Published:** 1/9/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-13T07:43:24.610Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5lakeNg_nO8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5lakeNg_nO8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=MvHkFjgDQJs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/MvHkFjgDQJs/hqdefault.jpg)
 
 
 ## Content Guidelines
