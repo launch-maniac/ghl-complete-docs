@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-13T07:43:34.594Z",
+  "generated": "2026-01-14T07:44:12.557Z",
   "stats": {
     "channels": 1,
-    "videos": 26,
+    "videos": 28,
     "playlists": 0,
-    "expired": 0,
+    "expired": 14,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 26
+    "transcriptsFailed": 28
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -136,18 +136,6 @@
       "slug": "0ly0a7s-bay-how-to-set-up-a-recurring-countdown-timer"
     },
     {
-      "filename": "0psxm4sv9zq-lc-phone-system-enhanced-number-pool-management.md",
-      "title": "LC Phone System  Enhanced Number Pool Management",
-      "videoId": "0psxm4sV9zQ",
-      "url": "https://www.youtube.com/watch?v=0psxm4sV9zQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T21:00:02.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "0psxm4sv9zq-lc-phone-system-enhanced-number-pool-management"
-    },
-    {
       "filename": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel.md",
       "title": "Did You Know You Can Resell Voice AI Agents in HighLevel?",
       "videoId": "0TXSfG4jy-Q",
@@ -228,7 +216,7 @@
       "publishedDate": "2026-01-08T20:14:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "28xac9sm3-w-highlevel-chat-widget-now-supports-customizable-contact-form-messages"
     },
     {
@@ -936,7 +924,7 @@
       "publishedDate": "2026-01-05T17:16:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "7zovxtpov0-highlevel-mobile-upgrade-custom-dispositions-and-sticky-outbound-number-now-live"
     },
     {
@@ -1020,7 +1008,7 @@
       "publishedDate": "2026-01-08T20:06:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "8jhs53pxtv0-highlevel-analytics-dashboard-for-prospecting-in-sub-accounts-now-live"
     },
     {
@@ -1106,6 +1094,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "a3oalhvoaq4-custom-call-disposition-live"
+    },
+    {
+      "filename": "a4ocw-h9tpq-affiliate-manager-reassign-crm-contacts-between-affiliates.md",
+      "title": "Affiliate Manager   Reassign CRM Contacts Between Affiliates",
+      "videoId": "A4oCW_H9tpQ",
+      "url": "https://www.youtube.com/watch?v=A4oCW_H9tpQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-13T16:00:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "a4ocw-h9tpq-affiliate-manager-reassign-crm-contacts-between-affiliates"
     },
     {
       "filename": "a4tkrd4icgc-how-to-edit-images-directly-in-highlevel.md",
@@ -1250,18 +1250,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "auphhjubfcg-reputation-management-manual-reviews"
-    },
-    {
-      "filename": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop.md",
-      "title": "Day 1 - Chat Smarter, Sell Faster: The AI Chat Workshop",
-      "videoId": "autII1ofRSc",
-      "url": "https://www.youtube.com/watch?v=autII1ofRSc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-15T05:24:13.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "autii1ofrsc-day-1-chat-smarter-sell-faster-the-ai-chat-workshop"
     },
     {
       "filename": "axati7tlrdy-template-library-introducing-new-templates-no-66.md",
@@ -1696,18 +1684,6 @@
       "slug": "d2dqvcurxvu-template-library-introducing-new-templates-no-67"
     },
     {
-      "filename": "d5eklzlriny-human-handover.md",
-      "title": "Human Handover",
-      "videoId": "D5eklzlRinY",
-      "url": "https://www.youtube.com/watch?v=D5eklzlRinY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T19:54:18.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "d5eklzlriny-human-handover"
-    },
-    {
       "filename": "d6szzzjhvai-did-you-know-you-can-jumpstart-your-business-using-our-template-library.md",
       "title": "Did You Know You Can Jumpstart Your Business Using Our Template Library",
       "videoId": "D6SZzzjHvAI",
@@ -1716,7 +1692,7 @@
       "publishedDate": "2026-01-12T18:48:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d6szzzjhvai-did-you-know-you-can-jumpstart-your-business-using-our-template-library"
     },
     {
@@ -2020,6 +1996,18 @@
       "slug": "f-hvcamwweu-land-your-first-5-clients-with-highlevel-no-ads-needed"
     },
     {
+      "filename": "f3cllr1h0ic-conversation-amp-contacts-ui-enhancements.md",
+      "title": "Conversation &amp; Contacts UI Enhancements",
+      "videoId": "f3CLLR1h0Ic",
+      "url": "https://www.youtube.com/watch?v=f3CLLR1h0Ic",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-13T19:00:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "f3cllr1h0ic-conversation-amp-contacts-ui-enhancements"
+    },
+    {
       "filename": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge.md",
       "title": "Day 5 - Five Day AI Employee Challenge",
       "videoId": "F6ib67HW6Aw",
@@ -2160,7 +2148,7 @@
       "publishedDate": "2026-01-12T19:00:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fpma-5fl1q-customizable-navigation-tabs-for-communities"
     },
     {
@@ -2460,7 +2448,7 @@
       "publishedDate": "2026-01-09T16:12:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -3004,18 +2992,6 @@
       "slug": "kk-d1vlytey-phone-number-sync-for-calendly-appointments"
     },
     {
-      "filename": "klj5anxy0wq-create-your-conversation-ai-bot.md",
-      "title": "Create Your Conversation AI Bot",
-      "videoId": "KlJ5anXY0WQ",
-      "url": "https://www.youtube.com/watch?v=KlJ5anXY0WQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T19:53:53.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "klj5anxy0wq-create-your-conversation-ai-bot"
-    },
-    {
       "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
       "title": "How to Use Quick Filters to Improve Your Dashboard Efficiency",
       "videoId": "kVSpv_01AoM",
@@ -3316,6 +3292,18 @@
       "slug": "mvhkfjgdqjs-highlevel-documents-and-contracts-dynamic-fillable-fields-from-workflows-now-live"
     },
     {
+      "filename": "mybw-jagmgs-how-to-get-your-phone-number-a2p-approved-in-2026.md",
+      "title": "How to Get Your Phone Number A2P Approved in 2026",
+      "videoId": "MyBw_JagmGs",
+      "url": "https://www.youtube.com/watch?v=MyBw_JagmGs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-13T22:00:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mybw-jagmgs-how-to-get-your-phone-number-a2p-approved-in-2026"
+    },
+    {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
       "title": "If/Else & Update Contact Field Actions - Expanded Field Support in Dynamic Custom Value Picker!",
       "videoId": "ne4fZI2Pn3w",
@@ -3588,7 +3576,7 @@
       "publishedDate": "2025-12-24T14:10:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.6",
+      "ageInMonths": "0.7",
       "slug": "ow2-li7ec4i-highlevel-ecommerce-mobile-ui-improvements-sorting-and-filtering-now-live"
     },
     {
@@ -3924,7 +3912,7 @@
       "publishedDate": "2025-12-24T14:11:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.6",
+      "ageInMonths": "0.7",
       "slug": "qsis7q-9p-m-highlevel-recurring-listing-performance-recap-reports-now-live"
     },
     {
@@ -3976,18 +3964,6 @@
       "slug": "r-zi6jh32nq-day-2-five-day-ai-employee-challenge"
     },
     {
-      "filename": "r0yae8psxzg-bot-actions-dashboard.md",
-      "title": "Bot Actions + Dashboard",
-      "videoId": "R0yae8psxzg",
-      "url": "https://www.youtube.com/watch?v=R0yae8psxzg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T19:54:08.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "r0yae8psxzg-bot-actions-dashboard"
-    },
-    {
       "filename": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments.md",
       "title": "Phone Number Sync for Calendly Appointments",
       "videoId": "R1f_iYxRFms",
@@ -3998,18 +3974,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments"
-    },
-    {
-      "filename": "rdpysvgnerg-why-ai-chat-widgets-snapshot-resources-here.md",
-      "title": "Why AI Chat Widgets (Snapshot + Resources Here!)",
-      "videoId": "rdPySVGnerg",
-      "url": "https://www.youtube.com/watch?v=rdPySVGnerg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T19:53:35.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "rdpysvgnerg-why-ai-chat-widgets-snapshot-resources-here"
     },
     {
       "filename": "redmtab3cgi-highlevel-voice-ai-more-voices-more-languages-and-elevenlabs-import-now-live.md",
@@ -4233,10 +4197,10 @@
       "videoId": "SmLR8HRUqPA",
       "url": "https://www.youtube.com/watch?v=SmLR8HRUqPA",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-09T16:08:55.000Z",
+      "publishedDate": "2026-01-14T07:39:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
@@ -4418,6 +4382,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "t3jnjguok1c-automatic-seo-now-live-for-external-sites"
+    },
+    {
+      "filename": "t4t8tdvubyo-how-to-transform-your-chat-widget-to-use-a-voice-ai-agent-for-better-customer-interactio.md",
+      "title": "How to Transform Your Chat Widget to Use a Voice AI Agent for Better Customer Interaction",
+      "videoId": "T4T8TdVUByo",
+      "url": "https://www.youtube.com/watch?v=T4T8TdVUByo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-13T21:59:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "t4t8tdvubyo-how-to-transform-your-chat-widget-to-use-a-voice-ai-agent-for-better-customer-interactio"
     },
     {
       "filename": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai.md",
@@ -4860,7 +4836,7 @@
       "publishedDate": "2026-01-09T18:07:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai"
     },
     {
@@ -5460,7 +5436,7 @@
       "publishedDate": "2026-01-09T16:11:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -5788,18 +5764,6 @@
       "slug": "yx7etoh9qos-did-you-know-you-can-monetize-courses-amp-content-with-communities"
     },
     {
-      "filename": "z0bez-tosym-bot-goals.md",
-      "title": "Bot Goals",
-      "videoId": "Z0BEZ_TosyM",
-      "url": "https://www.youtube.com/watch?v=Z0BEZ_TosyM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-14T19:54:03.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "z0bez-tosym-bot-goals"
-    },
-    {
       "filename": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel.md",
       "title": "Did You Know You Can Create Branded Dashboards with HighLevel?",
       "videoId": "Z5jEDwabSR0",
@@ -5993,7 +5957,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 462,
+    "fresh": 459,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6005,7 +5969,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 453,
+        "fresh": 450,
         "warning": 0,
         "expired": 0,
         "unknown": null
