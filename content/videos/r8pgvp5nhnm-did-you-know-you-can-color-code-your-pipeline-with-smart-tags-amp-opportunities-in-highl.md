@@ -1,14 +1,14 @@
 ---
-title: "Site Analytics   Average Time On Page Stats"
-video_id: "gvQcKzOL1ow"
-url: "https://www.youtube.com/watch?v=gvQcKzOL1ow"
-thumbnail: "https://i.ytimg.com/vi/gvQcKzOL1ow/hqdefault.jpg"
+title: "Did You Know You Can Color Code Your Pipeline with Smart Tags &amp; Opportunities in HighLevel"
+video_id: "R8pgVP5nHnM"
+url: "https://www.youtube.com/watch?v=R8pgVP5nHnM"
+thumbnail: "https://i.ytimg.com/vi/R8pgVP5nHnM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-12T22:00:48.000Z"
+published_date: "2026-01-14T15:44:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-15T07:44:09.120Z"
+extracted_at: "2026-01-15T07:44:06.430Z"
 
 ---
 
-# 🟢 Site Analytics   Average Time On Page Stats
+# 🟢 Did You Know You Can Color Code Your Pipeline with Smart Tags &amp; Opportunities in HighLevel
 
-**Video ID:** `gvQcKzOL1ow`
+**Video ID:** `R8pgVP5nHnM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/12/2026
+**Published:** 1/14/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-15T07:44:09.120Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gvQcKzOL1ow)
-- [📷 Thumbnail](https://i.ytimg.com/vi/gvQcKzOL1ow/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=R8pgVP5nHnM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/R8pgVP5nHnM/hqdefault.jpg)
 
 
 ## Content Guidelines

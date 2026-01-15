@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Get More Clients with HighLevel + AI"
-video_id: "vNuRSmTM_hc"
-url: "https://www.youtube.com/watch?v=vNuRSmTM_hc"
-thumbnail: "https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault_live.jpg"
+title: "How to Offer Sales Call Answering as a Service"
+video_id: "YzYyKqa7-Pg"
+url: "https://www.youtube.com/watch?v=YzYyKqa7-Pg"
+thumbnail: "https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-09T18:07:55.000Z"
+published_date: "2026-01-14T15:17:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-15T07:44:10.475Z"
+extracted_at: "2026-01-15T07:44:06.604Z"
 
 ---
 
-# 🟢 Day 1 - Get More Clients with HighLevel + AI
+# 🟢 How to Offer Sales Call Answering as a Service
 
-**Video ID:** `vNuRSmTM_hc`
+**Video ID:** `YzYyKqa7-Pg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/9/2026
+**Published:** 1/14/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-15T07:44:10.475Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vNuRSmTM_hc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YzYyKqa7-Pg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg)
 
 
 ## Content Guidelines

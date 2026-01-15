@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-14T07:44:12.557Z",
+  "generated": "2026-01-15T07:44:19.477Z",
   "stats": {
     "channels": 1,
-    "videos": 28,
+    "videos": 35,
     "playlists": 0,
-    "expired": 14,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 28
+    "transcriptsFailed": 35
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -628,6 +628,18 @@
       "slug": "5twhobwcipy-highlevel-testimonial-from-crm-expert-to-power-user"
     },
     {
+      "filename": "5utwnoqunis-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text.md",
+      "title": "Did you know workflow AI can create workflows FOR you just using text",
+      "videoId": "5uTWNoQUnis",
+      "url": "https://www.youtube.com/watch?v=5uTWNoQUnis",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-14T18:04:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5utwnoqunis-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text"
+    },
+    {
       "filename": "5vmz5iskj-u-how-to-manage-duplicate-contacts-in-your-crm-system.md",
       "title": "How to Manage Duplicate Contacts in Your CRM System",
       "videoId": "5VmZ5iSKj-U",
@@ -768,7 +780,7 @@
       "publishedDate": "2026-01-09T21:12:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "6mku8ti6yba-highlevel-communities-customizable-navigation-tabs-now-live"
     },
     {
@@ -782,6 +794,18 @@
       "contentCategory": "standard",
       "ageInMonths": "2.2",
       "slug": "6rddlchdckm-certificates-badges"
+    },
+    {
+      "filename": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro.md",
+      "title": "How To Use HighLevel’s Contact Features Like a Pro",
+      "videoId": "6VyKMk2aVBE",
+      "url": "https://www.youtube.com/watch?v=6VyKMk2aVBE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T01:39:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro"
     },
     {
       "filename": "6x6v49krxdg-new-highlevel-templates-are-live.md",
@@ -830,18 +854,6 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "7-ts0msgbvi-how-to-transfer-sub-accounts-to-a-new-agency"
-    },
-    {
-      "filename": "73eixhf41hs-lc-domain-manage-all-of-your-domains-centrally.md",
-      "title": "LC Domain  Manage All of Your Domains Centrally",
-      "videoId": "73EiXHf41Hs",
-      "url": "https://www.youtube.com/watch?v=73EiXHf41Hs",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-15T18:00:06.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "73eixhf41hs-lc-domain-manage-all-of-your-domains-centrally"
     },
     {
       "filename": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel.md",
@@ -1044,7 +1056,7 @@
       "publishedDate": "2026-01-12T22:53:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9uuuq-l8aww-highlevel-conversation-and-contacts-ui-enhancements-now-live"
     },
     {
@@ -1104,7 +1116,7 @@
       "publishedDate": "2026-01-13T16:00:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "a4ocw-h9tpq-affiliate-manager-reassign-crm-contacts-between-affiliates"
     },
     {
@@ -2004,7 +2016,7 @@
       "publishedDate": "2026-01-13T19:00:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "f3cllr1h0ic-conversation-amp-contacts-ui-enhancements"
     },
     {
@@ -2388,7 +2400,7 @@
       "publishedDate": "2026-01-12T22:00:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gvqckzol1ow-site-analytics-average-time-on-page-stats"
     },
     {
@@ -2606,6 +2618,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hswfn9v-svq-did-you-know-you-can-split-test-email-subject-lines-in-highlevel"
+    },
+    {
+      "filename": "htvgye15m08-how-to-integrate-bluesky-with-highlevel.md",
+      "title": "How To Integrate BlueSky with HighLevel",
+      "videoId": "HtvgYE15M08",
+      "url": "https://www.youtube.com/watch?v=HtvgYE15M08",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T01:37:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "htvgye15m08-how-to-integrate-bluesky-with-highlevel"
     },
     {
       "filename": "hu-m-cpdjhm-highlevel-meta-ads-now-live-in-australia-singapore-and-taiwan.md",
@@ -2976,7 +3000,7 @@
       "publishedDate": "2026-01-07T01:20:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "kk-d1vlytey-highlevel-phone-number-sync-for-calendly-appointments-now-live"
     },
     {
@@ -3288,7 +3312,7 @@
       "publishedDate": "2026-01-09T21:10:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "mvhkfjgdqjs-highlevel-documents-and-contracts-dynamic-fillable-fields-from-workflows-now-live"
     },
     {
@@ -3372,7 +3396,7 @@
       "publishedDate": "2026-01-12T22:51:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nnhazfsml4i-affiliate-manager-can-now-reassign-crm-contacts-between-affiliates"
     },
     {
@@ -3408,7 +3432,7 @@
       "publishedDate": "2026-01-13T01:01:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ntkdrw-zd7u-documents-amp-contracts-assign-fillable-fields-dynamically-from-workflows"
     },
     {
@@ -3636,7 +3660,7 @@
       "publishedDate": "2026-01-09T18:11:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
     },
     {
@@ -3828,7 +3852,7 @@
       "publishedDate": "2026-01-07T01:19:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "q4j5jtyeik8-highlevel-reputation-management-drip-mode-in-reviews-ai-now-live"
     },
     {
@@ -3974,6 +3998,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments"
+    },
+    {
+      "filename": "r8pgvp5nhnm-did-you-know-you-can-color-code-your-pipeline-with-smart-tags-amp-opportunities-in-highl.md",
+      "title": "Did You Know You Can Color Code Your Pipeline with Smart Tags &amp; Opportunities in HighLevel",
+      "videoId": "R8pgVP5nHnM",
+      "url": "https://www.youtube.com/watch?v=R8pgVP5nHnM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-14T15:44:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "r8pgvp5nhnm-did-you-know-you-can-color-code-your-pipeline-with-smart-tags-amp-opportunities-in-highl"
     },
     {
       "filename": "redmtab3cgi-highlevel-voice-ai-more-voices-more-languages-and-elevenlabs-import-now-live.md",
@@ -4596,7 +4632,7 @@
       "publishedDate": "2026-01-13T07:05:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
@@ -4610,6 +4646,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert"
+    },
+    {
+      "filename": "u8aimeayqlq-how-to-import-firstpromoter-campaigns-into-highlevel.md",
+      "title": "How To Import FirstPromoter Campaigns Into HighLevel",
+      "videoId": "U8aimeAyqlQ",
+      "url": "https://www.youtube.com/watch?v=U8aimeAyqlQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T01:38:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "u8aimeayqlq-how-to-import-firstpromoter-campaigns-into-highlevel"
     },
     {
       "filename": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly.md",
@@ -5460,7 +5508,7 @@
       "publishedDate": "2026-01-07T01:17:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "xve6bfthnau-highlevel-calendars-now-support-custom-values"
     },
     {
@@ -5592,7 +5640,7 @@
       "publishedDate": "2026-01-12T22:50:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ycymdkuddkk-how-to-get-your-phone-number-a2p-approved-in-2026"
     },
     {
@@ -5676,7 +5724,7 @@
       "publishedDate": "2026-01-09T21:11:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ypmjai6wc2i-highlevel-site-analytics-average-time-on-page-stats-now-live"
     },
     {
@@ -5762,6 +5810,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "yx7etoh9qos-did-you-know-you-can-monetize-courses-amp-content-with-communities"
+    },
+    {
+      "filename": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service.md",
+      "title": "How to Offer Sales Call Answering as a Service",
+      "videoId": "YzYyKqa7-Pg",
+      "url": "https://www.youtube.com/watch?v=YzYyKqa7-Pg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-14T15:17:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
       "filename": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel.md",
@@ -5872,6 +5932,18 @@
       "slug": "zivxidgq7p0-google-analytics-widgets-in-dashboard-and-custom-reports"
     },
     {
+      "filename": "zjjag-jpg4o-how-to-use-highlevel-39-s-template-library-for-branded-email-requests.md",
+      "title": "How To Use HighLevel&#39;s Template Library for Branded Email Requests",
+      "videoId": "ZjJag_JPg4o",
+      "url": "https://www.youtube.com/watch?v=ZjJag_JPg4o",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-14T13:35:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zjjag-jpg4o-how-to-use-highlevel-39-s-template-library-for-branded-email-requests"
+    },
+    {
       "filename": "zkruix4bhmu-starting-an-ai-company-with-highlevel-ray-o-39-daniel.md",
       "title": "Starting an AI Company with HighLevel - Ray O&#39;Daniel",
       "videoId": "zKrUIx4bHmU",
@@ -5957,7 +6029,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 459,
+    "fresh": 465,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -5969,7 +6041,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 450,
+        "fresh": 456,
         "warning": 0,
         "expired": 0,
         "unknown": null

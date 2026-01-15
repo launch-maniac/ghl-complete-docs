@@ -1,14 +1,14 @@
 ---
-title: "LC Domain  Manage All of Your Domains Centrally"
-video_id: "73EiXHf41Hs"
-url: "https://www.youtube.com/watch?v=73EiXHf41Hs"
-thumbnail: "https://i.ytimg.com/vi/73EiXHf41Hs/hqdefault.jpg"
+title: "How to Offer Sales Call Answering as a Service"
+video_id: "YzYyKqa7-Pg"
+url: "https://www.youtube.com/watch?v=YzYyKqa7-Pg"
+thumbnail: "https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-07-15T18:00:06.000Z"
+published_date: "2026-01-14T15:17:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 2.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "2.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:12.414Z"
+extracted_at: "2026-01-15T07:44:06.604Z"
 
 ---
 
-# 🟢 LC Domain  Manage All of Your Domains Centrally
+# 🟢 How to Offer Sales Call Answering as a Service
 
-**Video ID:** `73EiXHf41Hs`
+**Video ID:** `YzYyKqa7-Pg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 7/15/2025
+**Published:** 1/14/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 2.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:12.414Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=73EiXHf41Hs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/73EiXHf41Hs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YzYyKqa7-Pg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/15/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
