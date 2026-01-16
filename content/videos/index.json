@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-15T07:44:19.477Z",
+  "generated": "2026-01-16T07:44:08.735Z",
   "stats": {
     "channels": 1,
-    "videos": 35,
+    "videos": 29,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 35
+    "transcriptsFailed": 29
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -39,6 +39,18 @@
     }
   ],
   "videos": [
+    {
+      "filename": "01gjw46kifo-did-you-know-you-can-bundle-apps-from-the-app-store-with-your-saas-plans.md",
+      "title": "Did You Know You Can Bundle Apps from the App Store with Your SaaS Plans?",
+      "videoId": "01gjW46Kifo",
+      "url": "https://www.youtube.com/watch?v=01gjW46Kifo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T19:32:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "01gjw46kifo-did-you-know-you-can-bundle-apps-from-the-app-store-with-your-saas-plans"
+    },
     {
       "filename": "01yrduuicfc-payments-xero-integration.md",
       "title": "Payments  Xero Integration",
@@ -636,7 +648,7 @@
       "publishedDate": "2026-01-14T18:04:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5utwnoqunis-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text"
     },
     {
@@ -748,6 +760,18 @@
       "slug": "6e2w-quva-day-1-five-day-ai-employee-challenge"
     },
     {
+      "filename": "6ff8brwjkp4-how-to-use-custom-object-associations-in-highlevel-for-enhanced-data-management.md",
+      "title": "How To Use Custom Object Associations in HighLevel for Enhanced Data Management",
+      "videoId": "6ff8BrwJkp4",
+      "url": "https://www.youtube.com/watch?v=6ff8BrwJkp4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:55:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6ff8brwjkp4-how-to-use-custom-object-associations-in-highlevel-for-enhanced-data-management"
+    },
+    {
       "filename": "6ino1sj-bqa-how-to-send-gift-cards.md",
       "title": "How to Send Gift Cards",
       "videoId": "6INO1Sj_BQA",
@@ -782,18 +806,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "6mku8ti6yba-highlevel-communities-customizable-navigation-tabs-now-live"
-    },
-    {
-      "filename": "6rddlchdckm-certificates-badges.md",
-      "title": "Certificates  Badges",
-      "videoId": "6rDdLcHdckM",
-      "url": "https://www.youtube.com/watch?v=6rDdLcHdckM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-17T00:00:06.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.2",
-      "slug": "6rddlchdckm-certificates-badges"
     },
     {
       "filename": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro.md",
@@ -2080,6 +2092,18 @@
       "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
     },
     {
+      "filename": "fjmvup5a-ue-workflows-quot-opportunity-changed-quot-trigger-upgrade.md",
+      "title": "Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!",
+      "videoId": "FjmvuP5A-uE",
+      "url": "https://www.youtube.com/watch?v=FjmvuP5A-uE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:11:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fjmvup5a-ue-workflows-quot-opportunity-changed-quot-trigger-upgrade"
+    },
+    {
       "filename": "fk5-st1-rgm-understanding-highlevel-39-s-new-conversation-ai-pricing-model-from-flat-rates-to-token-.md",
       "title": "Understanding HighLevel&#39;s New Conversation AI Pricing Model: From Flat Rates to Token Usage",
       "videoId": "fK5_sT1-RGM",
@@ -2246,6 +2270,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "g0dtho4-8d4-from-overdrawn-accounts-to-7-figure-agency-amp-saas"
+    },
+    {
+      "filename": "g33cmb5ncq0-autosave-in-ai-builder.md",
+      "title": "Autosave in AI Builder",
+      "videoId": "g33cMb5Ncq0",
+      "url": "https://www.youtube.com/watch?v=g33cMb5Ncq0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T16:01:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g33cmb5ncq0-autosave-in-ai-builder"
     },
     {
       "filename": "g83r-vqplri-backend-trigger-flow-enhancements.md",
@@ -2752,6 +2788,18 @@
       "slug": "ifzczbxahtm-cloning-content-in-new-course-builder"
     },
     {
+      "filename": "ilf11najm78-agent-studio-triggers-live.md",
+      "title": "Agent Studio Triggers Live!",
+      "videoId": "ilF11NajM78",
+      "url": "https://www.youtube.com/watch?v=ilF11NajM78",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:09:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ilf11najm78-agent-studio-triggers-live"
+    },
+    {
       "filename": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks.md",
       "title": "Did You Know You Can Generate a Prospect List with Just a Few Clicks?",
       "videoId": "ipE4YrNgk78",
@@ -2810,6 +2858,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
+    },
+    {
+      "filename": "jfyiwtqjoge-workflow-optimization-97-7-latency-reduction.md",
+      "title": "Workflow Optimization - 97.7% Latency Reduction",
+      "videoId": "JfYIWtqJOGE",
+      "url": "https://www.youtube.com/watch?v=JfYIWtqJOGE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:09:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jfyiwtqjoge-workflow-optimization-97-7-latency-reduction"
     },
     {
       "filename": "jgrqxpe-otu-video-testimonials-collection-feature-now-live.md",
@@ -2882,6 +2942,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "k3vuevrdlfc-how-to-manage-pipeline-permissions-in-highlevel"
+    },
+    {
+      "filename": "k57anpi-u6c-how-to-use-meta-ad-widgets-in-highlevel-step-by-step-dashboard-setup-and-insights.md",
+      "title": "How To Use Meta Ad Widgets in HighLevel: Step by Step Dashboard Setup and Insights",
+      "videoId": "K57AnPi_u6c",
+      "url": "https://www.youtube.com/watch?v=K57AnPi_u6c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T19:34:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k57anpi-u6c-how-to-use-meta-ad-widgets-in-highlevel-step-by-step-dashboard-setup-and-insights"
     },
     {
       "filename": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025.md",
@@ -3324,7 +3396,7 @@
       "publishedDate": "2026-01-13T22:00:33.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mybw-jagmgs-how-to-get-your-phone-number-a2p-approved-in-2026"
     },
     {
@@ -3494,6 +3566,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "ojjohwrq-f4-highlevel-form-builder-button-icons-now-live"
+    },
+    {
+      "filename": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
+      "title": "Did you know you can assign projects to teammates in slack with a simple workflow",
+      "videoId": "ooc-3WBZ3UA",
+      "url": "https://www.youtube.com/watch?v=ooc-3WBZ3UA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T19:07:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
     },
     {
       "filename": "ookdrqriqmi-barbershop-playbook-is-live.md",
@@ -4008,7 +4092,7 @@
       "publishedDate": "2026-01-14T15:44:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "r8pgvp5nhnm-did-you-know-you-can-color-code-your-pipeline-with-smart-tags-amp-opportunities-in-highl"
     },
     {
@@ -4236,7 +4320,7 @@
       "publishedDate": "2026-01-14T07:39:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai"
     },
     {
@@ -4428,7 +4512,7 @@
       "publishedDate": "2026-01-13T21:59:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "t4t8tdvubyo-how-to-transform-your-chat-widget-to-use-a-voice-ai-agent-for-better-customer-interactio"
     },
     {
@@ -4792,6 +4876,18 @@
       "slug": "us9cfgbllrm-customizable-contact-form-messages-in-chat-widget"
     },
     {
+      "filename": "uslipztho20-did-you-know-highlevel-can-automatically-transcribe-and-summarize-your-calls.md",
+      "title": "Did You Know HighLevel Can Automatically Transcribe and Summarize Your Calls?",
+      "videoId": "USlIPZtho20",
+      "url": "https://www.youtube.com/watch?v=USlIPZtho20",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T15:03:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "uslipztho20-did-you-know-highlevel-can-automatically-transcribe-and-summarize-your-calls"
+    },
+    {
       "filename": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users.md",
       "title": "Documents and Contracts: Improved Language Support for International Users!",
       "videoId": "V_ADAxTOWmI",
@@ -4802,6 +4898,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.5",
       "slug": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users"
+    },
+    {
+      "filename": "v0kfoklvsxk-how-to-use-highlevel-39-s-ask-ai-to-streamline-content-creation-and-publishing.md",
+      "title": "How To Use HighLevel&#39;s Ask AI to Streamline Content Creation and Publishing",
+      "videoId": "v0KFokLvSxk",
+      "url": "https://www.youtube.com/watch?v=v0KFokLvSxk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:56:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "v0kfoklvsxk-how-to-use-highlevel-39-s-ask-ai-to-streamline-content-creation-and-publishing"
     },
     {
       "filename": "v6estea4h7u-wordpress-disk-space-add-on-for-wordpress-hosting.md",
@@ -5272,6 +5380,18 @@
       "slug": "wrxt4uzke1m-google-business-profile-post-scheduler-live"
     },
     {
+      "filename": "wy0isvhnfz8-autosave-now-live-in-ai-builder.md",
+      "title": "Autosave Now Live in AI Builder!",
+      "videoId": "WY0iSVHnfZ8",
+      "url": "https://www.youtube.com/watch?v=WY0iSVHnfZ8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T19:16:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wy0isvhnfz8-autosave-now-live-in-ai-builder"
+    },
+    {
       "filename": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots.md",
       "title": "Agent Studio Integration Now in Snapshots!",
       "videoId": "wY8Nb4aPnWQ",
@@ -5481,10 +5601,10 @@
       "videoId": "XP7Tvsgr-5U",
       "url": "https://www.youtube.com/watch?v=XP7Tvsgr-5U",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-09T16:11:32.000Z",
+      "publishedDate": "2026-01-16T06:14:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -5820,7 +5940,7 @@
       "publishedDate": "2026-01-14T15:17:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
@@ -5940,7 +6060,7 @@
       "publishedDate": "2026-01-14T13:35:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zjjag-jpg4o-how-to-use-highlevel-39-s-template-library-for-branded-email-requests"
     },
     {
@@ -6029,7 +6149,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 465,
+    "fresh": 475,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6041,7 +6161,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 456,
+        "fresh": 466,
         "warning": 0,
         "expired": 0,
         "unknown": null

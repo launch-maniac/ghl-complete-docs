@@ -1,14 +1,14 @@
 ---
-title: "Day 1 Replay - Build Your Agency Fast with HighLevel + AI"
-video_id: "u5ncJPWvPCs"
-url: "https://www.youtube.com/watch?v=u5ncJPWvPCs"
-thumbnail: "https://i.ytimg.com/vi/u5ncJPWvPCs/hqdefault.jpg"
+title: "Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!"
+video_id: "FjmvuP5A-uE"
+url: "https://www.youtube.com/watch?v=FjmvuP5A-uE"
+thumbnail: "https://i.ytimg.com/vi/FjmvuP5A-uE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-13T07:05:12.000Z"
+published_date: "2026-01-15T22:11:34.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-16T07:43:57.785Z"
+extracted_at: "2026-01-16T07:43:52.369Z"
 
 ---
 
-# 🟢 Day 1 Replay - Build Your Agency Fast with HighLevel + AI
+# 🟢 Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!
 
-**Video ID:** `u5ncJPWvPCs`
+**Video ID:** `FjmvuP5A-uE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/13/2026
+**Published:** 1/15/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-16T07:43:57.785Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u5ncJPWvPCs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/u5ncJPWvPCs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FjmvuP5A-uE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/FjmvuP5A-uE/hqdefault.jpg)
 
 
 ## Content Guidelines
