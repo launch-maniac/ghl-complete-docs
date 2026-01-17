@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Get More Clients with HighLevel + AI"
-video_id: "pc6k_nmVu_k"
-url: "https://www.youtube.com/watch?v=pc6k_nmVu_k"
-thumbnail: "https://i.ytimg.com/vi/pc6k_nmVu_k/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (January 12th - January 16th 2026)"
+video_id: "s1_7elVqnuo"
+url: "https://www.youtube.com/watch?v=s1_7elVqnuo"
+thumbnail: "https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-09T18:11:51.000Z"
+published_date: "2026-01-17T07:26:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-17T07:40:08.406Z"
+extracted_at: "2026-01-17T07:40:02.985Z"
 
 ---
 
-# 🟢 Day 2 - Get More Clients with HighLevel + AI
+# 🟢 The HighLevel Release Radar (January 12th - January 16th 2026)
 
-**Video ID:** `pc6k_nmVu_k`
+**Video ID:** `s1_7elVqnuo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/9/2026
+**Published:** 1/17/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-17T07:40:08.406Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pc6k_nmVu_k)
-- [📷 Thumbnail](https://i.ytimg.com/vi/pc6k_nmVu_k/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=s1_7elVqnuo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg)
 
 
 ## Content Guidelines

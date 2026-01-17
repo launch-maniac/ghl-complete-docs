@@ -1,14 +1,14 @@
 ---
-title: "Listings  Food &amp; HealthCare Add ons"
-video_id: "ShYftg1UTXI"
-url: "https://www.youtube.com/watch?v=ShYftg1UTXI"
-thumbnail: "https://i.ytimg.com/vi/ShYftg1UTXI/hqdefault.jpg"
+title: "The HighLevel Release Radar (January 12th - January 16th 2026)"
+video_id: "s1_7elVqnuo"
+url: "https://www.youtube.com/watch?v=s1_7elVqnuo"
+thumbnail: "https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-07-18T00:00:25.000Z"
+published_date: "2026-01-17T07:26:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 2.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "2.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:12.359Z"
+extracted_at: "2026-01-17T07:40:02.985Z"
 
 ---
 
-# 🟢 Listings  Food &amp; HealthCare Add ons
+# 🟢 The HighLevel Release Radar (January 12th - January 16th 2026)
 
-**Video ID:** `ShYftg1UTXI`
+**Video ID:** `s1_7elVqnuo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 7/17/2025
+**Published:** 1/17/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 2.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:12.359Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ShYftg1UTXI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ShYftg1UTXI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=s1_7elVqnuo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/17/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

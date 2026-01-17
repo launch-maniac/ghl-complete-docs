@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Color Code Your Pipeline with Smart Tags &amp; Opportunities in HighLevel"
-video_id: "R8pgVP5nHnM"
-url: "https://www.youtube.com/watch?v=R8pgVP5nHnM"
-thumbnail: "https://i.ytimg.com/vi/R8pgVP5nHnM/hqdefault.jpg"
+title: "How To Use Bulk Actions on the Product Page in HighLevel for Effortless Ecommerce Management"
+video_id: "ej-tDQkOIAY"
+url: "https://www.youtube.com/watch?v=ej-tDQkOIAY"
+thumbnail: "https://i.ytimg.com/vi/ej-tDQkOIAY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-14T15:44:23.000Z"
+published_date: "2026-01-16T21:04:29.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-17T07:40:07.082Z"
+extracted_at: "2026-01-17T07:40:03.369Z"
 
 ---
 
-# 🟢 Did You Know You Can Color Code Your Pipeline with Smart Tags &amp; Opportunities in HighLevel
+# 🟢 How To Use Bulk Actions on the Product Page in HighLevel for Effortless Ecommerce Management
 
-**Video ID:** `R8pgVP5nHnM`
+**Video ID:** `ej-tDQkOIAY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/14/2026
+**Published:** 1/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-17T07:40:07.082Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=R8pgVP5nHnM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/R8pgVP5nHnM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ej-tDQkOIAY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ej-tDQkOIAY/hqdefault.jpg)
 
 
 ## Content Guidelines

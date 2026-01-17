@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-16T07:44:08.735Z",
+  "generated": "2026-01-17T07:40:12.996Z",
   "stats": {
     "channels": 1,
-    "videos": 29,
+    "videos": 31,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 29
+    "transcriptsFailed": 31
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -808,6 +808,18 @@
       "slug": "6mku8ti6yba-highlevel-communities-customizable-navigation-tabs-now-live"
     },
     {
+      "filename": "6pg34m5ddmk-workflow-optimization-99-7-latency-reduction.md",
+      "title": "Workflow Optimization – 99 7  Latency Reduction",
+      "videoId": "6pg34m5ddmk",
+      "url": "https://www.youtube.com/watch?v=6pg34m5ddmk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-16T22:00:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6pg34m5ddmk-workflow-optimization-99-7-latency-reduction"
+    },
+    {
       "filename": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro.md",
       "title": "How To Use HighLevel’s Contact Features Like a Pro",
       "videoId": "6VyKMk2aVBE",
@@ -816,7 +828,7 @@
       "publishedDate": "2026-01-15T01:39:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro"
     },
     {
@@ -1420,6 +1432,18 @@
       "slug": "bj-g5hkmjg4-how-to-use-highlevel-39-s-conversation-ai-for-efficient-multi-calendar-bookings"
     },
     {
+      "filename": "bkbcqhcvvzi-workflows-opportunity-changed-trigger-upgrade.md",
+      "title": "Workflows   Opportunity Changed  Trigger Upgrade",
+      "videoId": "BkbCqHCVvzI",
+      "url": "https://www.youtube.com/watch?v=BkbCqHCVvzI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-16T19:00:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bkbcqhcvvzi-workflows-opportunity-changed-trigger-upgrade"
+    },
+    {
       "filename": "bkt-q8wlu-s-blog-statistics-track-blog-amp-post-performance-live.md",
       "title": "Blog Statistics Track Blog &amp; Post Performance Live!",
       "videoId": "BkT_Q8WLu-s",
@@ -1948,6 +1972,18 @@
       "slug": "ehqhcnk4bqe-how-to-use-csv-to-quickly-upload-and-schedule-blog-posts-in-highlevel"
     },
     {
+      "filename": "ej-tdqkoiay-how-to-use-bulk-actions-on-the-product-page-in-highlevel-for-effortless-ecommerce-manage.md",
+      "title": "How To Use Bulk Actions on the Product Page in HighLevel for Effortless Ecommerce Management",
+      "videoId": "ej-tDQkOIAY",
+      "url": "https://www.youtube.com/watch?v=ej-tDQkOIAY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-16T21:04:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ej-tdqkoiay-how-to-use-bulk-actions-on-the-product-page-in-highlevel-for-effortless-ecommerce-manage"
+    },
+    {
       "filename": "emsskunf4e0-how-to-enable-or-disable-customers-in-affiliate-management.md",
       "title": "How to Enable or Disable Customers in Affiliate Management",
       "videoId": "EmssKunf4e0",
@@ -2280,7 +2316,7 @@
       "publishedDate": "2026-01-15T16:01:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g33cmb5ncq0-autosave-in-ai-builder"
     },
     {
@@ -2496,7 +2532,7 @@
       "publishedDate": "2026-01-09T16:12:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -2664,7 +2700,7 @@
       "publishedDate": "2026-01-15T01:37:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "htvgye15m08-how-to-integrate-bluesky-with-highlevel"
     },
     {
@@ -3576,7 +3612,7 @@
       "publishedDate": "2026-01-15T19:07:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
     },
     {
@@ -4216,6 +4252,18 @@
       "slug": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel"
     },
     {
+      "filename": "s1-7elvqnuo-the-highlevel-release-radar-january-12th-january-16th-2026.md",
+      "title": "The HighLevel Release Radar (January 12th - January 16th 2026)",
+      "videoId": "s1_7elVqnuo",
+      "url": "https://www.youtube.com/watch?v=s1_7elVqnuo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-17T07:26:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "s1-7elvqnuo-the-highlevel-release-radar-january-12th-january-16th-2026"
+    },
+    {
       "filename": "s5jxr9w7yng-day-2-build-your-agency-fast-with-highlevel-ai.md",
       "title": "Day 2 - Build Your Agency Fast with HighLevel + AI",
       "videoId": "s5Jxr9w7yng",
@@ -4274,18 +4322,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "sfpmxpmuide-day-1-saaspreneur-workshop-with-frank-kern"
-    },
-    {
-      "filename": "shyftg1utxi-listings-food-amp-healthcare-add-ons.md",
-      "title": "Listings  Food &amp; HealthCare Add ons",
-      "videoId": "ShYftg1UTXI",
-      "url": "https://www.youtube.com/watch?v=ShYftg1UTXI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-18T00:00:25.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.1",
-      "slug": "shyftg1utxi-listings-food-amp-healthcare-add-ons"
     },
     {
       "filename": "siamntkzu-g-agency-client-acquisition-formula.md",
@@ -4740,7 +4776,7 @@
       "publishedDate": "2026-01-15T01:38:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "u8aimeayqlq-how-to-import-firstpromoter-campaigns-into-highlevel"
     },
     {
@@ -4884,7 +4920,7 @@
       "publishedDate": "2026-01-15T15:03:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "uslipztho20-did-you-know-highlevel-can-automatically-transcribe-and-summarize-your-calls"
     },
     {
@@ -5620,6 +5656,18 @@
       "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
     },
     {
+      "filename": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar.md",
+      "title": "HighLevel LIVE India Speaker Reveal Webinar",
+      "videoId": "XVANflK-5-s",
+      "url": "https://www.youtube.com/watch?v=XVANflK-5-s",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-16T19:31:08.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
+    },
+    {
       "filename": "xve6bfthnau-highlevel-calendars-now-support-custom-values.md",
       "title": "HighLevel Calendars Now Support Custom Values",
       "videoId": "xVE6BfThNAU",
@@ -6136,6 +6184,18 @@
       "slug": "zusjxrcyuhs-day-1-upgrade-outdated-businesses-with-ai-highlevel"
     },
     {
+      "filename": "zv2k1wrzr6e-agent-studio-triggers.md",
+      "title": "Agent Studio Triggers",
+      "videoId": "ZV2k1wrzr6E",
+      "url": "https://www.youtube.com/watch?v=ZV2k1wrzr6E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-16T16:00:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zv2k1wrzr6e-agent-studio-triggers"
+    },
+    {
       "filename": "zzctptk6taa-service-appointments-can-now-be-edited.md",
       "title": "Service Appointments Can Now Be Edited!",
       "videoId": "zZCTpTK6tAA",
@@ -6149,7 +6209,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 475,
+    "fresh": 480,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6161,7 +6221,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 466,
+        "fresh": 471,
         "warning": 0,
         "expired": 0,
         "unknown": null
