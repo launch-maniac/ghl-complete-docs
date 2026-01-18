@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-17T07:40:12.996Z",
+  "generated": "2026-01-18T07:40:50.706Z",
   "stats": {
     "channels": 1,
-    "videos": 31,
+    "videos": 25,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 31
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -48,7 +48,7 @@
       "publishedDate": "2026-01-15T19:32:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "01gjw46kifo-did-you-know-you-can-bundle-apps-from-the-app-store-with-your-saas-plans"
     },
     {
@@ -768,7 +768,7 @@
       "publishedDate": "2026-01-15T22:55:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6ff8brwjkp4-how-to-use-custom-object-associations-in-highlevel-for-enhanced-data-management"
     },
     {
@@ -1440,7 +1440,7 @@
       "publishedDate": "2026-01-16T19:00:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bkbcqhcvvzi-workflows-opportunity-changed-trigger-upgrade"
     },
     {
@@ -2136,7 +2136,7 @@
       "publishedDate": "2026-01-15T22:11:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fjmvup5a-ue-workflows-quot-opportunity-changed-quot-trigger-upgrade"
     },
     {
@@ -2529,10 +2529,10 @@
       "videoId": "h6-AbRdPxAE",
       "url": "https://www.youtube.com/watch?v=h6-AbRdPxAE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-09T16:12:54.000Z",
+      "publishedDate": "2026-01-18T07:05:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel"
     },
     {
@@ -2832,7 +2832,7 @@
       "publishedDate": "2026-01-15T22:09:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ilf11najm78-agent-studio-triggers-live"
     },
     {
@@ -2904,7 +2904,7 @@
       "publishedDate": "2026-01-15T22:09:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "jfyiwtqjoge-workflow-optimization-97-7-latency-reduction"
     },
     {
@@ -2988,7 +2988,7 @@
       "publishedDate": "2026-01-15T19:34:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k57anpi-u6c-how-to-use-meta-ad-widgets-in-highlevel-step-by-step-dashboard-setup-and-insights"
     },
     {
@@ -3388,6 +3388,18 @@
       "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
+      "filename": "mngxm3gaj4e-voice-amp-conversation-ai-in-highlevel.md",
+      "title": "Voice &amp; Conversation AI In HighLevel",
+      "videoId": "MNgxm3gAJ4E",
+      "url": "https://www.youtube.com/watch?v=MNgxm3gAJ4E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-17T15:37:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mngxm3gaj4e-voice-amp-conversation-ai-in-highlevel"
+    },
+    {
       "filename": "msizfxw1xb8-how-to-format-notes-and-tasks-in-highlevel-with-rich-text.md",
       "title": "How To Format Notes and Tasks in HighLevel with Rich Text",
       "videoId": "mSIzfXw1XB8",
@@ -3780,7 +3792,7 @@
       "publishedDate": "2026-01-09T18:11:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
     },
     {
@@ -4944,7 +4956,7 @@
       "publishedDate": "2026-01-15T22:56:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "v0kfoklvsxk-how-to-use-highlevel-39-s-ask-ai-to-streamline-content-creation-and-publishing"
     },
     {
@@ -5028,7 +5040,7 @@
       "publishedDate": "2026-01-09T18:07:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai"
     },
     {
@@ -5424,7 +5436,7 @@
       "publishedDate": "2026-01-15T19:16:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wy0isvhnfz8-autosave-now-live-in-ai-builder"
     },
     {
@@ -5640,7 +5652,7 @@
       "publishedDate": "2026-01-16T06:14:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xp7tvsgr-5u-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -5808,7 +5820,7 @@
       "publishedDate": "2026-01-12T22:50:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ycymdkuddkk-how-to-get-your-phone-number-a2p-approved-in-2026"
     },
     {
@@ -6192,7 +6204,7 @@
       "publishedDate": "2026-01-16T16:00:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zv2k1wrzr6e-agent-studio-triggers"
     },
     {
@@ -6209,7 +6221,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 480,
+    "fresh": 481,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6221,7 +6233,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 471,
+        "fresh": 472,
         "warning": 0,
         "expired": 0,
         "unknown": null

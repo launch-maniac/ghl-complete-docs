@@ -1,14 +1,14 @@
 ---
-title: "Autosave Now Live in AI Builder!"
-video_id: "WY0iSVHnfZ8"
-url: "https://www.youtube.com/watch?v=WY0iSVHnfZ8"
-thumbnail: "https://i.ytimg.com/vi/WY0iSVHnfZ8/hqdefault.jpg"
+title: "Voice &amp; Conversation AI In HighLevel"
+video_id: "MNgxm3gAJ4E"
+url: "https://www.youtube.com/watch?v=MNgxm3gAJ4E"
+thumbnail: "https://i.ytimg.com/vi/MNgxm3gAJ4E/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-15T19:16:34.000Z"
+published_date: "2026-01-17T15:37:51.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-18T07:40:44.495Z"
+extracted_at: "2026-01-18T07:40:40.727Z"
 
 ---
 
-# 🟢 Autosave Now Live in AI Builder!
+# 🟢 Voice &amp; Conversation AI In HighLevel
 
-**Video ID:** `WY0iSVHnfZ8`
+**Video ID:** `MNgxm3gAJ4E`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/15/2026
+**Published:** 1/17/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-18T07:40:44.495Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WY0iSVHnfZ8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/WY0iSVHnfZ8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=MNgxm3gAJ4E)
+- [📷 Thumbnail](https://i.ytimg.com/vi/MNgxm3gAJ4E/hqdefault.jpg)
 
 
 ## Content Guidelines
