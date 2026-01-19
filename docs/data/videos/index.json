@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-18T07:40:50.706Z",
+  "generated": "2026-01-19T07:46:17.952Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 15,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -816,7 +816,7 @@
       "publishedDate": "2026-01-16T22:00:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6pg34m5ddmk-workflow-optimization-99-7-latency-reduction"
     },
     {
@@ -1980,7 +1980,7 @@
       "publishedDate": "2026-01-16T21:04:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ej-tdqkoiay-how-to-use-bulk-actions-on-the-product-page-in-highlevel-for-effortless-ecommerce-manage"
     },
     {
@@ -3396,7 +3396,7 @@
       "publishedDate": "2026-01-17T15:37:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mngxm3gaj4e-voice-amp-conversation-ai-in-highlevel"
     },
     {
@@ -4272,7 +4272,7 @@
       "publishedDate": "2026-01-17T07:26:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "s1-7elvqnuo-the-highlevel-release-radar-january-12th-january-16th-2026"
     },
     {
@@ -5676,7 +5676,7 @@
       "publishedDate": "2026-01-16T19:31:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
     },
     {
@@ -6000,7 +6000,7 @@
       "publishedDate": "2026-01-14T15:17:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
@@ -6120,7 +6120,7 @@
       "publishedDate": "2026-01-14T13:35:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "zjjag-jpg4o-how-to-use-highlevel-39-s-template-library-for-branded-email-requests"
     },
     {
