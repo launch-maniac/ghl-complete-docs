@@ -3,7 +3,7 @@ title: "Skip to main content"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/#__docusaurus_skipToContent_fallback"
-extracted_at: "2026-01-19T15:11:02.966Z"
+extracted_at: "2026-01-19T18:09:53.358Z"
 ---
 
 ## Comprehensive API Coverage
