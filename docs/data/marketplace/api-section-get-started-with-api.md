@@ -3,7 +3,7 @@ title: "Get Started with API"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/oauth/GettingStarted"
-extracted_at: "2026-01-20T06:10:26.178Z"
+extracted_at: "2026-01-20T09:14:22.678Z"
 ---
 
 -   [](/docs/)
@@ -22,12 +22,6 @@ This Document will act as a Onboarding Document for the Developers and will the 
 ★★★★★
 
 [
-
-Previous
-
-AI Agents Contest - Guide
-
-](/docs/other/AIAgentsGettingStarted)[
 
 Next
 
