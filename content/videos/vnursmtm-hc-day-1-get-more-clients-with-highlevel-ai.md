@@ -2,13 +2,13 @@
 title: "Day 1 - Get More Clients with HighLevel + AI"
 video_id: "vNuRSmTM_hc"
 url: "https://www.youtube.com/watch?v=vNuRSmTM_hc"
-thumbnail: "https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-09T18:07:55.000Z"
+published_date: "2026-01-20T06:41:58.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-19T07:46:13.582Z"
+extracted_at: "2026-01-20T07:46:03.011Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2026-01-19T07:46:13.582Z"
 **Video ID:** `vNuRSmTM_hc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/9/2026
+**Published:** 1/20/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2026-01-19T07:46:13.582Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vNuRSmTM_hc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vNuRSmTM_hc/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 1/19/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/20/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
