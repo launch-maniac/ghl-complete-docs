@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (January 12th - January 16th 2026)"
-video_id: "s1_7elVqnuo"
-url: "https://www.youtube.com/watch?v=s1_7elVqnuo"
-thumbnail: "https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg"
+title: "How To Ensure AI Outbound Calling Compliance in HighLevel"
+video_id: "uFSym5St92s"
+url: "https://www.youtube.com/watch?v=uFSym5St92s"
+thumbnail: "https://i.ytimg.com/vi/uFSym5St92s/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-17T07:26:53.000Z"
+published_date: "2026-01-20T13:59:28.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-21T07:46:35.348Z"
+extracted_at: "2026-01-21T07:46:34.369Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 12th - January 16th 2026)
+# 🟢 How To Ensure AI Outbound Calling Compliance in HighLevel
 
-**Video ID:** `s1_7elVqnuo`
+**Video ID:** `uFSym5St92s`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/17/2026
+**Published:** 1/20/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-21T07:46:35.348Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=s1_7elVqnuo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=uFSym5St92s)
+- [📷 Thumbnail](https://i.ytimg.com/vi/uFSym5St92s/hqdefault.jpg)
 
 
 ## Content Guidelines

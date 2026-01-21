@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-20T07:46:11.165Z",
+  "generated": "2026-01-21T07:46:43.020Z",
   "stats": {
     "channels": 1,
-    "videos": 8,
+    "videos": 11,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 8
+    "transcriptsFailed": 11
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -734,18 +734,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6be2dcacvak-did-you-know-workflow-ai-can-create-workflows-for-you-just-using-text"
-    },
-    {
-      "filename": "6dr-uiiwbvu-form-builder-now-opens-in-a-pop-up-inside-funnel-builder.md",
-      "title": "Form Builder Now Opens in a Pop Up inside Funnel Builder",
-      "videoId": "6dR_UiIWBVU",
-      "url": "https://www.youtube.com/watch?v=6dR_UiIWBVU",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-22T00:00:08.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.0",
-      "slug": "6dr-uiiwbvu-form-builder-now-opens-in-a-pop-up-inside-funnel-builder"
     },
     {
       "filename": "6e2w-quva-day-1-five-day-ai-employee-challenge.md",
@@ -2128,6 +2116,18 @@
       "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
     },
     {
+      "filename": "fjmvup5a-ue-highlevel-workflows-quot-opportunity-changed-quot-trigger-upgrade.md",
+      "title": "Highlevel Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!",
+      "videoId": "FjmvuP5A-uE",
+      "url": "https://www.youtube.com/watch?v=FjmvuP5A-uE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:11:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "fjmvup5a-ue-highlevel-workflows-quot-opportunity-changed-quot-trigger-upgrade"
+    },
+    {
       "filename": "fjmvup5a-ue-workflows-quot-opportunity-changed-quot-trigger-upgrade.md",
       "title": "Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!",
       "videoId": "FjmvuP5A-uE",
@@ -2836,6 +2836,18 @@
       "slug": "ilf11najm78-agent-studio-triggers-live"
     },
     {
+      "filename": "ilf11najm78-highlevel-agent-studio-triggers-now-live.md",
+      "title": "HighLevel Agent Studio Triggers Now Live",
+      "videoId": "ilF11NajM78",
+      "url": "https://www.youtube.com/watch?v=ilF11NajM78",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:09:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "ilf11najm78-highlevel-agent-studio-triggers-now-live"
+    },
+    {
       "filename": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks.md",
       "title": "Did You Know You Can Generate a Prospect List with Just a Few Clicks?",
       "videoId": "ipE4YrNgk78",
@@ -2894,6 +2906,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
+    },
+    {
+      "filename": "jfyiwtqjoge-highlevel-workflow-optimization-achieves-97-7-percent-latency-reduction.md",
+      "title": "HighLevel Workflow Optimization Achieves 97.7 Percent Latency Reduction",
+      "videoId": "JfYIWtqJOGE",
+      "url": "https://www.youtube.com/watch?v=JfYIWtqJOGE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-15T22:09:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "jfyiwtqjoge-highlevel-workflow-optimization-achieves-97-7-percent-latency-reduction"
     },
     {
       "filename": "jfyiwtqjoge-workflow-optimization-97-7-latency-reduction.md",
@@ -3789,10 +3813,10 @@
       "videoId": "pc6k_nmVu_k",
       "url": "https://www.youtube.com/watch?v=pc6k_nmVu_k",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-09T18:11:51.000Z",
+      "publishedDate": "2026-01-21T06:49:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
     },
     {
@@ -4826,6 +4850,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
+    },
+    {
+      "filename": "ufsym5st92s-how-to-ensure-ai-outbound-calling-compliance-in-highlevel.md",
+      "title": "How To Ensure AI Outbound Calling Compliance in HighLevel",
+      "videoId": "uFSym5St92s",
+      "url": "https://www.youtube.com/watch?v=uFSym5St92s",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-20T13:59:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ufsym5st92s-how-to-ensure-ai-outbound-calling-compliance-in-highlevel"
     },
     {
       "filename": "ujinvudmkzu-how-to-configure-taxes-and-service-fees-in-highlevel.md",
@@ -6221,7 +6257,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 481,
+    "fresh": 484,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6233,7 +6269,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 472,
+        "fresh": 475,
         "warning": 0,
         "expired": 0,
         "unknown": null

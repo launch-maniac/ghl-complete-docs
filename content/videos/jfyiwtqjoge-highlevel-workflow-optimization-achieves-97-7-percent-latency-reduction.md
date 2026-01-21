@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (January 12th - January 16th 2026)"
-video_id: "s1_7elVqnuo"
-url: "https://www.youtube.com/watch?v=s1_7elVqnuo"
-thumbnail: "https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg"
+title: "HighLevel Workflow Optimization Achieves 97.7 Percent Latency Reduction"
+video_id: "JfYIWtqJOGE"
+url: "https://www.youtube.com/watch?v=JfYIWtqJOGE"
+thumbnail: "https://i.ytimg.com/vi/JfYIWtqJOGE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-17T07:26:53.000Z"
+published_date: "2026-01-15T22:09:12.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-21T07:46:35.348Z"
+extracted_at: "2026-01-21T07:46:36.317Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 12th - January 16th 2026)
+# 🟢 HighLevel Workflow Optimization Achieves 97.7 Percent Latency Reduction
 
-**Video ID:** `s1_7elVqnuo`
+**Video ID:** `JfYIWtqJOGE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/17/2026
+**Published:** 1/15/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-21T07:46:35.348Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=s1_7elVqnuo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/s1_7elVqnuo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JfYIWtqJOGE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/JfYIWtqJOGE/hqdefault.jpg)
 
 
 ## Content Guidelines
