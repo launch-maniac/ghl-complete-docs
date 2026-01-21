@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "funnels-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-01-21T03:36:59.539Z"
+extracted_at: "2026-01-21T06:09:33.647Z"
 ---
 
 # Hi, how can we help you?
@@ -180,17 +180,17 @@ Modified on Sun, 3 Aug, 2025 at 6:12 AM
 
 ](/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-)[
 
-LC - Phone Messaging Policy
-
-Modified on Wed, 10 Sep, 2025 at 7:51 AM
-
-](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
-
 HighLevel Pricing Guide
 
 Modified on Thu, 27 Nov, 2025 at 2:34 PM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
+
+LC - Phone Messaging Policy
+
+Modified on Wed, 10 Sep, 2025 at 7:51 AM
+
+](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
 How do I find my Client's Location ID?
 
