@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Agent Studio Triggers Now Live"
-video_id: "ilF11NajM78"
-url: "https://www.youtube.com/watch?v=ilF11NajM78"
-thumbnail: "https://i.ytimg.com/vi/ilF11NajM78/hqdefault.jpg"
+title: "Integration Page UI/UX Revamp Live!"
+video_id: "1tmCVFFHp6k"
+url: "https://www.youtube.com/watch?v=1tmCVFFHp6k"
+thumbnail: "https://i.ytimg.com/vi/1tmCVFFHp6k/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-15T22:09:47.000Z"
+published_date: "2026-01-21T21:30:38.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-22T07:45:51.347Z"
+extracted_at: "2026-01-22T07:45:47.766Z"
 
 ---
 
-# 🟢 HighLevel Agent Studio Triggers Now Live
+# 🟢 Integration Page UI/UX Revamp Live!
 
-**Video ID:** `ilF11NajM78`
+**Video ID:** `1tmCVFFHp6k`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/15/2026
+**Published:** 1/21/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-22T07:45:51.347Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ilF11NajM78)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ilF11NajM78/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=1tmCVFFHp6k)
+- [📷 Thumbnail](https://i.ytimg.com/vi/1tmCVFFHp6k/hqdefault.jpg)
 
 
 ## Content Guidelines

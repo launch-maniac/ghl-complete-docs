@@ -1,14 +1,14 @@
 ---
-title: "Reputation Management  New Widget Types + Full AI Summary Control"
-video_id: "U1sSiyby6H8"
-url: "https://www.youtube.com/watch?v=U1sSiyby6H8"
-thumbnail: "https://i.ytimg.com/vi/U1sSiyby6H8/hqdefault.jpg"
+title: "Pete Mitchell – How I Built a Self-Running Agency with HighLevel"
+video_id: "lU26uUcS_bY"
+url: "https://www.youtube.com/watch?v=lU26uUcS_bY"
+thumbnail: "https://i.ytimg.com/vi/lU26uUcS_bY/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-07-22T21:00:29.000Z"
+published_date: "2026-01-21T15:59:34.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 2.0 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "2.0"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:12.279Z"
+extracted_at: "2026-01-22T07:45:48.673Z"
 
 ---
 
-# 🟢 Reputation Management  New Widget Types + Full AI Summary Control
+# 🟢 Pete Mitchell – How I Built a Self-Running Agency with HighLevel
 
-**Video ID:** `U1sSiyby6H8`
+**Video ID:** `lU26uUcS_bY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 7/22/2025
+**Published:** 1/21/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 2.0 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:12.279Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=U1sSiyby6H8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/U1sSiyby6H8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lU26uUcS_bY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/lU26uUcS_bY/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/22/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

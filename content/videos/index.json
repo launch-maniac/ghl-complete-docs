@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-21T07:46:43.020Z",
+  "generated": "2026-01-22T07:45:58.157Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 21,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 21
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -196,6 +196,18 @@
       "slug": "1kipnxnv2pm-did-you-know-your-ai-can-do-more-than-chat"
     },
     {
+      "filename": "1tmcvffhp6k-integration-page-ui-ux-revamp-live.md",
+      "title": "Integration Page UI/UX Revamp Live!",
+      "videoId": "1tmCVFFHp6k",
+      "url": "https://www.youtube.com/watch?v=1tmCVFFHp6k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T21:30:38.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "1tmcvffhp6k-integration-page-ui-ux-revamp-live"
+    },
+    {
       "filename": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system.md",
       "title": "How to Manage Duplicate Contacts in Your CRM System",
       "videoId": "25NTVCZroCc",
@@ -230,6 +242,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "28xac9sm3-w-highlevel-chat-widget-now-supports-customizable-contact-form-messages"
+    },
+    {
+      "filename": "2ewqsssmkp0-analytics-for-external-tracking-live.md",
+      "title": "Analytics for External Tracking Live!",
+      "videoId": "2EwQSsSmKP0",
+      "url": "https://www.youtube.com/watch?v=2EwQSsSmKP0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T21:29:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "2ewqsssmkp0-analytics-for-external-tracking-live"
     },
     {
       "filename": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern.md",
@@ -1720,6 +1744,18 @@
       "slug": "d2dqvcurxvu-template-library-introducing-new-templates-no-67"
     },
     {
+      "filename": "d3r7jsb51rc-did-you-know-you-can-auto-generate-sales-funnels-with-ai-powered-copy.md",
+      "title": "Did You Know You Can Auto Generate Sales Funnels With AI Powered Copy",
+      "videoId": "d3r7jSB51Rc",
+      "url": "https://www.youtube.com/watch?v=d3r7jSB51Rc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T14:01:07.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "d3r7jsb51rc-did-you-know-you-can-auto-generate-sales-funnels-with-ai-powered-copy"
+    },
+    {
       "filename": "d6szzzjhvai-did-you-know-you-can-jumpstart-your-business-using-our-template-library.md",
       "title": "Did You Know You Can Jumpstart Your Business Using Our Template Library",
       "videoId": "D6SZzzjHvAI",
@@ -3148,6 +3184,18 @@
       "slug": "kk-d1vlytey-phone-number-sync-for-calendly-appointments"
     },
     {
+      "filename": "kpht5hignzo-how-to-set-up-a-personality-style-quiz-in-highlevel.md",
+      "title": "How To Set Up a Personality Style Quiz in HighLevel",
+      "videoId": "kpHt5hiGNZo",
+      "url": "https://www.youtube.com/watch?v=kpHt5hiGNZo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T13:40:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kpht5hignzo-how-to-set-up-a-personality-style-quiz-in-highlevel"
+    },
+    {
       "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
       "title": "How to Use Quick Filters to Improve Your Dashboard Efficiency",
       "videoId": "kVSpv_01AoM",
@@ -3302,6 +3350,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel"
+    },
+    {
+      "filename": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel.md",
+      "title": "Pete Mitchell – How I Built a Self-Running Agency with HighLevel",
+      "videoId": "lU26uUcS_bY",
+      "url": "https://www.youtube.com/watch?v=lU26uUcS_bY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T15:59:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
       "filename": "lw7ppsydtna-clipboard-attachment-support-across-all-channels.md",
@@ -3472,6 +3532,30 @@
       "slug": "mybw-jagmgs-how-to-get-your-phone-number-a2p-approved-in-2026"
     },
     {
+      "filename": "myg-g5shvgm-did-you-know-you-can-build-your-own-support-ticketing-system-in-highlevel.md",
+      "title": "Did You Know You Can Build Your Own Support Ticketing System in HighLevel?",
+      "videoId": "myg-G5shVGM",
+      "url": "https://www.youtube.com/watch?v=myg-G5shVGM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T15:42:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "myg-g5shvgm-did-you-know-you-can-build-your-own-support-ticketing-system-in-highlevel"
+    },
+    {
+      "filename": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026.md",
+      "title": "Entrepreneurial Internship Program Info Session | Summer 2026",
+      "videoId": "N4a_OLQaMmU",
+      "url": "https://www.youtube.com/watch?v=N4a_OLQaMmU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T18:10:08.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026"
+    },
+    {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
       "title": "If/Else & Update Contact Field Actions - Expanded Field Support in Dynamic Custom Value Picker!",
       "videoId": "ne4fZI2Pn3w",
@@ -3494,6 +3578,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.5",
       "slug": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features"
+    },
+    {
+      "filename": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry.md",
+      "title": "How Keepful Built an $800K SaaS on HighLevel and Transformed the Bookkeeping Industry",
+      "videoId": "nIZaBOTXs70",
+      "url": "https://www.youtube.com/watch?v=nIZaBOTXs70",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T17:13:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry"
     },
     {
       "filename": "njpunwtuin4-how-to-easily-clone-elements-and-slides-in-highlevel.md",
@@ -3638,6 +3734,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "ojjohwrq-f4-highlevel-form-builder-button-icons-now-live"
+    },
+    {
+      "filename": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel.md",
+      "title": "How To Set Up Recurring Webinars in HighLevel",
+      "videoId": "-OlL-Gb1-X4",
+      "url": "https://www.youtube.com/watch?v=-OlL-Gb1-X4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T13:40:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel"
     },
     {
       "filename": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
@@ -4120,6 +4228,18 @@
       "slug": "qx6mapqup5w-prospecting-tool-improvements-live"
     },
     {
+      "filename": "qyeokb-2wym-did-you-know-highlevel-can-send-automated-follow-ups.md",
+      "title": "Did You Know HighLevel Can Send Automated Follow Ups?",
+      "videoId": "qYEOKB_2wyM",
+      "url": "https://www.youtube.com/watch?v=qYEOKB_2wyM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T14:44:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qyeokb-2wym-did-you-know-highlevel-can-send-automated-follow-ups"
+    },
+    {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
       "title": "SaaSPRENEUR Workshop with Frank Kern - Day 1",
       "videoId": "r-dWumZHG6c",
@@ -4154,6 +4274,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "r1f-iyxrfms-phone-number-sync-for-calendly-appointments"
+    },
+    {
+      "filename": "r7suuxxkdou-how-to-easily-integrate-printify-with-highlevel.md",
+      "title": "How To Easily Integrate Printify with HighLevel",
+      "videoId": "R7suUXxkdoU",
+      "url": "https://www.youtube.com/watch?v=R7suUXxkdoU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T13:41:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "r7suuxxkdou-how-to-easily-integrate-printify-with-highlevel"
     },
     {
       "filename": "r8pgvp5nhnm-did-you-know-you-can-color-code-your-pipeline-with-smart-tags-amp-opportunities-in-highl.md",
@@ -4296,7 +4428,7 @@
       "publishedDate": "2026-01-17T07:26:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "s1-7elvqnuo-the-highlevel-release-radar-january-12th-january-16th-2026"
     },
     {
@@ -4768,18 +4900,6 @@
       "slug": "u1fslnw5zs0-why-i-stopped-building-custom-automations-and-switched-to-highlevel"
     },
     {
-      "filename": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control.md",
-      "title": "Reputation Management  New Widget Types + Full AI Summary Control",
-      "videoId": "U1sSiyby6H8",
-      "url": "https://www.youtube.com/watch?v=U1sSiyby6H8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-22T21:00:29.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "2.0",
-      "slug": "u1ssiyby6h8-reputation-management-new-widget-types-full-ai-summary-control"
-    },
-    {
       "filename": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai.md",
       "title": "Day 1 Replay - Build Your Agency Fast with HighLevel + AI",
       "videoId": "u5ncJPWvPCs",
@@ -4860,7 +4980,7 @@
       "publishedDate": "2026-01-20T13:59:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ufsym5st92s-how-to-ensure-ai-outbound-calling-compliance-in-highlevel"
     },
     {
@@ -5076,7 +5196,7 @@
       "publishedDate": "2026-01-20T06:41:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vnursmtm-hc-day-1-get-more-clients-with-highlevel-ai"
     },
     {
@@ -5712,7 +5832,7 @@
       "publishedDate": "2026-01-16T19:31:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
     },
     {
@@ -6036,7 +6156,7 @@
       "publishedDate": "2026-01-14T15:17:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
@@ -6184,6 +6304,18 @@
       "slug": "zmsohcxheg-add-multiple-date-specific-hours-for-services"
     },
     {
+      "filename": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads.md",
+      "title": "Did You Know You Can Use Trigger Links to Qualify New Leads?",
+      "videoId": "zQm_oy4K2n8",
+      "url": "https://www.youtube.com/watch?v=zQm_oy4K2n8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T18:28:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads"
+    },
+    {
       "filename": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel.md",
       "title": "How To Bulk Manage QR Codes in HighLevel",
       "videoId": "ZSsviiAkEXc",
@@ -6257,7 +6389,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 484,
+    "fresh": 495,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6269,7 +6401,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 475,
+        "fresh": 486,
         "warning": 0,
         "expired": 0,
         "unknown": null

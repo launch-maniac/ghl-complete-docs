@@ -1,14 +1,14 @@
 ---
-title: "How to Offer Sales Call Answering as a Service"
-video_id: "YzYyKqa7-Pg"
-url: "https://www.youtube.com/watch?v=YzYyKqa7-Pg"
-thumbnail: "https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg"
+title: "Entrepreneurial Internship Program Info Session | Summer 2026"
+video_id: "N4a_OLQaMmU"
+url: "https://www.youtube.com/watch?v=N4a_OLQaMmU"
+thumbnail: "https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-14T15:17:11.000Z"
+published_date: "2026-01-21T18:10:08.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-22T07:45:51.672Z"
+extracted_at: "2026-01-22T07:45:48.304Z"
 
 ---
 
-# 🟢 How to Offer Sales Call Answering as a Service
+# 🟢 Entrepreneurial Internship Program Info Session | Summer 2026
 
-**Video ID:** `YzYyKqa7-Pg`
+**Video ID:** `N4a_OLQaMmU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/14/2026
+**Published:** 1/21/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-22T07:45:51.672Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YzYyKqa7-Pg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/YzYyKqa7-Pg/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=N4a_OLQaMmU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault_live.jpg)
 
 
 ## Content Guidelines
