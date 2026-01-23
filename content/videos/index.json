@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-22T07:45:58.157Z",
+  "generated": "2026-01-23T07:44:05.212Z",
   "stats": {
     "channels": 1,
-    "videos": 21,
+    "videos": 27,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 21
+    "transcriptsFailed": 27
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -86,6 +86,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "03tmrzjjv1q-height-width-controls-for-page-builder-elements-live"
+    },
+    {
+      "filename": "0c-b4mwg9mm-conversation-views-save-filters-work-faster.md",
+      "title": "Conversation Views: Save Filters, Work Faster!",
+      "videoId": "0c-B4MWG9MM",
+      "url": "https://www.youtube.com/watch?v=0c-B4MWG9MM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T23:29:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0c-b4mwg9mm-conversation-views-save-filters-work-faster"
     },
     {
       "filename": "0d1kigh3aqc-how-to-control-banners-in-highlevel-for-a-cleaner-user-experience.md",
@@ -928,18 +940,6 @@
       "slug": "7b5rfrwq1dq-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
     },
     {
-      "filename": "7cuxytosawg-user-management-login-as-permission.md",
-      "title": "User Management  Login As Permission",
-      "videoId": "7cuxyTOsAWg",
-      "url": "https://www.youtube.com/watch?v=7cuxyTOsAWg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-24T00:00:15.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.9",
-      "slug": "7cuxytosawg-user-management-login-as-permission"
-    },
-    {
       "filename": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
       "title": "Day 1 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
       "videoId": "7qayv9yoHgo",
@@ -1752,7 +1752,7 @@
       "publishedDate": "2026-01-21T14:01:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d3r7jsb51rc-did-you-know-you-can-auto-generate-sales-funnels-with-ai-powered-copy"
     },
     {
@@ -1790,6 +1790,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "depxrdcjcqi-mobile-service-v2-appointments-in-calendars"
+    },
+    {
+      "filename": "dexmyxbqcxg-analytics-for-external-tracking.md",
+      "title": "Analytics for External Tracking",
+      "videoId": "DexMyXBQCxg",
+      "url": "https://www.youtube.com/watch?v=DexMyXBQCxg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T19:00:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dexmyxbqcxg-analytics-for-external-tracking"
     },
     {
       "filename": "dg3vi7cjvtc-recurring-listings-performance-recap-reports.md",
@@ -2944,6 +2956,18 @@
       "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
     },
     {
+      "filename": "j0fgj3zjwbc-how-to-set-up-shipping-profiles-and-zones-in-highlevel.md",
+      "title": "How To Set Up Shipping Profiles and Zones in HighLevel",
+      "videoId": "J0FgJ3ZJwBc",
+      "url": "https://www.youtube.com/watch?v=J0FgJ3ZJwBc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T12:19:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "j0fgj3zjwbc-how-to-set-up-shipping-profiles-and-zones-in-highlevel"
+    },
+    {
       "filename": "jfyiwtqjoge-highlevel-workflow-optimization-achieves-97-7-percent-latency-reduction.md",
       "title": "HighLevel Workflow Optimization Achieves 97.7 Percent Latency Reduction",
       "videoId": "JfYIWtqJOGE",
@@ -3360,7 +3384,7 @@
       "publishedDate": "2026-01-21T15:59:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -3540,7 +3564,7 @@
       "publishedDate": "2026-01-21T15:42:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "myg-g5shvgm-did-you-know-you-can-build-your-own-support-ticketing-system-in-highlevel"
     },
     {
@@ -3552,7 +3576,7 @@
       "publishedDate": "2026-01-21T18:10:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026"
     },
     {
@@ -3588,7 +3612,7 @@
       "publishedDate": "2026-01-21T17:13:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry"
     },
     {
@@ -3744,7 +3768,7 @@
       "publishedDate": "2026-01-21T13:40:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel"
     },
     {
@@ -3924,7 +3948,7 @@
       "publishedDate": "2026-01-21T06:49:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai"
     },
     {
@@ -4132,6 +4156,18 @@
       "slug": "q4j5jtyeik8-reputation-management-drip-mode-in-reviews-ai"
     },
     {
+      "filename": "qcbdytvkcna-how-to-use-unique-fields-in-highlevel-custom-objects.md",
+      "title": "How To Use Unique Fields in HighLevel Custom Objects",
+      "videoId": "QCbDytVkCNA",
+      "url": "https://www.youtube.com/watch?v=QCbDytVkCNA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T21:54:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qcbdytvkcna-how-to-use-unique-fields-in-highlevel-custom-objects"
+    },
+    {
       "filename": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert.md",
       "title": "Did You Know You Can Get Certified to Earn Clients as a HighLevel Expert",
       "videoId": "qNBxLIl3xe8",
@@ -4236,7 +4272,7 @@
       "publishedDate": "2026-01-21T14:44:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qyeokb-2wym-did-you-know-highlevel-can-send-automated-follow-ups"
     },
     {
@@ -4284,7 +4320,7 @@
       "publishedDate": "2026-01-21T13:41:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "r7suuxxkdou-how-to-easily-integrate-printify-with-highlevel"
     },
     {
@@ -4804,6 +4840,18 @@
       "slug": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel"
     },
     {
+      "filename": "tk5769s-xqu-integration-page-ui-ux-revamp.md",
+      "title": "Integration Page UI UX Revamp",
+      "videoId": "tk5769s-XqU",
+      "url": "https://www.youtube.com/watch?v=tk5769s-XqU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T16:01:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tk5769s-xqu-integration-page-ui-ux-revamp"
+    },
+    {
       "filename": "tlckhg01bfk-how-to-seamlessly-access-custom-form-data-in-appointment-modal.md",
       "title": "How to Seamlessly Access Custom Form Data in Appointment Modal",
       "videoId": "TLcKHg01Bfk",
@@ -4826,6 +4874,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
+    },
+    {
+      "filename": "tv-yittxjka-how-to-import-stripe-products-to-highlevel-39-s-saas-configurator.md",
+      "title": "How To Import Stripe Products to HighLevel&#39;s SaaS Configurator",
+      "videoId": "Tv_yiTTxjkA",
+      "url": "https://www.youtube.com/watch?v=Tv_yiTTxjkA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T21:54:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tv-yittxjka-how-to-import-stripe-products-to-highlevel-39-s-saas-configurator"
     },
     {
       "filename": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025.md",
@@ -5416,6 +5476,18 @@
       "slug": "wbe0ltlieko-how-to-manage-files-effectively-in-your-mobile-media-library"
     },
     {
+      "filename": "wbeiirbew4e-how-to-manage-social-media-comments-using-highlevel-social-planner.md",
+      "title": "How To Manage Social Media Comments Using HighLevel Social Planner",
+      "videoId": "WBEiiRbew4E",
+      "url": "https://www.youtube.com/watch?v=WBEiiRbew4E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T12:18:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wbeiirbew4e-how-to-manage-social-media-comments-using-highlevel-social-planner"
+    },
+    {
       "filename": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel.md",
       "title": "How to Automate Workflows with Custom Objects in HighLevel",
       "videoId": "WegLUpjMB5c",
@@ -5594,6 +5666,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wy0isvhnfz8-autosave-now-live-in-ai-builder"
+    },
+    {
+      "filename": "wy42tqrun80-how-to-create-and-manage-global-custom-colors-in-highlevel.md",
+      "title": "How To Create and Manage Global Custom Colors in HighLevel",
+      "videoId": "wy42TQRUn80",
+      "url": "https://www.youtube.com/watch?v=wy42TQRUn80",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T01:31:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wy42tqrun80-how-to-create-and-manage-global-custom-colors-in-highlevel"
     },
     {
       "filename": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots.md",
@@ -5870,6 +5954,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
+    },
+    {
+      "filename": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites.md",
+      "title": "How To Track Form Submissions in HighLevel from External Websites",
+      "videoId": "xXanI6RJOLo",
+      "url": "https://www.youtube.com/watch?v=xXanI6RJOLo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T12:14:39.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites"
     },
     {
       "filename": "xxk2-dwyer4-day-3-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
@@ -6153,10 +6249,10 @@
       "videoId": "YzYyKqa7-Pg",
       "url": "https://www.youtube.com/watch?v=YzYyKqa7-Pg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-14T15:17:11.000Z",
+      "publishedDate": "2026-01-23T06:29:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.0",
       "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
@@ -6312,7 +6408,7 @@
       "publishedDate": "2026-01-21T18:28:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads"
     },
     {
@@ -6389,7 +6485,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 495,
+    "fresh": 503,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6401,7 +6497,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 486,
+        "fresh": 494,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -2,7 +2,7 @@
 title: "HighLevel LIVE India Speaker Reveal Webinar"
 video_id: "XVANflK-5-s"
 url: "https://www.youtube.com/watch?v=XVANflK-5-s"
-thumbnail: "https://i.ytimg.com/vi/XVANflK-5-s/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/XVANflK-5-s/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-01-16T19:31:08.000Z"
 freshness_status: "fresh"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-22T07:45:50.885Z"
+extracted_at: "2026-01-23T07:43:56.059Z"
 
 ---
 
@@ -43,7 +43,7 @@ extracted_at: "2026-01-22T07:45:50.885Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=XVANflK-5-s)
-- [📷 Thumbnail](https://i.ytimg.com/vi/XVANflK-5-s/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/XVANflK-5-s/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 1/22/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/23/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

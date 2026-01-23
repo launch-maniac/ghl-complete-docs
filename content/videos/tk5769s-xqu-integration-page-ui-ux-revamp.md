@@ -1,14 +1,14 @@
 ---
-title: "How To Ensure AI Outbound Calling Compliance in HighLevel"
-video_id: "uFSym5St92s"
-url: "https://www.youtube.com/watch?v=uFSym5St92s"
-thumbnail: "https://i.ytimg.com/vi/uFSym5St92s/hqdefault.jpg"
+title: "Integration Page UI UX Revamp"
+video_id: "tk5769s-XqU"
+url: "https://www.youtube.com/watch?v=tk5769s-XqU"
+thumbnail: "https://i.ytimg.com/vi/tk5769s-XqU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-20T13:59:28.000Z"
+published_date: "2026-01-22T16:01:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-23T07:43:55.882Z"
+extracted_at: "2026-01-23T07:43:53.099Z"
 
 ---
 
-# 🟢 How To Ensure AI Outbound Calling Compliance in HighLevel
+# 🟢 Integration Page UI UX Revamp
 
-**Video ID:** `uFSym5St92s`
+**Video ID:** `tk5769s-XqU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/20/2026
+**Published:** 1/22/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-23T07:43:55.882Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=uFSym5St92s)
-- [📷 Thumbnail](https://i.ytimg.com/vi/uFSym5St92s/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=tk5769s-XqU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/tk5769s-XqU/hqdefault.jpg)
 
 
 ## Content Guidelines
