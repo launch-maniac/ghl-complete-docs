@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "696bfc966e6a491cd7162966"
+guid: "69743d7df57eb07d8b3d6de0"
 author: "Sales &amp; Marketing"
-pubDate: "2026-01-17T21:53:40.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-76"
+pubDate: "2026-01-24T03:40:33.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-77"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-76"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-77"
 index: 1
 ---
 
@@ -17,31 +17,27 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **3 New Website Templates Published** 🚀
+🚀 **2 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Beauty & Fashion - 1
+Finance - 1
 
-Real Estate - 1
-
-Travel & Hospitality - 1
+Health & Wellness - 1
 
 \------------------------------------------------------
 
-🚀 **1 New Store Templates Published** 🚀
+🚀 **7 New Funnel Templates Published** 🚀
 
 \------------------------------------------------------
 
-Fitness Equipment - 1
+Home Services - 1
 
-\------------------------------------------------------
+Medical - 1
 
-🚀 **1 New Funnel Templates Published** 🚀
+Legal - 1
 
-\------------------------------------------------------
-
-Marketing Agency - 1
+Insurance - 1
 
 \------------------------------------------------------
 
@@ -49,7 +45,7 @@ Marketing Agency - 1
 
 \------------------------------------------------------
 
-Business Coaching & Consulting - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -57,7 +53,7 @@ Business Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Travel & Hospitality - 1
+Other - 1
 
 \-----------------------------------------------------
 
@@ -65,37 +61,21 @@ Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
-Automotive - 1
-
-\-----------------------------------------------------
-
-🚀 **8 New Social Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Beauty & Fashion - 2
-
-Business Coaching and Consulting -2
-
-Home Services - 2
-
-Insurance - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Finance - 1
-
-Creative - 1
-
 Beauty & Fashion - 1
 
-Automotive - 1
+\-----------------------------------------------------
 
-Business Coaching & Consulting - 1
+🚀 **4 New Social Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Creative - 2
+
+Finance - 2
+
+Health & Wellness - 2
+
+Holidays - 2
 
 \-----------------------------------------------------
 
@@ -103,15 +83,15 @@ Business Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Medical - Mental Health Care Services
+Automotive - Car Mechanic
 
-Other - Local Church
+Beauty & Fashion - Barber Lounge
 
-Real Estate - Architecture Firm
+Business Coaching & Consulting - Life Coaching
 
-Restaurant & Bar - Craft Brewery
+Creative - Web Design Specialist
 
-Travel & Hospitality - Short-term Rentals
+Finance - Accounting Services
 
 \------------------------------------------------------
 
@@ -119,48 +99,42 @@ Travel & Hospitality - Short-term Rentals
 
 \------------------------------------------------------
 
-Health & Wellness - Mental Health Clinic
+Home Services - Appliance Repair
 
-![Author Coaching Onboarding - Email](https://canny-assets.io/images/54e6be5227233e56acd424bd7f4b314a.png)
+![Appliance Repair - Snapshot](https://canny-assets.io/images/d3bd05f43b1585fde24fdb0d064b6215.png)
 
-![Bookkeeper - Facebook Ad](https://canny-assets.io/images/d1129216cd4682fa79aa5725ded194f4.png)
+![Engraving Shop - Social](https://canny-assets.io/images/30f705f10712246960fa700c44f03da6.png)
 
-![Clothing Tailor - Facebook Ad](https://canny-assets.io/images/5efa68014ebb69d5ec1da29c5b521dbf.png)
+![Financial Investment Company - Social](https://canny-assets.io/images/620e2fa5f11cf3337eae93a4dea73f66.png)
 
-![Cyber Security Consulting - Facebook Ad](https://canny-assets.io/images/3c71e5c99595675155def01e631e43e5.png)
+![Labor Day - Social](https://canny-assets.io/images/99927cae98af3b681ee546b46fd866f8.png)
 
-![Fitness Equipment - Store](https://canny-assets.io/images/130d75a5e88682dce179cd01a2db9f96.png)
+![Life Coverage - Funnel](https://canny-assets.io/images/69e4669cd22f50df7d17463b89eb1831.png)
 
-![Flooring Services - Social](https://canny-assets.io/images/f454dc153f6fd5b0d09c5b9ade7fdb11.png)
+![Weight Loss Coach - Social](https://canny-assets.io/images/02a5cf40670b0f383c67e01d8b4a4673.png)
 
-![Hip Hop Dance School - Facebook Ad](https://canny-assets.io/images/d900a1bd93e9ae58aed9e360538477fd.png)
+![Accounting Services - Google Ad](https://canny-assets.io/images/a8ee447dda90b69f9e6efbbfbd0ada63.png)
 
-![Makeup Specialist - Social](https://canny-assets.io/images/3f1847fefc7d760fa9f417647b896963.png)
+![Barber Lounge - Google Ad](https://canny-assets.io/images/827486da9da301f5fb1fc50cd079838e.png)
 
-![Mental Health Clinic - Snapshot](https://canny-assets.io/images/e2e7a184a9198e60f858a877abc6d0c0.png)
+![Barber Shop Customer Satisfaction - Survey](https://canny-assets.io/images/4b1bb809c3dc38c60b352358f733597b.png)
 
-![Modeling Agency - Website](https://canny-assets.io/images/43eb1da678eeb0789559544c1e468c6d.png)
+![Car Mechanic - Google Ad](https://canny-assets.io/images/ecc05b6cdc97018d285ce7fe5403445e.png)
 
-![Product Development - Funnel](https://canny-assets.io/images/ef25f594fe713ebc8de2320eebcedd30.png)
+![Defense Attorney - Funnel](https://canny-assets.io/images/d8eb63c0292e451ab49d9873fbcb447b.png)
 
-![Real Estate Consultant Consultant - Social](https://canny-assets.io/images/5fc5c7f36c28f55bbfbf42372b638744.png)
+![Engraving Promotional - Email](https://canny-assets.io/images/350798f04d880a8bee23cc9ba71ff534.png)
 
-![RV Rental Agency - Website](https://canny-assets.io/images/0a1caf4d20a1e157326e4d0669f9d522.png)
+![HVAC Repair - Funnel](https://canny-assets.io/images/6ae57b001880588a9c8eba75d2dbb743.png)
 
-![RV Rentals Request - Form](https://canny-assets.io/images/59d18687d7414fa3facb20d75e1f9f2e.png)
+![Life Coaching - Google Ad](https://canny-assets.io/images/2702992208abdd8b9ecdf2ac32d73c77.png)
 
-![Title Company - Website](https://canny-assets.io/images/e88124929c1acb54ece35953870943e7.png)
+![Medical Solution - Funnel](https://canny-assets.io/images/4bc9131661c64d357a0a0129c96a7d44.png)
 
-![Travel Insurance Policy - Social](https://canny-assets.io/images/936b8a08c2a5e322fbf5546f5a294012.png)
+![Pet Grooming Request - Form](https://canny-assets.io/images/14bc633c8cf720664e8f93225f4a93b6.png)
 
-![Architecture Firm - Google Ad](https://canny-assets.io/images/f9ffaf685d6613275d8790c4ddd57d53.png)
+![Secure Mobile Wallet - Website](https://canny-assets.io/images/a90d9733199c31cda8a4e89a403abbbd.png)
 
-![Craft Brewery - Google Ad](https://canny-assets.io/images/be033e2ffb4bff5ea9c673b09d378c0c.png)
+![Web Design Specialist - Google Ad](https://canny-assets.io/images/40b3ae65693339f75d12d0874a11cf91.png)
 
-![Local Church - Google Ad](https://canny-assets.io/images/6bccfc940e7fc773829b82fb04eee2d8.png)
-
-![Mental Health Care Services - Google Ad](https://canny-assets.io/images/67622d9e74b5ea8f15d951f5e6937b04.png)
-
-![Short-term Rentals - Google Ad](https://canny-assets.io/images/479dc21c8ce785a9273b0fb0433716f3.png)
-
-![Tire Shop Market Analysis - Survey](https://canny-assets.io/images/b017544e00068dd19fd3f8818b4b8f9c.png)
+![Yoga - Website](https://canny-assets.io/images/d79781533a6f14146153d5ccc5dbbc6b.png)
