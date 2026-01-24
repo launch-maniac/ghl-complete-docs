@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-23T07:44:05.212Z",
+  "generated": "2026-01-24T07:40:55.521Z",
   "stats": {
     "channels": 1,
-    "videos": 27,
+    "videos": 30,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 27
+    "transcriptsFailed": 30
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -98,6 +98,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "0c-b4mwg9mm-conversation-views-save-filters-work-faster"
+    },
+    {
+      "filename": "0c-b4mwg9mm-highlevel-conversation-views-save-filters-and-work-faster.md",
+      "title": "HighLevel Conversation Views: Save Filters and Work Faster",
+      "videoId": "0c-B4MWG9MM",
+      "url": "https://www.youtube.com/watch?v=0c-B4MWG9MM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-22T23:29:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0c-b4mwg9mm-highlevel-conversation-views-save-filters-and-work-faster"
     },
     {
       "filename": "0d1kigh3aqc-how-to-control-banners-in-highlevel-for-a-cleaner-user-experience.md",
@@ -208,6 +220,30 @@
       "slug": "1kipnxnv2pm-did-you-know-your-ai-can-do-more-than-chat"
     },
     {
+      "filename": "1qwsibwrses-the-highlevel-release-radar-january-19th-january-23rd-2026.md",
+      "title": "The HighLevel Release Radar (January 19th - January 23rd 2026)",
+      "videoId": "1qWSIbWRsEs",
+      "url": "https://www.youtube.com/watch?v=1qWSIbWRsEs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T19:16:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "1qwsibwrses-the-highlevel-release-radar-january-19th-january-23rd-2026"
+    },
+    {
+      "filename": "1tmcvffhp6k-highlevel-integration-page-ui-and-ux-revamp-now-live.md",
+      "title": "HighLevel Integration Page UI and UX Revamp Now Live",
+      "videoId": "1tmCVFFHp6k",
+      "url": "https://www.youtube.com/watch?v=1tmCVFFHp6k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T21:30:38.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "1tmcvffhp6k-highlevel-integration-page-ui-and-ux-revamp-now-live"
+    },
+    {
       "filename": "1tmcvffhp6k-integration-page-ui-ux-revamp-live.md",
       "title": "Integration Page UI/UX Revamp Live!",
       "videoId": "1tmCVFFHp6k",
@@ -266,6 +302,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "2ewqsssmkp0-analytics-for-external-tracking-live"
+    },
+    {
+      "filename": "2ewqsssmkp0-analytics-for-external-tracking-now-live-inside-highlevel.md",
+      "title": "Analytics for External Tracking Now Live inside HighLevel",
+      "videoId": "2EwQSsSmKP0",
+      "url": "https://www.youtube.com/watch?v=2EwQSsSmKP0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-21T21:29:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "2ewqsssmkp0-analytics-for-external-tracking-now-live-inside-highlevel"
     },
     {
       "filename": "2ghzmrhn5fk-day-2-saaspreneur-workshop-with-frank-kern.md",
@@ -1800,7 +1848,7 @@
       "publishedDate": "2026-01-22T19:00:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dexmyxbqcxg-analytics-for-external-tracking"
     },
     {
@@ -2318,6 +2366,18 @@
       "contentCategory": "evergreen",
       "ageInMonths": "3.4",
       "slug": "fxnf8gkajfo-template-library-introducing-new-templates"
+    },
+    {
+      "filename": "fxwkcjn5pze-did-you-know-you-can-connect-any-app-to-highlevel.md",
+      "title": "Did you know you can connect any app to HighLevel? 🤯",
+      "videoId": "FxWkcJn5pzE",
+      "url": "https://www.youtube.com/watch?v=FxWkcJn5pzE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T14:30:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fxwkcjn5pze-did-you-know-you-can-connect-any-app-to-highlevel"
     },
     {
       "filename": "fyazvkynhto-introducing-badges-live-now.md",
@@ -2964,8 +3024,20 @@
       "publishedDate": "2026-01-22T12:19:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "j0fgj3zjwbc-how-to-set-up-shipping-profiles-and-zones-in-highlevel"
+    },
+    {
+      "filename": "j4lcvlovqy-conversation-views-save-filters-work-faster.md",
+      "title": "Conversation Views  Save Filters, Work Faster",
+      "videoId": "_j4LcvloVqY",
+      "url": "https://www.youtube.com/watch?v=_j4LcvloVqY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T16:00:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "j4lcvlovqy-conversation-views-save-filters-work-faster"
     },
     {
       "filename": "jfyiwtqjoge-highlevel-workflow-optimization-achieves-97-7-percent-latency-reduction.md",
@@ -3014,6 +3086,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "jgrqxpe-otu-video-testimonials-live"
+    },
+    {
+      "filename": "jk078uejpqk-persistence-in-surveys-and-quizzes-live.md",
+      "title": "Persistence in Surveys and Quizzes Live!",
+      "videoId": "JK078uEJpQk",
+      "url": "https://www.youtube.com/watch?v=JK078uEJpQk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T23:08:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jk078uejpqk-persistence-in-surveys-and-quizzes-live"
     },
     {
       "filename": "jtrcg8b76wu-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel.md",
@@ -3172,6 +3256,18 @@
       "slug": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai"
     },
     {
+      "filename": "kfbyk9km4fo-zero-cost-a2p-resubmission-update.md",
+      "title": "Zero Cost A2P Resubmission Update",
+      "videoId": "kfbYK9km4fo",
+      "url": "https://www.youtube.com/watch?v=kfbYK9km4fo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T22:00:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kfbyk9km4fo-zero-cost-a2p-resubmission-update"
+    },
+    {
       "filename": "kiu0durqbzw-boost-local-seo-with-ai-review-replies-highlevel-reviews-ai.md",
       "title": "Boost Local SEO With AI Review Replies | HighLevel Reviews AI",
       "videoId": "KIu0DURqbzw",
@@ -3218,6 +3314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "kpht5hignzo-how-to-set-up-a-personality-style-quiz-in-highlevel"
+    },
+    {
+      "filename": "kryngy-c-zi-google-forms-integration-live.md",
+      "title": "Google Forms Integration Live!",
+      "videoId": "kryngY_c_ZI",
+      "url": "https://www.youtube.com/watch?v=kryngY_c_ZI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T23:07:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kryngy-c-zi-google-forms-integration-live"
     },
     {
       "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
@@ -4168,6 +4276,18 @@
       "slug": "qcbdytvkcna-how-to-use-unique-fields-in-highlevel-custom-objects"
     },
     {
+      "filename": "qdv51tmy390-no-more-fees-on-a2p-resubmissions.md",
+      "title": "No more fees on A2P resubmissions!",
+      "videoId": "QDv51tmY390",
+      "url": "https://www.youtube.com/watch?v=QDv51tmY390",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T21:16:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qdv51tmy390-no-more-fees-on-a2p-resubmissions"
+    },
+    {
       "filename": "qnbxlil3xe8-did-you-know-you-can-get-certified-to-earn-clients-as-a-highlevel-expert.md",
       "title": "Did You Know You Can Get Certified to Earn Clients as a HighLevel Expert",
       "videoId": "qNBxLIl3xe8",
@@ -4848,7 +4968,7 @@
       "publishedDate": "2026-01-22T16:01:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tk5769s-xqu-integration-page-ui-ux-revamp"
     },
     {
@@ -5484,7 +5604,7 @@
       "publishedDate": "2026-01-22T12:18:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wbeiirbew4e-how-to-manage-social-media-comments-using-highlevel-social-planner"
     },
     {
@@ -5913,10 +6033,10 @@
       "videoId": "XVANflK-5-s",
       "url": "https://www.youtube.com/watch?v=XVANflK-5-s",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-16T19:31:08.000Z",
+      "publishedDate": "2026-01-23T15:19:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
     },
     {
@@ -5964,7 +6084,7 @@
       "publishedDate": "2026-01-22T12:14:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites"
     },
     {
@@ -6485,7 +6605,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 503,
+    "fresh": 513,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6497,7 +6617,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 494,
+        "fresh": 504,
         "warning": 0,
         "expired": 0,
         "unknown": null

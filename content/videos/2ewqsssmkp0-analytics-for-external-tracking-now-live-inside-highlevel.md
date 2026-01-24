@@ -1,10 +1,10 @@
 ---
-title: "Did You Know You Can Auto Generate Sales Funnels With AI Powered Copy"
-video_id: "d3r7jSB51Rc"
-url: "https://www.youtube.com/watch?v=d3r7jSB51Rc"
-thumbnail: "https://i.ytimg.com/vi/d3r7jSB51Rc/hqdefault.jpg"
+title: "Analytics for External Tracking Now Live inside HighLevel"
+video_id: "2EwQSsSmKP0"
+url: "https://www.youtube.com/watch?v=2EwQSsSmKP0"
+thumbnail: "https://i.ytimg.com/vi/2EwQSsSmKP0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-21T14:01:07.000Z"
+published_date: "2026-01-21T21:29:35.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-24T07:40:50.474Z"
+extracted_at: "2026-01-24T07:40:49.087Z"
 
 ---
 
-# 🟢 Did You Know You Can Auto Generate Sales Funnels With AI Powered Copy
+# 🟢 Analytics for External Tracking Now Live inside HighLevel
 
-**Video ID:** `d3r7jSB51Rc`
+**Video ID:** `2EwQSsSmKP0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 1/21/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-01-24T07:40:50.474Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=d3r7jSB51Rc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/d3r7jSB51Rc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=2EwQSsSmKP0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/2EwQSsSmKP0/hqdefault.jpg)
 
 
 ## Content Guidelines

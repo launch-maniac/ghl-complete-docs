@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Auto Generate Sales Funnels With AI Powered Copy"
-video_id: "d3r7jSB51Rc"
-url: "https://www.youtube.com/watch?v=d3r7jSB51Rc"
-thumbnail: "https://i.ytimg.com/vi/d3r7jSB51Rc/hqdefault.jpg"
+title: "Google Forms Integration Live!"
+video_id: "kryngY_c_ZI"
+url: "https://www.youtube.com/watch?v=kryngY_c_ZI"
+thumbnail: "https://i.ytimg.com/vi/kryngY_c_ZI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-21T14:01:07.000Z"
+published_date: "2026-01-23T23:07:57.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-24T07:40:50.474Z"
+extracted_at: "2026-01-24T07:40:45.304Z"
 
 ---
 
-# 🟢 Did You Know You Can Auto Generate Sales Funnels With AI Powered Copy
+# 🟢 Google Forms Integration Live!
 
-**Video ID:** `d3r7jSB51Rc`
+**Video ID:** `kryngY_c_ZI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/21/2026
+**Published:** 1/23/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-24T07:40:50.474Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=d3r7jSB51Rc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/d3r7jSB51Rc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kryngY_c_ZI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/kryngY_c_ZI/hqdefault.jpg)
 
 
 ## Content Guidelines

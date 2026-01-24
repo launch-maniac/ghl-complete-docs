@@ -1,14 +1,14 @@
 ---
-title: "Pete Mitchell – How I Built a Self-Running Agency with HighLevel"
-video_id: "lU26uUcS_bY"
-url: "https://www.youtube.com/watch?v=lU26uUcS_bY"
-thumbnail: "https://i.ytimg.com/vi/lU26uUcS_bY/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (January 19th - January 23rd 2026)"
+video_id: "1qWSIbWRsEs"
+url: "https://www.youtube.com/watch?v=1qWSIbWRsEs"
+thumbnail: "https://i.ytimg.com/vi/1qWSIbWRsEs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-21T15:59:34.000Z"
+published_date: "2026-01-23T19:16:40.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-24T07:40:49.788Z"
+extracted_at: "2026-01-24T07:40:46.010Z"
 
 ---
 
-# 🟢 Pete Mitchell – How I Built a Self-Running Agency with HighLevel
+# 🟢 The HighLevel Release Radar (January 19th - January 23rd 2026)
 
-**Video ID:** `lU26uUcS_bY`
+**Video ID:** `1qWSIbWRsEs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/21/2026
+**Published:** 1/23/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-24T07:40:49.788Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lU26uUcS_bY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lU26uUcS_bY/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=1qWSIbWRsEs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/1qWSIbWRsEs/hqdefault.jpg)
 
 
 ## Content Guidelines
