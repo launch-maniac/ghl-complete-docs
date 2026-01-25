@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-24T07:40:55.521Z",
+  "generated": "2026-01-25T07:41:38.947Z",
   "stats": {
     "channels": 1,
-    "videos": 30,
+    "videos": 25,
     "playlists": 0,
-    "expired": 0,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 30
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -108,7 +108,7 @@
       "publishedDate": "2026-01-22T23:29:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0c-b4mwg9mm-highlevel-conversation-views-save-filters-and-work-faster"
     },
     {
@@ -122,18 +122,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0d1kigh3aqc-how-to-control-banners-in-highlevel-for-a-cleaner-user-experience"
-    },
-    {
-      "filename": "0ejf-wpthca-social-planner-customizing-posts-for-each-social-media-channel-with-images-amp-videos.md",
-      "title": "Social Planner  Customizing Posts for Each Social Media Channel with Images &amp; Videos",
-      "videoId": "0Ejf-WpthcA",
-      "url": "https://www.youtube.com/watch?v=0Ejf-WpthcA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-26T00:00:01.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.9",
-      "slug": "0ejf-wpthca-social-planner-customizing-posts-for-each-social-media-channel-with-images-amp-videos"
     },
     {
       "filename": "0f5jw67cugo-revamped-trust-center-and-a2p-experience.md",
@@ -225,7 +213,7 @@
       "videoId": "1qWSIbWRsEs",
       "url": "https://www.youtube.com/watch?v=1qWSIbWRsEs",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-23T19:16:40.000Z",
+      "publishedDate": "2026-01-24T07:59:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -1372,18 +1360,6 @@
       "slug": "axf3xc7zyhs-the-highlevel-release-radar-december-1st-december-5th-2025"
     },
     {
-      "filename": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge.md",
-      "title": "Day 5 - Five Day AI Employee Challenge",
-      "videoId": "axWH0k_QQ1U",
-      "url": "https://www.youtube.com/watch?v=axWH0k_QQ1U",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-26T04:45:06.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.9",
-      "slug": "axwh0k-qq1u-day-5-five-day-ai-employee-challenge"
-    },
-    {
       "filename": "azakhuhejke-gift-cards-full-gift-card-creation-selling-sending-amp-redemption-live.md",
       "title": "Gift Cards – Full Gift Card Creation, Selling, Sending &amp; Redemption Live!",
       "videoId": "azaKHUHeJkE",
@@ -2376,7 +2352,7 @@
       "publishedDate": "2026-01-23T14:30:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fxwkcjn5pze-did-you-know-you-can-connect-any-app-to-highlevel"
     },
     {
@@ -2666,18 +2642,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025"
-    },
-    {
-      "filename": "h6lhmvi5dzm-the-quarterly-ama-with-co-founders-shaun-varun-and-robin.md",
-      "title": "The Quarterly AMA with Co-Founders Shaun, Varun, and Robin",
-      "videoId": "h6lHMVI5DzM",
-      "url": "https://www.youtube.com/watch?v=h6lHMVI5DzM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-07-26T04:06:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.9",
-      "slug": "h6lhmvi5dzm-the-quarterly-ama-with-co-founders-shaun-varun-and-robin"
     },
     {
       "filename": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country.md",
@@ -3036,7 +3000,7 @@
       "publishedDate": "2026-01-23T16:00:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "j4lcvlovqy-conversation-views-save-filters-work-faster"
     },
     {
@@ -3489,10 +3453,10 @@
       "videoId": "lU26uUcS_bY",
       "url": "https://www.youtube.com/watch?v=lU26uUcS_bY",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-21T15:59:34.000Z",
+      "publishedDate": "2026-01-25T06:09:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -4272,7 +4236,7 @@
       "publishedDate": "2026-01-22T21:54:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qcbdytvkcna-how-to-use-unique-fields-in-highlevel-custom-objects"
     },
     {
@@ -5004,7 +4968,7 @@
       "publishedDate": "2026-01-22T21:54:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tv-yittxjka-how-to-import-stripe-products-to-highlevel-39-s-saas-configurator"
     },
     {
@@ -5796,7 +5760,7 @@
       "publishedDate": "2026-01-23T01:31:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wy42tqrun80-how-to-create-and-manage-global-custom-colors-in-highlevel"
     },
     {
@@ -6036,7 +6000,7 @@
       "publishedDate": "2026-01-23T15:19:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
     },
     {
@@ -6372,7 +6336,7 @@
       "publishedDate": "2026-01-23T06:29:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yzyykqa7-pg-how-to-offer-sales-call-answering-as-a-service"
     },
     {
@@ -6605,7 +6569,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 513,
+    "fresh": 510,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6617,7 +6581,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 504,
+        "fresh": 501,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -4,19 +4,19 @@ video_id: "1qWSIbWRsEs"
 url: "https://www.youtube.com/watch?v=1qWSIbWRsEs"
 thumbnail: "https://i.ytimg.com/vi/1qWSIbWRsEs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-23T19:16:40.000Z"
+published_date: "2026-01-24T07:59:21.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
 age_in_months: "0.0"
-has_transcript: false
-transcript_language: "none"
-transcript_type: "none"
+has_transcript: true
+transcript_language: "en"
+transcript_type: "asr"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-24T07:40:46.010Z"
+extracted_at: "2026-01-25T07:41:30.127Z"
 
 ---
 
@@ -25,9 +25,9 @@ extracted_at: "2026-01-24T07:40:46.010Z"
 **Video ID:** `1qWSIbWRsEs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/23/2026
+**Published:** 1/24/2026
 **Content Type:** standard
-**Transcript:** ❌ Not available
+**Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
 **Video is 0.0 months old (fresh)**
@@ -36,8 +36,13 @@ extracted_at: "2026-01-24T07:40:46.010Z"
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript
-❌ **Transcript not available** - This video does not have captions or transcripts available.
+## 📝 Transcript Information
+
+**Language:** en
+**Type:** Auto-generated
+**Status:** 🔐 Available but requires OAuth2 authentication
+
+⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
 
 ---
 
@@ -52,7 +57,7 @@ extracted_at: "2026-01-24T07:40:46.010Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
+This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
 
 
 
@@ -62,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 1/24/2026*
-*Transcript extraction: ❌ Not available*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/25/2026*
+*Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
