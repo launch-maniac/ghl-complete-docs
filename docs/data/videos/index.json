@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-25T07:41:38.947Z",
+  "generated": "2026-01-26T07:45:39.296Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 18,
     "playlists": 0,
-    "expired": 6,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -216,7 +216,7 @@
       "publishedDate": "2026-01-24T07:59:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "1qwsibwrses-the-highlevel-release-radar-january-19th-january-23rd-2026"
     },
     {
@@ -3060,7 +3060,7 @@
       "publishedDate": "2026-01-23T23:08:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "jk078uejpqk-persistence-in-surveys-and-quizzes-live"
     },
     {
@@ -3228,7 +3228,7 @@
       "publishedDate": "2026-01-23T22:00:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kfbyk9km4fo-zero-cost-a2p-resubmission-update"
     },
     {
@@ -3288,7 +3288,7 @@
       "publishedDate": "2026-01-23T23:07:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kryngy-c-zi-google-forms-integration-live"
     },
     {
@@ -3648,7 +3648,7 @@
       "publishedDate": "2026-01-21T18:10:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026"
     },
     {
@@ -3684,7 +3684,7 @@
       "publishedDate": "2026-01-21T17:13:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry"
     },
     {
@@ -3840,7 +3840,7 @@
       "publishedDate": "2026-01-21T13:40:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel"
     },
     {
@@ -4248,7 +4248,7 @@
       "publishedDate": "2026-01-23T21:16:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qdv51tmy390-no-more-fees-on-a2p-resubmissions"
     },
     {
@@ -4356,7 +4356,7 @@
       "publishedDate": "2026-01-21T14:44:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "qyeokb-2wym-did-you-know-highlevel-can-send-automated-follow-ups"
     },
     {
