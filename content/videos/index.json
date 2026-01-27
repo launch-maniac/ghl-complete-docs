@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-26T07:45:39.296Z",
+  "generated": "2026-01-27T07:45:44.101Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 9,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 9
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -170,6 +170,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel"
+    },
+    {
+      "filename": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel.md",
+      "title": "From Click to Close: Smarter Tracking with HighLevel",
+      "videoId": "14kDSuXnV_c",
+      "url": "https://www.youtube.com/watch?v=14kDSuXnV_c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-26T16:17:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel"
     },
     {
       "filename": "18ckgdgzily-funnel-amp-website-ai-upgrades.md",
@@ -3052,6 +3064,18 @@
       "slug": "jgrqxpe-otu-video-testimonials-live"
     },
     {
+      "filename": "jk078uejpqk-highlevel-surveys-and-quizzes-now-supports-persistence.md",
+      "title": "HighLevel Surveys and Quizzes Now Supports Persistence",
+      "videoId": "JK078uEJpQk",
+      "url": "https://www.youtube.com/watch?v=JK078uEJpQk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T23:08:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "jk078uejpqk-highlevel-surveys-and-quizzes-now-supports-persistence"
+    },
+    {
       "filename": "jk078uejpqk-persistence-in-surveys-and-quizzes-live.md",
       "title": "Persistence in Surveys and Quizzes Live!",
       "videoId": "JK078uEJpQk",
@@ -3292,6 +3316,18 @@
       "slug": "kryngy-c-zi-google-forms-integration-live"
     },
     {
+      "filename": "kryngy-c-zi-google-forms-integration-now-live-inside-highlevel.md",
+      "title": "Google Forms Integration Now Live inside HighLevel!",
+      "videoId": "kryngY_c_ZI",
+      "url": "https://www.youtube.com/watch?v=kryngY_c_ZI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-23T23:07:57.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "kryngy-c-zi-google-forms-integration-now-live-inside-highlevel"
+    },
+    {
       "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
       "title": "How to Use Quick Filters to Improve Your Dashboard Efficiency",
       "videoId": "kVSpv_01AoM",
@@ -3456,7 +3492,7 @@
       "publishedDate": "2026-01-25T06:09:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
     },
     {
@@ -3681,10 +3717,10 @@
       "videoId": "nIZaBOTXs70",
       "url": "https://www.youtube.com/watch?v=nIZaBOTXs70",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-21T17:13:58.000Z",
+      "publishedDate": "2026-01-27T06:23:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry"
     },
     {
@@ -5812,6 +5848,18 @@
       "slug": "wzsg-jztz4g-service-based-appointments-can-now-be-edited-inside-highlevel"
     },
     {
+      "filename": "x1xqeveja5q-did-you-know-you-can-build-automated-email-list-segmentation-to-get-high-open-rates.md",
+      "title": "Did You Know You Can Build Automated Email List Segmentation to Get HIGH Open Rates?",
+      "videoId": "x1xQEveJA5Q",
+      "url": "https://www.youtube.com/watch?v=x1xQEveJA5Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-26T14:21:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x1xqeveja5q-did-you-know-you-can-build-automated-email-list-segmentation-to-get-high-open-rates"
+    },
+    {
       "filename": "x2lbi7wahli-how-to-use-highlevel-39-s-auto-save-feature-to-safeguard-your-workflows.md",
       "title": "How To Use HighLevel&#39;s Auto Save Feature to Safeguard Your Workflows",
       "videoId": "x2Lbi7WahlI",
@@ -6048,7 +6096,7 @@
       "publishedDate": "2026-01-22T12:14:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites"
     },
     {
@@ -6569,7 +6617,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 510,
+    "fresh": 514,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6581,7 +6629,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 501,
+        "fresh": 505,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "Entrepreneurial Internship Program Info Session | Summer 2026"
-video_id: "N4a_OLQaMmU"
-url: "https://www.youtube.com/watch?v=N4a_OLQaMmU"
-thumbnail: "https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault_live.jpg"
+title: "From Click to Close: Smarter Tracking with HighLevel"
+video_id: "14kDSuXnV_c"
+url: "https://www.youtube.com/watch?v=14kDSuXnV_c"
+thumbnail: "https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-21T18:10:08.000Z"
+published_date: "2026-01-26T16:17:24.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-27T07:45:36.993Z"
+extracted_at: "2026-01-27T07:45:35.084Z"
 
 ---
 
-# 🟢 Entrepreneurial Internship Program Info Session | Summer 2026
+# 🟢 From Click to Close: Smarter Tracking with HighLevel
 
-**Video ID:** `N4a_OLQaMmU`
+**Video ID:** `14kDSuXnV_c`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/21/2026
+**Published:** 1/26/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-27T07:45:36.993Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=N4a_OLQaMmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=14kDSuXnV_c)
+- [📷 Thumbnail](https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault_live.jpg)
 
 
 ## Content Guidelines

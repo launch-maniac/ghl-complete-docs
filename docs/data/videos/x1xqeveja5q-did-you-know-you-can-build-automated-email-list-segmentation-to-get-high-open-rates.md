@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (January 19th - January 23rd 2026)"
-video_id: "1qWSIbWRsEs"
-url: "https://www.youtube.com/watch?v=1qWSIbWRsEs"
-thumbnail: "https://i.ytimg.com/vi/1qWSIbWRsEs/hqdefault.jpg"
+title: "Did You Know You Can Build Automated Email List Segmentation to Get HIGH Open Rates?"
+video_id: "x1xQEveJA5Q"
+url: "https://www.youtube.com/watch?v=x1xQEveJA5Q"
+thumbnail: "https://i.ytimg.com/vi/x1xQEveJA5Q/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-24T07:59:21.000Z"
+published_date: "2026-01-26T14:21:40.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-27T07:45:35.812Z"
+extracted_at: "2026-01-27T07:45:35.285Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (January 19th - January 23rd 2026)
+# 🟢 Did You Know You Can Build Automated Email List Segmentation to Get HIGH Open Rates?
 
-**Video ID:** `1qWSIbWRsEs`
+**Video ID:** `x1xQEveJA5Q`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/24/2026
+**Published:** 1/26/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-27T07:45:35.812Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=1qWSIbWRsEs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/1qWSIbWRsEs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x1xQEveJA5Q)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x1xQEveJA5Q/hqdefault.jpg)
 
 
 ## Content Guidelines
