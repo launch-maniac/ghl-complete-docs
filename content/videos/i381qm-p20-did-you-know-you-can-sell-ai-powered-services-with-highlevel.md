@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Surveys and Quizzes Now Supports Persistence"
-video_id: "JK078uEJpQk"
-url: "https://www.youtube.com/watch?v=JK078uEJpQk"
-thumbnail: "https://i.ytimg.com/vi/JK078uEJpQk/hqdefault.jpg"
+title: "Did You Know You Can Sell AI Powered Services with HighLevel"
+video_id: "-i381qm-p20"
+url: "https://www.youtube.com/watch?v=-i381qm-p20"
+thumbnail: "https://i.ytimg.com/vi/-i381qm-p20/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-23T23:08:23.000Z"
+published_date: "2026-01-27T13:31:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-28T07:44:44.304Z"
+extracted_at: "2026-01-28T07:44:43.219Z"
 
 ---
 
-# 🟢 HighLevel Surveys and Quizzes Now Supports Persistence
+# 🟢 Did You Know You Can Sell AI Powered Services with HighLevel
 
-**Video ID:** `JK078uEJpQk`
+**Video ID:** `-i381qm-p20`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/23/2026
+**Published:** 1/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-28T07:44:44.304Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JK078uEJpQk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/JK078uEJpQk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-i381qm-p20)
+- [📷 Thumbnail](https://i.ytimg.com/vi/-i381qm-p20/hqdefault.jpg)
 
 
 ## Content Guidelines
