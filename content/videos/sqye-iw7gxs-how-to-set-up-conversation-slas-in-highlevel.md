@@ -1,14 +1,14 @@
 ---
-title: "Google Forms Integration Now Live inside HighLevel!"
-video_id: "kryngY_c_ZI"
-url: "https://www.youtube.com/watch?v=kryngY_c_ZI"
-thumbnail: "https://i.ytimg.com/vi/kryngY_c_ZI/hqdefault.jpg"
+title: "How To Set Up Conversation SLAs in HighLevel"
+video_id: "sQye_iw7gxs"
+url: "https://www.youtube.com/watch?v=sQye_iw7gxs"
+thumbnail: "https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-23T23:07:57.000Z"
+published_date: "2026-01-28T22:10:58.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-29T07:50:40.908Z"
+extracted_at: "2026-01-29T07:50:38.321Z"
 
 ---
 
-# 🟢 Google Forms Integration Now Live inside HighLevel!
+# 🟢 How To Set Up Conversation SLAs in HighLevel
 
-**Video ID:** `kryngY_c_ZI`
+**Video ID:** `sQye_iw7gxs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/23/2026
+**Published:** 1/28/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-29T07:50:40.908Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kryngY_c_ZI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/kryngY_c_ZI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sQye_iw7gxs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg)
 
 
 ## Content Guidelines
