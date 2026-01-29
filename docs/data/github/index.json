@@ -6,12 +6,12 @@
       "description": null,
       "url": "https://github.com/GoHighLevel/ghl-marketplace-app-template",
       "stars": 73,
-      "forks": 63,
+      "forks": 64,
       "lastUpdated": "2026-01-11T17:45:41Z",
       "topics": [],
       "language": "TypeScript",
       "license": "Unknown",
-      "extractedAt": "2026-01-28T02:47:28.264Z"
+      "extractedAt": "2026-01-29T03:00:11.276Z"
     },
     {
       "name": "ghl-sdk-examples",
@@ -24,7 +24,7 @@
       "topics": [],
       "language": "HTML",
       "license": "Unknown",
-      "extractedAt": "2026-01-28T02:47:29.244Z"
+      "extractedAt": "2026-01-29T03:00:12.633Z"
     },
     {
       "name": "highlevel-api-sdk",
@@ -37,10 +37,10 @@
       "topics": [],
       "language": "TypeScript",
       "license": "MIT License",
-      "extractedAt": "2026-01-28T02:47:30.080Z"
+      "extractedAt": "2026-01-29T03:00:13.881Z"
     }
   ],
   "totalDocuments": 3,
   "totalCodeExamples": 6,
-  "lastUpdate": "2026-01-28T02:47:30.081Z"
+  "lastUpdate": "2026-01-29T03:00:13.881Z"
 }
