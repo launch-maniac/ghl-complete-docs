@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-01-30T09:16:21.942Z"
+extracted_at: "2026-01-30T12:09:49.597Z"
 ---
 
 # Hi, how can we help you?
@@ -128,72 +128,72 @@ Contacts
 
 HighLevel API
 
-Modified on Thu, 8 Jan at 10:50 AM
+Modified on Thu, 8 Jan at 10:20 PM
 
 ](/support/solutions/articles/48001060529-highlevel-api)[
 
 How to Set Up a Whitelabel Domain for the Desktop Web App
 
-Modified on Fri, 26 Sep, 2025 at 1:44 PM
+Modified on Sat, 27 Sep, 2025 at 12:14 AM
 
 ](/support/solutions/articles/48000982207-how-to-set-up-a-whitelabel-domain-for-the-desktop-web-app)[
 
 Dedicated Email Sending Domains Overview & Setup
 
-Modified on Thu, 22 Jan at 7:44 AM
+Modified on Thu, 22 Jan at 7:14 PM
 
 ](/support/solutions/articles/48001226115-dedicated-email-sending-domains-overview-setup)[
 
 24/7 Customer Support Options
 
-Modified on Mon, 2 Jun, 2025 at 9:40 AM
+Modified on Mon, 2 Jun, 2025 at 8:10 PM
 
 ](/support/solutions/articles/155000000969-24-7-customer-support-options)[
 
 SaaS Mode - Full Setup Guide + FAQ
 
-Modified on Tue, 26 Aug, 2025 at 3:40 AM
+Modified on Tue, 26 Aug, 2025 at 2:10 PM
 
 ](/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq)[
 
 LC Phone Pricing & Billing Guide
 
-Modified on Wed, 28 Jan at 3:25 AM
+Modified on Wed, 28 Jan at 2:55 PM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
 
 List of Merge Fields
 
-Modified on Mon, 10 Nov, 2025 at 10:19 AM
+Modified on Mon, 10 Nov, 2025 at 9:49 PM
 
 ](/support/solutions/articles/48001078171-list-of-merge-fields)[
 
 How to set up Root Domain/Subdomain for your Funnels/Websites?
 
-Modified on Thu, 18 Dec, 2025 at 6:36 AM
+Modified on Thu, 18 Dec, 2025 at 6:06 PM
 
 ](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
 What is LC (Lead Connector) Phone System?
 
-Modified on Sun, 3 Aug, 2025 at 6:12 AM
+Modified on Sun, 3 Aug, 2025 at 4:42 PM
 
 ](/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-)[
 
 HighLevel Pricing Guide
 
-Modified on Tue, 27 Jan at 12:41 PM
+Modified on Wed, 28 Jan at 12:11 AM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
 
 LC - Phone Messaging Policy
 
-Modified on Wed, 10 Sep, 2025 at 7:51 AM
+Modified on Wed, 10 Sep, 2025 at 6:21 PM
 
 ](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
 How do I find my Client's Location ID?
 
-Modified on Thu, 22 Jan at 4:10 PM
+Modified on Fri, 23 Jan at 3:40 AM
 
 ](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)
