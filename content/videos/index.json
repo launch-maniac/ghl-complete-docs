@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-29T07:50:45.821Z",
+  "generated": "2026-01-30T07:50:45.303Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 15,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -177,10 +177,10 @@
       "videoId": "14kDSuXnV_c",
       "url": "https://www.youtube.com/watch?v=14kDSuXnV_c",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-26T16:17:24.000Z",
+      "publishedDate": "2026-01-30T06:35:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel"
     },
     {
@@ -254,6 +254,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "1tmcvffhp6k-integration-page-ui-ux-revamp-live"
+    },
+    {
+      "filename": "1v181gxnfpa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed.md",
+      "title": "Did You Know AI Can Transfer Chats to a Human When Needed?",
+      "videoId": "1V181gXNfpA",
+      "url": "https://www.youtube.com/watch?v=1V181gXNfpA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-29T13:34:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "1v181gxnfpa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed"
     },
     {
       "filename": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system.md",
@@ -2164,6 +2176,18 @@
       "slug": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel"
     },
     {
+      "filename": "fcm7ccmuqrw-did-you-know-you-can-centralize-task-management-in-highlevel.md",
+      "title": "Did You Know You Can Centralize Task Management in HighLevel?",
+      "videoId": "FcM7CCmuQRw",
+      "url": "https://www.youtube.com/watch?v=FcM7CCmuQRw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-29T13:35:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fcm7ccmuqrw-did-you-know-you-can-centralize-task-management-in-highlevel"
+    },
+    {
       "filename": "fderugliywq-day-3-five-day-ai-employee-challenge.md",
       "title": "Day 3 - Five Day AI Employee Challenge",
       "videoId": "FderUGLiYwQ",
@@ -2318,6 +2342,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
+    },
+    {
+      "filename": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel.md",
+      "title": "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel",
+      "videoId": "FWwvtPtkgFE",
+      "url": "https://www.youtube.com/watch?v=FWwvtPtkgFE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-29T20:15:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
       "filename": "fxaihvknjlq-automate-networking-and-lead-follow-up-irl-with-a-highlevel-powered-digital-business-car.md",
@@ -2532,7 +2568,7 @@
       "publishedDate": "2026-01-27T21:34:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gkevvoyj-og-did-you-know-you-can-boost-call-pick-ups-with-local-numbers"
     },
     {
@@ -2861,7 +2897,7 @@
     },
     {
       "filename": "i381qm-p20-did-you-know-you-can-sell-ai-powered-services-with-highlevel.md",
-      "title": "Did You Know You Can Sell AI Powered Services with HighLevel",
+      "title": "Did You Know You Can Sell AI Powered Services with HighLevel?",
       "videoId": "-i381qm-p20",
       "url": "https://www.youtube.com/watch?v=-i381qm-p20",
       "source": "GoHighLevel Official - Last 180 Days",
@@ -3552,7 +3588,7 @@
       "publishedDate": "2026-01-28T16:01:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mamg-ojclwc-google-forms-integration"
     },
     {
@@ -4260,7 +4296,7 @@
       "publishedDate": "2026-01-27T21:03:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pxowxzwy3ay-highlevel-case-studies-from-stay-at-home-mom-to-800k-saas-how-keepful-scaled-with-highle"
     },
     {
@@ -4632,7 +4668,7 @@
       "publishedDate": "2026-01-28T19:00:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "s5jfffpz7om-response-persistence-in-surveys-and-quizzes"
     },
     {
@@ -5066,6 +5102,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "tv-yittxjka-how-to-import-stripe-products-to-highlevel-39-s-saas-configurator"
+    },
+    {
+      "filename": "tvu4y3fyo-c-build-smarter-funnels-with-highlevel.md",
+      "title": "Build Smarter Funnels with HighLevel",
+      "videoId": "tvu4Y3fyo-c",
+      "url": "https://www.youtube.com/watch?v=tvu4Y3fyo-c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-29T14:58:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tvu4y3fyo-c-build-smarter-funnels-with-highlevel"
     },
     {
       "filename": "txuaymoekq0-the-highlevel-release-radar-december-8th-december-12th-2025.md",
@@ -6040,6 +6088,18 @@
       "slug": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025"
     },
     {
+      "filename": "xmgliyvgfzw-internship-program-info-session.md",
+      "title": "Internship Program Info Session",
+      "videoId": "xmgliyvGFZw",
+      "url": "https://www.youtube.com/watch?v=xmgliyvGFZw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-29T23:11:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xmgliyvgfzw-internship-program-info-session"
+    },
+    {
       "filename": "xmouhskcjc4-selling-gift-cards-with-highlevel-checkout-link.md",
       "title": "Selling Gift Cards with HighLevel Checkout Link",
       "videoId": "XmoUhsKCJC4",
@@ -6672,7 +6732,7 @@
       "publishedDate": "2026-01-28T18:20:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zym3uk3i0i8-did-you-know-you-can-boost-ratings-with-automated-review-requests"
     },
     {
@@ -6689,7 +6749,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 520,
+    "fresh": 525,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6701,7 +6761,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 511,
+        "fresh": 516,
         "warning": 0,
         "expired": 0,
         "unknown": null

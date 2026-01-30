@@ -1,10 +1,10 @@
 ---
-title: "From Click to Close: Smarter Tracking with HighLevel"
-video_id: "14kDSuXnV_c"
-url: "https://www.youtube.com/watch?v=14kDSuXnV_c"
-thumbnail: "https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault.jpg"
+title: "Build Smarter Funnels with HighLevel"
+video_id: "tvu4Y3fyo-c"
+url: "https://www.youtube.com/watch?v=tvu4Y3fyo-c"
+thumbnail: "https://i.ytimg.com/vi/tvu4Y3fyo-c/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-30T06:35:29.000Z"
+published_date: "2026-01-29T14:58:28.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-30T07:50:38.308Z"
+extracted_at: "2026-01-30T07:50:38.891Z"
 
 ---
 
-# 🟢 From Click to Close: Smarter Tracking with HighLevel
+# 🟢 Build Smarter Funnels with HighLevel
 
-**Video ID:** `14kDSuXnV_c`
+**Video ID:** `tvu4Y3fyo-c`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/30/2026
+**Published:** 1/29/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-30T07:50:38.308Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=14kDSuXnV_c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=tvu4Y3fyo-c)
+- [📷 Thumbnail](https://i.ytimg.com/vi/tvu4Y3fyo-c/hqdefault_live.jpg)
 
 
 ## Content Guidelines

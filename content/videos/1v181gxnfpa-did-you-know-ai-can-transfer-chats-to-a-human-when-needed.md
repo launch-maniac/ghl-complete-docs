@@ -1,10 +1,10 @@
 ---
-title: "How To Set Up Conversation SLAs in HighLevel"
-video_id: "sQye_iw7gxs"
-url: "https://www.youtube.com/watch?v=sQye_iw7gxs"
-thumbnail: "https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg"
+title: "Did You Know AI Can Transfer Chats to a Human When Needed?"
+video_id: "1V181gXNfpA"
+url: "https://www.youtube.com/watch?v=1V181gXNfpA"
+thumbnail: "https://i.ytimg.com/vi/1V181gXNfpA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-28T22:10:58.000Z"
+published_date: "2026-01-29T13:34:50.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-30T07:50:39.590Z"
+extracted_at: "2026-01-30T07:50:39.293Z"
 
 ---
 
-# 🟢 How To Set Up Conversation SLAs in HighLevel
+# 🟢 Did You Know AI Can Transfer Chats to a Human When Needed?
 
-**Video ID:** `sQye_iw7gxs`
+**Video ID:** `1V181gXNfpA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/28/2026
+**Published:** 1/29/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-30T07:50:39.590Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sQye_iw7gxs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=1V181gXNfpA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/1V181gXNfpA/hqdefault.jpg)
 
 
 ## Content Guidelines

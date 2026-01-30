@@ -1,10 +1,10 @@
 ---
-title: "How To Set Up Conversation SLAs in HighLevel"
-video_id: "sQye_iw7gxs"
-url: "https://www.youtube.com/watch?v=sQye_iw7gxs"
-thumbnail: "https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg"
+title: "Internship Program Info Session"
+video_id: "xmgliyvGFZw"
+url: "https://www.youtube.com/watch?v=xmgliyvGFZw"
+thumbnail: "https://i.ytimg.com/vi/xmgliyvGFZw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-28T22:10:58.000Z"
+published_date: "2026-01-29T23:11:22.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-30T07:50:39.590Z"
+extracted_at: "2026-01-30T07:50:38.518Z"
 
 ---
 
-# 🟢 How To Set Up Conversation SLAs in HighLevel
+# 🟢 Internship Program Info Session
 
-**Video ID:** `sQye_iw7gxs`
+**Video ID:** `xmgliyvGFZw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/28/2026
+**Published:** 1/29/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-30T07:50:39.590Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sQye_iw7gxs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=xmgliyvGFZw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/xmgliyvGFZw/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,10 +1,10 @@
 ---
-title: "From Click to Close: Smarter Tracking with HighLevel"
-video_id: "14kDSuXnV_c"
-url: "https://www.youtube.com/watch?v=14kDSuXnV_c"
-thumbnail: "https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault.jpg"
+title: "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel"
+video_id: "FWwvtPtkgFE"
+url: "https://www.youtube.com/watch?v=FWwvtPtkgFE"
+thumbnail: "https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-30T06:35:29.000Z"
+published_date: "2026-01-29T20:15:40.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-30T07:50:38.308Z"
+extracted_at: "2026-01-30T07:50:38.712Z"
 
 ---
 
-# 🟢 From Click to Close: Smarter Tracking with HighLevel
+# 🟢 Case Study: How Active Solutions Scaled to 250 Clients with HighLevel
 
-**Video ID:** `14kDSuXnV_c`
+**Video ID:** `FWwvtPtkgFE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/30/2026
+**Published:** 1/29/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-01-30T07:50:38.308Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=14kDSuXnV_c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/14kDSuXnV_c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FWwvtPtkgFE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault_live.jpg)
 
 
 ## Content Guidelines

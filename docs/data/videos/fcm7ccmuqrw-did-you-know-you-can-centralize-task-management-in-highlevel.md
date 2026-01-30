@@ -1,10 +1,10 @@
 ---
-title: "How To Set Up Conversation SLAs in HighLevel"
-video_id: "sQye_iw7gxs"
-url: "https://www.youtube.com/watch?v=sQye_iw7gxs"
-thumbnail: "https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg"
+title: "Did You Know You Can Centralize Task Management in HighLevel?"
+video_id: "FcM7CCmuQRw"
+url: "https://www.youtube.com/watch?v=FcM7CCmuQRw"
+thumbnail: "https://i.ytimg.com/vi/FcM7CCmuQRw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-28T22:10:58.000Z"
+published_date: "2026-01-29T13:35:52.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-30T07:50:39.590Z"
+extracted_at: "2026-01-30T07:50:39.118Z"
 
 ---
 
-# 🟢 How To Set Up Conversation SLAs in HighLevel
+# 🟢 Did You Know You Can Centralize Task Management in HighLevel?
 
-**Video ID:** `sQye_iw7gxs`
+**Video ID:** `FcM7CCmuQRw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/28/2026
+**Published:** 1/29/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-30T07:50:39.590Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sQye_iw7gxs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sQye_iw7gxs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FcM7CCmuQRw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/FcM7CCmuQRw/hqdefault.jpg)
 
 
 ## Content Guidelines
