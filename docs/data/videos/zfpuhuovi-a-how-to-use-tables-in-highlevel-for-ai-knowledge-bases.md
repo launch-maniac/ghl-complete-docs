@@ -1,14 +1,14 @@
 ---
-title: "Entrepreneurial Internship Program Info Session | Summer 2026"
-video_id: "N4a_OLQaMmU"
-url: "https://www.youtube.com/watch?v=N4a_OLQaMmU"
-thumbnail: "https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault.jpg"
+title: "How To Use Tables in HighLevel for AI Knowledge Bases"
+video_id: "zFPUhuOvi-A"
+url: "https://www.youtube.com/watch?v=zFPUhuOvi-A"
+thumbnail: "https://i.ytimg.com/vi/zFPUhuOvi-A/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-01-29T06:38:43.000Z"
+published_date: "2026-01-30T22:30:42.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-01-31T07:45:52.002Z"
+extracted_at: "2026-01-31T07:45:50.250Z"
 
 ---
 
-# 🟢 Entrepreneurial Internship Program Info Session | Summer 2026
+# 🟢 How To Use Tables in HighLevel for AI Knowledge Bases
 
-**Video ID:** `N4a_OLQaMmU`
+**Video ID:** `zFPUhuOvi-A`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 1/29/2026
+**Published:** 1/30/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-01-31T07:45:52.002Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=N4a_OLQaMmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/N4a_OLQaMmU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zFPUhuOvi-A)
+- [📷 Thumbnail](https://i.ytimg.com/vi/zFPUhuOvi-A/hqdefault.jpg)
 
 
 ## Content Guidelines

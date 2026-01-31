@@ -1,14 +1,14 @@
 ---
-title: "Drip Content Courses Now Live in Communities!"
-video_id: "LIkWdL0AT9M"
-url: "https://www.youtube.com/watch?v=LIkWdL0AT9M"
-thumbnail: "https://i.ytimg.com/vi/LIkWdL0AT9M/hqdefault.jpg"
+title: "The HighLevel Release Radar (January 26th - January 30th 2026)"
+video_id: "zNM2aHgLnlU"
+url: "https://www.youtube.com/watch?v=zNM2aHgLnlU"
+thumbnail: "https://i.ytimg.com/vi/zNM2aHgLnlU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-01T00:58:55.000Z"
+published_date: "2026-01-30T19:39:30.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 1.7 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "1.7"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:12.013Z"
+extracted_at: "2026-01-31T07:45:50.446Z"
 
 ---
 
-# 🟢 Drip Content Courses Now Live in Communities!
+# 🟢 The HighLevel Release Radar (January 26th - January 30th 2026)
 
-**Video ID:** `LIkWdL0AT9M`
+**Video ID:** `zNM2aHgLnlU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 7/31/2025
+**Published:** 1/30/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 1.7 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:12.013Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=LIkWdL0AT9M)
-- [📷 Thumbnail](https://i.ytimg.com/vi/LIkWdL0AT9M/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zNM2aHgLnlU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/zNM2aHgLnlU/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 1/31/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

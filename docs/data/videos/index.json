@@ -1,10 +1,10 @@
 {
-  "generated": "2026-01-30T07:50:45.303Z",
+  "generated": "2026-01-31T07:45:57.561Z",
   "stats": {
     "channels": 1,
     "videos": 15,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -264,7 +264,7 @@
       "publishedDate": "2026-01-29T13:34:50.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "1v181gxnfpa-did-you-know-ai-can-transfer-chats-to-a-human-when-needed"
     },
     {
@@ -1804,18 +1804,6 @@
       "slug": "d6szzzjhvai-did-you-know-you-can-jumpstart-your-business-using-our-template-library"
     },
     {
-      "filename": "dce3jd8mt-s-win-high-paying-clients-with-linkedin-content-system-with-nicholas-kirchner.md",
-      "title": "Win High-Paying Clients with LinkedIn Content System with Nicholas Kirchner",
-      "videoId": "DCe3jD8mt-s",
-      "url": "https://www.youtube.com/watch?v=DCe3jD8mt-s",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-01T05:37:07.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.7",
-      "slug": "dce3jd8mt-s-win-high-paying-clients-with-linkedin-content-system-with-nicholas-kirchner"
-    },
-    {
       "filename": "depxrdcjcqi-mobile-service-v2-appointments-in-calendars.md",
       "title": "Mobile: Service v2 Appointments in Calendars",
       "videoId": "dEpXrdcJcqI",
@@ -2184,7 +2172,7 @@
       "publishedDate": "2026-01-29T13:35:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fcm7ccmuqrw-did-you-know-you-can-centralize-task-management-in-highlevel"
     },
     {
@@ -3448,18 +3436,6 @@
       "slug": "lgzf0icqdbs-clay-lawrence-shares-his-journey-200-customers-gold-saas-award-amp-affiliate-growth"
     },
     {
-      "filename": "likwdl0at9m-drip-content-courses-now-live-in-communities.md",
-      "title": "Drip Content Courses Now Live in Communities!",
-      "videoId": "LIkWdL0AT9M",
-      "url": "https://www.youtube.com/watch?v=LIkWdL0AT9M",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-01T00:58:55.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.7",
-      "slug": "likwdl0at9m-drip-content-courses-now-live-in-communities"
-    },
-    {
       "filename": "lkppwzjisf4-support-for-custom-values-in-calendars.md",
       "title": "Support for Custom Values in Calendars",
       "videoId": "LKPpwzjiSF4",
@@ -3744,7 +3720,7 @@
       "publishedDate": "2026-01-29T06:38:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026"
     },
     {
@@ -4836,7 +4812,7 @@
       "publishedDate": "2026-01-28T22:10:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sqye-iw7gxs-how-to-set-up-conversation-slas-in-highlevel"
     },
     {
@@ -5112,7 +5088,7 @@
       "publishedDate": "2026-01-29T14:58:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tvu4y3fyo-c-build-smarter-funnels-with-highlevel"
     },
     {
@@ -6568,6 +6544,18 @@
       "slug": "zegb5rwo834-day-2-replay-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
+      "filename": "zfpuhuovi-a-how-to-use-tables-in-highlevel-for-ai-knowledge-bases.md",
+      "title": "How To Use Tables in HighLevel for AI Knowledge Bases",
+      "videoId": "zFPUhuOvi-A",
+      "url": "https://www.youtube.com/watch?v=zFPUhuOvi-A",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-30T22:30:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zfpuhuovi-a-how-to-use-tables-in-highlevel-for-ai-knowledge-bases"
+    },
+    {
       "filename": "zhknnk1nmwe-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
       "title": "Austin Schneider – Get Clients Without Cold DMs Using HighLevel",
       "videoId": "ZhKnnK1nmWE",
@@ -6650,6 +6638,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zmsohcxheg-add-multiple-date-specific-hours-for-services"
+    },
+    {
+      "filename": "znm2ahglnlu-the-highlevel-release-radar-january-26th-january-30th-2026.md",
+      "title": "The HighLevel Release Radar (January 26th - January 30th 2026)",
+      "videoId": "zNM2aHgLnlU",
+      "url": "https://www.youtube.com/watch?v=zNM2aHgLnlU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-01-30T19:39:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "znm2ahglnlu-the-highlevel-release-radar-january-26th-january-30th-2026"
     },
     {
       "filename": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads.md",
