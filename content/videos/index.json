@@ -1,14 +1,14 @@
 {
-  "generated": "2026-01-31T07:45:57.561Z",
+  "generated": "2026-02-01T07:48:47.384Z",
   "stats": {
     "channels": 1,
-    "videos": 15,
+    "videos": 10,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 15
+    "transcriptsFailed": 10
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -180,7 +180,7 @@
       "publishedDate": "2026-01-30T06:35:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel"
     },
     {
@@ -2340,7 +2340,7 @@
       "publishedDate": "2026-01-29T20:15:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
@@ -2892,7 +2892,7 @@
       "publishedDate": "2026-01-27T13:31:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "i381qm-p20-did-you-know-you-can-sell-ai-powered-services-with-highlevel"
     },
     {
@@ -5085,10 +5085,10 @@
       "videoId": "tvu4Y3fyo-c",
       "url": "https://www.youtube.com/watch?v=tvu4Y3fyo-c",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-29T14:58:28.000Z",
+      "publishedDate": "2026-02-01T06:00:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "tvu4y3fyo-c-build-smarter-funnels-with-highlevel"
     },
     {
@@ -6072,7 +6072,7 @@
       "publishedDate": "2026-01-29T23:11:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xmgliyvgfzw-internship-program-info-session"
     },
     {
@@ -6645,7 +6645,7 @@
       "videoId": "zNM2aHgLnlU",
       "url": "https://www.youtube.com/watch?v=zNM2aHgLnlU",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-30T19:39:30.000Z",
+      "publishedDate": "2026-01-31T08:10:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
