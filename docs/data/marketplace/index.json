@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-02T09:21:02.213Z",
+  "generated": "2026-02-02T12:12:41.307Z",
   "stats": {
     "categories": 0,
-    "docs": 22,
+    "docs": 27,
     "errors": 27,
     "successful": 27,
     "failed": [],
     "retries": 0,
-    "startTime": 1770023807159
+    "startTime": 1770034105338
   },
   "documents": [
     {
@@ -144,6 +144,13 @@
       "slug": "developer-help-the-page-you-were-looking-for-doesn-t-exist-404"
     },
     {
+      "filename": "developer-portal-subpage-affiliate-agreement.md",
+      "title": "Affiliate Agreement",
+      "type": "developer-portal-subpage",
+      "url": "https://www.gohighlevel.com/affiliate-policy",
+      "slug": "developer-portal-subpage-affiliate-agreement"
+    },
+    {
       "filename": "developer-portal-subpage-api-2-0-docs.md",
       "title": "API 2.0 Docs",
       "type": "developer-portal-subpage",
@@ -151,11 +158,25 @@
       "slug": "developer-portal-subpage-api-2-0-docs"
     },
     {
+      "filename": "developer-portal-subpage-community.md",
+      "title": "Community",
+      "type": "developer-portal-subpage",
+      "url": "https://gohighlevel.com/dev-slack",
+      "slug": "developer-portal-subpage-community"
+    },
+    {
       "filename": "developer-portal-subpage-documentation.md",
       "title": "Documentation",
       "type": "developer-portal-subpage",
       "url": "https://marketplace.gohighlevel.com/docs/",
       "slug": "developer-portal-subpage-documentation"
+    },
+    {
+      "filename": "developer-portal-subpage-highlevel-vs-activecampaign.md",
+      "title": "HighLevel Vs ActiveCampaign",
+      "type": "developer-portal-subpage",
+      "url": "https://www.gohighlevel.com/highlevel-vs-activecampaign",
+      "slug": "developer-portal-subpage-highlevel-vs-activecampaign"
     },
     {
       "filename": "developer-portal-subpage-learn-more-about-our-api.md",
