@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-01T07:48:47.384Z",
+  "generated": "2026-02-02T07:52:54.414Z",
   "stats": {
     "channels": 1,
-    "videos": 10,
+    "videos": 5,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 10
+    "transcriptsFailed": 5
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -6552,7 +6552,7 @@
       "publishedDate": "2026-01-30T22:30:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zfpuhuovi-a-how-to-use-tables-in-highlevel-for-ai-knowledge-bases"
     },
     {
@@ -6648,7 +6648,7 @@
       "publishedDate": "2026-01-31T08:10:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "znm2ahglnlu-the-highlevel-release-radar-january-26th-january-30th-2026"
     },
     {
