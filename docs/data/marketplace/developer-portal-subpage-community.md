@@ -3,12 +3,12 @@ title: "Community"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://gohighlevel.com/dev-slack"
-extracted_at: "2026-02-03T12:09:29.927Z"
+extracted_at: "2026-02-03T15:19:28.267Z"
 ---
 
 # ![Icon for www.gohighlevel.com](/favicon.ico)www.gohighlevel.com
 
-Verify you are human by completing the action below.
+Verifying you are human. This may take a few seconds.
 
 www.gohighlevel.com needs to review the security of your connection before proceeding.
 
