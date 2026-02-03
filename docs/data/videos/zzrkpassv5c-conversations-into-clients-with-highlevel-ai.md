@@ -1,10 +1,10 @@
 ---
-title: "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel"
-video_id: "FWwvtPtkgFE"
-url: "https://www.youtube.com/watch?v=FWwvtPtkgFE"
-thumbnail: "https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg"
+title: "Conversations into Clients with HighLevel AI"
+video_id: "ZZRkPAssV5c"
+url: "https://www.youtube.com/watch?v=ZZRkPAssV5c"
+thumbnail: "https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-03T06:14:48.000Z"
+published_date: "2026-02-02T19:02:01.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-03T07:51:24.756Z"
+extracted_at: "2026-02-03T07:51:25.191Z"
 
 ---
 
-# 🟢 Case Study: How Active Solutions Scaled to 250 Clients with HighLevel
+# 🟢 Conversations into Clients with HighLevel AI
 
-**Video ID:** `FWwvtPtkgFE`
+**Video ID:** `ZZRkPAssV5c`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/3/2026
+**Published:** 2/2/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-02-03T07:51:24.756Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FWwvtPtkgFE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZZRkPAssV5c)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault_live.jpg)
 
 
 ## Content Guidelines

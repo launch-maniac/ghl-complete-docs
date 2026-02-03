@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-02T07:52:54.414Z",
+  "generated": "2026-02-03T07:51:30.174Z",
   "stats": {
     "channels": 1,
-    "videos": 5,
+    "videos": 6,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 5
+    "transcriptsFailed": 6
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1408,6 +1408,18 @@
       "slug": "azakhuhejke-highlevel-gift-cards-now-live-with-full-creation-selling-sending-and-redemption"
     },
     {
+      "filename": "b-isoxj-j2g-did-you-know-you-can-fill-your-calendar-with-appointment-from-instagram-replies.md",
+      "title": "Did You Know You Can Fill Your Calendar with Appointment from Instagram Replies?",
+      "videoId": "b-ISoXj_J2g",
+      "url": "https://www.youtube.com/watch?v=b-ISoXj_J2g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-02T13:46:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "b-isoxj-j2g-did-you-know-you-can-fill-your-calendar-with-appointment-from-instagram-replies"
+    },
+    {
       "filename": "b-kbd7y3age-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "B-KBD7Y3aGE",
@@ -1586,6 +1598,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
+    },
+    {
+      "filename": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner.md",
+      "title": "Going From Mom to 7-Figure Agency Owner",
+      "videoId": "c10jOoRxR2E",
+      "url": "https://www.youtube.com/watch?v=c10jOoRxR2E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-02T20:50:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
       "filename": "caq5l3y4rq0-monetize-custom-ai-agents-in-your-saas-plan-highlevel-snapshot-hack.md",
@@ -2337,10 +2361,10 @@
       "videoId": "FWwvtPtkgFE",
       "url": "https://www.youtube.com/watch?v=FWwvtPtkgFE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-01-29T20:15:40.000Z",
+      "publishedDate": "2026-02-03T06:14:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
@@ -5088,7 +5112,7 @@
       "publishedDate": "2026-02-01T06:00:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tvu4y3fyo-c-build-smarter-funnels-with-highlevel"
     },
     {
@@ -6746,10 +6770,22 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zzctptk6taa-service-appointments-can-now-be-edited"
+    },
+    {
+      "filename": "zzrkpassv5c-conversations-into-clients-with-highlevel-ai.md",
+      "title": "Conversations into Clients with HighLevel AI",
+      "videoId": "ZZRkPAssV5c",
+      "url": "https://www.youtube.com/watch?v=ZZRkPAssV5c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-02T19:02:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zzrkpassv5c-conversations-into-clients-with-highlevel-ai"
     }
   ],
   "freshnessSummary": {
-    "fresh": 525,
+    "fresh": 528,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6761,7 +6797,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 516,
+        "fresh": 519,
         "warning": 0,
         "expired": 0,
         "unknown": null
