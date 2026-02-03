@@ -3,17 +3,17 @@ title: "Community"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://gohighlevel.com/dev-slack"
-extracted_at: "2026-02-03T18:19:04.135Z"
+extracted_at: "2026-02-03T21:13:59.820Z"
 ---
 
-# ![Icon for www.gohighlevel.com](/favicon.ico)www.gohighlevel.com
+![Icon for www.gohighlevel.com](/favicon.ico)
 
-Verify you are human by completing the action below.
+# www.gohighlevel.com
 
-www.gohighlevel.com needs to review the security of your connection before proceeding.
+## Performing security verification
 
-Verification successful
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 
-Waiting for www.gohighlevel.com to respond...
+## Verification successful. Waiting for www.gohighlevel.com to respond
 
 Enable JavaScript and cookies to continue

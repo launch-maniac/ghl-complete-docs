@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-03T18:21:41.275Z"
+extracted_at: "2026-02-03T21:16:34.689Z"
 ---
 
 # Hi, how can we help you?
@@ -140,7 +140,7 @@ Modified on Fri, 26 Sep, 2025 at 1:44 PM
 
 Dedicated Email Sending Domains Overview & Setup
 
-Modified on Thu, 22 Jan at 7:44 AM
+Modified on Tue, 3 Feb at 2:48 PM
 
 ](/support/solutions/articles/48001226115-dedicated-email-sending-domains-overview-setup)[
 
