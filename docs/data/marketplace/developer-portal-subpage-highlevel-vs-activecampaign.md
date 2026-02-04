@@ -3,17 +3,17 @@ title: "HighLevel Vs ActiveCampaign"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://www.gohighlevel.com/highlevel-vs-activecampaign"
-extracted_at: "2026-02-03T21:15:16.636Z"
+extracted_at: "2026-02-04T06:18:22.241Z"
 ---
 
-![Icon for www.gohighlevel.com](/favicon.ico)
+# ![Icon for www.gohighlevel.com](/favicon.ico)www.gohighlevel.com
 
-# www.gohighlevel.com
+Verify you are human by completing the action below.
 
-## Performing security verification
+www.gohighlevel.com needs to review the security of your connection before proceeding.
 
-This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+Verification successful
 
-## Verification successful. Waiting for www.gohighlevel.com to respond
+Waiting for www.gohighlevel.com to respond...
 
 Enable JavaScript and cookies to continue
