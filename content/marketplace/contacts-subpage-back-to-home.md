@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-04T12:12:11.681Z"
+extracted_at: "2026-02-04T15:20:00.528Z"
 ---
 
 # Hi, how can we help you?
@@ -126,11 +126,11 @@ Contacts
 
 [
 
-HighLevel API
+HighLevel API Documentation
 
-Modified on Thu, 8 Jan at 10:50 AM
+Modified on Wed, 4 Feb at 7:34 AM
 
-](/support/solutions/articles/48001060529-highlevel-api)[
+](/support/solutions/articles/48001060529-highlevel-api-documentation)[
 
 How to Set Up a Whitelabel Domain for the Desktop Web App
 
