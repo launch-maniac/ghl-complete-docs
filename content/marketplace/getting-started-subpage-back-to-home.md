@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-04T15:19:49.446Z"
+extracted_at: "2026-02-04T18:20:38.587Z"
 ---
 
 # Hi, how can we help you?
@@ -39,6 +39,14 @@ Tickets
 ![no results](/assets/cdn/portal/images/no-results.png)
 
 Sorry! nothing found for  
+
+[
+
+LevelUp 2025 Releases
+
+
+
+](/support/solutions/155000000253)
 
 [
 
@@ -110,16 +118,6 @@ Email
 
 ](/support/solutions/48000449563)
 
-[
-
-![Contacts](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035732134/original/xAtkKIwnWpZuwGJmD8sXjW_-sWvc4zvT3w.png)
-
-Contacts
-
-
-
-](/support/solutions/155000000123)
-
 #### Most popular articles
 
 [View all articles](/support/solutions)
@@ -188,7 +186,7 @@ Modified on Tue, 27 Jan at 12:41 PM
 
 LC - Phone Messaging Policy
 
-Modified on Mon, 2 Feb at 8:22 AM
+Modified on Wed, 4 Feb at 10:37 AM
 
 ](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
