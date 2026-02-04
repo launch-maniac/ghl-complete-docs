@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-03T07:51:30.174Z",
+  "generated": "2026-02-04T07:52:09.551Z",
   "stats": {
     "channels": 1,
-    "videos": 6,
+    "videos": 10,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 6
+    "transcriptsFailed": 10
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1416,7 +1416,7 @@
       "publishedDate": "2026-02-02T13:46:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "b-isoxj-j2g-did-you-know-you-can-fill-your-calendar-with-appointment-from-instagram-replies"
     },
     {
@@ -2356,6 +2356,18 @@
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
     },
     {
+      "filename": "fvzjnyo5kg4-auto-ai-follow-up-live-in-flow-builder.md",
+      "title": "Auto AI Follow - Up Live in Flow Builder!",
+      "videoId": "fvZjNYO5KG4",
+      "url": "https://www.youtube.com/watch?v=fvZjNYO5KG4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-03T21:49:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fvzjnyo5kg4-auto-ai-follow-up-live-in-flow-builder"
+    },
+    {
       "filename": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel.md",
       "title": "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel",
       "videoId": "FWwvtPtkgFE",
@@ -3170,6 +3182,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "k19w9eefjgi-how-to-optimize-your-website-using-browser-and-ip-analytics"
+    },
+    {
+      "filename": "k2qa7rkqgo-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel.md",
+      "title": "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel",
+      "videoId": "_k2QA7RkQgo",
+      "url": "https://www.youtube.com/watch?v=_k2QA7RkQgo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-03T21:33:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k2qa7rkqgo-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
       "filename": "k3vuevrdlfc-how-to-manage-pipeline-permissions-in-highlevel.md",
@@ -4468,6 +4492,18 @@
       "slug": "qyeokb-2wym-did-you-know-highlevel-can-send-automated-follow-ups"
     },
     {
+      "filename": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel.md",
+      "title": "Did You Know You Can Boost Your Google Business Profile right within HighLevel",
+      "videoId": "qZMqXUSv7t0",
+      "url": "https://www.youtube.com/watch?v=qZMqXUSv7t0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-03T18:13:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel"
+    },
+    {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
       "title": "SaaSPRENEUR Workshop with Frank Kern - Day 1",
       "videoId": "r-dWumZHG6c",
@@ -5380,18 +5416,6 @@
       "slug": "uslipztho20-did-you-know-highlevel-can-automatically-transcribe-and-summarize-your-calls"
     },
     {
-      "filename": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users.md",
-      "title": "Documents and Contracts: Improved Language Support for International Users!",
-      "videoId": "V_ADAxTOWmI",
-      "url": "https://www.youtube.com/watch?v=V_ADAxTOWmI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-04T22:52:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.5",
-      "slug": "v-adaxtowmi-documents-and-contracts-improved-language-support-for-international-users"
-    },
-    {
       "filename": "v0kfoklvsxk-how-to-use-highlevel-39-s-ask-ai-to-streamline-content-creation-and-publishing.md",
       "title": "How To Use HighLevel&#39;s Ask AI to Streamline Content Creation and Publishing",
       "videoId": "v0KFokLvSxk",
@@ -5848,18 +5872,6 @@
       "slug": "wl9rhczrr9g-did-you-know-you-can-use-ai-powered-forms-to-create-instant-estimates-for-your-prospects"
     },
     {
-      "filename": "wn4i1ninpzm-whatsapp-support-for-internal-notifications.md",
-      "title": "WhatsApp support for internal notifications!",
-      "videoId": "wn4i1niNPZM",
-      "url": "https://www.youtube.com/watch?v=wn4i1niNPZM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-04T22:52:42.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.5",
-      "slug": "wn4i1ninpzm-whatsapp-support-for-internal-notifications"
-    },
-    {
       "filename": "wquckwmkhnc-selling-gift-cards-using-the-qr-code.md",
       "title": "Selling Gift Cards Using the QR Code",
       "videoId": "WQuCKWmkHNc",
@@ -6170,6 +6182,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar"
+    },
+    {
+      "filename": "xvarzthtdzs-we-are-soc-2-compliant.md",
+      "title": "We are SOC 2 Compliant!",
+      "videoId": "xVarztHtDzs",
+      "url": "https://www.youtube.com/watch?v=xVarztHtDzs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-03T21:49:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xvarzthtdzs-we-are-soc-2-compliant"
     },
     {
       "filename": "xve6bfthnau-highlevel-calendars-now-support-custom-values.md",
@@ -6748,6 +6772,18 @@
       "slug": "zv2k1wrzr6e-agent-studio-triggers"
     },
     {
+      "filename": "zv7s-4hgbx4-five-years-on-highlevel-still-the-best-decision-we-made.md",
+      "title": "Five Years on HighLevel. Still the Best Decision We Made.",
+      "videoId": "ZV7S_4hgbx4",
+      "url": "https://www.youtube.com/watch?v=ZV7S_4hgbx4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-03T21:35:39.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zv7s-4hgbx4-five-years-on-highlevel-still-the-best-decision-we-made"
+    },
+    {
       "filename": "zym3uk3i0i8-did-you-know-you-can-boost-ratings-with-automated-review-requests.md",
       "title": "Did You Know You Can Boost Ratings with Automated Review Requests",
       "videoId": "ZyM3UK3i0i8",
@@ -6780,12 +6816,12 @@
       "publishedDate": "2026-02-02T19:02:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zzrkpassv5c-conversations-into-clients-with-highlevel-ai"
     }
   ],
   "freshnessSummary": {
-    "fresh": 528,
+    "fresh": 531,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6797,7 +6833,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 519,
+        "fresh": 522,
         "warning": 0,
         "expired": 0,
         "unknown": null

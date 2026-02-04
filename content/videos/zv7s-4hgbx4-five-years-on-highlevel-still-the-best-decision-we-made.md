@@ -1,10 +1,10 @@
 ---
-title: "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel"
-video_id: "FWwvtPtkgFE"
-url: "https://www.youtube.com/watch?v=FWwvtPtkgFE"
-thumbnail: "https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg"
+title: "Five Years on HighLevel. Still the Best Decision We Made."
+video_id: "ZV7S_4hgbx4"
+url: "https://www.youtube.com/watch?v=ZV7S_4hgbx4"
+thumbnail: "https://i.ytimg.com/vi/ZV7S_4hgbx4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-03T06:14:48.000Z"
+published_date: "2026-02-03T21:35:39.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-04T07:52:01.955Z"
+extracted_at: "2026-02-04T07:52:01.259Z"
 
 ---
 
-# 🟢 Case Study: How Active Solutions Scaled to 250 Clients with HighLevel
+# 🟢 Five Years on HighLevel. Still the Best Decision We Made.
 
-**Video ID:** `FWwvtPtkgFE`
+**Video ID:** `ZV7S_4hgbx4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 2/3/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-02-04T07:52:01.955Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FWwvtPtkgFE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZV7S_4hgbx4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZV7S_4hgbx4/hqdefault.jpg)
 
 
 ## Content Guidelines

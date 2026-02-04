@@ -1,10 +1,10 @@
 ---
-title: "Case Study: How Active Solutions Scaled to 250 Clients with HighLevel"
-video_id: "FWwvtPtkgFE"
-url: "https://www.youtube.com/watch?v=FWwvtPtkgFE"
-thumbnail: "https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg"
+title: "Auto AI Follow - Up Live in Flow Builder!"
+video_id: "fvZjNYO5KG4"
+url: "https://www.youtube.com/watch?v=fvZjNYO5KG4"
+thumbnail: "https://i.ytimg.com/vi/fvZjNYO5KG4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-03T06:14:48.000Z"
+published_date: "2026-02-03T21:49:49.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-04T07:52:01.955Z"
+extracted_at: "2026-02-04T07:52:01.072Z"
 
 ---
 
-# 🟢 Case Study: How Active Solutions Scaled to 250 Clients with HighLevel
+# 🟢 Auto AI Follow - Up Live in Flow Builder!
 
-**Video ID:** `FWwvtPtkgFE`
+**Video ID:** `fvZjNYO5KG4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 2/3/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-02-04T07:52:01.955Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FWwvtPtkgFE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/FWwvtPtkgFE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fvZjNYO5KG4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fvZjNYO5KG4/hqdefault.jpg)
 
 
 ## Content Guidelines
