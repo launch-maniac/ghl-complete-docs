@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-04T21:14:37.991Z"
+extracted_at: "2026-02-05T00:11:52.011Z"
 ---
 
 # Hi, how can we help you?
@@ -39,14 +39,6 @@ Tickets
 ![no results](/assets/cdn/portal/images/no-results.png)
 
 Sorry! nothing found for  
-
-[
-
-LevelUp 2025 Releases
-
-
-
-](/support/solutions/155000000253)
 
 [
 
@@ -118,6 +110,16 @@ Email
 
 ](/support/solutions/48000449563)
 
+[
+
+![Contacts](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035732134/original/xAtkKIwnWpZuwGJmD8sXjW_-sWvc4zvT3w.png)
+
+Contacts
+
+
+
+](/support/solutions/155000000123)
+
 #### Most popular articles
 
 [View all articles](/support/solutions)
@@ -162,7 +164,7 @@ Modified on Wed, 28 Jan at 3:25 AM
 
 List of Merge Fields
 
-Modified on Mon, 10 Nov, 2025 at 10:19 AM
+Modified on Wed, 4 Feb at 4:51 PM
 
 ](/support/solutions/articles/48001078171-list-of-merge-fields)[
 
