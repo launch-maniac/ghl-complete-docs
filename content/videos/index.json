@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-04T07:52:09.551Z",
+  "generated": "2026-02-05T07:53:11.098Z",
   "stats": {
     "channels": 1,
-    "videos": 10,
+    "videos": 16,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 10
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1608,7 +1608,7 @@
       "publishedDate": "2026-02-02T20:50:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -2376,7 +2376,7 @@
       "publishedDate": "2026-02-03T06:14:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fwwvtptkgfe-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
@@ -2716,6 +2716,18 @@
       "slug": "h6kd-hvsk9k-the-highlevel-release-radar-december-15th-december-19th-2025"
     },
     {
+      "filename": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel.md",
+      "title": "Day 1 - AI Sales Systems You Can Launch with HighLevel",
+      "videoId": "h6rtZsz2s-4",
+      "url": "https://www.youtube.com/watch?v=h6rtZsz2s-4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T21:23:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
+    },
+    {
       "filename": "h8xetfkdubm-how-to-analyze-funnel-and-website-traffic-by-country.md",
       "title": "How to Analyze Funnel and Website Traffic by Country",
       "videoId": "H8XetFkDUBM",
@@ -2978,6 +2990,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ifzczbxahtm-cloning-content-in-new-course-builder"
+    },
+    {
+      "filename": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder.md",
+      "title": "Auto AI Follow Up Live in Flow Builder",
+      "videoId": "IhLWuDfo3wk",
+      "url": "https://www.youtube.com/watch?v=IhLWuDfo3wk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T22:00:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder"
     },
     {
       "filename": "ilf11najm78-agent-studio-triggers-live.md",
@@ -3590,6 +3614,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "lw7ppsydtna-highlevel-clipboard-attachment-support-across-all-channels-now-live"
+    },
+    {
+      "filename": "lwwy4kqouaw-marketing-audit-report-workflow-action-live.md",
+      "title": "Marketing Audit Report Workflow Action Live!",
+      "videoId": "LwWy4KQOuaw",
+      "url": "https://www.youtube.com/watch?v=LwWy4KQOuaw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T23:14:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lwwy4kqouaw-marketing-audit-report-workflow-action-live"
     },
     {
       "filename": "m90nbyl8gds-snapshot-masterclass-build-smarter-with-highlevel.md",
@@ -4500,7 +4536,7 @@
       "publishedDate": "2026-02-03T18:13:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel"
     },
     {
@@ -4910,6 +4946,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.7",
       "slug": "sv1id-z6dpw-how-to-set-up-whatsapp-coexistence-feature-for-your-business"
+    },
+    {
+      "filename": "svo-cvae8d4-we-are-soc-2-compliant.md",
+      "title": "We are SOC 2 Compliant!",
+      "videoId": "SvO-Cvae8d4",
+      "url": "https://www.youtube.com/watch?v=SvO-Cvae8d4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T19:00:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "svo-cvae8d4-we-are-soc-2-compliant"
     },
     {
       "filename": "swvpaec5ht0-day-1-replay-build-your-ai-sales-team-track-follow-up-convert.md",
@@ -6460,6 +6508,18 @@
       "slug": "yq2p-kwhtuk-communities-go-live-on-mobile-app"
     },
     {
+      "filename": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel.md",
+      "title": "Day 2 - AI Sales Systems You Can Launch with HighLevel",
+      "videoId": "yrgbIzuqwKs",
+      "url": "https://www.youtube.com/watch?v=yrgbIzuqwKs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T21:24:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
+    },
+    {
       "filename": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
       "title": "Day 2 - HighLevel Funnels That Capture, Nurture and Close",
       "videoId": "yRXAiSwWWKQ",
@@ -6566,6 +6626,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
+    },
+    {
+      "filename": "zcbrj-miyiw-how-to-unlock-the-power-of-conversation-ai-public-apis-in-highlevel.md",
+      "title": "How To Unlock the Power of Conversation AI Public APIs in HighLevel",
+      "videoId": "ZCBrj_miYiw",
+      "url": "https://www.youtube.com/watch?v=ZCBrj_miYiw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T20:11:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zcbrj-miyiw-how-to-unlock-the-power-of-conversation-ai-public-apis-in-highlevel"
     },
     {
       "filename": "zedtwlrg1me-custom-dispositions-for-voice-calls.md",
@@ -6700,6 +6772,18 @@
       "slug": "znm2ahglnlu-the-highlevel-release-radar-january-26th-january-30th-2026"
     },
     {
+      "filename": "zoy43ho9vju-how-to-leverage-conversation-ai-to-read-and-respond-to-images-and-files-in-highlevel-liv.md",
+      "title": "How To Leverage Conversation AI to Read and Respond to Images and Files in HighLevel Live Chat",
+      "videoId": "zOy43hO9VjU",
+      "url": "https://www.youtube.com/watch?v=zOy43hO9VjU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T20:12:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zoy43ho9vju-how-to-leverage-conversation-ai-to-read-and-respond-to-images-and-files-in-highlevel-liv"
+    },
+    {
       "filename": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads.md",
       "title": "Did You Know You Can Use Trigger Links to Qualify New Leads?",
       "videoId": "zQm_oy4K2n8",
@@ -6821,7 +6905,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 531,
+    "fresh": 538,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6833,7 +6917,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 522,
+        "fresh": 529,
         "warning": 0,
         "expired": 0,
         "unknown": null
