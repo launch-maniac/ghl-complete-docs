@@ -2,13 +2,13 @@
 title: "Conversations into Clients with HighLevel AI"
 video_id: "ZZRkPAssV5c"
 url: "https://www.youtube.com/watch?v=ZZRkPAssV5c"
-thumbnail: "https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-02T19:02:01.000Z"
+published_date: "2026-02-06T06:32:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-05T07:53:06.337Z"
+extracted_at: "2026-02-06T07:52:27.846Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2026-02-05T07:53:06.337Z"
 **Video ID:** `ZZRkPAssV5c`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/2/2026
+**Published:** 2/6/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2026-02-05T07:53:06.337Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZZRkPAssV5c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZZRkPAssV5c/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/5/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/6/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

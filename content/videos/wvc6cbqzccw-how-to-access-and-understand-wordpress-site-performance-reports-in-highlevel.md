@@ -1,14 +1,14 @@
 ---
-title: "Five Years on HighLevel. Still the Best Decision We Made."
-video_id: "ZV7S_4hgbx4"
-url: "https://www.youtube.com/watch?v=ZV7S_4hgbx4"
-thumbnail: "https://i.ytimg.com/vi/ZV7S_4hgbx4/hqdefault.jpg"
+title: "How To Access and Understand WordPress Site Performance Reports in HighLevel"
+video_id: "wvc6CbQzCcw"
+url: "https://www.youtube.com/watch?v=wvc6CbQzCcw"
+thumbnail: "https://i.ytimg.com/vi/wvc6CbQzCcw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-03T21:35:39.000Z"
+published_date: "2026-02-06T03:25:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-06T07:52:30.921Z"
+extracted_at: "2026-02-06T07:52:28.158Z"
 
 ---
 
-# 🟢 Five Years on HighLevel. Still the Best Decision We Made.
+# 🟢 How To Access and Understand WordPress Site Performance Reports in HighLevel
 
-**Video ID:** `ZV7S_4hgbx4`
+**Video ID:** `wvc6CbQzCcw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/3/2026
+**Published:** 2/6/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-06T07:52:30.921Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZV7S_4hgbx4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZV7S_4hgbx4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=wvc6CbQzCcw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/wvc6CbQzCcw/hqdefault.jpg)
 
 
 ## Content Guidelines

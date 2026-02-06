@@ -1,10 +1,10 @@
 ---
-title: "Day 2 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "yrgbIzuqwKs"
-url: "https://www.youtube.com/watch?v=yrgbIzuqwKs"
-thumbnail: "https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault_live.jpg"
+title: "Day 2 - Build Sales + Retention Systems in HighLevel"
+video_id: "6LmlogUxEoM"
+url: "https://www.youtube.com/watch?v=6LmlogUxEoM"
+thumbnail: "https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-04T21:24:51.000Z"
+published_date: "2026-02-05T16:07:03.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-06T07:52:29.547Z"
+extracted_at: "2026-02-06T07:52:28.693Z"
 
 ---
 
-# 🟢 Day 2 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Day 2 - Build Sales + Retention Systems in HighLevel
 
-**Video ID:** `yrgbIzuqwKs`
+**Video ID:** `6LmlogUxEoM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/4/2026
+**Published:** 2/5/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-02-06T07:52:29.547Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yrgbIzuqwKs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6LmlogUxEoM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault_live.jpg)
 
 
 ## Content Guidelines

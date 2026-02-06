@@ -1,14 +1,14 @@
 ---
-title: "Knowledge Base and Bot Training"
-video_id: "pfnbXycWqVg"
-url: "https://www.youtube.com/watch?v=pfnbXycWqVg"
-thumbnail: "https://i.ytimg.com/vi/pfnbXycWqVg/hqdefault.jpg"
+title: "Day 1 - Build Sales + Retention Systems in HighLevel"
+video_id: "YM-W5BzLBAc"
+url: "https://www.youtube.com/watch?v=YM-W5BzLBAc"
+thumbnail: "https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-06T18:15:50.000Z"
+published_date: "2026-02-05T16:04:35.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 1.5 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "1.5"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.784Z"
+extracted_at: "2026-02-06T07:52:28.816Z"
 
 ---
 
-# 🟢 Knowledge Base and Bot Training
+# 🟢 Day 1 - Build Sales + Retention Systems in HighLevel
 
-**Video ID:** `pfnbXycWqVg`
+**Video ID:** `YM-W5BzLBAc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/6/2025
+**Published:** 2/5/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 1.5 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:11.784Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pfnbXycWqVg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/pfnbXycWqVg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YM-W5BzLBAc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/6/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

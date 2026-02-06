@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-05T07:53:11.098Z",
+  "generated": "2026-02-06T07:52:36.032Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 22,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 22
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -374,6 +374,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "2xyh00mnfao-kalvin-morris-easy-ways-to-scale-with-highlevel-and-smart-systems"
+    },
+    {
+      "filename": "336-cad-tec-how-to-use-custom-values-within-your-wordpress-sites-inside-of-highlevel.md",
+      "title": "How To Use Custom Values Within Your WordPress Sites Inside of HighLevel",
+      "videoId": "336_cad_TEc",
+      "url": "https://www.youtube.com/watch?v=336_cad_TEc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T03:26:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "336-cad-tec-how-to-use-custom-values-within-your-wordpress-sites-inside-of-highlevel"
     },
     {
       "filename": "35yiadsh8o8-how-to-configure-affiliate-payout-methods.md",
@@ -866,6 +878,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6ino1sj-bqa-how-to-send-gift-cards"
+    },
+    {
+      "filename": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel.md",
+      "title": "Day 2 - Build Sales + Retention Systems in HighLevel",
+      "videoId": "6LmlogUxEoM",
+      "url": "https://www.youtube.com/watch?v=6LmlogUxEoM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-05T16:07:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel"
     },
     {
       "filename": "6mku8ti6yba-customizable-navigation-tabs-for-communities-live.md",
@@ -2356,6 +2380,18 @@
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
     },
     {
+      "filename": "fvif1kckr6g-marketing-audit-report-workflow-action-live.md",
+      "title": "Marketing Audit Report Workflow Action Live!",
+      "videoId": "FVif1KCKR6g",
+      "url": "https://www.youtube.com/watch?v=FVif1KCKR6g",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-05T16:00:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fvif1kckr6g-marketing-audit-report-workflow-action-live"
+    },
+    {
       "filename": "fvzjnyo5kg4-auto-ai-follow-up-live-in-flow-builder.md",
       "title": "Auto AI Follow - Up Live in Flow Builder!",
       "videoId": "fvZjNYO5KG4",
@@ -2364,7 +2400,7 @@
       "publishedDate": "2026-02-03T21:49:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fvzjnyo5kg4-auto-ai-follow-up-live-in-flow-builder"
     },
     {
@@ -3216,7 +3252,7 @@
       "publishedDate": "2026-02-03T21:33:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k2qa7rkqgo-case-study-how-active-solutions-scaled-to-250-clients-with-highlevel"
     },
     {
@@ -4192,18 +4228,6 @@
       "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
-      "filename": "pfnbxycwqvg-knowledge-base-and-bot-training.md",
-      "title": "Knowledge Base and Bot Training",
-      "videoId": "pfnbXycWqVg",
-      "url": "https://www.youtube.com/watch?v=pfnbXycWqVg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-06T18:15:50.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.5",
-      "slug": "pfnbxycwqvg-knowledge-base-and-bot-training"
-    },
-    {
       "filename": "pfon-xno080-did-you-know-you-can-run-all-your-socials-from-the-highlevel-mobile-app.md",
       "title": "Did You Know You Can Run All Your Socials from the HighLevel Mobile App?",
       "videoId": "PfoN_xNo080",
@@ -4696,6 +4720,18 @@
       "slug": "rknhcwjrwvs-facebook-instagram-amp-voice-ai-added-to-chat-widgets-all-in-one-widget-live"
     },
     {
+      "filename": "rtatxcweg6e-highlevel-live-india-get-your-tickets-today.md",
+      "title": "HighLevel LIVE India.  Get your tickets today!",
+      "videoId": "RtatXCweg6E",
+      "url": "https://www.youtube.com/watch?v=RtatXCweg6E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-05T19:19:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "rtatxcweg6e-highlevel-live-india-get-your-tickets-today"
+    },
+    {
       "filename": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection.md",
       "title": "How to Add &#39;Other&#39; Option to Forms &amp; Surveys for Accurate Data Collection",
       "videoId": "RWWjxMOy2cA",
@@ -4956,7 +4992,7 @@
       "publishedDate": "2026-02-04T19:00:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "svo-cvae8d4-we-are-soc-2-compliant"
     },
     {
@@ -5944,6 +5980,18 @@
       "slug": "wrxt4uzke1m-google-business-profile-post-scheduler-live"
     },
     {
+      "filename": "wvc6cbqzccw-how-to-access-and-understand-wordpress-site-performance-reports-in-highlevel.md",
+      "title": "How To Access and Understand WordPress Site Performance Reports in HighLevel",
+      "videoId": "wvc6CbQzCcw",
+      "url": "https://www.youtube.com/watch?v=wvc6CbQzCcw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T03:25:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wvc6cbqzccw-how-to-access-and-understand-wordpress-site-performance-reports-in-highlevel"
+    },
+    {
       "filename": "wy0isvhnfz8-autosave-now-live-in-ai-builder.md",
       "title": "Autosave Now Live in AI Builder!",
       "videoId": "WY0iSVHnfZ8",
@@ -6240,7 +6288,7 @@
       "publishedDate": "2026-02-03T21:49:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xvarzthtdzs-we-are-soc-2-compliant"
     },
     {
@@ -6448,6 +6496,18 @@
       "slug": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger"
     },
     {
+      "filename": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel.md",
+      "title": "Day 1 - Build Sales + Retention Systems in HighLevel",
+      "videoId": "YM-W5BzLBAc",
+      "url": "https://www.youtube.com/watch?v=YM-W5BzLBAc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-05T16:04:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel"
+    },
+    {
       "filename": "yn-qmp6mv4k-selling-gift-cards-using-the-embed-code.md",
       "title": "Selling Gift Cards Using the Embed Code",
       "videoId": "yn_QMp6MV4k",
@@ -6542,6 +6602,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number"
+    },
+    {
+      "filename": "yu0gic3eh2o-highlevel-live-is-built-for-builders-this-community-is-a-big-part-of-what-s-next.md",
+      "title": "HighLevel LIVE is built for builders. This community is a big part of what’s next.",
+      "videoId": "yu0gIc3eh2o",
+      "url": "https://www.youtube.com/watch?v=yu0gIc3eh2o",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T01:45:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yu0gic3eh2o-highlevel-live-is-built-for-builders-this-community-is-a-big-part-of-what-s-next"
     },
     {
       "filename": "yutzirmdqps-how-to-create-snapshots-with-custom-objects-in-highlevel.md",
@@ -6864,7 +6936,7 @@
       "publishedDate": "2026-02-03T21:35:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zv7s-4hgbx4-five-years-on-highlevel-still-the-best-decision-we-made"
     },
     {
@@ -6897,15 +6969,15 @@
       "videoId": "ZZRkPAssV5c",
       "url": "https://www.youtube.com/watch?v=ZZRkPAssV5c",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-02T19:02:01.000Z",
+      "publishedDate": "2026-02-06T06:32:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "zzrkpassv5c-conversations-into-clients-with-highlevel-ai"
     }
   ],
   "freshnessSummary": {
-    "fresh": 538,
+    "fresh": 544,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6917,7 +6989,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 529,
+        "fresh": 535,
         "warning": 0,
         "expired": 0,
         "unknown": null
