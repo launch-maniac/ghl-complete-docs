@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "h6rtZsz2s-4"
-url: "https://www.youtube.com/watch?v=h6rtZsz2s-4"
-thumbnail: "https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (February 2nd - February 6th 2026)"
+video_id: "PQ6Fmn2mQlk"
+url: "https://www.youtube.com/watch?v=PQ6Fmn2mQlk"
+thumbnail: "https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-04T21:23:19.000Z"
+published_date: "2026-02-07T07:37:05.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-07T07:47:03.278Z"
+extracted_at: "2026-02-07T07:46:59.571Z"
 
 ---
 
-# 🟢 Day 1 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 The HighLevel Release Radar (February 2nd - February 6th 2026)
 
-**Video ID:** `h6rtZsz2s-4`
+**Video ID:** `PQ6Fmn2mQlk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/4/2026
+**Published:** 2/7/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-02-07T07:47:03.278Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=h6rtZsz2s-4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PQ6Fmn2mQlk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg)
 
 
 ## Content Guidelines

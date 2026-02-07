@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-06T07:52:36.032Z",
+  "generated": "2026-02-07T07:47:08.723Z",
   "stats": {
     "channels": 1,
-    "videos": 22,
+    "videos": 25,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 22
+    "transcriptsFailed": 25
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -520,6 +520,18 @@
       "slug": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025"
     },
     {
+      "filename": "44uep5wx0b8-advanced-tag-filtering-in-triggers-live.md",
+      "title": "Advanced Tag filtering in Triggers Live!",
+      "videoId": "44UEp5wx0b8",
+      "url": "https://www.youtube.com/watch?v=44UEp5wx0b8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T22:36:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "44uep5wx0b8-advanced-tag-filtering-in-triggers-live"
+    },
+    {
       "filename": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
       "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
       "videoId": "4bFQG-BpMSw",
@@ -888,7 +900,7 @@
       "publishedDate": "2026-02-05T16:07:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -2388,7 +2400,7 @@
       "publishedDate": "2026-02-05T16:00:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fvif1kckr6g-marketing-audit-report-workflow-action-live"
     },
     {
@@ -2760,7 +2772,7 @@
       "publishedDate": "2026-02-04T21:23:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -2980,6 +2992,18 @@
       "slug": "i381qm-p20-did-you-know-you-can-sell-ai-powered-services-with-highlevel"
     },
     {
+      "filename": "i3rxka-ydnk-how-to-use-the-advanced-workflow-builder-an-introduction-guide.md",
+      "title": "How To Use the Advanced Workflow Builder: An Introduction Guide",
+      "videoId": "i3rxkA-ydnk",
+      "url": "https://www.youtube.com/watch?v=i3rxkA-ydnk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T21:57:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "evergreen",
+      "ageInMonths": "0.0",
+      "slug": "i3rxka-ydnk-how-to-use-the-advanced-workflow-builder-an-introduction-guide"
+    },
+    {
       "filename": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025.md",
       "title": "The HighLevel Release Radar (October 20th - October 24th 2025)",
       "videoId": "IamLMg2uIs8",
@@ -3036,7 +3060,7 @@
       "publishedDate": "2026-02-04T22:00:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder"
     },
     {
@@ -3290,6 +3314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025"
+    },
+    {
+      "filename": "k5u2fyqbak-see-you-at-highlevel-live-india.md",
+      "title": "See you at HighLevel LIVE India!",
+      "videoId": "_k5u2FYQBAk",
+      "url": "https://www.youtube.com/watch?v=_k5u2FYQBAk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-07T00:30:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k5u2fyqbak-see-you-at-highlevel-live-india"
     },
     {
       "filename": "k6-n-eildwu-google-contacts-integration-now-live.md",
@@ -3660,7 +3696,7 @@
       "publishedDate": "2026-02-04T23:14:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lwwy4kqouaw-marketing-audit-report-workflow-action-live"
     },
     {
@@ -3698,6 +3734,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests"
+    },
+    {
+      "filename": "md9e60bsaoc-email-ai-beta-2-0-better-faster-smarter-is-live.md",
+      "title": "Email AI - Beta 2.0 Better, Faster, Smarter is Live!",
+      "videoId": "md9e60BSAoc",
+      "url": "https://www.youtube.com/watch?v=md9e60BSAoc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T22:36:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "md9e60bsaoc-email-ai-beta-2-0-better-faster-smarter-is-live"
     },
     {
       "filename": "mffr9blzwdq-button-icons-for-form-builder.md",
@@ -4336,6 +4384,18 @@
       "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
     },
     {
+      "filename": "pq6fmn2mqlk-the-highlevel-release-radar-february-2nd-february-6th-2026.md",
+      "title": "The HighLevel Release Radar (February 2nd - February 6th 2026)",
+      "videoId": "PQ6Fmn2mQlk",
+      "url": "https://www.youtube.com/watch?v=PQ6Fmn2mQlk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-07T07:37:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pq6fmn2mqlk-the-highlevel-release-radar-february-2nd-february-6th-2026"
+    },
+    {
       "filename": "pu-rmwtrg-8-how-to-maximize-your-webinar-insights-with-highlevel-analytics.md",
       "title": "How To Maximize Your Webinar Insights with HighLevel Analytics",
       "videoId": "Pu_RMwTRg_8",
@@ -4936,6 +4996,18 @@
       "slug": "sp77csl2xv4-google-contacts-integration-now-live"
     },
     {
+      "filename": "sqlydf4mfgi-did-you-know-you-can-build-a-referral-network-with-your-own-affiliate-program.md",
+      "title": "Did You Know You Can Build a Referral Network with Your Own Affiliate Program",
+      "videoId": "SqlYdF4mfGI",
+      "url": "https://www.youtube.com/watch?v=SqlYdF4mfGI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T20:57:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sqlydf4mfgi-did-you-know-you-can-build-a-referral-network-with-your-own-affiliate-program"
+    },
+    {
       "filename": "sqye-iw7gxs-how-to-set-up-conversation-slas-in-highlevel.md",
       "title": "How To Set Up Conversation SLAs in HighLevel",
       "videoId": "sQye_iw7gxs",
@@ -5380,6 +5452,18 @@
       "slug": "ueqcjchr4ps-did-you-know-you-can-have-multiple-ai-agents-who-specialize-in-different-parts-of-your-b"
     },
     {
+      "filename": "uf-0etdoghm-the-biggest-highlevel-event-is-coming-to-new-delhi.md",
+      "title": "The biggest HighLevel event is coming to New Delhi!",
+      "videoId": "Uf-0eTDOGHM",
+      "url": "https://www.youtube.com/watch?v=Uf-0eTDOGHM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T10:00:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "uf-0etdoghm-the-biggest-highlevel-event-is-coming-to-new-delhi"
+    },
+    {
       "filename": "ufsym5st92s-how-to-ensure-ai-outbound-calling-compliance-in-highlevel.md",
       "title": "How To Ensure AI Outbound Calling Compliance in HighLevel",
       "videoId": "uFSym5St92s",
@@ -5762,6 +5846,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
+    },
+    {
+      "filename": "w4df9nvadlu-grant-revoke-course-access-manually.md",
+      "title": "Grant/Revoke Course Access Manually!",
+      "videoId": "w4df9nvADlU",
+      "url": "https://www.youtube.com/watch?v=w4df9nvADlU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T22:35:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w4df9nvadlu-grant-revoke-course-access-manually"
     },
     {
       "filename": "w4dwgietew8-asana-integration-workflow-actions-amp-triggers-live.md",
@@ -6504,7 +6600,7 @@
       "publishedDate": "2026-02-05T16:04:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -6576,7 +6672,7 @@
       "publishedDate": "2026-02-04T21:24:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -6708,7 +6804,7 @@
       "publishedDate": "2026-02-04T20:11:42.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zcbrj-miyiw-how-to-unlock-the-power-of-conversation-ai-public-apis-in-highlevel"
     },
     {
@@ -6852,7 +6948,7 @@
       "publishedDate": "2026-02-04T20:12:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zoy43ho9vju-how-to-leverage-conversation-ai-to-read-and-respond-to-images-and-files-in-highlevel-liv"
     },
     {
@@ -6977,7 +7073,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 544,
+    "fresh": 552,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -6989,13 +7085,13 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 535,
+        "fresh": 542,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "evergreen": {
-        "fresh": 9,
+        "fresh": 10,
         "warning": 1,
         "expired": 0
       }

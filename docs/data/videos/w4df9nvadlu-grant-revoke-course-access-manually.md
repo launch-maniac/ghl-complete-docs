@@ -1,14 +1,14 @@
 ---
-title: "How To Leverage Conversation AI to Read and Respond to Images and Files in HighLevel Live Chat"
-video_id: "zOy43hO9VjU"
-url: "https://www.youtube.com/watch?v=zOy43hO9VjU"
-thumbnail: "https://i.ytimg.com/vi/zOy43hO9VjU/hqdefault.jpg"
+title: "Grant/Revoke Course Access Manually!"
+video_id: "w4df9nvADlU"
+url: "https://www.youtube.com/watch?v=w4df9nvADlU"
+thumbnail: "https://i.ytimg.com/vi/w4df9nvADlU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-04T20:12:21.000Z"
+published_date: "2026-02-06T22:35:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-07T07:47:03.697Z"
+extracted_at: "2026-02-07T07:47:00.528Z"
 
 ---
 
-# 🟢 How To Leverage Conversation AI to Read and Respond to Images and Files in HighLevel Live Chat
+# 🟢 Grant/Revoke Course Access Manually!
 
-**Video ID:** `zOy43hO9VjU`
+**Video ID:** `w4df9nvADlU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/4/2026
+**Published:** 2/6/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-07T07:47:03.697Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zOy43hO9VjU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zOy43hO9VjU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=w4df9nvADlU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/w4df9nvADlU/hqdefault.jpg)
 
 
 ## Content Guidelines
