@@ -1,14 +1,14 @@
 ---
-title: "HighLevel LIVE India.  Get your tickets today!"
-video_id: "RtatXCweg6E"
-url: "https://www.youtube.com/watch?v=RtatXCweg6E"
-thumbnail: "https://i.ytimg.com/vi/RtatXCweg6E/hqdefault.jpg"
+title: "Join Us at HighLevel LIVE India!"
+video_id: "7ICaqyqE7-Y"
+url: "https://www.youtube.com/watch?v=7ICaqyqE7-Y"
+thumbnail: "https://i.ytimg.com/vi/7ICaqyqE7-Y/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-05T19:19:28.000Z"
+published_date: "2026-02-07T08:00:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-08T07:49:28.220Z"
+extracted_at: "2026-02-08T07:49:25.337Z"
 
 ---
 
-# 🟢 HighLevel LIVE India.  Get your tickets today!
+# 🟢 Join Us at HighLevel LIVE India!
 
-**Video ID:** `RtatXCweg6E`
+**Video ID:** `7ICaqyqE7-Y`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/5/2026
+**Published:** 2/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-08T07:49:28.220Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=RtatXCweg6E)
-- [📷 Thumbnail](https://i.ytimg.com/vi/RtatXCweg6E/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7ICaqyqE7-Y)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7ICaqyqE7-Y/hqdefault.jpg)
 
 
 ## Content Guidelines

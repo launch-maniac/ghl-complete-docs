@@ -2,13 +2,13 @@
 title: "Going From Mom to 7-Figure Agency Owner"
 video_id: "c10jOoRxR2E"
 url: "https://www.youtube.com/watch?v=c10jOoRxR2E"
-thumbnail: "https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-02T20:50:48.000Z"
+published_date: "2026-02-08T06:14:22.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-07T07:47:04.108Z"
+extracted_at: "2026-02-08T07:49:25.101Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2026-02-07T07:47:04.108Z"
 **Video ID:** `c10jOoRxR2E`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/2/2026
+**Published:** 2/8/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2026-02-07T07:47:04.108Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=c10jOoRxR2E)
-- [📷 Thumbnail](https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/7/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/8/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

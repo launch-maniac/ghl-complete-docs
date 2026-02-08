@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-07T07:47:08.723Z",
+  "generated": "2026-02-08T07:49:33.750Z",
   "stats": {
     "channels": 1,
-    "videos": 25,
+    "videos": 20,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 25
+    "transcriptsFailed": 20
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -384,7 +384,7 @@
       "publishedDate": "2026-02-06T03:26:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "336-cad-tec-how-to-use-custom-values-within-your-wordpress-sites-inside-of-highlevel"
     },
     {
@@ -1036,6 +1036,18 @@
       "slug": "7b5rfrwq1dq-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
     },
     {
+      "filename": "7icaqyqe7-y-join-us-at-highlevel-live-india.md",
+      "title": "Join Us at HighLevel LIVE India!",
+      "videoId": "7ICaqyqE7-Y",
+      "url": "https://www.youtube.com/watch?v=7ICaqyqE7-Y",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-07T08:00:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7icaqyqe7-y-join-us-at-highlevel-live-india"
+    },
+    {
       "filename": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
       "title": "Day 1 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
       "videoId": "7qayv9yoHgo",
@@ -1641,10 +1653,10 @@
       "videoId": "c10jOoRxR2E",
       "url": "https://www.youtube.com/watch?v=c10jOoRxR2E",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-02T20:50:48.000Z",
+      "publishedDate": "2026-02-08T06:14:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -3388,18 +3400,6 @@
       "slug": "ke7avnenyqs-the-highlevel-release-radar-october-6th-october-10th-2025"
     },
     {
-      "filename": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025.md",
-      "title": "The HighLevel Release Radar (August 4th - August 8th 2025)",
-      "videoId": "kepNl93ttv0",
-      "url": "https://www.youtube.com/watch?v=kepNl93ttv0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-09T06:59:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.4",
-      "slug": "kepnl93ttv0-the-highlevel-release-radar-august-4th-august-8th-2025"
-    },
-    {
       "filename": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai.md",
       "title": "Reputation Management – Drip Mode in Reviews AI",
       "videoId": "KF6xJwyFyAI",
@@ -4788,7 +4788,7 @@
       "publishedDate": "2026-02-05T19:19:28.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rtatxcweg6e-highlevel-live-india-get-your-tickets-today"
     },
     {
@@ -5460,7 +5460,7 @@
       "publishedDate": "2026-02-06T10:00:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "uf-0etdoghm-the-biggest-highlevel-event-is-coming-to-new-delhi"
     },
     {
@@ -6084,7 +6084,7 @@
       "publishedDate": "2026-02-06T03:25:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wvc6cbqzccw-how-to-access-and-understand-wordpress-site-performance-reports-in-highlevel"
     },
     {
@@ -6708,7 +6708,7 @@
       "publishedDate": "2026-02-06T01:45:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yu0gic3eh2o-highlevel-live-is-built-for-builders-this-community-is-a-big-part-of-what-s-next"
     },
     {
@@ -7068,7 +7068,7 @@
       "publishedDate": "2026-02-06T06:32:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zzrkpassv5c-conversations-into-clients-with-highlevel-ai"
     }
   ],
