@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-08T07:49:33.750Z",
+  "generated": "2026-02-09T07:54:52.817Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 13,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -528,7 +528,7 @@
       "publishedDate": "2026-02-06T22:36:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "44uep5wx0b8-advanced-tag-filtering-in-triggers-live"
     },
     {
@@ -1044,7 +1044,7 @@
       "publishedDate": "2026-02-07T08:00:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7icaqyqe7-y-join-us-at-highlevel-live-india"
     },
     {
@@ -3012,7 +3012,7 @@
       "publishedDate": "2026-02-06T21:57:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "evergreen",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "i3rxka-ydnk-how-to-use-the-advanced-workflow-builder-an-introduction-guide"
     },
     {
@@ -3336,7 +3336,7 @@
       "publishedDate": "2026-02-07T00:30:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "k5u2fyqbak-see-you-at-highlevel-live-india"
     },
     {
@@ -3744,7 +3744,7 @@
       "publishedDate": "2026-02-06T22:36:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "md9e60bsaoc-email-ai-beta-2-0-better-faster-smarter-is-live"
     },
     {
@@ -4392,7 +4392,7 @@
       "publishedDate": "2026-02-07T07:37:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pq6fmn2mqlk-the-highlevel-release-radar-february-2nd-february-6th-2026"
     },
     {
@@ -5004,7 +5004,7 @@
       "publishedDate": "2026-02-06T20:57:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sqlydf4mfgi-did-you-know-you-can-build-a-referral-network-with-your-own-affiliate-program"
     },
     {
@@ -5856,7 +5856,7 @@
       "publishedDate": "2026-02-06T22:35:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w4df9nvadlu-grant-revoke-course-access-manually"
     },
     {
