@@ -19,6 +19,8 @@ Summaries are generated intelligently based on inactivity, bot sleep events, or 
 
 This update introduces a unified, session-based conversation log with powerful automation hooks to drive CRM actions, insights, and follow-ups.
 
+**Needs to enabled from Agency Labs**
+
 # How It Works
 
 Conversation summaries and transcripts are generated per session and always reflect the latest session only.
