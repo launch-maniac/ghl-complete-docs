@@ -1,14 +1,14 @@
 ---
-title: "How to Offer Courses with Different Unlock Criteria"
-video_id: "4NygrN1i4d0"
-url: "https://www.youtube.com/watch?v=4NygrN1i4d0"
-thumbnail: "https://i.ytimg.com/vi/4NygrN1i4d0/hqdefault.jpg"
+title: "Case Study: How PLUSPLUS Media Scaled with HighLevel Systems"
+video_id: "9orhWivbQVI"
+url: "https://www.youtube.com/watch?v=9orhWivbQVI"
+thumbnail: "https://i.ytimg.com/vi/9orhWivbQVI/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-11T15:18:24.000Z"
+published_date: "2026-02-09T16:24:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 1.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "1.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.723Z"
+extracted_at: "2026-02-10T07:54:36.537Z"
 
 ---
 
-# 🟢 How to Offer Courses with Different Unlock Criteria
+# 🟢 Case Study: How PLUSPLUS Media Scaled with HighLevel Systems
 
-**Video ID:** `4NygrN1i4d0`
+**Video ID:** `9orhWivbQVI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/11/2025
+**Published:** 2/9/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 1.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:11.723Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4NygrN1i4d0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4NygrN1i4d0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=9orhWivbQVI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/9orhWivbQVI/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/10/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

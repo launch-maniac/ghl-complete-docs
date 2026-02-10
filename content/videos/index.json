@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-09T07:54:52.817Z",
+  "generated": "2026-02-10T07:54:46.357Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 12,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 12
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -592,18 +592,6 @@
       "slug": "4i-qot-whj0-day-5-five-day-ai-employee-challenge"
     },
     {
-      "filename": "4nygrn1i4d0-how-to-offer-courses-with-different-unlock-criteria.md",
-      "title": "How to Offer Courses with Different Unlock Criteria",
-      "videoId": "4NygrN1i4d0",
-      "url": "https://www.youtube.com/watch?v=4NygrN1i4d0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-11T15:18:24.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.3",
-      "slug": "4nygrn1i4d0-how-to-offer-courses-with-different-unlock-criteria"
-    },
-    {
       "filename": "4uwvx6pq-as-email-forwarding-is-live.md",
       "title": "Email Forwarding is Live!",
       "videoId": "4UwVX6pQ-as",
@@ -900,7 +888,7 @@
       "publishedDate": "2026-02-05T16:07:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -1178,6 +1166,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "90g44xiyfba-reporting-google-analytics-widgets-in-dashboard-and-custom-reports"
+    },
+    {
+      "filename": "9orhwivbqvi-case-study-how-plusplus-media-scaled-with-highlevel-systems.md",
+      "title": "Case Study: How PLUSPLUS Media Scaled with HighLevel Systems",
+      "videoId": "9orhWivbQVI",
+      "url": "https://www.youtube.com/watch?v=9orhWivbQVI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-09T16:24:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "9orhwivbqvi-case-study-how-plusplus-media-scaled-with-highlevel-systems"
     },
     {
       "filename": "9qnrvr5vcig-site-analytics-traffic-source-amp-geographic-analytics-live.md",
@@ -1656,7 +1656,7 @@
       "publishedDate": "2026-02-08T06:14:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
@@ -2784,7 +2784,7 @@
       "publishedDate": "2026-02-04T21:23:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -3052,6 +3052,18 @@
       "slug": "if5utv7mhvw-highlevel-community-update-go-live-feature-now-in-mobile-app"
     },
     {
+      "filename": "iftog4yl9ty-monday-com-integration-live-with-workflow-triggers-amp-actions.md",
+      "title": "Monday.com Integration Live with Workflow Triggers &amp; Actions!",
+      "videoId": "IfTOG4yL9tY",
+      "url": "https://www.youtube.com/watch?v=IfTOG4yL9tY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-09T23:15:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "iftog4yl9ty-monday-com-integration-live-with-workflow-triggers-amp-actions"
+    },
+    {
       "filename": "ifzczbxahtm-cloning-content-in-new-course-builder.md",
       "title": "Cloning Content in New Course Builder",
       "videoId": "IFZCzbxahtM",
@@ -3110,6 +3122,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ipe4yrngk78-did-you-know-you-can-generate-a-prospect-list-with-just-a-few-clicks"
+    },
+    {
+      "filename": "itlon0eoyok-highlevel-live-india-get-your-tickets-now-limited-seats-available.md",
+      "title": "HighLevel LIVE India! Get your tickets now! Limited seats available!",
+      "videoId": "itloN0EOYok",
+      "url": "https://www.youtube.com/watch?v=itloN0EOYok",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-09T20:31:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "itlon0eoyok-highlevel-live-india-get-your-tickets-now-limited-seats-available"
     },
     {
       "filename": "ixh5hoofpl4-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
@@ -3998,6 +4022,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "nq6xgnbhb6q-voice-ai-more-voices-more-languages-amp-elevenlabs-import"
+    },
+    {
+      "filename": "nrbupos3mhc-openrouter-integration-is-live-in-workflows.md",
+      "title": "Openrouter Integration is Live in Workflows!",
+      "videoId": "NRbuPos3Mhc",
+      "url": "https://www.youtube.com/watch?v=NRbuPos3Mhc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-09T23:16:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nrbupos3mhc-openrouter-integration-is-live-in-workflows"
     },
     {
       "filename": "ntkdrw-zd7u-documents-amp-contracts-assign-fillable-fields-dynamically-from-workflows.md",
@@ -6600,7 +6636,7 @@
       "publishedDate": "2026-02-05T16:04:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -6794,6 +6830,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "z6jvsxrm7zm-day-1-launch-your-ai-sales-engine-with-highlevel"
+    },
+    {
+      "filename": "zbzq2c-py44-ai-powered-wordpress-page-builder-live.md",
+      "title": "AI - Powered WordPress Page Builder Live!",
+      "videoId": "ZBzQ2c-PY44",
+      "url": "https://www.youtube.com/watch?v=ZBzQ2c-PY44",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-09T23:16:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zbzq2c-py44-ai-powered-wordpress-page-builder-live"
     },
     {
       "filename": "zcbrj-miyiw-how-to-unlock-the-power-of-conversation-ai-public-apis-in-highlevel.md",
@@ -7073,7 +7121,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 552,
+    "fresh": 556,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7085,7 +7133,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 542,
+        "fresh": 546,
         "warning": 0,
         "expired": 0,
         "unknown": null

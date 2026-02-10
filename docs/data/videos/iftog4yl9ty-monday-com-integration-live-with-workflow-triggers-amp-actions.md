@@ -1,14 +1,14 @@
 ---
-title: "Going From Mom to 7-Figure Agency Owner"
-video_id: "c10jOoRxR2E"
-url: "https://www.youtube.com/watch?v=c10jOoRxR2E"
-thumbnail: "https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault.jpg"
+title: "Monday.com Integration Live with Workflow Triggers &amp; Actions!"
+video_id: "IfTOG4yL9tY"
+url: "https://www.youtube.com/watch?v=IfTOG4yL9tY"
+thumbnail: "https://i.ytimg.com/vi/IfTOG4yL9tY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-08T06:14:22.000Z"
+published_date: "2026-02-09T23:15:33.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-10T07:54:36.730Z"
+extracted_at: "2026-02-10T07:54:35.974Z"
 
 ---
 
-# 🟢 Going From Mom to 7-Figure Agency Owner
+# 🟢 Monday.com Integration Live with Workflow Triggers &amp; Actions!
 
-**Video ID:** `c10jOoRxR2E`
+**Video ID:** `IfTOG4yL9tY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/8/2026
+**Published:** 2/9/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-10T07:54:36.730Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=c10jOoRxR2E)
-- [📷 Thumbnail](https://i.ytimg.com/vi/c10jOoRxR2E/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=IfTOG4yL9tY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/IfTOG4yL9tY/hqdefault.jpg)
 
 
 ## Content Guidelines

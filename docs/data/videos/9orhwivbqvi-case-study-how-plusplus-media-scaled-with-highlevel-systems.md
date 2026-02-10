@@ -1,14 +1,14 @@
 ---
-title: "See you at HighLevel LIVE India!"
-video_id: "_k5u2FYQBAk"
-url: "https://www.youtube.com/watch?v=_k5u2FYQBAk"
-thumbnail: "https://i.ytimg.com/vi/_k5u2FYQBAk/hqdefault.jpg"
+title: "Case Study: How PLUSPLUS Media Scaled with HighLevel Systems"
+video_id: "9orhWivbQVI"
+url: "https://www.youtube.com/watch?v=9orhWivbQVI"
+thumbnail: "https://i.ytimg.com/vi/9orhWivbQVI/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-07T00:30:37.000Z"
+published_date: "2026-02-09T16:24:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-10T07:54:37.338Z"
+extracted_at: "2026-02-10T07:54:36.537Z"
 
 ---
 
-# 🟢 See you at HighLevel LIVE India!
+# 🟢 Case Study: How PLUSPLUS Media Scaled with HighLevel Systems
 
-**Video ID:** `_k5u2FYQBAk`
+**Video ID:** `9orhWivbQVI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/7/2026
+**Published:** 2/9/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-02-10T07:54:37.338Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_k5u2FYQBAk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_k5u2FYQBAk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=9orhWivbQVI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/9orhWivbQVI/hqdefault_live.jpg)
 
 
 ## Content Guidelines
