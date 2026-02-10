@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "697e7bd3b7d019da22266442"
+guid: "698783a104f92e28e2cd7b2b"
 author: "Sales &amp; Marketing"
-pubDate: "2026-01-31T22:07:52.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-78"
+pubDate: "2026-02-07T18:44:58.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-79"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-78"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-79"
 index: 6
 ---
 
@@ -21,7 +21,15 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-Automotive - 1
+Business Coaching & Consulting - 1
+
+\------------------------------------------------------
+
+🚀 **1 New Store Templates Published** 🚀
+
+\------------------------------------------------------
+
+Restaurant & Bar - 1
 
 \------------------------------------------------------
 
@@ -29,7 +37,7 @@ Automotive - 1
 
 \------------------------------------------------------
 
-Financial - 1
+Health & Wellness - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +45,7 @@ Financial - 1
 
 \-----------------------------------------------------
 
-Automotive - 1
+Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +53,7 @@ Automotive - 1
 
 \-----------------------------------------------------
 
-Business Coaching and Consulting - 1
+Creative - 1
 
 \-----------------------------------------------------
 
@@ -53,25 +61,27 @@ Business Coaching and Consulting - 1
 
 \-----------------------------------------------------
 
-Marketing Agency - 2
+Automotive - 2
 
-Legal - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Google Ad Templates Published** 🚀
+Travel & Hospitality - 2
 
 \-----------------------------------------------------
 
-Health & Wellness - Workout Facility
+🚀 **1 New Facebook Ad Templates Published** 🚀
 
-Home Services - Roofing Services
+\-----------------------------------------------------
 
-Insurance - Property and Casualty Insurance Coverage
+Home Services - 1
 
-Legal - Bankruptcy Lawyers
+\-----------------------------------------------------
 
-Marketing Agency - Advertising Services
+🚀 **2 New Google Ad Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Medical - 1
+
+Other - 1
 
 \------------------------------------------------------
 
@@ -79,28 +89,26 @@ Marketing Agency - Advertising Services
 
 \------------------------------------------------------
 
-Legal - Real Estate Attorney
+Marketing Agency - Public Relations Firm
 
-![Muffler & Brakes Shop - Website](https://canny-assets.io/images/3b3da15e3627e2afae300d38b1408e4e.png)
+![Public Relations Firm - Snapshot](https://canny-assets.io/images/fe25ca1b84cfa25ec49fa6e290615950.png)
 
-![Real Estate Attorney = Snapshot](https://canny-assets.io/images/d55162dc00a1788d1766d39907afdaa6.png)
+![Burger Shop - Store](https://canny-assets.io/images/c251d9db5314e8790b7da80ae4a652ba.png)
 
-![Business Coach Customer Satisfaction - Survey](https://canny-assets.io/images/34d3aecbec2d3d96be0e157f360887d5.png)
+![Call Center - Google Ad](https://canny-assets.io/images/1a2742aff3a6fd34628c2c95b7676b87.png)
 
-![Financial Planner Informational - Email](https://canny-assets.io/images/af9d59d3bfe72ee46c01b340ba64418a.png)
+![Camp Grounds - Social](https://canny-assets.io/images/0fa9fadefd4fc9df58d4cf4fb71ac530.png)
 
-![Roadside Assistance Contact - Form](https://canny-assets.io/images/ba101e36ca29880940d9470051840fc3.png)
+![Flower Shop - Survey](https://canny-assets.io/images/bf6600d8e64cfae75d84f03d707a81be.png)
 
-![Advertising Services - Google Ad](https://canny-assets.io/images/7ecda4e02ccd6c87507a61f2e300df50.png)
+![IT Advisor - Website](https://canny-assets.io/images/88a17d25bb127829e4ea34d333c9e15c.png)
 
-![Bankruptcy Lawyers - Google Ad](https://canny-assets.io/images/5f2df43f65b1b91b01cf41381489b00e.png)
+![Landscape Design - Facebook Ad](https://canny-assets.io/images/7b28b6abcbccfd5a2a83dd53f32c3ca3.png)
 
-![Personal Injury Lawyer - Social](https://canny-assets.io/images/ad1a37012e73c8c4c392b3ff85ac9a1f.png)
+![Optometrist - Google Ad](https://canny-assets.io/images/7fbbc1dcb64283236b677e8c567d2a04.png)
 
-![Property and Casualty Insurance Coverage - Google Ad](https://canny-assets.io/images/03d0401f76932a0c663732cfcfcdc9fe.png)
+![Tailoring Shop - Form](https://canny-assets.io/images/e5fb231bb5ef0bf2fddfbff98b8c408a.png)
 
-![Roofing Services - Google Ad](https://canny-assets.io/images/64f60032d6f144d1593cd05c6ac65143.png)
+![Tire Service Center - Social](https://canny-assets.io/images/18e9bdeee4a95913f7cc63d16ae4a71d.png)
 
-![SEO Services - Social](https://canny-assets.io/images/05c80499a3a7fabad79eac2e706991c9.png)
-
-![Workout Facility - Google Ad](https://canny-assets.io/images/2f479a21195ce2b7407a8595831c753a.png)
+![Yoga Studio - Email](https://canny-assets.io/images/0d3eecaf4d99554007c4fd62cf86f935.png)
