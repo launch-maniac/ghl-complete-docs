@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-10T07:54:46.357Z",
+  "generated": "2026-02-11T07:54:15.221Z",
   "stats": {
     "channels": 1,
-    "videos": 12,
+    "videos": 14,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 12
+    "transcriptsFailed": 14
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -146,6 +146,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "0gk0rrzk1yg-did-you-know-highlevel-can-automatically-text-customers-when-you-miss-a-call"
+    },
+    {
+      "filename": "0idt5nujjpy-how-to-understand-highlevel-s-trigger-narration-feature.md",
+      "title": "How To Understand HighLevel’s Trigger Narration Feature",
+      "videoId": "0IDt5NUjJPY",
+      "url": "https://www.youtube.com/watch?v=0IDt5NUjJPY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-10T20:00:08.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0idt5nujjpy-how-to-understand-highlevel-s-trigger-narration-feature"
     },
     {
       "filename": "0ly0a7s-bay-how-to-set-up-a-recurring-countdown-timer.md",
@@ -1176,7 +1188,7 @@
       "publishedDate": "2026-02-09T16:24:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9orhwivbqvi-case-study-how-plusplus-media-scaled-with-highlevel-systems"
     },
     {
@@ -1540,6 +1552,18 @@
       "slug": "b6qzcltuph8-template-library-introducing-new-templates-no-65"
     },
     {
+      "filename": "bgyb-ppc3n0-build-live-events-that-convert-using-highlevel.md",
+      "title": "Build Live Events That Convert Using HighLevel",
+      "videoId": "bGYB_PPc3n0",
+      "url": "https://www.youtube.com/watch?v=bGYB_PPc3n0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-10T19:11:06.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bgyb-ppc3n0-build-live-events-that-convert-using-highlevel"
+    },
+    {
       "filename": "bj-g5hkmjg4-how-to-use-highlevel-39-s-conversation-ai-for-efficient-multi-calendar-bookings.md",
       "title": "How To Use HighLevel&#39;s Conversation AI for Efficient Multi Calendar Bookings",
       "videoId": "bj_g5hKmjg4",
@@ -1778,6 +1802,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "cq28388shn8-revamped-trust-center-and-a2p-experience"
+    },
+    {
+      "filename": "cxoxxwq6aze-did-you-know-you-can-automate-workflows-by-integrating-any-app.md",
+      "title": "Did You Know You Can Automate Workflows by Integrating Any App",
+      "videoId": "cXOXxwq6azE",
+      "url": "https://www.youtube.com/watch?v=cXOXxwq6azE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-10T19:58:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cxoxxwq6aze-did-you-know-you-can-automate-workflows-by-integrating-any-app"
     },
     {
       "filename": "cxt-epm-iyw-highlevel-update-new-templates-now-live.md",
@@ -5668,6 +5704,18 @@
       "slug": "vbvxaqcxtte-new-community-course-saas-mode-mastery-with-jonah-cockshaw"
     },
     {
+      "filename": "vc9nidbp4yy-how-to-gain-insights-from-highlevel-workflow-trigger-stats.md",
+      "title": "How To Gain Insights from HighLevel Workflow Trigger Stats",
+      "videoId": "VC9NIDBp4YY",
+      "url": "https://www.youtube.com/watch?v=VC9NIDBp4YY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-10T20:00:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vc9nidbp4yy-how-to-gain-insights-from-highlevel-workflow-trigger-stats"
+    },
+    {
       "filename": "vfncuwggsba-smartlist-performance-amp-stability-improvements.md",
       "title": "Smartlist Performance &amp; Stability Improvements",
       "videoId": "vFNcuwgGsbA",
@@ -6633,10 +6681,10 @@
       "videoId": "YM-W5BzLBAc",
       "url": "https://www.youtube.com/watch?v=YM-W5BzLBAc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-05T16:04:35.000Z",
+      "publishedDate": "2026-02-10T10:56:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -6708,7 +6756,7 @@
       "publishedDate": "2026-02-04T21:24:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -7121,7 +7169,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 556,
+    "fresh": 560,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7133,7 +7181,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 546,
+        "fresh": 550,
         "warning": 0,
         "expired": 0,
         "unknown": null

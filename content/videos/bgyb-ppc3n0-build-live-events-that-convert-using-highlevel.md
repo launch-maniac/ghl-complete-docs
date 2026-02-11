@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "h6rtZsz2s-4"
-url: "https://www.youtube.com/watch?v=h6rtZsz2s-4"
-thumbnail: "https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault_live.jpg"
+title: "Build Live Events That Convert Using HighLevel"
+video_id: "bGYB_PPc3n0"
+url: "https://www.youtube.com/watch?v=bGYB_PPc3n0"
+thumbnail: "https://i.ytimg.com/vi/bGYB_PPc3n0/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-04T21:23:19.000Z"
+published_date: "2026-02-10T19:11:06.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-11T07:54:10.728Z"
+extracted_at: "2026-02-11T07:54:08.501Z"
 
 ---
 
-# 🟢 Day 1 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Build Live Events That Convert Using HighLevel
 
-**Video ID:** `h6rtZsz2s-4`
+**Video ID:** `bGYB_PPc3n0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/4/2026
+**Published:** 2/10/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-02-11T07:54:10.728Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=h6rtZsz2s-4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bGYB_PPc3n0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/bGYB_PPc3n0/hqdefault_live.jpg)
 
 
 ## Content Guidelines

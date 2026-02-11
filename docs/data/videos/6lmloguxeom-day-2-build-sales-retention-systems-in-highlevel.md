@@ -2,7 +2,7 @@
 title: "Day 2 - Build Sales + Retention Systems in HighLevel"
 video_id: "6LmlogUxEoM"
 url: "https://www.youtube.com/watch?v=6LmlogUxEoM"
-thumbnail: "https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-02-05T16:07:03.000Z"
 freshness_status: "fresh"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-10T07:54:37.495Z"
+extracted_at: "2026-02-11T07:54:10.318Z"
 
 ---
 
@@ -43,7 +43,7 @@ extracted_at: "2026-02-10T07:54:37.495Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6LmlogUxEoM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6LmlogUxEoM/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/10/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/11/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

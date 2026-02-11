@@ -1,10 +1,10 @@
 ---
-title: "AI - Powered WordPress Page Builder Live!"
-video_id: "ZBzQ2c-PY44"
-url: "https://www.youtube.com/watch?v=ZBzQ2c-PY44"
-thumbnail: "https://i.ytimg.com/vi/ZBzQ2c-PY44/hqdefault.jpg"
+title: "How To Understand HighLevel’s Trigger Narration Feature"
+video_id: "0IDt5NUjJPY"
+url: "https://www.youtube.com/watch?v=0IDt5NUjJPY"
+thumbnail: "https://i.ytimg.com/vi/0IDt5NUjJPY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-09T23:16:55.000Z"
+published_date: "2026-02-10T20:00:08.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-11T07:54:08.996Z"
+extracted_at: "2026-02-11T07:54:07.762Z"
 
 ---
 
-# 🟢 AI - Powered WordPress Page Builder Live!
+# 🟢 How To Understand HighLevel’s Trigger Narration Feature
 
-**Video ID:** `ZBzQ2c-PY44`
+**Video ID:** `0IDt5NUjJPY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/9/2026
+**Published:** 2/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-11T07:54:08.996Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZBzQ2c-PY44)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZBzQ2c-PY44/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0IDt5NUjJPY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/0IDt5NUjJPY/hqdefault.jpg)
 
 
 ## Content Guidelines

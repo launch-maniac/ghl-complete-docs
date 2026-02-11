@@ -1,10 +1,10 @@
 ---
-title: "AI - Powered WordPress Page Builder Live!"
-video_id: "ZBzQ2c-PY44"
-url: "https://www.youtube.com/watch?v=ZBzQ2c-PY44"
-thumbnail: "https://i.ytimg.com/vi/ZBzQ2c-PY44/hqdefault.jpg"
+title: "How To Gain Insights from HighLevel Workflow Trigger Stats"
+video_id: "VC9NIDBp4YY"
+url: "https://www.youtube.com/watch?v=VC9NIDBp4YY"
+thumbnail: "https://i.ytimg.com/vi/VC9NIDBp4YY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-09T23:16:55.000Z"
+published_date: "2026-02-10T20:00:56.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-11T07:54:08.996Z"
+extracted_at: "2026-02-11T07:54:08.028Z"
 
 ---
 
-# 🟢 AI - Powered WordPress Page Builder Live!
+# 🟢 How To Gain Insights from HighLevel Workflow Trigger Stats
 
-**Video ID:** `ZBzQ2c-PY44`
+**Video ID:** `VC9NIDBp4YY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/9/2026
+**Published:** 2/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-11T07:54:08.996Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZBzQ2c-PY44)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ZBzQ2c-PY44/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=VC9NIDBp4YY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/VC9NIDBp4YY/hqdefault.jpg)
 
 
 ## Content Guidelines
