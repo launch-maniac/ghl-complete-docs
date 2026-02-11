@@ -6,11 +6,11 @@
 
 📈 DOCUMENTATION STATISTICS
 ==================================================
-Total Documents: 2980
-Last Updated: 2/11/2026, 7:54:17 AM
+Total Documents: 2989
+Last Updated: 2/11/2026, 9:24:02 AM
 
 Categories:
-  • Changelog: 2133 documents
+  • Changelog: 2142 documents
   • Video Tutorials: 594 documents
   • Marketplace Documentation: 160 documents
   • Ad-manager: 1 documents
@@ -91,12 +91,12 @@ Categories:
   • Wordpress: 1 documents
 
 Sources:
-  • ideas.gohighlevel.com: 2209 documents
+  • ideas.gohighlevel.com: 2218 documents
   • youtube.com/@gohighlevel: 594 documents
   • highlevel.stoplight.io: 124 documents
   • marketplace.gohighlevel.com: 29 documents
   • help.gohighlevel.com: 23 documents
   • developers.gohighlevel.com: 1 documents
 ==================================================
-✅ Stats generated: 2980 total documents
+✅ Stats generated: 2989 total documents
 ✅ Statistics generation completed
