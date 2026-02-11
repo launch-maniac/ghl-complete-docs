@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-11T09:21:58.784Z"
+extracted_at: "2026-02-11T12:16:44.979Z"
 ---
 
 # Hi, how can we help you?
@@ -158,7 +158,7 @@ Modified on Tue, 26 Aug, 2025 at 3:40 AM
 
 LC Phone Pricing & Billing Guide
 
-Modified on Wed, 28 Jan at 3:25 AM
+Modified on Wed, 11 Feb at 3:33 AM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
 
