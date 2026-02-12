@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-11T07:54:15.221Z",
+  "generated": "2026-02-12T07:53:20.654Z",
   "stats": {
     "channels": 1,
-    "videos": 14,
+    "videos": 21,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 14
+    "transcriptsFailed": 21
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -314,6 +314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "28xac9sm3-w-highlevel-chat-widget-now-supports-customizable-contact-form-messages"
+    },
+    {
+      "filename": "2ea0r5wssf0-email-ai-beta-2-0-better-faster-smarter.md",
+      "title": "Email AI – Beta 2 0  Better, Faster, Smarter",
+      "videoId": "2EA0R5wsSF0",
+      "url": "https://www.youtube.com/watch?v=2EA0R5wsSF0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T22:00:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "2ea0r5wssf0-email-ai-beta-2-0-better-faster-smarter"
     },
     {
       "filename": "2ewqsssmkp0-analytics-for-external-tracking-live.md",
@@ -796,6 +808,18 @@
       "slug": "5vmz5iskj-u-notion-integration-is-live"
     },
     {
+      "filename": "6-nsr8lkddm-did-you-know-you-can-build-an-ai-chatbot-without-knowing-how-to-write-a-prompt.md",
+      "title": "Did You Know You Can Build an AI Chatbot without Knowing How to Write a Prompt",
+      "videoId": "6_nSr8lKDDM",
+      "url": "https://www.youtube.com/watch?v=6_nSr8lKDDM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T17:45:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6-nsr8lkddm-did-you-know-you-can-build-an-ai-chatbot-without-knowing-how-to-write-a-prompt"
+    },
+    {
       "filename": "61brmlkbpm-day-5-five-day-ai-employee-challenge.md",
       "title": "Day 5 - Five Day AI Employee Challenge",
       "videoId": "-61BRmLKBPM",
@@ -897,10 +921,10 @@
       "videoId": "6LmlogUxEoM",
       "url": "https://www.youtube.com/watch?v=6LmlogUxEoM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-05T16:07:03.000Z",
+      "publishedDate": "2026-02-11T11:18:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -1560,7 +1584,7 @@
       "publishedDate": "2026-02-10T19:11:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bgyb-ppc3n0-build-live-events-that-convert-using-highlevel"
     },
     {
@@ -1636,6 +1660,18 @@
       "slug": "bnbn2swgdnq-how-to-utilize-highlevel-39-s-course-dashboard-for-detailed-student-insights"
     },
     {
+      "filename": "btscqngqqoc-native-kollab-mobile-app-live.md",
+      "title": "Native Kollab Mobile App Live!",
+      "videoId": "BtScQngqQoc",
+      "url": "https://www.youtube.com/watch?v=BtScQngqQoc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T14:23:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "btscqngqqoc-native-kollab-mobile-app-live"
+    },
+    {
       "filename": "bulg9z0suea-highlevel-workflow-update-inbound-dnd-support-now-live.md",
       "title": "HighLevel Workflow Update Inbound DND Support Now Live",
       "videoId": "bulg9Z0sUeA",
@@ -1694,6 +1730,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.1",
       "slug": "caq5l3y4rq0-monetize-custom-ai-agents-in-your-saas-plan-highlevel-snapshot-hack"
+    },
+    {
+      "filename": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live.md",
+      "title": "Funnels,Websites &amp; Sites Speed Optimization Live!",
+      "videoId": "cbkBlbCAkC0",
+      "url": "https://www.youtube.com/watch?v=cbkBlbCAkC0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T14:24:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live"
     },
     {
       "filename": "ceycip04eku-how-to-enable-or-disable-customers-in-affiliate-management.md",
@@ -3096,7 +3144,7 @@
       "publishedDate": "2026-02-09T23:15:33.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "iftog4yl9ty-monday-com-integration-live-with-workflow-triggers-amp-actions"
     },
     {
@@ -3168,7 +3216,7 @@
       "publishedDate": "2026-02-09T20:31:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "itlon0eoyok-highlevel-live-india-get-your-tickets-now-limited-seats-available"
     },
     {
@@ -3326,6 +3374,18 @@
       "contentCategory": "standard",
       "ageInMonths": "1.0",
       "slug": "jtrcg8b76wu-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
+    },
+    {
+      "filename": "jujbnibx5i0-configure-payment-providers-by-channel.md",
+      "title": "Configure Payment Providers by Channel!",
+      "videoId": "JUJBnibx5I0",
+      "url": "https://www.youtube.com/watch?v=JUJBnibx5I0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T14:24:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jujbnibx5i0-configure-payment-providers-by-channel"
     },
     {
       "filename": "k19w9eefjgi-how-to-optimize-your-website-using-browser-and-ip-analytics.md",
@@ -4068,7 +4128,7 @@
       "publishedDate": "2026-02-09T23:16:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nrbupos3mhc-openrouter-integration-is-live-in-workflows"
     },
     {
@@ -4464,7 +4524,7 @@
       "publishedDate": "2026-02-07T07:37:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "pq6fmn2mqlk-the-highlevel-release-radar-february-2nd-february-6th-2026"
     },
     {
@@ -5308,6 +5368,18 @@
       "slug": "thhvmv4dqke-conversations-clipboard-attachment-support-across-all-channels"
     },
     {
+      "filename": "tjf32z0qtg-counting-down-the-days-to-highlevel-live-india.md",
+      "title": "Counting down the days to HighLevel LIVE India! ✨",
+      "videoId": "-tJF32z0QTg",
+      "url": "https://www.youtube.com/watch?v=-tJF32z0QTg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T22:44:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "tjf32z0qtg-counting-down-the-days-to-highlevel-live-india"
+    },
+    {
       "filename": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel.md",
       "title": "James Call: Automate Real Estate Leads with HighLevel",
       "videoId": "tJhT5rw3Cso",
@@ -5738,6 +5810,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "vh7cd58xllw-how-to-activate-image-analysis-in-highlevel-ai-bots"
+    },
+    {
+      "filename": "vhlw22qr-tg-grant-revoke-course-access-manually.md",
+      "title": "Grant Revoke Course Access Manually!",
+      "videoId": "VHlw22qR-tg",
+      "url": "https://www.youtube.com/watch?v=VHlw22qR-tg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-12T01:00:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vhlw22qr-tg-grant-revoke-course-access-manually"
     },
     {
       "filename": "vmri0aj9yo0-funnel-amp-website-ai-upgrades-live.md",
@@ -6684,7 +6768,7 @@
       "publishedDate": "2026-02-10T10:56:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ym-w5bzlbac-day-1-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -6888,7 +6972,7 @@
       "publishedDate": "2026-02-09T23:16:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zbzq2c-py44-ai-powered-wordpress-page-builder-live"
     },
     {
@@ -7169,7 +7253,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 560,
+    "fresh": 567,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7181,7 +7265,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 550,
+        "fresh": 557,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (February 2nd - February 6th 2026)"
-video_id: "PQ6Fmn2mQlk"
-url: "https://www.youtube.com/watch?v=PQ6Fmn2mQlk"
-thumbnail: "https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg"
+title: "Email AI – Beta 2 0  Better, Faster, Smarter"
+video_id: "2EA0R5wsSF0"
+url: "https://www.youtube.com/watch?v=2EA0R5wsSF0"
+thumbnail: "https://i.ytimg.com/vi/2EA0R5wsSF0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-07T07:37:05.000Z"
+published_date: "2026-02-11T22:00:03.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-12T07:53:11.708Z"
+extracted_at: "2026-02-12T07:53:07.804Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (February 2nd - February 6th 2026)
+# 🟢 Email AI – Beta 2 0  Better, Faster, Smarter
 
-**Video ID:** `PQ6Fmn2mQlk`
+**Video ID:** `2EA0R5wsSF0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/7/2026
+**Published:** 2/11/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-12T07:53:11.708Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PQ6Fmn2mQlk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=2EA0R5wsSF0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/2EA0R5wsSF0/hqdefault.jpg)
 
 
 ## Content Guidelines

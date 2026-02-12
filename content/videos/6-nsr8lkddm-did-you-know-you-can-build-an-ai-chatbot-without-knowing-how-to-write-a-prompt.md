@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (February 2nd - February 6th 2026)"
-video_id: "PQ6Fmn2mQlk"
-url: "https://www.youtube.com/watch?v=PQ6Fmn2mQlk"
-thumbnail: "https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg"
+title: "Did You Know You Can Build an AI Chatbot without Knowing How to Write a Prompt"
+video_id: "6_nSr8lKDDM"
+url: "https://www.youtube.com/watch?v=6_nSr8lKDDM"
+thumbnail: "https://i.ytimg.com/vi/6_nSr8lKDDM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-07T07:37:05.000Z"
+published_date: "2026-02-11T17:45:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-12T07:53:11.708Z"
+extracted_at: "2026-02-12T07:53:08.088Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (February 2nd - February 6th 2026)
+# 🟢 Did You Know You Can Build an AI Chatbot without Knowing How to Write a Prompt
 
-**Video ID:** `PQ6Fmn2mQlk`
+**Video ID:** `6_nSr8lKDDM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/7/2026
+**Published:** 2/11/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-12T07:53:11.708Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PQ6Fmn2mQlk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/PQ6Fmn2mQlk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6_nSr8lKDDM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6_nSr8lKDDM/hqdefault.jpg)
 
 
 ## Content Guidelines
