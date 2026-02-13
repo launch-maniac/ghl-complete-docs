@@ -3,7 +3,7 @@ title: "Explore Messaging API →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/ghl/conversations/conversations"
-extracted_at: "2026-02-13T06:26:02.825Z"
+extracted_at: "2026-02-13T09:21:41.942Z"
 ---
 
 -   [](/docs/)
