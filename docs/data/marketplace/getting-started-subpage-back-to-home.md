@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-13T12:11:58.353Z"
+extracted_at: "2026-02-13T15:20:16.856Z"
 ---
 
 # Hi, how can we help you?
@@ -188,7 +188,7 @@ Modified on Tue, 27 Jan at 12:41 PM
 
 LC - Phone Messaging Policy
 
-Modified on Wed, 4 Feb at 10:37 AM
+Modified on Fri, 13 Feb at 8:07 AM
 
 ](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
 
