@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Build Sales + Retention Systems in HighLevel"
-video_id: "YM-W5BzLBAc"
-url: "https://www.youtube.com/watch?v=YM-W5BzLBAc"
-thumbnail: "https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg"
+title: "Conversations AI - Conversation Summary, Transcript Generation &amp; Conversation Logs Live!"
+video_id: "WbTqpcnvrVU"
+url: "https://www.youtube.com/watch?v=WbTqpcnvrVU"
+thumbnail: "https://i.ytimg.com/vi/WbTqpcnvrVU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-10T10:56:41.000Z"
+published_date: "2026-02-12T15:12:02.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-13T07:53:09.873Z"
+extracted_at: "2026-02-13T07:53:06.750Z"
 
 ---
 
-# 🟢 Day 1 - Build Sales + Retention Systems in HighLevel
+# 🟢 Conversations AI - Conversation Summary, Transcript Generation &amp; Conversation Logs Live!
 
-**Video ID:** `YM-W5BzLBAc`
+**Video ID:** `WbTqpcnvrVU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/10/2026
+**Published:** 2/12/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-13T07:53:09.873Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YM-W5BzLBAc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WbTqpcnvrVU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/WbTqpcnvrVU/hqdefault.jpg)
 
 
 ## Content Guidelines

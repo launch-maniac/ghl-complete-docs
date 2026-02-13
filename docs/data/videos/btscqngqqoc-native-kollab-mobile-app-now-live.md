@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - Build Sales + Retention Systems in HighLevel"
-video_id: "YM-W5BzLBAc"
-url: "https://www.youtube.com/watch?v=YM-W5BzLBAc"
-thumbnail: "https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg"
+title: "Native Kollab Mobile App Now Live"
+video_id: "BtScQngqQoc"
+url: "https://www.youtube.com/watch?v=BtScQngqQoc"
+thumbnail: "https://i.ytimg.com/vi/BtScQngqQoc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-10T10:56:41.000Z"
+published_date: "2026-02-11T14:23:23.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-13T07:53:09.873Z"
+extracted_at: "2026-02-13T07:53:07.899Z"
 
 ---
 
-# 🟢 Day 1 - Build Sales + Retention Systems in HighLevel
+# 🟢 Native Kollab Mobile App Now Live
 
-**Video ID:** `YM-W5BzLBAc`
+**Video ID:** `BtScQngqQoc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/10/2026
+**Published:** 2/11/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-13T07:53:09.873Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YM-W5BzLBAc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BtScQngqQoc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/BtScQngqQoc/hqdefault.jpg)
 
 
 ## Content Guidelines

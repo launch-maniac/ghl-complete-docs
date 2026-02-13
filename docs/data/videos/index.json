@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-12T07:53:20.654Z",
+  "generated": "2026-02-13T07:53:16.051Z",
   "stats": {
     "channels": 1,
-    "videos": 21,
+    "videos": 26,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 21
+    "transcriptsFailed": 26
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -156,7 +156,7 @@
       "publishedDate": "2026-02-10T20:00:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0idt5nujjpy-how-to-understand-highlevel-s-trigger-narration-feature"
     },
     {
@@ -816,7 +816,7 @@
       "publishedDate": "2026-02-11T17:45:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6-nsr8lkddm-did-you-know-you-can-build-an-ai-chatbot-without-knowing-how-to-write-a-prompt"
     },
     {
@@ -924,7 +924,7 @@
       "publishedDate": "2026-02-11T11:18:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "6lmloguxeom-day-2-build-sales-retention-systems-in-highlevel"
     },
     {
@@ -1209,10 +1209,10 @@
       "videoId": "9orhWivbQVI",
       "url": "https://www.youtube.com/watch?v=9orhWivbQVI",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-09T16:24:52.000Z",
+      "publishedDate": "2026-02-13T06:10:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "9orhwivbqvi-case-study-how-plusplus-media-scaled-with-highlevel-systems"
     },
     {
@@ -1672,6 +1672,18 @@
       "slug": "btscqngqqoc-native-kollab-mobile-app-live"
     },
     {
+      "filename": "btscqngqqoc-native-kollab-mobile-app-now-live.md",
+      "title": "Native Kollab Mobile App Now Live",
+      "videoId": "BtScQngqQoc",
+      "url": "https://www.youtube.com/watch?v=BtScQngqQoc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-11T14:23:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "btscqngqqoc-native-kollab-mobile-app-now-live"
+    },
+    {
       "filename": "bulg9z0suea-highlevel-workflow-update-inbound-dnd-support-now-live.md",
       "title": "HighLevel Workflow Update Inbound DND Support Now Live",
       "videoId": "bulg9Z0sUeA",
@@ -1694,6 +1706,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bulg9z0suea-workflow-update-inbound-dnd-support-live"
+    },
+    {
+      "filename": "bxejvoo1iaa-monday-com-integration-with-workflow-triggers-amp-actions.md",
+      "title": "Monday com Integration with Workflow Triggers &amp; Actions",
+      "videoId": "BXEjVoO1IAA",
+      "url": "https://www.youtube.com/watch?v=BXEjVoO1IAA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-12T16:00:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bxejvoo1iaa-monday-com-integration-with-workflow-triggers-amp-actions"
     },
     {
       "filename": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel.md",
@@ -1740,7 +1764,7 @@
       "publishedDate": "2026-02-11T14:24:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live"
     },
     {
@@ -1853,14 +1877,14 @@
     },
     {
       "filename": "cxoxxwq6aze-did-you-know-you-can-automate-workflows-by-integrating-any-app.md",
-      "title": "Did You Know You Can Automate Workflows by Integrating Any App",
+      "title": "Did You Know You Can Automate Workflows by Integrating Any App?",
       "videoId": "cXOXxwq6azE",
       "url": "https://www.youtube.com/watch?v=cXOXxwq6azE",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-02-10T19:58:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "cxoxxwq6aze-did-you-know-you-can-automate-workflows-by-integrating-any-app"
     },
     {
@@ -2030,18 +2054,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "dnoypsca4q0-meta-ads-now-live-in-australia-singapore-amp-taiwan"
-    },
-    {
-      "filename": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live.md",
-      "title": "Mobile App  Self Service Whitelabelled Mobile App Customizer Live!",
-      "videoId": "DotDaQ_B7tk",
-      "url": "https://www.youtube.com/watch?v=DotDaQ_B7tk",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-13T22:21:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.3",
-      "slug": "dotdaq-b7tk-mobile-app-self-service-whitelabelled-mobile-app-customizer-live"
     },
     {
       "filename": "dqbazc5plqe-search-amp-replace-tool-in-highlevel-wordpress-hosting.md",
@@ -2868,7 +2880,7 @@
       "publishedDate": "2026-02-04T21:23:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -3384,7 +3396,7 @@
       "publishedDate": "2026-02-11T14:24:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "jujbnibx5i0-configure-payment-providers-by-channel"
     },
     {
@@ -3590,6 +3602,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "kpht5hignzo-how-to-set-up-a-personality-style-quiz-in-highlevel"
+    },
+    {
+      "filename": "krb9q8ij9sc-openrouter-integration-in-workflows.md",
+      "title": "OpenRouter Integration in Workflows",
+      "videoId": "KrB9q8iJ9sc",
+      "url": "https://www.youtube.com/watch?v=KrB9q8iJ9sc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-12T19:00:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "krb9q8ij9sc-openrouter-integration-in-workflows"
     },
     {
       "filename": "kryngy-c-zi-google-forms-integration-live.md",
@@ -3818,6 +3842,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "lwwy4kqouaw-marketing-audit-report-workflow-action-live"
+    },
+    {
+      "filename": "lwwy4kqouaw-marketing-audit-report-workflow-action-now-live-inside-highlevel.md",
+      "title": "Marketing Audit Report Workflow Action Now Live inside HighLevel",
+      "videoId": "LwWy4KQOuaw",
+      "url": "https://www.youtube.com/watch?v=LwWy4KQOuaw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-04T23:14:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.3",
+      "slug": "lwwy4kqouaw-marketing-audit-report-workflow-action-now-live-inside-highlevel"
     },
     {
       "filename": "m90nbyl8gds-snapshot-masterclass-build-smarter-with-highlevel.md",
@@ -4745,14 +4781,14 @@
     },
     {
       "filename": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel.md",
-      "title": "Did You Know You Can Boost Your Google Business Profile right within HighLevel",
+      "title": "Did You Know You Can Boost Your Google Business Profile right within HighLevel?",
       "videoId": "qZMqXUSv7t0",
       "url": "https://www.youtube.com/watch?v=qZMqXUSv7t0",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-02-03T18:13:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.3",
       "slug": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel"
     },
     {
@@ -5644,6 +5680,18 @@
       "slug": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel"
     },
     {
+      "filename": "uluticd8744-configure-payment-providers-by-channel.md",
+      "title": "Configure Payment Providers by Channel",
+      "videoId": "UlutiCD8744",
+      "url": "https://www.youtube.com/watch?v=UlutiCD8744",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-12T22:00:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "uluticd8744-configure-payment-providers-by-channel"
+    },
+    {
       "filename": "umnn-8-xrgw-day-4-five-day-ai-employee-challenge.md",
       "title": "Day 4 - Five Day AI Employee Challenge",
       "videoId": "umnn_8-xRgw",
@@ -5784,7 +5832,7 @@
       "publishedDate": "2026-02-10T20:00:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vc9nidbp4yy-how-to-gain-insights-from-highlevel-workflow-trigger-stats"
     },
     {
@@ -6016,6 +6064,18 @@
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
     },
     {
+      "filename": "w4df9nvadlu-grant-or-revoke-course-access-manually-now-available-inside-highlevel.md",
+      "title": "Grant or Revoke Course Access Manually Now Available inside HighLevel",
+      "videoId": "w4df9nvADlU",
+      "url": "https://www.youtube.com/watch?v=w4df9nvADlU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-06T22:35:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.2",
+      "slug": "w4df9nvadlu-grant-or-revoke-course-access-manually-now-available-inside-highlevel"
+    },
+    {
       "filename": "w4df9nvadlu-grant-revoke-course-access-manually.md",
       "title": "Grant/Revoke Course Access Manually!",
       "videoId": "w4df9nvADlU",
@@ -6086,6 +6146,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wbeiirbew4e-how-to-manage-social-media-comments-using-highlevel-social-planner"
+    },
+    {
+      "filename": "wbtqpcnvrvu-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs-live.md",
+      "title": "Conversations AI - Conversation Summary, Transcript Generation &amp; Conversation Logs Live!",
+      "videoId": "WbTqpcnvrVU",
+      "url": "https://www.youtube.com/watch?v=WbTqpcnvrVU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-12T15:12:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wbtqpcnvrvu-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs-live"
     },
     {
       "filename": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel.md",
@@ -6840,7 +6912,7 @@
       "publishedDate": "2026-02-04T21:24:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -7253,7 +7325,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 567,
+    "fresh": 573,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7265,7 +7337,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 557,
+        "fresh": 563,
         "warning": 0,
         "expired": 0,
         "unknown": null

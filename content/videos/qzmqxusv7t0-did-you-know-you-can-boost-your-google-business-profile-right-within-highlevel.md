@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Boost Your Google Business Profile right within HighLevel"
+title: "Did You Know You Can Boost Your Google Business Profile right within HighLevel?"
 video_id: "qZMqXUSv7t0"
 url: "https://www.youtube.com/watch?v=qZMqXUSv7t0"
 thumbnail: "https://i.ytimg.com/vi/qZMqXUSv7t0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-02-03T18:13:46.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.3 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.3"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,11 +16,11 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-06T07:52:31.270Z"
+extracted_at: "2026-02-13T07:53:11.693Z"
 
 ---
 
-# 🟢 Did You Know You Can Boost Your Google Business Profile right within HighLevel
+# 🟢 Did You Know You Can Boost Your Google Business Profile right within HighLevel?
 
 **Video ID:** `qZMqXUSv7t0`
 **Source:** GoHighLevel Official - Last 180 Days
@@ -30,7 +30,7 @@ extracted_at: "2026-02-06T07:52:31.270Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.3 months old (fresh)**
 
 
 
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/6/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/13/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

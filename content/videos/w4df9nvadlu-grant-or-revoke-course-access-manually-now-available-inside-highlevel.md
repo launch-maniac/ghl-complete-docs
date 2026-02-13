@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Build Sales + Retention Systems in HighLevel"
-video_id: "YM-W5BzLBAc"
-url: "https://www.youtube.com/watch?v=YM-W5BzLBAc"
-thumbnail: "https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg"
+title: "Grant or Revoke Course Access Manually Now Available inside HighLevel"
+video_id: "w4df9nvADlU"
+url: "https://www.youtube.com/watch?v=w4df9nvADlU"
+thumbnail: "https://i.ytimg.com/vi/w4df9nvADlU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-10T10:56:41.000Z"
+published_date: "2026-02-06T22:35:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-13T07:53:09.873Z"
+extracted_at: "2026-02-13T07:53:10.779Z"
 
 ---
 
-# 🟢 Day 1 - Build Sales + Retention Systems in HighLevel
+# 🟢 Grant or Revoke Course Access Manually Now Available inside HighLevel
 
-**Video ID:** `YM-W5BzLBAc`
+**Video ID:** `w4df9nvADlU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/10/2026
+**Published:** 2/6/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-13T07:53:09.873Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YM-W5BzLBAc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/YM-W5BzLBAc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=w4df9nvADlU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/w4df9nvADlU/hqdefault.jpg)
 
 
 ## Content Guidelines
