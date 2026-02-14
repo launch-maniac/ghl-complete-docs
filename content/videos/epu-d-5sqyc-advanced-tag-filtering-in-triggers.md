@@ -1,14 +1,14 @@
 ---
-title: "Monetize Voice AI Fast with HighLevel"
-video_id: "X4mXYXKVqtQ"
-url: "https://www.youtube.com/watch?v=X4mXYXKVqtQ"
-thumbnail: "https://i.ytimg.com/vi/X4mXYXKVqtQ/hqdefault.jpg"
+title: "Advanced Tag filtering in Triggers"
+video_id: "EPu-D-5sqyc"
+url: "https://www.youtube.com/watch?v=EPu-D-5sqyc"
+thumbnail: "https://i.ytimg.com/vi/EPu-D-5sqyc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-14T17:32:01.000Z"
+published_date: "2026-02-13T19:00:25.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 1.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "1.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.657Z"
+extracted_at: "2026-02-14T07:48:40.453Z"
 
 ---
 
-# 🟢 Monetize Voice AI Fast with HighLevel
+# 🟢 Advanced Tag filtering in Triggers
 
-**Video ID:** `X4mXYXKVqtQ`
+**Video ID:** `EPu-D-5sqyc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/14/2025
+**Published:** 2/13/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 1.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:11.657Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=X4mXYXKVqtQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/X4mXYXKVqtQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=EPu-D-5sqyc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/EPu-D-5sqyc/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/14/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
