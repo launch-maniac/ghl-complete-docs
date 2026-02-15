@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-14T07:48:49.231Z",
+  "generated": "2026-02-15T07:49:13.404Z",
   "stats": {
     "channels": 1,
-    "videos": 35,
+    "videos": 28,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 35
+    "transcriptsFailed": 28
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -724,18 +724,6 @@
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
-      "filename": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025.md",
-      "title": "The HighLevel Release Radar (August 11th - August 15th 2025)",
-      "videoId": "5L71BkEoySo",
-      "url": "https://www.youtube.com/watch?v=5L71BkEoySo",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-16T01:57:53.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.2",
-      "slug": "5l71bkeoyso-the-highlevel-release-radar-august-11th-august-15th-2025"
-    },
-    {
       "filename": "5lakeng-no8-the-highlevel-release-radar-january-5th-january-9th-2026.md",
       "title": "The HighLevel Release Radar (January 5th - January 9th 2026)",
       "videoId": "5lakeNg_nO8",
@@ -1236,7 +1224,7 @@
       "publishedDate": "2026-02-13T06:10:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9orhwivbqvi-case-study-how-plusplus-media-scaled-with-highlevel-systems"
     },
     {
@@ -1605,10 +1593,10 @@
       "videoId": "bGYB_PPc3n0",
       "url": "https://www.youtube.com/watch?v=bGYB_PPc3n0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-10T19:11:06.000Z",
+      "publishedDate": "2026-02-15T06:01:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "bgyb-ppc3n0-build-live-events-that-convert-using-highlevel"
     },
     {
@@ -2292,7 +2280,7 @@
       "publishedDate": "2026-02-13T19:00:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "epu-d-5sqyc-advanced-tag-filtering-in-triggers"
     },
     {
@@ -2328,7 +2316,7 @@
       "publishedDate": "2026-02-13T15:24:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "esghkpjooqs-did-you-know-you-can-build-your-brand-voice-with-ai"
     },
     {
@@ -4284,7 +4272,7 @@
       "publishedDate": "2026-02-09T23:16:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "nrbupos3mhc-openrouter-integration-is-live-in-workflows"
     },
     {
@@ -4908,7 +4896,7 @@
       "publishedDate": "2026-02-03T18:13:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.4",
       "slug": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel"
     },
     {
@@ -5352,7 +5340,7 @@
       "publishedDate": "2026-02-13T16:01:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "suooqarwve8-ai-powered-wordpress-page-builder"
     },
     {
@@ -5832,7 +5820,7 @@
       "publishedDate": "2026-02-12T22:00:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "uluticd8744-configure-payment-providers-by-channel"
     },
     {
@@ -6216,7 +6204,7 @@
       "publishedDate": "2026-02-06T22:35:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.3",
       "slug": "w4df9nvadlu-grant-or-revoke-course-access-manually-now-available-inside-highlevel"
     },
     {
@@ -7176,7 +7164,7 @@
       "publishedDate": "2026-02-09T23:16:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "zbzq2c-py44-ai-powered-wordpress-page-builder-live"
     },
     {
@@ -7469,7 +7457,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 585,
+    "fresh": 584,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7481,7 +7469,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 575,
+        "fresh": 574,
         "warning": 0,
         "expired": 0,
         "unknown": null
