@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "698783a104f92e28e2cd7b2b"
+guid: "69911d221b1c21d6bb82179a"
 author: "Sales &amp; Marketing"
-pubDate: "2026-02-07T18:44:58.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-79"
+pubDate: "2026-02-15T01:13:45.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-80"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-79"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-80"
 index: 1
 ---
 
@@ -17,19 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Website Templates Published** 🚀
+🚀 **2 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Business Coaching & Consulting - 1
-
-\------------------------------------------------------
-
-🚀 **1 New Store Templates Published** 🚀
-
-\------------------------------------------------------
-
-Restaurant & Bar - 1
+Finance - 1
 
 \------------------------------------------------------
 
@@ -37,7 +29,7 @@ Restaurant & Bar - 1
 
 \------------------------------------------------------
 
-Health & Wellness - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +37,7 @@ Health & Wellness - 1
 
 \-----------------------------------------------------
 
-Beauty & Fashion - 1
+Business Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
@@ -53,7 +45,7 @@ Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
-Creative - 1
+Finance - 1
 
 \-----------------------------------------------------
 
@@ -61,27 +53,17 @@ Creative - 1
 
 \-----------------------------------------------------
 
-Automotive - 2
+Creative - 2
 
-Travel & Hospitality - 2
-
-\-----------------------------------------------------
-
-🚀 **1 New Facebook Ad Templates Published** 🚀
+Medical - 2
 
 \-----------------------------------------------------
 
-Home Services - 1
+🚀 **5 New Facebook Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-🚀 **2 New Google Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Medical - 1
-
-Other - 1
+Health & Wellness - 1
 
 \------------------------------------------------------
 
@@ -89,26 +71,20 @@ Other - 1
 
 \------------------------------------------------------
 
-Marketing Agency - Public Relations Firm
+Medical - Physical Therapy Clinic
 
-![Public Relations Firm - Snapshot](https://canny-assets.io/images/fe25ca1b84cfa25ec49fa6e290615950.png)
+![Physical Therapy Clinic - Snapshot](https://canny-assets.io/images/69edc60a6656c2ae31a7ee7623250f29.png)
 
-![Burger Shop - Store](https://canny-assets.io/images/c251d9db5314e8790b7da80ae4a652ba.png)
+![Plumber - Email](https://canny-assets.io/images/493fd12eb2dd63e1f2b6b18f670dc869.png)
 
-![Call Center - Google Ad](https://canny-assets.io/images/1a2742aff3a6fd34628c2c95b7676b87.png)
+![Art Gallery - Social Planner](https://canny-assets.io/images/93f37587bec420eb3ddad31414786390.png)
 
-![Camp Grounds - Social](https://canny-assets.io/images/0fa9fadefd4fc9df58d4cf4fb71ac530.png)
+![Banking & Payment Feedback - Survey](https://canny-assets.io/images/142adb91f4ce9c21621bb648dd9b9abe.png)
 
-![Flower Shop - Survey](https://canny-assets.io/images/bf6600d8e64cfae75d84f03d707a81be.png)
+![Dental Clinic - Social Planner](https://canny-assets.io/images/cf0cbd9dcae3703c6a3351ac6cd2d658.png)
 
-![IT Advisor - Website](https://canny-assets.io/images/88a17d25bb127829e4ea34d333c9e15c.png)
+![Education Tutor - Form](https://canny-assets.io/images/e29428302cf32b4a70e7738675c6f4ac.png)
 
-![Landscape Design - Facebook Ad](https://canny-assets.io/images/7b28b6abcbccfd5a2a83dd53f32c3ca3.png)
+![Investment Advisor - Website](https://canny-assets.io/images/9b062235bc43be14eb5736d13e042adc.png)
 
-![Optometrist - Google Ad](https://canny-assets.io/images/7fbbc1dcb64283236b677e8c567d2a04.png)
-
-![Tailoring Shop - Form](https://canny-assets.io/images/e5fb231bb5ef0bf2fddfbff98b8c408a.png)
-
-![Tire Service Center - Social](https://canny-assets.io/images/18e9bdeee4a95913f7cc63d16ae4a71d.png)
-
-![Yoga Studio - Email](https://canny-assets.io/images/0d3eecaf4d99554007c4fd62cf86f935.png)
+![Wellness Spa - Facebook Ad](https://canny-assets.io/images/b95f25cee40d98527a0641031e8fc753.png)
