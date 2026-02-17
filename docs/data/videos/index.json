@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-16T07:53:45.205Z",
+  "generated": "2026-02-17T07:52:56.863Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 7,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 7
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1596,7 +1596,7 @@
       "publishedDate": "2026-02-15T06:01:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bgyb-ppc3n0-build-live-events-that-convert-using-highlevel"
     },
     {
@@ -2428,6 +2428,18 @@
       "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
     },
     {
+      "filename": "fjh38t4e7-y-courses-import-from-media-storage-live.md",
+      "title": "Courses: Import from Media Storage Live!",
+      "videoId": "fJh38t4E7_Y",
+      "url": "https://www.youtube.com/watch?v=fJh38t4E7_Y",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-16T22:37:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fjh38t4e7-y-courses-import-from-media-storage-live"
+    },
+    {
       "filename": "fjmvup5a-ue-highlevel-workflows-quot-opportunity-changed-quot-trigger-upgrade.md",
       "title": "Highlevel Workflows: &quot;Opportunity Changed&quot; Trigger Upgrade!",
       "videoId": "FjmvuP5A-uE",
@@ -2949,10 +2961,10 @@
       "videoId": "h6rtZsz2s-4",
       "url": "https://www.youtube.com/watch?v=h6rtZsz2s-4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-04T21:23:19.000Z",
+      "publishedDate": "2026-02-16T18:39:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.0",
       "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -4514,6 +4526,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ozb-kswmp0e-did-you-know-you-can-offer-expiring-coupons-for-limited-time-promos"
+    },
+    {
+      "filename": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs.md",
+      "title": "Conversations AI   Conversation Summary, Transcript Generation &amp; Conversation Logs",
+      "videoId": "p0jQJZYLhEg",
+      "url": "https://www.youtube.com/watch?v=p0jQJZYLhEg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-16T16:01:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs"
     },
     {
       "filename": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers.md",
@@ -7457,7 +7481,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 584,
+    "fresh": 586,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7469,7 +7493,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 574,
+        "fresh": 576,
         "warning": 0,
         "expired": 0,
         "unknown": null

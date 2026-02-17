@@ -1,14 +1,14 @@
 ---
-title: "Build Live Events That Convert Using HighLevel"
-video_id: "bGYB_PPc3n0"
-url: "https://www.youtube.com/watch?v=bGYB_PPc3n0"
-thumbnail: "https://i.ytimg.com/vi/bGYB_PPc3n0/hqdefault.jpg"
+title: "Courses: Import from Media Storage Live!"
+video_id: "fJh38t4E7_Y"
+url: "https://www.youtube.com/watch?v=fJh38t4E7_Y"
+thumbnail: "https://i.ytimg.com/vi/fJh38t4E7_Y/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-15T06:01:35.000Z"
+published_date: "2026-02-16T22:37:34.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-17T07:52:51.922Z"
+extracted_at: "2026-02-17T07:52:51.170Z"
 
 ---
 
-# 🟢 Build Live Events That Convert Using HighLevel
+# 🟢 Courses: Import from Media Storage Live!
 
-**Video ID:** `bGYB_PPc3n0`
+**Video ID:** `fJh38t4E7_Y`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/15/2026
+**Published:** 2/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-17T07:52:51.922Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bGYB_PPc3n0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bGYB_PPc3n0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fJh38t4E7_Y)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fJh38t4E7_Y/hqdefault.jpg)
 
 
 ## Content Guidelines
