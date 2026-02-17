@@ -13,7 +13,7 @@ index: 1
 
 **What’s New?**
 
-View/Edit Invoices in a New Tab: You can now open any invoice in a separate browser tab directly from the 3-dot menu. No more losing your place in the invoice list while editing.
+View/Edit Invoices in a New Tab: You can now open any invoice/estimate in a separate browser tab directly from the 3-dot menu. No more losing your place in the invoice list while editing.
 
 ![Screenshot 2026-02-17 at 11](https://canny-assets.io/images/43feace40e4cea2ed9b98db93ecdb834.png)
 
