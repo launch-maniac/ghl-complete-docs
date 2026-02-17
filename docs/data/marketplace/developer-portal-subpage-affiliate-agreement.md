@@ -3,7 +3,7 @@ title: "Affiliate Agreement"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://www.gohighlevel.com/affiliate-policy"
-extracted_at: "2026-02-17T00:10:58.200Z"
+extracted_at: "2026-02-17T09:21:00.193Z"
 ---
 
 ![Icon for www.gohighlevel.com](/favicon.ico)
