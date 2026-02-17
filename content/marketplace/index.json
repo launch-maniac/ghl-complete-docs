@@ -1,13 +1,13 @@
 {
-  "generated": "2026-02-16T21:16:18.054Z",
+  "generated": "2026-02-17T00:13:25.132Z",
   "stats": {
     "categories": 0,
-    "docs": 21,
+    "docs": 26,
     "errors": 27,
     "successful": 27,
     "failed": [],
     "retries": 0,
-    "startTime": 1771276197063
+    "startTime": 1771286913135
   },
   "documents": [
     {
@@ -154,7 +154,7 @@
       "filename": "developer-portal-subpage-api-2-0-docs.md",
       "title": "API 2.0 Docs",
       "type": "developer-portal-subpage",
-      "url": "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview",
+      "url": "https://marketplace.gohighlevel.com/docs/",
       "slug": "developer-portal-subpage-api-2-0-docs"
     },
     {
@@ -189,7 +189,7 @@
       "filename": "developer-portal-subpage-view-the-api-2-0-docs.md",
       "title": "View the API 2.0 Docs -->",
       "type": "developer-portal-subpage",
-      "url": "https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview",
+      "url": "https://marketplace.gohighlevel.com/docs/",
       "slug": "developer-portal-subpage-view-the-api-2-0-docs"
     },
     {
