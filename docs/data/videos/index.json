@@ -1,10 +1,10 @@
 {
-  "generated": "2026-02-17T07:52:56.863Z",
+  "generated": "2026-02-18T07:52:31.264Z",
   "stats": {
     "channels": 1,
     "videos": 7,
     "playlists": 0,
-    "expired": 0,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -290,6 +290,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "1wyygfkrcek-lawrence-loik-build-live-events-that-convert-using-highlevel"
+    },
+    {
+      "filename": "21o-vt0izs-use-highlevel-to-get-clients-without-cold-prospecting.md",
+      "title": "Use HighLevel to Get Clients Without Cold Prospecting",
+      "videoId": "-21o_VT0IZs",
+      "url": "https://www.youtube.com/watch?v=-21o_VT0IZs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-17T16:04:04.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "21o-vt0izs-use-highlevel-to-get-clients-without-cold-prospecting"
     },
     {
       "filename": "25ntvczrocc-how-to-manage-duplicate-contacts-in-your-crm-system.md",
@@ -1768,18 +1780,6 @@
       "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
-      "filename": "caq5l3y4rq0-monetize-custom-ai-agents-in-your-saas-plan-highlevel-snapshot-hack.md",
-      "title": "Monetize Custom AI Agents in Your SaaS Plan | HighLevel Snapshot Hack",
-      "videoId": "CAQ5l3y4rq0",
-      "url": "https://www.youtube.com/watch?v=CAQ5l3y4rq0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-08-19T07:00:19.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.1",
-      "slug": "caq5l3y4rq0-monetize-custom-ai-agents-in-your-saas-plan-highlevel-snapshot-hack"
-    },
-    {
       "filename": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live.md",
       "title": "Funnels,Websites &amp; Sites Speed Optimization Live!",
       "videoId": "cbkBlbCAkC0",
@@ -2964,7 +2964,7 @@
       "publishedDate": "2026-02-16T18:39:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "h6rtzsz2s-4-day-1-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -4536,7 +4536,7 @@
       "publishedDate": "2026-02-16T16:01:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs"
     },
     {
@@ -4754,6 +4754,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports"
+    },
+    {
+      "filename": "q31wgsxgdyo-openai-highlevel-partnership.md",
+      "title": "OpenAI HighLevel Partnership",
+      "videoId": "q31WgSxGdyo",
+      "url": "https://www.youtube.com/watch?v=q31WgSxGdyo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-17T23:03:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "q31wgsxgdyo-openai-highlevel-partnership"
     },
     {
       "filename": "q4j5jtyeik8-highlevel-reputation-management-drip-mode-in-reviews-ai-now-live.md",
@@ -6880,6 +6892,18 @@
       "slug": "y7wztxdvkzq-workflows-bulk-operations-in-list-page"
     },
     {
+      "filename": "y8jwgkt3pmi-adding-automations-with-highlevel-leaving-work-early-im-self-employed-shorts.md",
+      "title": "Adding automations (with HighLevel)  leaving work early (Im self-employed) #shorts",
+      "videoId": "y8jWGkt3pmI",
+      "url": "https://www.youtube.com/watch?v=y8jWGkt3pmI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-17T22:02:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "y8jwgkt3pmi-adding-automations-with-highlevel-leaving-work-early-im-self-employed-shorts"
+    },
+    {
       "filename": "yaebvskdgig-community-course-attribution-reporting-is-live.md",
       "title": "Community Course  Attribution Reporting is Live!",
       "videoId": "YaeBvSKdGIg",
@@ -7053,10 +7077,10 @@
       "videoId": "yrgbIzuqwKs",
       "url": "https://www.youtube.com/watch?v=yrgbIzuqwKs",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-04T21:24:51.000Z",
+      "publishedDate": "2026-02-17T18:57:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.0",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -7481,7 +7505,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 586,
+    "fresh": 588,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7493,7 +7517,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 576,
+        "fresh": 578,
         "warning": 0,
         "expired": 0,
         "unknown": null

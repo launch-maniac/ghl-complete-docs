@@ -1,14 +1,14 @@
 ---
-title: "Monetize Custom AI Agents in Your SaaS Plan | HighLevel Snapshot Hack"
-video_id: "CAQ5l3y4rq0"
-url: "https://www.youtube.com/watch?v=CAQ5l3y4rq0"
-thumbnail: "https://i.ytimg.com/vi/CAQ5l3y4rq0/hqdefault.jpg"
+title: "OpenAI HighLevel Partnership"
+video_id: "q31WgSxGdyo"
+url: "https://www.youtube.com/watch?v=q31WgSxGdyo"
+thumbnail: "https://i.ytimg.com/vi/q31WgSxGdyo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-19T07:00:19.000Z"
+published_date: "2026-02-17T23:03:32.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 1.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "1.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.576Z"
+extracted_at: "2026-02-18T07:52:25.574Z"
 
 ---
 
-# 🟢 Monetize Custom AI Agents in Your SaaS Plan | HighLevel Snapshot Hack
+# 🟢 OpenAI HighLevel Partnership
 
-**Video ID:** `CAQ5l3y4rq0`
+**Video ID:** `q31WgSxGdyo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/19/2025
+**Published:** 2/17/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 1.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-21T01:04:11.576Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CAQ5l3y4rq0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/CAQ5l3y4rq0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=q31WgSxGdyo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/q31WgSxGdyo/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/18/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
