@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-18T07:52:31.264Z",
+  "generated": "2026-02-19T07:52:57.577Z",
   "stats": {
     "channels": 1,
-    "videos": 7,
+    "videos": 8,
     "playlists": 0,
-    "expired": 2,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 7
+    "transcriptsFailed": 8
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -300,7 +300,7 @@
       "publishedDate": "2026-02-17T16:04:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "21o-vt0izs-use-highlevel-to-get-clients-without-cold-prospecting"
     },
     {
@@ -2436,7 +2436,7 @@
       "publishedDate": "2026-02-16T22:37:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fjh38t4e7-y-courses-import-from-media-storage-live"
     },
     {
@@ -6616,6 +6616,18 @@
       "slug": "x3djby0swdw-kollab-beta-mobile-app-v2-is-live-for-testing"
     },
     {
+      "filename": "x5-apsdgedi-folders-for-ai-agents.md",
+      "title": "Folders for AI Agents",
+      "videoId": "X5_ApSdgEdI",
+      "url": "https://www.youtube.com/watch?v=X5_ApSdgEdI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-19T01:00:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "x5-apsdgedi-folders-for-ai-agents"
+    },
+    {
       "filename": "x5b8k5e1ez0-the-highlevel-release-radar-september-29th-october-3rd-2025.md",
       "title": "The HighLevel Release Radar (September 29th - October 3rd 2025)",
       "videoId": "x5B8k5e1ez0",
@@ -7080,7 +7092,7 @@
       "publishedDate": "2026-02-17T18:57:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
@@ -7505,7 +7517,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 588,
+    "fresh": 589,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7517,7 +7529,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 578,
+        "fresh": 579,
         "warning": 0,
         "expired": 0,
         "unknown": null

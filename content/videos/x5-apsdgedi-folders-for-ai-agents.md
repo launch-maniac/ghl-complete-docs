@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "h6rtZsz2s-4"
-url: "https://www.youtube.com/watch?v=h6rtZsz2s-4"
-thumbnail: "https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault.jpg"
+title: "Folders for AI Agents"
+video_id: "X5_ApSdgEdI"
+url: "https://www.youtube.com/watch?v=X5_ApSdgEdI"
+thumbnail: "https://i.ytimg.com/vi/X5_ApSdgEdI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-16T18:39:57.000Z"
+published_date: "2026-02-19T01:00:45.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-19T07:52:53.023Z"
+extracted_at: "2026-02-19T07:52:51.704Z"
 
 ---
 
-# 🟢 Day 1 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Folders for AI Agents
 
-**Video ID:** `h6rtZsz2s-4`
+**Video ID:** `X5_ApSdgEdI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/16/2026
+**Published:** 2/19/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-19T07:52:53.023Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=h6rtZsz2s-4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=X5_ApSdgEdI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/X5_ApSdgEdI/hqdefault.jpg)
 
 
 ## Content Guidelines
