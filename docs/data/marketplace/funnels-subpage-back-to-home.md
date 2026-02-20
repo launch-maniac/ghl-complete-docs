@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "funnels-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-02-20T12:13:18.550Z"
+extracted_at: "2026-02-20T21:12:03.081Z"
 ---
 
 # Hi, how can we help you?
@@ -152,7 +152,7 @@ Modified on Mon, 2 Jun, 2025 at 9:40 AM
 
 SaaS Mode - Full Setup Guide + FAQ
 
-Modified on Tue, 26 Aug, 2025 at 3:40 AM
+Modified on Fri, 20 Feb at 8:41 AM
 
 ](/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq)[
 
@@ -186,14 +186,14 @@ Modified on Tue, 27 Jan at 12:41 PM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
 
-LC - Phone Messaging Policy
-
-Modified on Fri, 13 Feb at 8:07 AM
-
-](/support/solutions/articles/48001213941-lc-phone-messaging-policy)[
-
 How do I find my Client's Location ID?
 
 Modified on Thu, 22 Jan at 4:10 PM
 
-](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)
+](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)[
+
+LC - Phone Messaging Policy
+
+Modified on Fri, 13 Feb at 8:07 AM
+
+](/support/solutions/articles/48001213941-lc-phone-messaging-policy)
