@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "yrgbIzuqwKs"
-url: "https://www.youtube.com/watch?v=yrgbIzuqwKs"
-thumbnail: "https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg"
+title: "Untitled #shorts"
+video_id: "jo5mS7_CUzE"
+url: "https://www.youtube.com/watch?v=jo5mS7_CUzE"
+thumbnail: "https://i.ytimg.com/vi/jo5mS7_CUzE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-17T18:57:47.000Z"
+published_date: "2026-02-21T05:30:55.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-22T07:48:36.193Z"
+extracted_at: "2026-02-22T07:48:30.947Z"
 
 ---
 
-# 🟢 Day 2 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Untitled #shorts
 
-**Video ID:** `yrgbIzuqwKs`
+**Video ID:** `jo5mS7_CUzE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/17/2026
+**Published:** 2/21/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-22T07:48:36.193Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yrgbIzuqwKs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=jo5mS7_CUzE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/jo5mS7_CUzE/hqdefault.jpg)
 
 
 ## Content Guidelines

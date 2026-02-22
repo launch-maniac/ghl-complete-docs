@@ -6,9 +6,9 @@ thumbnail: "https://i.ytimg.com/vi/h6rtZsz2s-4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-02-16T18:39:57.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-19T07:52:53.023Z"
+extracted_at: "2026-02-22T07:48:36.440Z"
 
 ---
 
@@ -30,7 +30,7 @@ extracted_at: "2026-02-19T07:52:53.023Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/19/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/22/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

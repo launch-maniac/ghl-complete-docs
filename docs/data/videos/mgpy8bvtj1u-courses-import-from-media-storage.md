@@ -1,10 +1,10 @@
 ---
-title: "Day 2 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "yrgbIzuqwKs"
-url: "https://www.youtube.com/watch?v=yrgbIzuqwKs"
-thumbnail: "https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg"
+title: "Courses: Import from Media Storage"
+video_id: "MgPY8bvtJ1U"
+url: "https://www.youtube.com/watch?v=MgPY8bvtJ1U"
+thumbnail: "https://i.ytimg.com/vi/MgPY8bvtJ1U/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-17T18:57:47.000Z"
+published_date: "2026-02-19T19:00:31.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-22T07:48:36.193Z"
+extracted_at: "2026-02-22T07:48:35.577Z"
 
 ---
 
-# 🟢 Day 2 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Courses: Import from Media Storage
 
-**Video ID:** `yrgbIzuqwKs`
+**Video ID:** `MgPY8bvtJ1U`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/17/2026
+**Published:** 2/19/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-22T07:48:36.193Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yrgbIzuqwKs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=MgPY8bvtJ1U)
+- [📷 Thumbnail](https://i.ytimg.com/vi/MgPY8bvtJ1U/hqdefault.jpg)
 
 
 ## Content Guidelines

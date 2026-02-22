@@ -1,10 +1,10 @@
 ---
-title: "Day 2 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "yrgbIzuqwKs"
-url: "https://www.youtube.com/watch?v=yrgbIzuqwKs"
-thumbnail: "https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg"
+title: "Custom Values &amp; Expanded Variable Sources for AI Agent Studio!"
+video_id: "1Vdm20c04dQ"
+url: "https://www.youtube.com/watch?v=1Vdm20c04dQ"
+thumbnail: "https://i.ytimg.com/vi/1Vdm20c04dQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-17T18:57:47.000Z"
+published_date: "2026-02-19T21:43:40.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-22T07:48:36.193Z"
+extracted_at: "2026-02-22T07:48:35.085Z"
 
 ---
 
-# 🟢 Day 2 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 Custom Values &amp; Expanded Variable Sources for AI Agent Studio!
 
-**Video ID:** `yrgbIzuqwKs`
+**Video ID:** `1Vdm20c04dQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/17/2026
+**Published:** 2/19/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-22T07:48:36.193Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yrgbIzuqwKs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=1Vdm20c04dQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/1Vdm20c04dQ/hqdefault.jpg)
 
 
 ## Content Guidelines

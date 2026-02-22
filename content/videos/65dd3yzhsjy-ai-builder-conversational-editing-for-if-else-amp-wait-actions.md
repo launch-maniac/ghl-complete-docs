@@ -1,10 +1,10 @@
 ---
-title: "Day 2 - AI Sales Systems You Can Launch with HighLevel"
-video_id: "yrgbIzuqwKs"
-url: "https://www.youtube.com/watch?v=yrgbIzuqwKs"
-thumbnail: "https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg"
+title: "AI Builder  Conversational Editing for If Else &amp; Wait Actions"
+video_id: "65DD3YZhSJY"
+url: "https://www.youtube.com/watch?v=65DD3YZhSJY"
+thumbnail: "https://i.ytimg.com/vi/65DD3YZhSJY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-17T18:57:47.000Z"
+published_date: "2026-02-20T19:00:11.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-22T07:48:36.193Z"
+extracted_at: "2026-02-22T07:48:32.414Z"
 
 ---
 
-# 🟢 Day 2 - AI Sales Systems You Can Launch with HighLevel
+# 🟢 AI Builder  Conversational Editing for If Else &amp; Wait Actions
 
-**Video ID:** `yrgbIzuqwKs`
+**Video ID:** `65DD3YZhSJY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/17/2026
+**Published:** 2/20/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-02-22T07:48:36.193Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=yrgbIzuqwKs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/yrgbIzuqwKs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=65DD3YZhSJY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/65DD3YZhSJY/hqdefault.jpg)
 
 
 ## Content Guidelines

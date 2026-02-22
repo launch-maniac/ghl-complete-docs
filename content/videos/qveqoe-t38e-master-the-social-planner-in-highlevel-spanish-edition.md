@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (August 18th - August 22nd 2025)"
-video_id: "qP9xBESeu40"
-url: "https://www.youtube.com/watch?v=qP9xBESeu40"
-thumbnail: "https://i.ytimg.com/vi/qP9xBESeu40/hqdefault.jpg"
+title: "Master the Social Planner in HighLevel: Spanish Edition"
+video_id: "qVEqoE-t38E"
+url: "https://www.youtube.com/watch?v=qVEqoE-t38E"
+thumbnail: "https://i.ytimg.com/vi/qVEqoE-t38E/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-23T06:05:27.000Z"
+published_date: "2026-02-19T17:53:42.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.9 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.9"
+age_in_months: "0.1"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.367Z"
+extracted_at: "2026-02-22T07:48:35.759Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (August 18th - August 22nd 2025)
+# 🟢 Master the Social Planner in HighLevel: Spanish Edition
 
-**Video ID:** `qP9xBESeu40`
+**Video ID:** `qVEqoE-t38E`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/22/2025
+**Published:** 2/19/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.9 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:11.367Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qP9xBESeu40)
-- [📷 Thumbnail](https://i.ytimg.com/vi/qP9xBESeu40/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qVEqoE-t38E)
+- [📷 Thumbnail](https://i.ytimg.com/vi/qVEqoE-t38E/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/22/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
