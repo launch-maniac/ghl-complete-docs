@@ -1,14 +1,14 @@
 {
-  "generated": "2026-02-22T07:48:40.934Z",
+  "generated": "2026-02-24T07:53:29.943Z",
   "stats": {
     "channels": 1,
-    "videos": 30,
+    "videos": 22,
     "playlists": 0,
-    "expired": 6,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 30
+    "transcriptsFailed": 22
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -600,7 +600,7 @@
       "publishedDate": "2026-02-22T06:21:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4-jkoqy9a6g-cameron-williams-scale-your-agency-with-smarter-financial-systems-highlevel"
     },
     {
@@ -648,7 +648,7 @@
       "publishedDate": "2026-02-20T22:00:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "4ci7sv8tuiu-deskphone-to-deskphone-calling-amp-transfer"
     },
     {
@@ -1828,6 +1828,18 @@
       "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
+      "filename": "bzxdtracnyq-priya-jaganathan-invites-you-to-highlevel-live-india-new-delhi-february-25-27-2026.md",
+      "title": "Priya Jaganathan invites you to HighLevel LIVE India! | New Delhi | February 25-27, 2026",
+      "videoId": "bZXDTraCnyQ",
+      "url": "https://www.youtube.com/watch?v=bZXDTraCnyQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-20T01:02:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "bzxdtracnyq-priya-jaganathan-invites-you-to-highlevel-live-india-new-delhi-february-25-27-2026"
+    },
+    {
       "filename": "bzxdtracnyq-untitled.md",
       "title": "Untitled",
       "videoId": "bZXDTraCnyQ",
@@ -1852,6 +1864,18 @@
       "slug": "c10joorxr2e-going-from-mom-to-7-figure-agency-owner"
     },
     {
+      "filename": "c3cwntm3zyg-neil-patel-highlevel-live-india-february-25-27-2026-you-don-39-t-want-to-miss-this.md",
+      "title": "Neil Patel. HighLevel LIVE India. February 25-27, 2026. You don&#39;t want to miss this!",
+      "videoId": "C3cwntm3ZYg",
+      "url": "https://www.youtube.com/watch?v=C3cwntm3ZYg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-21T04:30:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "c3cwntm3zyg-neil-patel-highlevel-live-india-february-25-27-2026-you-don-39-t-want-to-miss-this"
+    },
+    {
       "filename": "c3cwntm3zyg-untitled-shorts.md",
       "title": "Untitled #shorts",
       "videoId": "C3cwntm3ZYg",
@@ -1874,6 +1898,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live"
+    },
+    {
+      "filename": "cdphhq2rloo-wordpress-support-in-snapshots.md",
+      "title": "WordPress Support in Snapshots!",
+      "videoId": "cdpHHq2Rloo",
+      "url": "https://www.youtube.com/watch?v=cdpHHq2Rloo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-23T23:58:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cdphhq2rloo-wordpress-support-in-snapshots"
     },
     {
       "filename": "ceycip04eku-how-to-enable-or-disable-customers-in-affiliate-management.md",
@@ -3100,6 +3136,18 @@
       "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
     },
     {
+      "filename": "hefhkzxmz18-chris-dillon-leader-operator-builder-and-now-highlevel-live-india-speaker-get-ready-to-l.md",
+      "title": "Chris Dillon: leader, operator, builder. And now, HighLevel LIVE India speaker. Get ready to learn!",
+      "videoId": "HEfhKZXMz18",
+      "url": "https://www.youtube.com/watch?v=HEfhKZXMz18",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-22T04:31:07.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "hefhkzxmz18-chris-dillon-leader-operator-builder-and-now-highlevel-live-india-speaker-get-ready-to-l"
+    },
+    {
       "filename": "hefhkzxmz18-untitled-shorts.md",
       "title": "Untitled #shorts",
       "videoId": "HEfhKZXMz18",
@@ -3242,6 +3290,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hu-m-cpdjhm-meta-ads-now-live-in-australia-singapore-amp-taiwan"
+    },
+    {
+      "filename": "hvbge-tn0u-manish-nath-tiwari-is-taking-the-stage-at-highlevel-live-india-will-you-be-there.md",
+      "title": "Manish Nath Tiwari is taking the stage at HighLevel LIVE India! Will you be there?",
+      "videoId": "-HVBGe_tN0U",
+      "url": "https://www.youtube.com/watch?v=-HVBGe_tN0U",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-20T04:31:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "hvbge-tn0u-manish-nath-tiwari-is-taking-the-stage-at-highlevel-live-india-will-you-be-there"
     },
     {
       "filename": "hvbge-tn0u-untitled.md",
@@ -3628,6 +3688,18 @@
       "slug": "jk078uejpqk-persistence-in-surveys-and-quizzes-live"
     },
     {
+      "filename": "jo5ms7-cuze-michael-reimer-is-ready-to-shift-your-mindset-at-highlevel-live-india-will-we-see-you-th.md",
+      "title": "Michael Reimer is ready to shift your mindset at HighLevel LIVE India! Will we see you there?",
+      "videoId": "jo5mS7_CUzE",
+      "url": "https://www.youtube.com/watch?v=jo5mS7_CUzE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-21T05:30:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "jo5ms7-cuze-michael-reimer-is-ready-to-shift-your-mindset-at-highlevel-live-india-will-we-see-you-th"
+    },
+    {
       "filename": "jo5ms7-cuze-untitled-shorts.md",
       "title": "Untitled #shorts",
       "videoId": "jo5mS7_CUzE",
@@ -3698,6 +3770,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "k57anpi-u6c-how-to-use-meta-ad-widgets-in-highlevel-step-by-step-dashboard-setup-and-insights"
+    },
+    {
+      "filename": "k5hik9pmkk-next-gen-rich-messaging-rcs-closed-beta-launch.md",
+      "title": "Next - Gen Rich Messaging (RCS) Closed Beta Launch!",
+      "videoId": "_k5hiK9pmkk",
+      "url": "https://www.youtube.com/watch?v=_k5hiK9pmkk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-23T23:59:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "k5hik9pmkk-next-gen-rich-messaging-rcs-closed-beta-launch"
     },
     {
       "filename": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025.md",
@@ -3972,7 +4056,7 @@
       "publishedDate": "2026-02-21T00:15:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lfzw4e5csnq-moltclaw-aka-openclaw-inside-highlevel-private-beta"
     },
     {
@@ -4240,6 +4324,18 @@
       "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
+      "filename": "mndgzf5kzv4-reputation-widgets-speed-upgrade.md",
+      "title": "Reputation Widgets Speed Upgrade!",
+      "videoId": "mndGZF5KzV4",
+      "url": "https://www.youtube.com/watch?v=mndGZF5KzV4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-23T23:59:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mndgzf5kzv4-reputation-widgets-speed-upgrade"
+    },
+    {
       "filename": "mngxm3gaj4e-voice-amp-conversation-ai-in-highlevel.md",
       "title": "Voice &amp; Conversation AI In HighLevel",
       "videoId": "MNgxm3gAJ4E",
@@ -4286,6 +4382,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "mvhkfjgdqjs-highlevel-documents-and-contracts-dynamic-fillable-fields-from-workflows-now-live"
+    },
+    {
+      "filename": "mwnmsar-gas-you-can-build-an-ai-conversational-assistant-for-plumber-in-hl-shorts.md",
+      "title": "You can build an AI conversational Assistant for Plumber In HL #shorts",
+      "videoId": "mwNMSAr-gAs",
+      "url": "https://www.youtube.com/watch?v=mwNMSAr-gAs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-24T00:03:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mwnmsar-gas-you-can-build-an-ai-conversational-assistant-for-plumber-in-hl-shorts"
     },
     {
       "filename": "mybw-jagmgs-how-to-get-your-phone-number-a2p-approved-in-2026.md",
@@ -4490,6 +4598,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "nzlpzzccma-day-1-highlevel-funnels-that-capture-nurture-and-close"
+    },
+    {
+      "filename": "o-ld5mxv-my-company-csv-export-live.md",
+      "title": "Company CSV Export Live!",
+      "videoId": "O-Ld5mXv_MY",
+      "url": "https://www.youtube.com/watch?v=O-Ld5mXv_MY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-23T23:55:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "o-ld5mxv-my-company-csv-export-live"
     },
     {
       "filename": "o9zofzhtm9s-the-highlevel-release-radar-november-24th-november-28th-2025.md",
@@ -4896,7 +5016,7 @@
       "publishedDate": "2026-02-21T08:56:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "puhkwi1lgyk-the-highlevel-release-radar-february-16th-february-20th-2026"
     },
     {
@@ -5073,10 +5193,10 @@
       "videoId": "qVEqoE-t38E",
       "url": "https://www.youtube.com/watch?v=qVEqoE-t38E",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-19T17:53:42.000Z",
+      "publishedDate": "2026-02-24T05:42:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "qveqoe-t38e-master-the-social-planner-in-highlevel-spanish-edition"
     },
     {
@@ -5282,6 +5402,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "rknhcwjrwvs-facebook-instagram-amp-voice-ai-added-to-chat-widgets-all-in-one-widget-live"
+    },
+    {
+      "filename": "rmafqhmnbma-invite-from-sahil-sehgal-to-highlevel-live-india-will-you-be-in-the-room.md",
+      "title": "Invite from Sahil Sehgal to HighLevel LIVE India | Will you be in the room?",
+      "videoId": "RmafqhMNBmA",
+      "url": "https://www.youtube.com/watch?v=RmafqhMNBmA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-20T02:01:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "rmafqhmnbma-invite-from-sahil-sehgal-to-highlevel-live-india-will-you-be-in-the-room"
     },
     {
       "filename": "rmafqhmnbma-untitled.md",
@@ -5880,7 +6012,7 @@
       "publishedDate": "2026-02-21T17:04:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "twxnpmsqqbs-why-most-agencies-feel-broke-at-20k-month-spotlight-on-cameron-williams-shorts"
     },
     {
@@ -5954,6 +6086,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "u1fslnw5zs0-why-i-stopped-building-custom-automations-and-switched-to-highlevel"
+    },
+    {
+      "filename": "u24jpdjaazq-highlevel-live-india-is-sold-out-see-you-in-new-delhi-on-february-25-27-2026.md",
+      "title": "HighLevel LIVE India is SOLD OUT! See you in New Delhi on February 25-27, 2026!",
+      "videoId": "u24JPDjAAZQ",
+      "url": "https://www.youtube.com/watch?v=u24JPDjAAZQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-21T14:31:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "u24jpdjaazq-highlevel-live-india-is-sold-out-see-you-in-new-delhi-on-february-25-27-2026"
     },
     {
       "filename": "u24jpdjaazq-untitled-shorts.md",
@@ -7036,6 +7180,18 @@
       "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
     },
     {
+      "filename": "xu3qhmzeq3q-new-university-course-ai-coaching.md",
+      "title": "New University Course:AI Coaching!",
+      "videoId": "xU3qhmzEQ3Q",
+      "url": "https://www.youtube.com/watch?v=xU3qhmzEQ3Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-23T23:57:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xu3qhmzeq3q-new-university-course-ai-coaching"
+    },
+    {
       "filename": "xvanflk-5-s-highlevel-live-india-speaker-reveal-webinar.md",
       "title": "HighLevel LIVE India Speaker Reveal Webinar",
       "videoId": "XVANflK-5-s",
@@ -7106,6 +7262,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites"
+    },
+    {
+      "filename": "xxas38fxdha-priya-jaganathan-is-ready-to-help-you-maximize-your-growth-at-highlevel-live-india-see-y.md",
+      "title": "Priya Jaganathan is ready to help you maximize your growth at HighLevel LIVE India. See you there!",
+      "videoId": "Xxas38fxDhA",
+      "url": "https://www.youtube.com/watch?v=Xxas38fxDhA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-02-21T06:31:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "xxas38fxdha-priya-jaganathan-is-ready-to-help-you-maximize-your-growth-at-highlevel-live-india-see-y"
     },
     {
       "filename": "xxas38fxdha-untitled-shorts.md",
@@ -7805,7 +7973,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 613,
+    "fresh": 627,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -7817,7 +7985,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 603,
+        "fresh": 617,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,10 +1,10 @@
 ---
-title: "Why Most Agencies Feel Broke at $20K/Month: Spotlight on Cameron Williams #shorts"
-video_id: "TwXNpMSqqbs"
-url: "https://www.youtube.com/watch?v=TwXNpMSqqbs"
-thumbnail: "https://i.ytimg.com/vi/TwXNpMSqqbs/hqdefault.jpg"
+title: "HighLevel LIVE India is SOLD OUT! See you in New Delhi on February 25-27, 2026!"
+video_id: "u24JPDjAAZQ"
+url: "https://www.youtube.com/watch?v=u24JPDjAAZQ"
+thumbnail: "https://i.ytimg.com/vi/u24JPDjAAZQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-21T17:04:58.000Z"
+published_date: "2026-02-21T14:31:43.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-24T07:53:23.537Z"
+extracted_at: "2026-02-24T07:53:23.708Z"
 
 ---
 
-# 🟢 Why Most Agencies Feel Broke at $20K/Month: Spotlight on Cameron Williams #shorts
+# 🟢 HighLevel LIVE India is SOLD OUT! See you in New Delhi on February 25-27, 2026!
 
-**Video ID:** `TwXNpMSqqbs`
+**Video ID:** `u24JPDjAAZQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 2/21/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-02-24T07:53:23.537Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TwXNpMSqqbs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/TwXNpMSqqbs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u24JPDjAAZQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/u24JPDjAAZQ/hqdefault.jpg)
 
 
 ## Content Guidelines

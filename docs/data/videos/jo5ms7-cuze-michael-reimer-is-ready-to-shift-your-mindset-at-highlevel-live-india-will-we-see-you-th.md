@@ -1,10 +1,10 @@
 ---
-title: "Why Most Agencies Feel Broke at $20K/Month: Spotlight on Cameron Williams #shorts"
-video_id: "TwXNpMSqqbs"
-url: "https://www.youtube.com/watch?v=TwXNpMSqqbs"
-thumbnail: "https://i.ytimg.com/vi/TwXNpMSqqbs/hqdefault.jpg"
+title: "Michael Reimer is ready to shift your mindset at HighLevel LIVE India! Will we see you there?"
+video_id: "jo5mS7_CUzE"
+url: "https://www.youtube.com/watch?v=jo5mS7_CUzE"
+thumbnail: "https://i.ytimg.com/vi/jo5mS7_CUzE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-21T17:04:58.000Z"
+published_date: "2026-02-21T05:30:55.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-24T07:53:23.537Z"
+extracted_at: "2026-02-24T07:53:24.290Z"
 
 ---
 
-# 🟢 Why Most Agencies Feel Broke at $20K/Month: Spotlight on Cameron Williams #shorts
+# 🟢 Michael Reimer is ready to shift your mindset at HighLevel LIVE India! Will we see you there?
 
-**Video ID:** `TwXNpMSqqbs`
+**Video ID:** `jo5mS7_CUzE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 2/21/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-02-24T07:53:23.537Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TwXNpMSqqbs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/TwXNpMSqqbs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=jo5mS7_CUzE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/jo5mS7_CUzE/hqdefault.jpg)
 
 
 ## Content Guidelines
