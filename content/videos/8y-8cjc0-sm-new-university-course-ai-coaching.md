@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Five Day AI Employee Challenge"
-video_id: "_6e2W_-quVA"
-url: "https://www.youtube.com/watch?v=_6e2W_-quVA"
-thumbnail: "https://i.ytimg.com/vi/_6e2W_-quVA/hqdefault.jpg"
+title: "New University Course  AI Coaching!"
+video_id: "8y-8cJC0-sM"
+url: "https://www.youtube.com/watch?v=8y-8cJC0-sM"
+thumbnail: "https://i.ytimg.com/vi/8y-8cJC0-sM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-26T05:53:07.000Z"
+published_date: "2026-02-24T22:00:16.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.8 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.8"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.077Z"
+extracted_at: "2026-02-26T07:53:39.129Z"
 
 ---
 
-# 🟢 Day 1 - Five Day AI Employee Challenge
+# 🟢 New University Course  AI Coaching!
 
-**Video ID:** `_6e2W_-quVA`
+**Video ID:** `8y-8cJC0-sM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/25/2025
+**Published:** 2/24/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.8 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-21T01:04:11.077Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_6e2W_-quVA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/_6e2W_-quVA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=8y-8cJC0-sM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/8y-8cJC0-sM/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/26/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

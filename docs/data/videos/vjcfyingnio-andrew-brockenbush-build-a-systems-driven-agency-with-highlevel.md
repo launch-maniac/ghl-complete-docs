@@ -1,14 +1,14 @@
 ---
-title: "Social Planner - Reschedule in Approval State!"
-video_id: "GY6xM_JcmgA"
-url: "https://www.youtube.com/watch?v=GY6xM_JcmgA"
-thumbnail: "https://i.ytimg.com/vi/GY6xM_JcmgA/hqdefault.jpg"
+title: "Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel"
+video_id: "vjcFYInGNio"
+url: "https://www.youtube.com/watch?v=vjcFYInGNio"
+thumbnail: "https://i.ytimg.com/vi/vjcFYInGNio/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-25T23:58:28.000Z"
+published_date: "2026-02-25T22:40:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.9 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.9"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:11.156Z"
+extracted_at: "2026-02-26T07:53:37.175Z"
 
 ---
 
-# 🟢 Social Planner - Reschedule in Approval State!
+# 🟢 Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel
 
-**Video ID:** `GY6xM_JcmgA`
+**Video ID:** `vjcFYInGNio`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/25/2025
+**Published:** 2/25/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.9 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:11.156Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GY6xM_JcmgA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GY6xM_JcmgA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vjcFYInGNio)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vjcFYInGNio/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/26/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

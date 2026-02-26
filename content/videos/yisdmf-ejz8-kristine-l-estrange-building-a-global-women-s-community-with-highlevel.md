@@ -1,14 +1,14 @@
 ---
-title: "Blog Statistics  Track Blog &amp; Post Performance"
-video_id: "wgUhdivM8JM"
-url: "https://www.youtube.com/watch?v=wgUhdivM8JM"
-thumbnail: "https://i.ytimg.com/vi/wgUhdivM8JM/hqdefault.jpg"
+title: "Kristine L’Estrange: Building a Global Women’s Community with HighLevel"
+video_id: "YISDmF-EJz8"
+url: "https://www.youtube.com/watch?v=YISDmF-EJz8"
+thumbnail: "https://i.ytimg.com/vi/YISDmF-EJz8/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-26T21:00:57.000Z"
+published_date: "2026-02-25T13:59:06.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.8 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.8"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:10.839Z"
+extracted_at: "2026-02-26T07:53:38.302Z"
 
 ---
 
-# 🟢 Blog Statistics  Track Blog &amp; Post Performance
+# 🟢 Kristine L’Estrange: Building a Global Women’s Community with HighLevel
 
-**Video ID:** `wgUhdivM8JM`
+**Video ID:** `YISDmF-EJz8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/26/2025
+**Published:** 2/25/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.8 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:10.839Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=wgUhdivM8JM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/wgUhdivM8JM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=YISDmF-EJz8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/YISDmF-EJz8/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 2/26/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
