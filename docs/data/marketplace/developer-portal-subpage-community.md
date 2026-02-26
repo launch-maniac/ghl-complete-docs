@@ -3,10 +3,8 @@ title: "Community"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://gohighlevel.com/dev-slack"
-extracted_at: "2026-02-26T00:10:25.805Z"
+extracted_at: "2026-02-26T09:20:15.796Z"
 ---
-
-![Icon for www.gohighlevel.com](/favicon.ico)
 
 # www.gohighlevel.com
 
