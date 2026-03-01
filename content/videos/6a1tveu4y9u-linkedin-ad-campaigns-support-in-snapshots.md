@@ -1,14 +1,14 @@
 ---
-title: "Internship Program Info Session Replay"
-video_id: "-g1XOXjwLJE"
-url: "https://www.youtube.com/watch?v=-g1XOXjwLJE"
-thumbnail: "https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg"
+title: "LinkedIn Ad Campaigns Support in Snapshots"
+video_id: "6A1Tveu4y9U"
+url: "https://www.youtube.com/watch?v=6A1Tveu4y9U"
+thumbnail: "https://i.ytimg.com/vi/6A1Tveu4y9U/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-28T06:35:16.000Z"
+published_date: "2026-02-27T16:00:15.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.0 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.0"
+age_in_months: "0.1"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-01T07:50:15.929Z"
+extracted_at: "2026-03-01T07:50:17.468Z"
 
 ---
 
-# 🟢 Internship Program Info Session Replay
+# 🟢 LinkedIn Ad Campaigns Support in Snapshots
 
-**Video ID:** `-g1XOXjwLJE`
+**Video ID:** `6A1Tveu4y9U`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/28/2026
+**Published:** 2/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.0 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-01T07:50:15.929Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-g1XOXjwLJE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6A1Tveu4y9U)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6A1Tveu4y9U/hqdefault.jpg)
 
 
 ## Content Guidelines

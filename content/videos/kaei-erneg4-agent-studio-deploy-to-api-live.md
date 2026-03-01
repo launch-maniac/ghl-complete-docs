@@ -1,10 +1,10 @@
 ---
-title: "Internship Program Info Session Replay"
-video_id: "-g1XOXjwLJE"
-url: "https://www.youtube.com/watch?v=-g1XOXjwLJE"
-thumbnail: "https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg"
+title: "Agent Studio Deploy to API Live!"
+video_id: "kaEI-eRnEG4"
+url: "https://www.youtube.com/watch?v=kaEI-eRnEG4"
+thumbnail: "https://i.ytimg.com/vi/kaEI-eRnEG4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-28T06:35:16.000Z"
+published_date: "2026-02-27T23:12:06.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-01T07:50:15.929Z"
+extracted_at: "2026-03-01T07:50:16.482Z"
 
 ---
 
-# 🟢 Internship Program Info Session Replay
+# 🟢 Agent Studio Deploy to API Live!
 
-**Video ID:** `-g1XOXjwLJE`
+**Video ID:** `kaEI-eRnEG4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/28/2026
+**Published:** 2/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-01T07:50:15.929Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-g1XOXjwLJE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kaEI-eRnEG4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/kaEI-eRnEG4/hqdefault.jpg)
 
 
 ## Content Guidelines

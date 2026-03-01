@@ -1,14 +1,14 @@
 ---
-title: "Enhanced Drag &amp; Drop in Page Builder!"
-video_id: "HWpEX13TzWg"
-url: "https://www.youtube.com/watch?v=HWpEX13TzWg"
-thumbnail: "https://i.ytimg.com/vi/HWpEX13TzWg/hqdefault.jpg"
+title: "Day 5 - Five Day Challenge"
+video_id: "6BtjSxxUUfM"
+url: "https://www.youtube.com/watch?v=6BtjSxxUUfM"
+thumbnail: "https://i.ytimg.com/vi/6BtjSxxUUfM/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-08-28T01:36:04.000Z"
+published_date: "2026-02-26T18:15:30.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.8 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.8"
+age_in_months: "0.1"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:10.707Z"
+extracted_at: "2026-03-01T07:50:20.689Z"
 
 ---
 
-# 🟢 Enhanced Drag &amp; Drop in Page Builder!
+# 🟢 Day 5 - Five Day Challenge
 
-**Video ID:** `HWpEX13TzWg`
+**Video ID:** `6BtjSxxUUfM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 8/27/2025
+**Published:** 2/26/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.8 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:10.707Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=HWpEX13TzWg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/HWpEX13TzWg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6BtjSxxUUfM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6BtjSxxUUfM/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/1/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

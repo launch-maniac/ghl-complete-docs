@@ -1,14 +1,14 @@
 ---
-title: "Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel"
-video_id: "vjcFYInGNio"
-url: "https://www.youtube.com/watch?v=vjcFYInGNio"
-thumbnail: "https://i.ytimg.com/vi/vjcFYInGNio/hqdefault.jpg"
+title: "Day 2 - Five Day Challenge"
+video_id: "OBIFeZG7-Vc"
+url: "https://www.youtube.com/watch?v=OBIFeZG7-Vc"
+thumbnail: "https://i.ytimg.com/vi/OBIFeZG7-Vc/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-01T06:23:12.000Z"
+published_date: "2026-02-26T18:07:43.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.0 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.0"
+age_in_months: "0.1"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-01T07:50:15.465Z"
+extracted_at: "2026-03-01T07:50:21.143Z"
 
 ---
 
-# 🟢 Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel
+# 🟢 Day 2 - Five Day Challenge
 
-**Video ID:** `vjcFYInGNio`
+**Video ID:** `OBIFeZG7-Vc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/1/2026
+**Published:** 2/26/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.0 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-01T07:50:15.465Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vjcFYInGNio)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vjcFYInGNio/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=OBIFeZG7-Vc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/OBIFeZG7-Vc/hqdefault_live.jpg)
 
 
 ## Content Guidelines

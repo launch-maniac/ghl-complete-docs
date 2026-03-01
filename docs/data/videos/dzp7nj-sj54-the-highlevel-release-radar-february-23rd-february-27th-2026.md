@@ -1,10 +1,10 @@
 ---
-title: "Internship Program Info Session Replay"
-video_id: "-g1XOXjwLJE"
-url: "https://www.youtube.com/watch?v=-g1XOXjwLJE"
-thumbnail: "https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg"
+title: "The HighLevel Release Radar (February 23rd - February 27th 2026)"
+video_id: "Dzp7nj-sj54"
+url: "https://www.youtube.com/watch?v=Dzp7nj-sj54"
+thumbnail: "https://i.ytimg.com/vi/Dzp7nj-sj54/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-28T06:35:16.000Z"
+published_date: "2026-02-28T08:07:29.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-01T07:50:15.929Z"
+extracted_at: "2026-03-01T07:50:15.736Z"
 
 ---
 
-# 🟢 Internship Program Info Session Replay
+# 🟢 The HighLevel Release Radar (February 23rd - February 27th 2026)
 
-**Video ID:** `-g1XOXjwLJE`
+**Video ID:** `Dzp7nj-sj54`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 2/28/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-03-01T07:50:15.929Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-g1XOXjwLJE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-g1XOXjwLJE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Dzp7nj-sj54)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Dzp7nj-sj54/hqdefault.jpg)
 
 
 ## Content Guidelines

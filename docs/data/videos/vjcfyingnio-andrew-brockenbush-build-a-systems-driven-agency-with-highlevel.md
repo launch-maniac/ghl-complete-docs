@@ -2,9 +2,9 @@
 title: "Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel"
 video_id: "vjcFYInGNio"
 url: "https://www.youtube.com/watch?v=vjcFYInGNio"
-thumbnail: "https://i.ytimg.com/vi/vjcFYInGNio/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/vjcFYInGNio/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-25T22:40:52.000Z"
+published_date: "2026-03-01T06:23:12.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-02-26T07:53:37.175Z"
+extracted_at: "2026-03-01T07:50:15.465Z"
 
 ---
 
@@ -25,7 +25,7 @@ extracted_at: "2026-02-26T07:53:37.175Z"
 **Video ID:** `vjcFYInGNio`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/25/2026
+**Published:** 3/1/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -43,7 +43,7 @@ extracted_at: "2026-02-26T07:53:37.175Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vjcFYInGNio)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vjcFYInGNio/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/vjcFYInGNio/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 2/26/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/1/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
