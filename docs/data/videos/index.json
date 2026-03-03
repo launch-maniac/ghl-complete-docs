@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-01T07:50:26.853Z",
+  "generated": "2026-03-03T07:51:19.245Z",
   "stats": {
     "channels": 1,
-    "videos": 30,
+    "videos": 15,
     "playlists": 0,
-    "expired": 4,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 30
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -453,10 +453,10 @@
       "videoId": "2O8gJA8kIlk",
       "url": "https://www.youtube.com/watch?v=2O8gJA8kIlk",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-26T18:04:12.000Z",
+      "publishedDate": "2026-03-03T06:09:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "2o8gja8kilk-day-1-five-day-challenge"
     },
     {
@@ -780,7 +780,7 @@
       "publishedDate": "2026-02-26T18:13:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "4ybdircfgsg-day-4-five-day-challenge"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedDate": "2026-02-26T18:15:30.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "6btjsxxuufm-day-5-five-day-challenge"
     },
     {
@@ -2472,7 +2472,7 @@
       "publishedDate": "2026-02-28T08:07:29.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dzp7nj-sj54-the-highlevel-release-radar-february-23rd-february-27th-2026"
     },
     {
@@ -2712,7 +2712,7 @@
       "publishedDate": "2026-02-26T18:10:06.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "eybzppjujgs-day-3-five-day-challenge"
     },
     {
@@ -3072,7 +3072,7 @@
       "publishedDate": "2026-02-25T23:10:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "g1i9kstrmuc-canva-integration-is-live"
     },
     {
@@ -3084,7 +3084,7 @@
       "publishedDate": "2026-02-28T06:35:16.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g1xoxjwlje-internship-program-info-session-replay"
     },
     {
@@ -3196,6 +3196,18 @@
       "slug": "gcjpjv-wea8-future-of-affiliate-marketing-with-dominic-baptist"
     },
     {
+      "filename": "getagpkocdu-ai-website-amp-funnel-generation-sneak-peek.md",
+      "title": "AI Website &amp; Funnel Generation Sneak Peek",
+      "videoId": "GetAgPkOcDU",
+      "url": "https://www.youtube.com/watch?v=GetAgPkOcDU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-02T16:00:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "getagpkocdu-ai-website-amp-funnel-generation-sneak-peek"
+    },
+    {
       "filename": "ghnzpkinnbw-smartlist-performance-amp-stability-improvements-live.md",
       "title": "Smartlist Performance &amp; Stability Improvements Live!",
       "videoId": "GhnzpKINnBw",
@@ -3206,6 +3218,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ghnzpkinnbw-smartlist-performance-amp-stability-improvements-live"
+    },
+    {
+      "filename": "gidkh5hky9s-agent-studio-version-history.md",
+      "title": "Agent Studio Version History",
+      "videoId": "gIDkH5HKY9s",
+      "url": "https://www.youtube.com/watch?v=gIDkH5HKY9s",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-02T22:00:41.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gidkh5hky9s-agent-studio-version-history"
     },
     {
       "filename": "gjzyxnuaxdw-how-to-live-stream-in-community-groups-with-highlevel.md",
@@ -4792,6 +4816,18 @@
       "slug": "njpunwtuin4-how-to-easily-clone-elements-and-slides-in-highlevel"
     },
     {
+      "filename": "nk9r5dv1gvu-agent-studio-deploy-to-api.md",
+      "title": "Agent Studio Deploy to API",
+      "videoId": "Nk9r5Dv1gvU",
+      "url": "https://www.youtube.com/watch?v=Nk9r5Dv1gvU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-02T19:00:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nk9r5dv1gvu-agent-studio-deploy-to-api"
+    },
+    {
       "filename": "nltjuob3dlk-use-whatsapp-in-highlevel-to-boost-engagement.md",
       "title": "Use WhatsApp in HighLevel to Boost Engagement",
       "videoId": "NLtjUOb3DLk",
@@ -4877,14 +4913,14 @@
     },
     {
       "filename": "nwp682joia-did-you-know-you-can-simplify-client-scheduling-with-smart-calendars-in-highlevel.md",
-      "title": "Did You Know You Can Simplify Client Scheduling with Smart Calendars in HighLevel",
+      "title": "Did You Know You Can Simplify Client Scheduling with Smart Calendars in HighLevel?",
       "videoId": "_nwp682joiA",
       "url": "https://www.youtube.com/watch?v=_nwp682joiA",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-02-26T16:17:04.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "nwp682joia-did-you-know-you-can-simplify-client-scheduling-with-smart-calendars-in-highlevel"
     },
     {
@@ -4944,7 +4980,7 @@
       "publishedDate": "2026-02-26T18:07:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "obifezg7-vc-day-2-five-day-challenge"
     },
     {
@@ -6828,7 +6864,7 @@
       "publishedDate": "2026-03-01T06:23:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vjcfyingnio-andrew-brockenbush-build-a-systems-driven-agency-with-highlevel"
     },
     {
@@ -7500,7 +7536,7 @@
       "publishedDate": "2026-02-27T22:01:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xjdfknuyc1w-leadconnector-desktop-app-live-for-macos-and-windows"
     },
     {
@@ -8429,7 +8465,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 665,
+    "fresh": 668,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -8441,7 +8477,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 654,
+        "fresh": 657,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (February 23rd - February 27th 2026)"
-video_id: "Dzp7nj-sj54"
-url: "https://www.youtube.com/watch?v=Dzp7nj-sj54"
-thumbnail: "https://i.ytimg.com/vi/Dzp7nj-sj54/hqdefault.jpg"
+title: "AI Website &amp; Funnel Generation Sneak Peek"
+video_id: "GetAgPkOcDU"
+url: "https://www.youtube.com/watch?v=GetAgPkOcDU"
+thumbnail: "https://i.ytimg.com/vi/GetAgPkOcDU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-02-28T08:07:29.000Z"
+published_date: "2026-03-02T16:00:18.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-03T07:51:13.266Z"
+extracted_at: "2026-03-03T07:51:12.975Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (February 23rd - February 27th 2026)
+# 🟢 AI Website &amp; Funnel Generation Sneak Peek
 
-**Video ID:** `Dzp7nj-sj54`
+**Video ID:** `GetAgPkOcDU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 2/28/2026
+**Published:** 3/2/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-03T07:51:13.266Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Dzp7nj-sj54)
-- [📷 Thumbnail](https://i.ytimg.com/vi/Dzp7nj-sj54/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GetAgPkOcDU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/GetAgPkOcDU/hqdefault.jpg)
 
 
 ## Content Guidelines
