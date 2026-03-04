@@ -1,10 +1,10 @@
 ---
-title: "Agent Studio Version History"
-video_id: "gIDkH5HKY9s"
-url: "https://www.youtube.com/watch?v=gIDkH5HKY9s"
-thumbnail: "https://i.ytimg.com/vi/gIDkH5HKY9s/hqdefault.jpg"
+title: "Course Emails Internationalization"
+video_id: "AM-qqg8ampw"
+url: "https://www.youtube.com/watch?v=AM-qqg8ampw"
+thumbnail: "https://i.ytimg.com/vi/AM-qqg8ampw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-02T22:00:41.000Z"
+published_date: "2026-03-03T23:05:22.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-04T07:50:38.041Z"
+extracted_at: "2026-03-04T07:50:36.663Z"
 
 ---
 
-# 🟢 Agent Studio Version History
+# 🟢 Course Emails Internationalization
 
-**Video ID:** `gIDkH5HKY9s`
+**Video ID:** `AM-qqg8ampw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/2/2026
+**Published:** 3/3/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-04T07:50:38.041Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gIDkH5HKY9s)
-- [📷 Thumbnail](https://i.ytimg.com/vi/gIDkH5HKY9s/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AM-qqg8ampw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AM-qqg8ampw/hqdefault.jpg)
 
 
 ## Content Guidelines

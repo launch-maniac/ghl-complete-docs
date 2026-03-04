@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-03T07:51:19.245Z",
+  "generated": "2026-03-04T07:50:43.505Z",
   "stats": {
     "channels": 1,
-    "videos": 15,
+    "videos": 19,
     "playlists": 0,
     "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 15
+    "transcriptsFailed": 19
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -1576,6 +1576,18 @@
       "slug": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel"
     },
     {
+      "filename": "am-qqg8ampw-course-emails-internationalization.md",
+      "title": "Course Emails Internationalization",
+      "videoId": "AM-qqg8ampw",
+      "url": "https://www.youtube.com/watch?v=AM-qqg8ampw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:05:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "am-qqg8ampw-course-emails-internationalization"
+    },
+    {
       "filename": "aoctn6xbtai-all-sites-better-uptime-performance-and-reliability-now-live.md",
       "title": "All Sites    Better Uptime, Performance and Reliability Now Live!",
       "videoId": "AocTn6xBtAI",
@@ -2740,6 +2752,18 @@
       "slug": "f3cllr1h0ic-conversation-amp-contacts-ui-enhancements"
     },
     {
+      "filename": "f6hwvzosoue-did-you-know-you-can-clone-entire-client-setups-using-highlevel-snapshots.md",
+      "title": "Did You Know You Can Clone Entire Client Setups Using HighLevel Snapshots?",
+      "videoId": "F6HwvzosouE",
+      "url": "https://www.youtube.com/watch?v=F6HwvzosouE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T17:48:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "f6hwvzosoue-did-you-know-you-can-clone-entire-client-setups-using-highlevel-snapshots"
+    },
+    {
       "filename": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge.md",
       "title": "Day 5 - Five Day AI Employee Challenge",
       "videoId": "F6ib67HW6Aw",
@@ -3204,7 +3228,7 @@
       "publishedDate": "2026-03-02T16:00:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "getagpkocdu-ai-website-amp-funnel-generation-sneak-peek"
     },
     {
@@ -3338,6 +3362,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "gz1zza1-ao0-how-to-master-dashboard-widgets-for-improved-business-insights"
+    },
+    {
+      "filename": "h0cbl2v4mom-rental-bookings-are-live.md",
+      "title": "Rental Bookings Are Live!",
+      "videoId": "h0cbl2v4mOM",
+      "url": "https://www.youtube.com/watch?v=h0cbl2v4mOM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:06:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "h0cbl2v4mom-rental-bookings-are-live"
     },
     {
       "filename": "h6-abrdpxae-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
@@ -3674,6 +3710,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025"
+    },
+    {
+      "filename": "iet5iceccxo-whisper-in-ivr-call-transfer-amp-outbound-voice-ai-global-expansion-higher-limits-live.md",
+      "title": "Whisper in IVR Call Transfer &amp; Outbound Voice AI Global Expansion + Higher Limits Live!",
+      "videoId": "iet5IcEcCxo",
+      "url": "https://www.youtube.com/watch?v=iet5IcEcCxo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:03:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "iet5iceccxo-whisper-in-ivr-call-transfer-amp-outbound-voice-ai-global-expansion-higher-limits-live"
     },
     {
       "filename": "if5utv7mhvw-community-update-go-live-in-mobile-app-is-live.md",
@@ -4792,6 +4840,18 @@
       "slug": "nha1lsu87ku-how-to-use-version-history-and-auto-save-features"
     },
     {
+      "filename": "nhysimfrjiq-company-variables-now-available-in-workflows.md",
+      "title": "Company Variables Now Available in Workflows!",
+      "videoId": "nHysIMFRjiQ",
+      "url": "https://www.youtube.com/watch?v=nHysIMFRjiQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:04:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nhysimfrjiq-company-variables-now-available-in-workflows"
+    },
+    {
       "filename": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry.md",
       "title": "How Keepful Built an $800K SaaS on HighLevel and Transformed the Bookkeeping Industry",
       "videoId": "nIZaBOTXs70",
@@ -4824,7 +4884,7 @@
       "publishedDate": "2026-03-02T19:00:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nk9r5dv1gvu-agent-studio-deploy-to-api"
     },
     {
@@ -4977,10 +5037,10 @@
       "videoId": "OBIFeZG7-Vc",
       "url": "https://www.youtube.com/watch?v=OBIFeZG7-Vc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-26T18:07:43.000Z",
+      "publishedDate": "2026-03-04T06:08:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "obifezg7-vc-day-2-five-day-challenge"
     },
     {
@@ -5318,6 +5378,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue"
+    },
+    {
+      "filename": "pnx0wjyh65k-add-amp-track-product-cost-price-amp-margins-for-products.md",
+      "title": "Add &amp; Track Product Cost Price &amp; Margins for Products!",
+      "videoId": "pnX0wjYH65k",
+      "url": "https://www.youtube.com/watch?v=pnX0wjYH65k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:03:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pnx0wjyh65k-add-amp-track-product-cost-price-amp-margins-for-products"
     },
     {
       "filename": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live.md",
@@ -6400,6 +6472,18 @@
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
     },
     {
+      "filename": "ttudcakby-u-did-you-know-you-can-track-phone-call-performance-by-campaign-in-highlevel.md",
+      "title": "Did You Know You Can Track Phone Call Performance by Campaign in HighLevel",
+      "videoId": "tTUDcAKBY_U",
+      "url": "https://www.youtube.com/watch?v=tTUDcAKBY_U",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T17:49:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ttudcakby-u-did-you-know-you-can-track-phone-call-performance-by-campaign-in-highlevel"
+    },
+    {
       "filename": "tv-yittxjka-how-to-import-stripe-products-to-highlevel-39-s-saas-configurator.md",
       "title": "How To Import Stripe Products to HighLevel&#39;s SaaS Configurator",
       "videoId": "Tv_yiTTxjkA",
@@ -6662,6 +6746,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "uk5o1ukuyt4-next-gen-rich-messaging-rcs-closed-beta-launch"
+    },
+    {
+      "filename": "ul8fjzrcwti-multilingual-call-transaction-live.md",
+      "title": "Multilingual Call Transaction Live!",
+      "videoId": "Ul8FJzRCWtI",
+      "url": "https://www.youtube.com/watch?v=Ul8FJzRCWtI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-03T23:04:47.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ul8fjzrcwti-multilingual-call-transaction-live"
     },
     {
       "filename": "uluticd8744-configure-payment-providers-by-channel.md",
@@ -8465,7 +8561,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 668,
+    "fresh": 676,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -8477,7 +8573,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 657,
+        "fresh": 665,
         "warning": 0,
         "expired": 0,
         "unknown": null

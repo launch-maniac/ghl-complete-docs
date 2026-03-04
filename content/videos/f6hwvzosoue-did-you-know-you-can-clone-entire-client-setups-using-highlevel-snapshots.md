@@ -1,10 +1,10 @@
 ---
-title: "Agent Studio Version History"
-video_id: "gIDkH5HKY9s"
-url: "https://www.youtube.com/watch?v=gIDkH5HKY9s"
-thumbnail: "https://i.ytimg.com/vi/gIDkH5HKY9s/hqdefault.jpg"
+title: "Did You Know You Can Clone Entire Client Setups Using HighLevel Snapshots?"
+video_id: "F6HwvzosouE"
+url: "https://www.youtube.com/watch?v=F6HwvzosouE"
+thumbnail: "https://i.ytimg.com/vi/F6HwvzosouE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-02T22:00:41.000Z"
+published_date: "2026-03-03T17:48:48.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-04T07:50:38.041Z"
+extracted_at: "2026-03-04T07:50:37.646Z"
 
 ---
 
-# 🟢 Agent Studio Version History
+# 🟢 Did You Know You Can Clone Entire Client Setups Using HighLevel Snapshots?
 
-**Video ID:** `gIDkH5HKY9s`
+**Video ID:** `F6HwvzosouE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/2/2026
+**Published:** 3/3/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-04T07:50:38.041Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gIDkH5HKY9s)
-- [📷 Thumbnail](https://i.ytimg.com/vi/gIDkH5HKY9s/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=F6HwvzosouE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/F6HwvzosouE/hqdefault.jpg)
 
 
 ## Content Guidelines
