@@ -1,10 +1,10 @@
 ---
-title: "Day 4 - Five Day Challenge"
-video_id: "4yBDirCfgSg"
-url: "https://www.youtube.com/watch?v=4yBDirCfgSg"
-thumbnail: "https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg"
+title: "Did You Know You Can Automatically Clean and Deduplicate Contacts in HighLevel?"
+video_id: "tjJ8JuECuY0"
+url: "https://www.youtube.com/watch?v=tjJ8JuECuY0"
+thumbnail: "https://i.ytimg.com/vi/tjJ8JuECuY0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-06T06:36:09.000Z"
+published_date: "2026-03-06T17:25:44.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-09T07:52:57.602Z"
+extracted_at: "2026-03-09T07:52:57.150Z"
 
 ---
 
-# 🟢 Day 4 - Five Day Challenge
+# 🟢 Did You Know You Can Automatically Clean and Deduplicate Contacts in HighLevel?
 
-**Video ID:** `4yBDirCfgSg`
+**Video ID:** `tjJ8JuECuY0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 3/6/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-03-09T07:52:57.602Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4yBDirCfgSg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=tjJ8JuECuY0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/tjJ8JuECuY0/hqdefault.jpg)
 
 
 ## Content Guidelines

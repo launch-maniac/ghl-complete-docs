@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-04T07:50:43.505Z",
+  "generated": "2026-03-09T07:53:02.418Z",
   "stats": {
     "channels": 1,
-    "videos": 19,
+    "videos": 15,
     "playlists": 0,
-    "expired": 0,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 19
+    "transcriptsFailed": 15
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -50,18 +50,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "01gjw46kifo-did-you-know-you-can-bundle-apps-from-the-app-store-with-your-saas-plans"
-    },
-    {
-      "filename": "01yrduuicfc-payments-xero-integration.md",
-      "title": "Payments  Xero Integration",
-      "videoId": "01yRDuUIcfc",
-      "url": "https://www.youtube.com/watch?v=01yRDuUIcfc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-06T00:00:00.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.5",
-      "slug": "01yrduuicfc-payments-xero-integration"
     },
     {
       "filename": "03tmrzjjv1q-airtable-integration-live.md",
@@ -302,6 +290,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "1vdm20c04dq-custom-values-amp-expanded-variable-sources-for-ai-agent-studio"
+    },
+    {
+      "filename": "1w-dmnf3tgg-pre-built-a2p-campaign-registration-flow-live.md",
+      "title": "Pre - Built A2P Campaign Registration Flow Live!",
+      "videoId": "1w_DMnf3tGg",
+      "url": "https://www.youtube.com/watch?v=1w_DMnf3tGg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-04T23:02:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "1w-dmnf3tgg-pre-built-a2p-campaign-registration-flow-live"
     },
     {
       "filename": "1wyygfkrcek-lawrence-loik-build-live-events-that-convert-using-highlevel.md",
@@ -777,10 +777,10 @@
       "videoId": "4yBDirCfgSg",
       "url": "https://www.youtube.com/watch?v=4yBDirCfgSg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-26T18:13:39.000Z",
+      "publishedDate": "2026-03-06T06:36:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.1",
       "slug": "4ybdircfgsg-day-4-five-day-challenge"
     },
     {
@@ -1029,10 +1029,10 @@
       "videoId": "6BtjSxxUUfM",
       "url": "https://www.youtube.com/watch?v=6BtjSxxUUfM",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-02-26T18:15:30.000Z",
+      "publishedDate": "2026-03-07T06:19:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.1",
       "slug": "6btjsxxuufm-day-5-five-day-challenge"
     },
     {
@@ -1550,18 +1550,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "aec6dhez4pk-highlevel-case-study-churchcandy"
-    },
-    {
-      "filename": "ahca-d-hqrw-content-library-live-for-documents-amp-contracts.md",
-      "title": "Content Library Live for Documents &amp; Contracts!",
-      "videoId": "AhCA_D_Hqrw",
-      "url": "https://www.youtube.com/watch?v=AhCA_D_Hqrw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-04T00:10:26.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.6",
-      "slug": "ahca-d-hqrw-content-library-live-for-documents-amp-contracts"
     },
     {
       "filename": "aljepzqf5ho-web-design-to-recurring-revenue-with-highlevel.md",
@@ -2716,6 +2704,18 @@
       "slug": "ewpovdhhebc-moltclaw-aka-openclaw-inside-highlevel-private-beta"
     },
     {
+      "filename": "exatmer9td4-whisper-in-ivr-call-transfer-amp-outbound-voice-ai-global-expansion-higher-limits.md",
+      "title": "Whisper in IVR Call Transfer &amp; Outbound Voice AI Global Expansion + Higher Limits",
+      "videoId": "exAtMER9TD4",
+      "url": "https://www.youtube.com/watch?v=exAtMER9TD4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-06T19:00:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "exatmer9td4-whisper-in-ivr-call-transfer-amp-outbound-voice-ai-global-expansion-higher-limits"
+    },
+    {
       "filename": "eybzppjujgs-day-3-five-day-challenge.md",
       "title": "Day 3 - Five Day Challenge",
       "videoId": "EYbZPPjUJgs",
@@ -2786,6 +2786,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "f73fighm4ys-did-you-know-highlevel-can-remind-your-customers-of-appointments-by-email-text-or-voicem"
+    },
+    {
+      "filename": "fbqzhbfv0y-voice-ai-advanced-settings.md",
+      "title": "Voice AI  Advanced Settings",
+      "videoId": "_fBQzhBfv0Y",
+      "url": "https://www.youtube.com/watch?v=_fBQzhBfv0Y",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T01:00:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "fbqzhbfv0y-voice-ai-advanced-settings"
     },
     {
       "filename": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
@@ -3784,6 +3796,18 @@
       "slug": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder"
     },
     {
+      "filename": "iins89xhmmi-day-1-cold-outreach-meta-ads-to-scale-saas-fast.md",
+      "title": "Day 1 - Cold Outreach + Meta Ads to Scale SaaS Fast",
+      "videoId": "iiNs89xhmMI",
+      "url": "https://www.youtube.com/watch?v=iiNs89xhmMI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-05T21:51:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "iins89xhmmi-day-1-cold-outreach-meta-ads-to-scale-saas-fast"
+    },
+    {
       "filename": "iitvscxe-9m-leadconnector-desktop-app-is-live.md",
       "title": "LeadConnector Desktop App is Live!",
       "videoId": "IItvSCxE-9M",
@@ -4048,6 +4072,18 @@
       "slug": "jo5ms7-cuze-untitled-shorts"
     },
     {
+      "filename": "jpbsmclllxm-levelup-2026-highlevel-s-ai-and-automation-event-for-entrepreneurs-shorts.md",
+      "title": "LevelUp 2026 | HighLevel’s AI and Automation Event for Entrepreneurs #shorts",
+      "videoId": "jpBSmCLLlXM",
+      "url": "https://www.youtube.com/watch?v=jpBSmCLLlXM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T01:03:20.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "jpbsmclllxm-levelup-2026-highlevel-s-ai-and-automation-event-for-entrepreneurs-shorts"
+    },
+    {
       "filename": "jsrpky9dree-affiliate-of-the-year-pavel-ketsuk-shares-his-journey-from-his-mom-s-basement-to-21k-mon.md",
       "title": "Affiliate of the Year Pavel Ketsuk shares his journey from his mom’s basement to $21k/month",
       "videoId": "jSrpKY9DrEE",
@@ -4310,6 +4346,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "kpht5hignzo-how-to-set-up-a-personality-style-quiz-in-highlevel"
+    },
+    {
+      "filename": "kq4p9ys8qnw-highlevel-automation-how-workflows-just-got-smarter-shorts.md",
+      "title": "HighLevel Automation: How Workflows Just Got Smarter #shorts",
+      "videoId": "kQ4P9yS8QNw",
+      "url": "https://www.youtube.com/watch?v=kQ4P9yS8QNw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T02:02:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "kq4p9ys8qnw-highlevel-automation-how-workflows-just-got-smarter-shorts"
     },
     {
       "filename": "krb9q8ij9sc-openrouter-integration-in-workflows.md",
@@ -4636,6 +4684,18 @@
       "slug": "mffr9blzwdq-button-icons-for-form-builder"
     },
     {
+      "filename": "mftcy4iqsys-day-2-cold-outreach-meta-ads-to-scale-saas-fast.md",
+      "title": "Day 2 - Cold Outreach + Meta Ads to Scale SaaS Fast",
+      "videoId": "mFtCY4IqSYs",
+      "url": "https://www.youtube.com/watch?v=mFtCY4IqSYs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-05T21:53:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "mftcy4iqsys-day-2-cold-outreach-meta-ads-to-scale-saas-fast"
+    },
+    {
       "filename": "mgpy8bvtj1u-courses-import-from-media-storage.md",
       "title": "Courses: Import from Media Storage",
       "videoId": "MgPY8bvtJ1U",
@@ -4814,6 +4874,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "n4a-olqammu-entrepreneurial-internship-program-info-session-summer-2026"
+    },
+    {
+      "filename": "n7nhjra-ack-the-highlevel-release-radar-march-2nd-march-6th-2026.md",
+      "title": "The HighLevel Release Radar (March 2nd - March 6th 2026)",
+      "videoId": "N7NHjRa-Ack",
+      "url": "https://www.youtube.com/watch?v=N7NHjRa-Ack",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T07:54:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "n7nhjra-ack-the-highlevel-release-radar-march-2nd-march-6th-2026"
     },
     {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
@@ -5510,6 +5582,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "pyuwndazlmk-how-to-leverage-highlevel-39-s-seo-heatmap-for-better-business-ranking-reports"
+    },
+    {
+      "filename": "q1amc-gu9ko-company-variables-now-available-in-workflows.md",
+      "title": "Company Variables Now Available in Workflows",
+      "videoId": "Q1Amc_GU9Ko",
+      "url": "https://www.youtube.com/watch?v=Q1Amc_GU9Ko",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-06T16:00:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "q1amc-gu9ko-company-variables-now-available-in-workflows"
     },
     {
       "filename": "q31wgsxgdyo-openai-highlevel-partnership.md",
@@ -6436,6 +6520,18 @@
       "slug": "tjht5rw3cso-james-call-automate-real-estate-leads-with-highlevel"
     },
     {
+      "filename": "tjj8juecuy0-did-you-know-you-can-automatically-clean-and-deduplicate-contacts-in-highlevel.md",
+      "title": "Did You Know You Can Automatically Clean and Deduplicate Contacts in HighLevel?",
+      "videoId": "tjJ8JuECuY0",
+      "url": "https://www.youtube.com/watch?v=tjJ8JuECuY0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-06T17:25:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "tjj8juecuy0-did-you-know-you-can-automatically-clean-and-deduplicate-contacts-in-highlevel"
+    },
+    {
       "filename": "tk5769s-xqu-integration-page-ui-ux-revamp.md",
       "title": "Integration Page UI UX Revamp",
       "videoId": "tk5769s-XqU",
@@ -6470,6 +6566,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "tltdeisxeno-how-to-use-the-quiz-template-library"
+    },
+    {
+      "filename": "ttp6lzmvsdg-communities-amp-gokollab-internationalization-for-push-notifications-amp-emails.md",
+      "title": "Communities &amp; GoKollab Internationalization for Push Notifications &amp; Emails",
+      "videoId": "ttp6lZmVsdg",
+      "url": "https://www.youtube.com/watch?v=ttp6lZmVsdg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-06T22:01:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "ttp6lzmvsdg-communities-amp-gokollab-internationalization-for-push-notifications-amp-emails"
     },
     {
       "filename": "ttudcakby-u-did-you-know-you-can-track-phone-call-performance-by-campaign-in-highlevel.md",
@@ -6626,6 +6734,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "u5ncjpwvpcs-day-1-replay-build-your-agency-fast-with-highlevel-ai"
+    },
+    {
+      "filename": "u6ccwzg3l8u-chat-widget-flow-update.md",
+      "title": "Chat Widget Flow Update!",
+      "videoId": "U6CCwzG3L8U",
+      "url": "https://www.youtube.com/watch?v=U6CCwzG3L8U",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T05:47:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "u6ccwzg3l8u-chat-widget-flow-update"
     },
     {
       "filename": "u6vceb7plx4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
@@ -7972,6 +8092,18 @@
       "slug": "ydexi47cigi-analytics-dashboard-for-prospecting-in-sub-accounts"
     },
     {
+      "filename": "ydh-si4ppyc-get-your-first-saas-clients-using-cold-outreach-meta-ads-shorts.md",
+      "title": "Get Your First SaaS Clients Using Cold Outreach + Meta Ads #shorts",
+      "videoId": "ydh_si4PpYc",
+      "url": "https://www.youtube.com/watch?v=ydh_si4PpYc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-07T02:30:36.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "ydh-si4ppyc-get-your-first-saas-clients-using-cold-outreach-meta-ads-shorts"
+    },
+    {
       "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
       "title": "Day 4 - Five Day AI Employee Challenge",
       "videoId": "YeMyBfRaBnM",
@@ -8561,7 +8693,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 676,
+    "fresh": 687,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -8573,7 +8705,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 665,
+        "fresh": 676,
         "warning": 0,
         "expired": 0,
         "unknown": null

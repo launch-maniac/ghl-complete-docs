@@ -1,14 +1,14 @@
 ---
-title: "Content Library Live for Documents &amp; Contracts!"
-video_id: "AhCA_D_Hqrw"
-url: "https://www.youtube.com/watch?v=AhCA_D_Hqrw"
-thumbnail: "https://i.ytimg.com/vi/AhCA_D_Hqrw/hqdefault.jpg"
+title: "Day 1 - Cold Outreach + Meta Ads to Scale SaaS Fast"
+video_id: "iiNs89xhmMI"
+url: "https://www.youtube.com/watch?v=iiNs89xhmMI"
+thumbnail: "https://i.ytimg.com/vi/iiNs89xhmMI/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-04T00:10:26.000Z"
+published_date: "2026-03-05T21:51:45.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.6 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.6"
+age_in_months: "0.1"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:10.558Z"
+extracted_at: "2026-03-09T07:52:57.865Z"
 
 ---
 
-# 🟢 Content Library Live for Documents &amp; Contracts!
+# 🟢 Day 1 - Cold Outreach + Meta Ads to Scale SaaS Fast
 
-**Video ID:** `AhCA_D_Hqrw`
+**Video ID:** `iiNs89xhmMI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/3/2025
+**Published:** 3/5/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.6 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:10.558Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AhCA_D_Hqrw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/AhCA_D_Hqrw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iiNs89xhmMI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iiNs89xhmMI/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/9/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

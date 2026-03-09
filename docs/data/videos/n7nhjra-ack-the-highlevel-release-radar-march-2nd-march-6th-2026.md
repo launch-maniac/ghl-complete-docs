@@ -1,10 +1,10 @@
 ---
-title: "Day 4 - Five Day Challenge"
-video_id: "4yBDirCfgSg"
-url: "https://www.youtube.com/watch?v=4yBDirCfgSg"
-thumbnail: "https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg"
+title: "The HighLevel Release Radar (March 2nd - March 6th 2026)"
+video_id: "N7NHjRa-Ack"
+url: "https://www.youtube.com/watch?v=N7NHjRa-Ack"
+thumbnail: "https://i.ytimg.com/vi/N7NHjRa-Ack/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-06T06:36:09.000Z"
+published_date: "2026-03-07T07:54:19.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-09T07:52:57.602Z"
+extracted_at: "2026-03-09T07:52:55.566Z"
 
 ---
 
-# 🟢 Day 4 - Five Day Challenge
+# 🟢 The HighLevel Release Radar (March 2nd - March 6th 2026)
 
-**Video ID:** `4yBDirCfgSg`
+**Video ID:** `N7NHjRa-Ack`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/6/2026
+**Published:** 3/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-09T07:52:57.602Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4yBDirCfgSg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=N7NHjRa-Ack)
+- [📷 Thumbnail](https://i.ytimg.com/vi/N7NHjRa-Ack/hqdefault.jpg)
 
 
 ## Content Guidelines

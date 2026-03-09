@@ -1,10 +1,10 @@
 ---
-title: "Day 4 - Five Day Challenge"
-video_id: "4yBDirCfgSg"
-url: "https://www.youtube.com/watch?v=4yBDirCfgSg"
-thumbnail: "https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg"
+title: "Whisper in IVR Call Transfer &amp; Outbound Voice AI Global Expansion + Higher Limits"
+video_id: "exAtMER9TD4"
+url: "https://www.youtube.com/watch?v=exAtMER9TD4"
+thumbnail: "https://i.ytimg.com/vi/exAtMER9TD4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-06T06:36:09.000Z"
+published_date: "2026-03-06T19:00:43.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-09T07:52:57.602Z"
+extracted_at: "2026-03-09T07:52:56.978Z"
 
 ---
 
-# 🟢 Day 4 - Five Day Challenge
+# 🟢 Whisper in IVR Call Transfer &amp; Outbound Voice AI Global Expansion + Higher Limits
 
-**Video ID:** `4yBDirCfgSg`
+**Video ID:** `exAtMER9TD4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 3/6/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-03-09T07:52:57.602Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4yBDirCfgSg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=exAtMER9TD4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/exAtMER9TD4/hqdefault.jpg)
 
 
 ## Content Guidelines

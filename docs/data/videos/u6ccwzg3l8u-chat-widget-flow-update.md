@@ -1,10 +1,10 @@
 ---
-title: "Day 4 - Five Day Challenge"
-video_id: "4yBDirCfgSg"
-url: "https://www.youtube.com/watch?v=4yBDirCfgSg"
-thumbnail: "https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg"
+title: "Chat Widget Flow Update!"
+video_id: "U6CCwzG3L8U"
+url: "https://www.youtube.com/watch?v=U6CCwzG3L8U"
+thumbnail: "https://i.ytimg.com/vi/U6CCwzG3L8U/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-06T06:36:09.000Z"
+published_date: "2026-03-07T05:47:28.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-09T07:52:57.602Z"
+extracted_at: "2026-03-09T07:52:55.846Z"
 
 ---
 
-# 🟢 Day 4 - Five Day Challenge
+# 🟢 Chat Widget Flow Update!
 
-**Video ID:** `4yBDirCfgSg`
+**Video ID:** `U6CCwzG3L8U`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/6/2026
+**Published:** 3/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-09T07:52:57.602Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4yBDirCfgSg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4yBDirCfgSg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=U6CCwzG3L8U)
+- [📷 Thumbnail](https://i.ytimg.com/vi/U6CCwzG3L8U/hqdefault.jpg)
 
 
 ## Content Guidelines
