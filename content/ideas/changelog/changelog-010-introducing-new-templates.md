@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69911d221b1c21d6bb82179a"
+guid: "69acd236a6807cfb1bcc72ee"
 author: "Sales &amp; Marketing"
-pubDate: "2026-02-15T01:13:45.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-80"
+pubDate: "2026-03-08T01:40:07.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-83"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-80"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-83"
 index: 10
 ---
 
@@ -17,11 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **2 New Website Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Finance - 1
+Other - 1
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Finance - 1
 
 \------------------------------------------------------
 
-Home Services - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Home Services - 1
 
 \-----------------------------------------------------
 
-Business Coaching & Consulting - 1
+Financial - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +45,7 @@ Business Coaching & Consulting - 1
 
 \-----------------------------------------------------
 
-Finance - 1
+Home Services - 1
 
 \-----------------------------------------------------
 
@@ -53,38 +53,36 @@ Finance - 1
 
 \-----------------------------------------------------
 
-Creative - 2
+Health & Wellness - 2
 
-Medical - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Facebook Ad Templates Published** 🚀
+Financial - 2
 
 \-----------------------------------------------------
 
-Health & Wellness - 1
+🚀 **3 New Facebook Ad Templates Published** 🚀
 
-\------------------------------------------------------
+\-----------------------------------------------------
 
-📣 **1 New Snapshot** 📣
+Business Coaching & Consulting - 1
 
-\------------------------------------------------------
+Finance - 1
 
-Medical - Physical Therapy Clinic
+Beauty & Fashion - 1
 
-![Physical Therapy Clinic - Snapshot](https://canny-assets.io/images/69edc60a6656c2ae31a7ee7623250f29.png)
+![Accounting Services - Facebook Ad](https://canny-assets.io/images/271b059fa3b8884fbace573b8ff4c4e5.png)
 
-![Plumber - Email](https://canny-assets.io/images/493fd12eb2dd63e1f2b6b18f670dc869.png)
+![Assisted Living Facility - Website](https://canny-assets.io/images/e3eacfc1df9b004064403a1967bb0697.png)
 
-![Art Gallery - Social Planner](https://canny-assets.io/images/93f37587bec420eb3ddad31414786390.png)
+![Financial Advisor - Social](https://canny-assets.io/images/b5dee72d5c332a50499967b5345dcd07.png)
 
-![Banking & Payment Feedback - Survey](https://canny-assets.io/images/142adb91f4ce9c21621bb648dd9b9abe.png)
+![Financial Investor - Form](https://canny-assets.io/images/de1ce1ba6b8edea721a2bcc63e6d69a7.png)
 
-![Dental Clinic - Social Planner](https://canny-assets.io/images/cf0cbd9dcae3703c6a3351ac6cd2d658.png)
+![Immigration Attorney - Email](https://canny-assets.io/images/67a5cd20830f95a64c9231f135e6ae5c.png)
 
-![Education Tutor - Form](https://canny-assets.io/images/e29428302cf32b4a70e7738675c6f4ac.png)
+![Modeling Firm - Facebook Ad](https://canny-assets.io/images/1f7814d2d45d8b6ce8a89fd268786290.png)
 
-![Investment Advisor - Website](https://canny-assets.io/images/9b062235bc43be14eb5736d13e042adc.png)
+![Solar Quote Request - Survey](https://canny-assets.io/images/1b6e4abf6be3063c4fdfa97d630bc070.png)
 
-![Wellness Spa - Facebook Ad](https://canny-assets.io/images/b95f25cee40d98527a0641031e8fc753.png)
+![Tutor - Facebook Ad](https://canny-assets.io/images/6f6a386cb949f9f0603fa5d85e3963c5.png)
+
+![Wedding Photographer - Social](https://canny-assets.io/images/c63cf0df52b54e5db2ba0abb875a2cdb.png)
