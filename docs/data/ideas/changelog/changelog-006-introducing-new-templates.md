@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "699a36c55b35e6b4b0f2694b"
+guid: "69acd236a6807cfb1bcc72ee"
 author: "Sales &amp; Marketing"
-pubDate: "2026-02-21T22:54:27.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-81"
+pubDate: "2026-03-08T01:40:07.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-83"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-81"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-83"
 index: 6
 ---
 
@@ -21,6 +21,30 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
+Other - 1
+
+\------------------------------------------------------
+
+🚀 **1 New Email Templates Published** 🚀
+
+\------------------------------------------------------
+
+Legal - 1
+
+\-----------------------------------------------------
+
+🚀 **1 New Form Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Financial - 1
+
+\-----------------------------------------------------
+
+🚀 **1 New Survey Templates Published** 🚀
+
+\-----------------------------------------------------
+
 Home Services - 1
 
 \-----------------------------------------------------
@@ -29,66 +53,36 @@ Home Services - 1
 
 \-----------------------------------------------------
 
-Real Estate - 2
+Health & Wellness - 2
 
-Restaurant & Bar - 2
+Financial - 2
+
+\-----------------------------------------------------
+
+🚀 **3 New Facebook Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-🚀 **5 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
+Business Coaching & Consulting - 1
 
 Finance - 1
 
 Beauty & Fashion - 1
 
-Automotive - 1
+![Accounting Services - Facebook Ad](https://canny-assets.io/images/271b059fa3b8884fbace573b8ff4c4e5.png)
 
-Business Coaching & Consulting - 1
+![Assisted Living Facility - Website](https://canny-assets.io/images/e3eacfc1df9b004064403a1967bb0697.png)
 
-Creative - 1
+![Financial Advisor - Social](https://canny-assets.io/images/b5dee72d5c332a50499967b5345dcd07.png)
 
-\-----------------------------------------------------
+![Financial Investor - Form](https://canny-assets.io/images/de1ce1ba6b8edea721a2bcc63e6d69a7.png)
 
-🚀 **3 New Google Ad Templates Published** 🚀
+![Immigration Attorney - Email](https://canny-assets.io/images/67a5cd20830f95a64c9231f135e6ae5c.png)
 
-\-----------------------------------------------------
+![Modeling Firm - Facebook Ad](https://canny-assets.io/images/1f7814d2d45d8b6ce8a89fd268786290.png)
 
-Real Estate - Real Estate Investor
+![Solar Quote Request - Survey](https://canny-assets.io/images/1b6e4abf6be3063c4fdfa97d630bc070.png)
 
-Restaurant & Bar - Tea House
+![Tutor - Facebook Ad](https://canny-assets.io/images/6f6a386cb949f9f0603fa5d85e3963c5.png)
 
-Travel & Hospitality - RV Rental Agency
-
-\------------------------------------------------------
-
-📣 **1 New Snapshot** 📣
-
-\------------------------------------------------------
-
-Other - Assisted Living Facility
-
-![Assisted Living Facility - Snapshot](https://canny-assets.io/images/64f16b8fe2efc6a6405f24eeabc92c19.png)
-
-![Bookkeeping](https://canny-assets.io/images/a3b3f538e3f6d280dba9aef4e4d7a89c.png)
-
-![Business Coach](https://canny-assets.io/images/6fceca6b0b1358d68c6b1ba1c8bcad0e.png)
-
-![Hair Salon](https://canny-assets.io/images/ff243833cf05ca672553912e615864c5.png)
-
-![Tire Shop](https://canny-assets.io/images/7a31ef3445217debeee1ba359b74c8b0.png)
-
-![Video Production & Editing](https://canny-assets.io/images/adabdf9b7baf29ce8e58057096538152.png)
-
-![Appliance Repair - Website](https://canny-assets.io/images/ee3677673acca72dbbef57052bc9ee85.png)
-
-![Food Delivery Service - Social](https://canny-assets.io/images/24d273779f6ef8a9c58b8f0b92bcb5d4.png)
-
-![Real Estate Investor - Google Ad](https://canny-assets.io/images/bfe2e28cd68221387d95fb8e9d80ebe2.png)
-
-![RV Rental Agency - Google Ad](https://canny-assets.io/images/7e13db37a9cb9143cdea532f7525a72c.png)
-
-![Tea House - Google Ad](https://canny-assets.io/images/380239f70aa85c9273c71aa0cb33fee8.png)
-
-![Title Insurance - Social](https://canny-assets.io/images/aec849f96c72c6b1c18582f7c7736a31.png)
+![Wedding Photographer - Social](https://canny-assets.io/images/c63cf0df52b54e5db2ba0abb875a2cdb.png)
