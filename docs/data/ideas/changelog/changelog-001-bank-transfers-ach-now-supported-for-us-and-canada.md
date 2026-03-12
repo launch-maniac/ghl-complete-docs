@@ -25,8 +25,7 @@ To enable ACH payments for a subaccount:
 3.  Make sure ACH is enabled on your connected NMI account.
 4.  If ACH is not enabled yet, contact NMI and request activation.
 5.  Once enabled, ACH will start appearing as a payment option on invoices.
-
-6.
+6.  Refer to [FAQ docs](https://help.gohighlevel.com/en/support/solutions/articles/155000007497-ach-bank-transfer-support-on-nmi)
 
 ![image](https://canny-assets.io/images/fdadf0aa611f1ceb98c3242dbc686aa6.png)
 
