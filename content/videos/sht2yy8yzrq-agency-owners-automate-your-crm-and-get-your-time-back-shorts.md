@@ -1,14 +1,14 @@
 ---
-title: "How to Set Up and Use Stripe Internet Readers with the LeadConnector Mobile App"
-video_id: "zukT1ZIF_80"
-url: "https://www.youtube.com/watch?v=zukT1ZIF_80"
-thumbnail: "https://i.ytimg.com/vi/zukT1ZIF_80/hqdefault.jpg"
+title: "Agency Owners: Automate Your CRM and Get Your Time Back #shorts"
+video_id: "SHt2Yy8yzrQ"
+url: "https://www.youtube.com/watch?v=SHt2Yy8yzrQ"
+thumbnail: "https://i.ytimg.com/vi/SHt2Yy8yzrQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-09T13:26:54.000Z"
+published_date: "2026-03-14T23:00:39.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:10.490Z"
+extracted_at: "2026-03-16T08:02:12.662Z"
 
 ---
 
-# 🟢 How to Set Up and Use Stripe Internet Readers with the LeadConnector Mobile App
+# 🟢 Agency Owners: Automate Your CRM and Get Your Time Back #shorts
 
-**Video ID:** `zukT1ZIF_80`
+**Video ID:** `SHt2Yy8yzrQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/9/2025
+**Published:** 3/14/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-09-21T01:04:10.490Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zukT1ZIF_80)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zukT1ZIF_80/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=SHt2Yy8yzrQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/SHt2Yy8yzrQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/16/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

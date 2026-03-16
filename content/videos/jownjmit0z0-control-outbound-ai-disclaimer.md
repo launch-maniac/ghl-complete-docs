@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Build Your Agency Fast with HighLevel + AI"
-video_id: "s5Jxr9w7yng"
-url: "https://www.youtube.com/watch?v=s5Jxr9w7yng"
-thumbnail: "https://i.ytimg.com/vi/s5Jxr9w7yng/hqdefault.jpg"
+title: "Control Outbound AI Disclaimer"
+video_id: "JownJmIT0Z0"
+url: "https://www.youtube.com/watch?v=JownJmIT0Z0"
+thumbnail: "https://i.ytimg.com/vi/JownJmIT0Z0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-12T07:18:35.000Z"
+published_date: "2026-03-13T22:02:57.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.1"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T01:04:10.320Z"
+extracted_at: "2026-03-16T08:02:14.255Z"
 
 ---
 
-# 🟢 Day 2 - Build Your Agency Fast with HighLevel + AI
+# 🟢 Control Outbound AI Disclaimer
 
-**Video ID:** `s5Jxr9w7yng`
+**Video ID:** `JownJmIT0Z0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/12/2025
+**Published:** 3/13/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-21T01:04:10.320Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=s5Jxr9w7yng)
-- [📷 Thumbnail](https://i.ytimg.com/vi/s5Jxr9w7yng/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JownJmIT0Z0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/JownJmIT0Z0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/16/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
