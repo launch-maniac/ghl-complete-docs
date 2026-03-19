@@ -1,14 +1,14 @@
 ---
-title: "How to Manage Duplicate Contacts in Your CRM System"
-video_id: "5VmZ5iSKj-U"
-url: "https://www.youtube.com/watch?v=5VmZ5iSKj-U"
-thumbnail: "https://i.ytimg.com/vi/5VmZ5iSKj-U/hqdefault.jpg"
+title: "Import Email Templates with AI"
+video_id: "3PiBf4PC_wg"
+url: "https://www.youtube.com/watch?v=3PiBf4PC_wg"
+thumbnail: "https://i.ytimg.com/vi/3PiBf4PC_wg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-16T19:44:24.000Z"
+published_date: "2026-03-18T18:00:04.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-22T07:44:12.530Z"
+extracted_at: "2026-03-19T07:51:36.630Z"
 
 ---
 
-# 🟢 How to Manage Duplicate Contacts in Your CRM System
+# 🟢 Import Email Templates with AI
 
-**Video ID:** `5VmZ5iSKj-U`
+**Video ID:** `3PiBf4PC_wg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/16/2025
+**Published:** 3/18/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-22T07:44:12.530Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5VmZ5iSKj-U)
-- [📷 Thumbnail](https://i.ytimg.com/vi/5VmZ5iSKj-U/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3PiBf4PC_wg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/3PiBf4PC_wg/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/22/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/19/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
