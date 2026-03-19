@@ -1,10 +1,10 @@
 {
   "source": "ideas.gohighlevel.com",
   "type": "rss-feed",
-  "extracted": "2026-03-18T21:16:07.062Z",
+  "extracted": "2026-03-19T06:20:14.668Z",
   "stats": {
-    "changelog": 10,
-    "errors": 0
+    "changelog": 0,
+    "errors": 1
   },
   "categories": [
     "changelog"
