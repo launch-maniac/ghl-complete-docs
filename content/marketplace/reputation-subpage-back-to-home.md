@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-03-20T00:12:48.568Z"
+extracted_at: "2026-03-20T15:20:45.735Z"
 ---
 
 # Hi, how can we help you?
@@ -188,7 +188,7 @@ Modified on Fri, 6 Mar at 7:57 AM
 
 How do I find my Client's Location ID?
 
-Modified on Mon, 16 Mar at 11:46 AM
+Modified on Fri, 20 Mar at 9:48 AM
 
 ](/support/solutions/articles/48001204848-how-do-i-find-my-client-s-location-id-)[
 
