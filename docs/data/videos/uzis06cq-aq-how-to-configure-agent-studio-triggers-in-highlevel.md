@@ -1,14 +1,14 @@
 ---
-title: "Day 4 - Five Day AI Employee Challenge"
-video_id: "2gji9tNTWUU"
-url: "https://www.youtube.com/watch?v=2gji9tNTWUU"
-thumbnail: "https://i.ytimg.com/vi/2gji9tNTWUU/hqdefault.jpg"
+title: "How To Configure Agent Studio Triggers in HighLevel"
+video_id: "UZis06CQ_AQ"
+url: "https://www.youtube.com/watch?v=UZis06CQ_AQ"
+thumbnail: "https://i.ytimg.com/vi/UZis06CQ_AQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-19T06:30:18.000Z"
+published_date: "2026-03-20T22:53:30.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-22T07:44:12.385Z"
+extracted_at: "2026-03-21T07:47:19.532Z"
 
 ---
 
-# 🟢 Day 4 - Five Day AI Employee Challenge
+# 🟢 How To Configure Agent Studio Triggers in HighLevel
 
-**Video ID:** `2gji9tNTWUU`
+**Video ID:** `UZis06CQ_AQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/19/2025
+**Published:** 3/20/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-22T07:44:12.385Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=2gji9tNTWUU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/2gji9tNTWUU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=UZis06CQ_AQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/UZis06CQ_AQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/22/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/21/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

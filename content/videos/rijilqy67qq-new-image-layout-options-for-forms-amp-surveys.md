@@ -1,14 +1,14 @@
 ---
-title: "How to Generate Custom Code with AI in Workflows"
-video_id: "62vB4utEb1M"
-url: "https://www.youtube.com/watch?v=62vB4utEb1M"
-thumbnail: "https://i.ytimg.com/vi/62vB4utEb1M/hqdefault.jpg"
+title: "New Image Layout Options for Forms &amp; Surveys!"
+video_id: "RIJILQY67qQ"
+url: "https://www.youtube.com/watch?v=RIJILQY67qQ"
+thumbnail: "https://i.ytimg.com/vi/RIJILQY67qQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-18T12:45:30.000Z"
+published_date: "2026-03-19T22:55:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-21T07:41:47.794Z"
+extracted_at: "2026-03-21T07:47:22.210Z"
 
 ---
 
-# 🟢 How to Generate Custom Code with AI in Workflows
+# 🟢 New Image Layout Options for Forms &amp; Surveys!
 
-**Video ID:** `62vB4utEb1M`
+**Video ID:** `RIJILQY67qQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/18/2025
+**Published:** 3/19/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-21T07:41:47.794Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=62vB4utEb1M)
-- [📷 Thumbnail](https://i.ytimg.com/vi/62vB4utEb1M/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=RIJILQY67qQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/RIJILQY67qQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/21/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/21/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
