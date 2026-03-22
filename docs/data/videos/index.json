@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-21T07:47:31.717Z",
+  "generated": "2026-03-22T07:49:28.481Z",
   "stats": {
     "channels": 1,
-    "videos": 39,
+    "videos": 26,
     "playlists": 0,
-    "expired": 18,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 39
+    "transcriptsFailed": 26
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -676,18 +676,6 @@
       "slug": "3tiuid1io8g-how-martin-scaled-fast-using-highlevel-the-all-in-one-system-behind-his-success"
     },
     {
-      "filename": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025.md",
-      "title": "The HighLevel Release Radar (September 15th - September 19th 2025)",
-      "videoId": "3vaTmPdBDHk",
-      "url": "https://www.youtube.com/watch?v=3vaTmPdBDHk",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-20T06:50:30.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "3vatmpdbdhk-the-highlevel-release-radar-september-15th-september-19th-2025"
-    },
-    {
       "filename": "4-jkoqy9a6g-cameron-williams-scale-your-agency-with-smarter-financial-systems-highlevel.md",
       "title": "Cameron Williams: Scale Your Agency with Smarter Financial Systems + HighLevel",
       "videoId": "4-JkoQY9a6g",
@@ -998,18 +986,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6-nsr8lkddm-did-you-know-you-can-build-an-ai-chatbot-without-knowing-how-to-write-a-prompt"
-    },
-    {
-      "filename": "61brmlkbpm-day-5-five-day-ai-employee-challenge.md",
-      "title": "Day 5 - Five Day AI Employee Challenge",
-      "videoId": "-61BRmLKBPM",
-      "url": "https://www.youtube.com/watch?v=-61BRmLKBPM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-20T05:13:44.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "61brmlkbpm-day-5-five-day-ai-employee-challenge"
     },
     {
       "filename": "62vb4uteb1m-how-to-launch-your-first-google-ads-search-campaign.md",
@@ -1608,7 +1584,7 @@
       "publishedDate": "2026-03-20T17:00:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "aklo2hshmw8-highlevel-handles-all-our-calls-amp-sales-in-one-place"
     },
     {
@@ -3108,7 +3084,7 @@
       "publishedDate": "2026-03-19T22:55:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fpvivenoywu-product-price-amp-variant-level-coupons-live"
     },
     {
@@ -3264,7 +3240,7 @@
       "publishedDate": "2026-03-19T22:55:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g-xo02nque4-link-load-multiple-sub-accounts-to-a-snapshot"
     },
     {
@@ -3405,10 +3381,10 @@
       "videoId": "GENUd52qSZE",
       "url": "https://www.youtube.com/watch?v=GENUd52qSZE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-03-09T19:20:11.000Z",
+      "publishedDate": "2026-03-22T05:18:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.4",
+      "ageInMonths": "0.0",
       "slug": "genud52qsze-jodee-peevor-the-real-funnel-fix-starts-with-a-click"
     },
     {
@@ -3888,7 +3864,7 @@
       "publishedDate": "2026-03-20T15:00:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "i1tz3ymis-0-ai-builder-39-s-newest-skills-full-workflow-settings-control-amp-naming"
     },
     {
@@ -5496,7 +5472,7 @@
       "publishedDate": "2026-03-20T13:32:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "o-zwuesi-o-did-you-know-you-can-send-legally-binding-e-signatures-directly-in-highlevel"
     },
     {
@@ -5652,7 +5628,7 @@
       "publishedDate": "2026-03-20T01:01:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "oq0-wqlqq4-starting-a-business-as-a-woman-watch-this-first-shorts"
     },
     {
@@ -5712,7 +5688,7 @@
       "publishedDate": "2026-03-19T21:00:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ortdh65wwmk-create-blog-posts-with-ai"
     },
     {
@@ -5832,7 +5808,7 @@
       "publishedDate": "2026-03-20T13:33:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pdxvegcg6ze-did-you-know-you-can-send-external-data-into-highlevel-automatically"
     },
     {
@@ -5884,18 +5860,6 @@
       "slug": "pgl7tdi7sae-how-to-automatically-update-wordpress-core-plugins-and-themes"
     },
     {
-      "filename": "pibk-nr-liy-automatic-community-newsletters-live.md",
-      "title": "Automatic Community Newsletters Live!",
-      "videoId": "pIbk_Nr_liY",
-      "url": "https://www.youtube.com/watch?v=pIbk_Nr_liY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-19T18:05:32.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "pibk-nr-liy-automatic-community-newsletters-live"
-    },
-    {
       "filename": "pj1bqffxbi-simplifying-snapshot-updates-with-rolling-notifications.md",
       "title": "Simplifying Snapshot Updates with Rolling Notifications",
       "videoId": "-pj1bQFFxBI",
@@ -5928,7 +5892,7 @@
       "publishedDate": "2026-03-20T18:00:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pmmzwujg2za-ecom-product-details-page-customization-desktop-media-size-amp-layout"
     },
     {
@@ -5988,7 +5952,7 @@
       "publishedDate": "2026-03-19T22:53:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "povb-1rxgym-how-this-platform-made-business-easier"
     },
     {
@@ -6012,7 +5976,7 @@
       "publishedDate": "2026-03-19T22:53:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pqnsbmqwwpy-associations-between-companies-opportunities-amp-custom-objects-is-live"
     },
     {
@@ -6084,7 +6048,7 @@
       "publishedDate": "2026-03-20T05:16:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pwj-grkbns8-matt-plapp-one-man-show-to-8-figure-agency-owner"
     },
     {
@@ -6528,7 +6492,7 @@
       "publishedDate": "2026-03-19T22:55:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rijilqy67qq-new-image-layout-options-for-forms-amp-surveys"
     },
     {
@@ -7848,7 +7812,7 @@
       "publishedDate": "2026-03-20T00:00:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vnm5ayayani-ecom-zoom-in-on-product-images-for-better-product-viewing"
     },
     {
@@ -9492,7 +9456,7 @@
       "publishedDate": "2026-03-19T22:54:32.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zvejlct-qmq-opportunities-sort-by-custom-fields-amp-smart-tags-limit-increased-to-60"
     },
     {
@@ -9545,7 +9509,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 758,
+    "fresh": 755,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -9557,7 +9521,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 746,
+        "fresh": 743,
         "warning": 0,
         "expired": 0,
         "unknown": null
