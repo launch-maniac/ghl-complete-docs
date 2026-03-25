@@ -1,14 +1,14 @@
 ---
-title: "From Mechanic and Restaurant Manager to Award-Winning SaaS Affiliates | Nick Ponte &amp; Tom Gaddis"
-video_id: "-SlcfzzeUM8"
-url: "https://www.youtube.com/watch?v=-SlcfzzeUM8"
-thumbnail: "https://i.ytimg.com/vi/-SlcfzzeUM8/hqdefault.jpg"
+title: "Associations Between Companies, Opportunities &amp; Custom Objects"
+video_id: "w3OopXkw2bY"
+url: "https://www.youtube.com/watch?v=w3OopXkw2bY"
+thumbnail: "https://i.ytimg.com/vi/w3OopXkw2bY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T15:00:20.000Z"
+published_date: "2026-03-24T21:00:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-26T07:43:10.514Z"
+extracted_at: "2026-03-25T07:53:54.321Z"
 
 ---
 
-# 🟢 From Mechanic and Restaurant Manager to Award-Winning SaaS Affiliates | Nick Ponte &amp; Tom Gaddis
+# 🟢 Associations Between Companies, Opportunities &amp; Custom Objects
 
-**Video ID:** `-SlcfzzeUM8`
+**Video ID:** `w3OopXkw2bY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/23/2025
+**Published:** 3/24/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-26T07:43:10.514Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-SlcfzzeUM8)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-SlcfzzeUM8/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=w3OopXkw2bY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/w3OopXkw2bY/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/26/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Generate a Prospect List with Just a Few Clicks?"
-video_id: "ipE4YrNgk78"
-url: "https://www.youtube.com/watch?v=ipE4YrNgk78"
-thumbnail: "https://i.ytimg.com/vi/ipE4YrNgk78/hqdefault.jpg"
+title: "The AI tool every business needs right now! #shorts"
+video_id: "94PIoevai8o"
+url: "https://www.youtube.com/watch?v=94PIoevai8o"
+thumbnail: "https://i.ytimg.com/vi/94PIoevai8o/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T14:51:35.000Z"
+published_date: "2026-03-24T21:40:17.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-26T07:43:10.974Z"
+extracted_at: "2026-03-25T07:53:54.084Z"
 
 ---
 
-# 🟢 Did You Know You Can Generate a Prospect List with Just a Few Clicks?
+# 🟢 The AI tool every business needs right now! #shorts
 
-**Video ID:** `ipE4YrNgk78`
+**Video ID:** `94PIoevai8o`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/23/2025
+**Published:** 3/24/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-26T07:43:10.974Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ipE4YrNgk78)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ipE4YrNgk78/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=94PIoevai8o)
+- [📷 Thumbnail](https://i.ytimg.com/vi/94PIoevai8o/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/26/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

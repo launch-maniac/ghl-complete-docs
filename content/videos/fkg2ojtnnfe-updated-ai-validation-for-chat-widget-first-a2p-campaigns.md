@@ -1,10 +1,10 @@
 ---
-title: "Jodee Peevor: The Real Funnel Fix Starts With a Click"
-video_id: "GENUd52qSZE"
-url: "https://www.youtube.com/watch?v=GENUd52qSZE"
-thumbnail: "https://i.ytimg.com/vi/GENUd52qSZE/hqdefault.jpg"
+title: "Updated AI Validation for Chat Widget First A2P Campaigns"
+video_id: "fKG2OjTNNFE"
+url: "https://www.youtube.com/watch?v=fKG2OjTNNFE"
+thumbnail: "https://i.ytimg.com/vi/fKG2OjTNNFE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-22T05:18:39.000Z"
+published_date: "2026-03-23T18:00:44.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-25T07:53:57.480Z"
+extracted_at: "2026-03-25T07:53:56.927Z"
 
 ---
 
-# 🟢 Jodee Peevor: The Real Funnel Fix Starts With a Click
+# 🟢 Updated AI Validation for Chat Widget First A2P Campaigns
 
-**Video ID:** `GENUd52qSZE`
+**Video ID:** `fKG2OjTNNFE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/22/2026
+**Published:** 3/23/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-25T07:53:57.480Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GENUd52qSZE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GENUd52qSZE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fKG2OjTNNFE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fKG2OjTNNFE/hqdefault.jpg)
 
 
 ## Content Guidelines

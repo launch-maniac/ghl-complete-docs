@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - HighLevel Funnels That Capture, Nurture and Close"
-video_id: "-nZlPZZcCMA"
-url: "https://www.youtube.com/watch?v=-nZlPZZcCMA"
-thumbnail: "https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg"
+title: "Opportunities – Sort by Custom Fields &amp; Smart Tags Limit Increased to 60"
+video_id: "ZPEeM7Q3jDQ"
+url: "https://www.youtube.com/watch?v=ZPEeM7Q3jDQ"
+thumbnail: "https://i.ytimg.com/vi/ZPEeM7Q3jDQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T05:17:53.000Z"
+published_date: "2026-03-23T21:00:39.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-28T07:41:30.836Z"
+extracted_at: "2026-03-25T07:53:56.699Z"
 
 ---
 
-# 🟢 Day 1 - HighLevel Funnels That Capture, Nurture and Close
+# 🟢 Opportunities – Sort by Custom Fields &amp; Smart Tags Limit Increased to 60
 
-**Video ID:** `-nZlPZZcCMA`
+**Video ID:** `ZPEeM7Q3jDQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/23/2025
+**Published:** 3/23/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-28T07:41:30.836Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=-nZlPZZcCMA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/-nZlPZZcCMA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZPEeM7Q3jDQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZPEeM7Q3jDQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/28/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

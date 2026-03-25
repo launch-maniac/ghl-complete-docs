@@ -1,10 +1,10 @@
 ---
-title: "New Integration  HighLevel + Jobber Live!"
-video_id: "hWhgA1DBVQU"
-url: "https://www.youtube.com/watch?v=hWhgA1DBVQU"
-thumbnail: "https://i.ytimg.com/vi/hWhgA1DBVQU/hqdefault.jpg"
+title: "Enhanced Appointment Booking Experience in Opportunities"
+video_id: "re0Zp-Wh1Bw"
+url: "https://www.youtube.com/watch?v=re0Zp-Wh1Bw"
+thumbnail: "https://i.ytimg.com/vi/re0Zp-Wh1Bw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-23T01:58:23.000Z"
+published_date: "2026-03-23T15:01:24.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-25T07:43:58.843Z"
+extracted_at: "2026-03-25T07:53:57.145Z"
 
 ---
 
-# 🟢 New Integration  HighLevel + Jobber Live!
+# 🟢 Enhanced Appointment Booking Experience in Opportunities
 
-**Video ID:** `hWhgA1DBVQU`
+**Video ID:** `re0Zp-Wh1Bw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/23/2025
+**Published:** 3/23/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-25T07:43:58.843Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hWhgA1DBVQU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/hWhgA1DBVQU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=re0Zp-Wh1Bw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/re0Zp-Wh1Bw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/25/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

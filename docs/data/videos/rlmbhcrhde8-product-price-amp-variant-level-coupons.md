@@ -1,14 +1,14 @@
 ---
-title: "Jodee Peevor: The Real Funnel Fix Starts With a Click"
-video_id: "GENUd52qSZE"
-url: "https://www.youtube.com/watch?v=GENUd52qSZE"
-thumbnail: "https://i.ytimg.com/vi/GENUd52qSZE/hqdefault.jpg"
+title: "Product Price &amp; Variant Level Coupons"
+video_id: "rlMbhCRhdE8"
+url: "https://www.youtube.com/watch?v=rlMbhCRhdE8"
+thumbnail: "https://i.ytimg.com/vi/rlMbhCRhdE8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-22T05:18:39.000Z"
+published_date: "2026-03-24T15:01:26.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-25T07:53:57.480Z"
+extracted_at: "2026-03-25T07:53:54.802Z"
 
 ---
 
-# 🟢 Jodee Peevor: The Real Funnel Fix Starts With a Click
+# 🟢 Product Price &amp; Variant Level Coupons
 
-**Video ID:** `GENUd52qSZE`
+**Video ID:** `rlMbhCRhdE8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/22/2026
+**Published:** 3/24/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-25T07:53:57.480Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=GENUd52qSZE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/GENUd52qSZE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=rlMbhCRhdE8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/rlMbhCRhdE8/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 ---
-title: "Turn YouTube Views into Course Sales with HighLevel"
-video_id: "37FrAoICdy0"
-url: "https://www.youtube.com/watch?v=37FrAoICdy0"
-thumbnail: "https://i.ytimg.com/vi/37FrAoICdy0/hqdefault_live.jpg"
+title: "Day 1 - Five Day Challenge"
+video_id: "DrF0DsbqiBE"
+url: "https://www.youtube.com/watch?v=DrF0DsbqiBE"
+thumbnail: "https://i.ytimg.com/vi/DrF0DsbqiBE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-18T14:59:57.000Z"
+published_date: "2026-03-23T21:12:44.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-25T07:53:57.954Z"
+extracted_at: "2026-03-25T07:53:56.471Z"
 
 ---
 
-# 🟢 Turn YouTube Views into Course Sales with HighLevel
+# 🟢 Day 1 - Five Day Challenge
 
-**Video ID:** `37FrAoICdy0`
+**Video ID:** `DrF0DsbqiBE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/18/2026
+**Published:** 3/23/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-25T07:53:57.954Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=37FrAoICdy0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/37FrAoICdy0/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=DrF0DsbqiBE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/DrF0DsbqiBE/hqdefault_live.jpg)
 
 
 ## Content Guidelines
