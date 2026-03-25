@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-03-24T15:29:24.437Z"
+extracted_at: "2026-03-25T15:29:40.375Z"
 ---
 
 # Hi, how can we help you?
@@ -168,17 +168,17 @@ Modified on Tue, 10 Mar at 8:56 AM
 
 ](/support/solutions/articles/48001078171-list-of-merge-fields)[
 
-How to set up Root Domain/Subdomain for your Funnels/Websites?
-
-Modified on Thu, 18 Dec, 2025 at 6:36 AM
-
-](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
-
 What is LC (Lead Connector) Phone System?
 
 Modified on Sun, 3 Aug, 2025 at 6:12 AM
 
 ](/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-)[
+
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+
+Modified on Thu, 18 Dec, 2025 at 6:36 AM
+
+](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
 HighLevel Pricing Guide
 
