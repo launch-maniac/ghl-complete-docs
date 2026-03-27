@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-25T07:54:02.511Z",
+  "generated": "2026-03-27T07:54:11.382Z",
   "stats": {
     "channels": 1,
-    "videos": 20,
+    "videos": 19,
     "playlists": 0,
-    "expired": 14,
+    "expired": 22,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 20
+    "transcriptsFailed": 19
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -549,10 +549,10 @@
       "videoId": "37FrAoICdy0",
       "url": "https://www.youtube.com/watch?v=37FrAoICdy0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-03-18T14:59:57.000Z",
+      "publishedDate": "2026-03-27T05:04:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
+      "ageInMonths": "0.0",
       "slug": "37fraoicdy0-turn-youtube-views-into-course-sales-with-highlevel"
     },
     {
@@ -864,7 +864,7 @@
       "publishedDate": "2026-03-23T21:13:37.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "50upotmf9oc-day-2-five-day-challenge"
     },
     {
@@ -1264,6 +1264,18 @@
       "slug": "7mfmvse31ou-custom-objects-sorting-by-custom-fields"
     },
     {
+      "filename": "7plbhofrgv0-service-calendars-in-conversation-ai-live.md",
+      "title": "Service Calendars in Conversation AI Live!",
+      "videoId": "7pLBHOfRgV0",
+      "url": "https://www.youtube.com/watch?v=7pLBHOfRgV0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-26T20:51:46.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7plbhofrgv0-service-calendars-in-conversation-ai-live"
+    },
+    {
       "filename": "7qayv9yohgo-day-1-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
       "title": "Day 1 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
       "videoId": "7qayv9yoHgo",
@@ -1296,7 +1308,7 @@
       "publishedDate": "2026-03-23T21:16:20.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7xen9uyjgyg-day-5-five-day-challenge"
     },
     {
@@ -1452,7 +1464,7 @@
       "publishedDate": "2026-03-24T21:40:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "94pioevai8o-the-ai-tool-every-business-needs-right-now-shorts"
     },
     {
@@ -1980,7 +1992,7 @@
       "publishedDate": "2026-03-25T02:30:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bows0lfq-5u-the-truth-about-self-employment-nobody-tells-you-shorts"
     },
     {
@@ -2568,7 +2580,7 @@
       "publishedDate": "2026-03-23T21:12:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "drf0dsbqibe-day-1-five-day-challenge"
     },
     {
@@ -2786,6 +2798,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "epu-d-5sqyc-advanced-tag-filtering-in-triggers"
+    },
+    {
+      "filename": "er7kvyeurw0-vibe-builder-ai-studio-now-live.md",
+      "title": "Vibe Builder/AI Studio Now Live!",
+      "videoId": "eR7KvYeuRw0",
+      "url": "https://www.youtube.com/watch?v=eR7KvYeuRw0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-27T00:04:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "er7kvyeurw0-vibe-builder-ai-studio-now-live"
     },
     {
       "filename": "erc6jhvt3ti-linkedin-ad-campaigns-support-in-snapshots.md",
@@ -4672,18 +4696,6 @@
       "slug": "kryngy-c-zi-google-forms-integration-now-live-inside-highlevel"
     },
     {
-      "filename": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency.md",
-      "title": "How to Use Quick Filters to Improve Your Dashboard Efficiency",
-      "videoId": "kVSpv_01AoM",
-      "url": "https://www.youtube.com/watch?v=kVSpv_01AoM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:10:30.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "kvspv-01aom-how-to-use-quick-filters-to-improve-your-dashboard-efficiency"
-    },
-    {
       "filename": "kxnpmigmxsi-the-highlevel-release-radar-march-9th-march-13th-2026.md",
       "title": "The HighLevel Release Radar (March 9th - March 13th 2026)",
       "videoId": "kXNPmigmXSI",
@@ -4884,7 +4896,7 @@
       "publishedDate": "2026-03-24T05:38:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "lpdzhxm-hx0-day-1-how-to-go-viral-and-grow-your-business"
     },
     {
@@ -4980,7 +4992,7 @@
       "publishedDate": "2026-03-24T18:00:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "m4efb3oyjnq-new-image-layout-options-for-forms-amp-surveys"
     },
     {
@@ -5018,18 +5030,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "mamg-ojclwc-google-forms-integration"
-    },
-    {
-      "filename": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests.md",
-      "title": "How to Set Up and Send Multi-Channel Review Requests",
-      "videoId": "mbeuppfOVS0",
-      "url": "https://www.youtube.com/watch?v=mbeuppfOVS0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:09:00.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "mbeuppfovs0-how-to-set-up-and-send-multi-channel-review-requests"
     },
     {
       "filename": "md88ad7-qya-schema-markup-ai-live.md",
@@ -5428,6 +5428,18 @@
       "slug": "nq6xgnbhb6q-voice-ai-more-voices-more-languages-amp-elevenlabs-import"
     },
     {
+      "filename": "nqkg8lvrkpe-principles-of-outbound-marketing.md",
+      "title": "Principles of Outbound Marketing",
+      "videoId": "nqKG8lvRKpE",
+      "url": "https://www.youtube.com/watch?v=nqKG8lvRKpE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-25T15:18:45.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "nqkg8lvrkpe-principles-of-outbound-marketing"
+    },
+    {
       "filename": "nrbupos3mhc-openrouter-integration-is-live-in-workflows.md",
       "title": "Openrouter Integration is Live in Workflows!",
       "videoId": "NRbuPos3Mhc",
@@ -5501,14 +5513,14 @@
     },
     {
       "filename": "o-zwuesi-o-did-you-know-you-can-send-legally-binding-e-signatures-directly-in-highlevel.md",
-      "title": "Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel",
+      "title": "Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel?",
       "videoId": "O-_ZwuESi-o",
       "url": "https://www.youtube.com/watch?v=O-_ZwuESi-o",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-03-20T13:32:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "o-zwuesi-o-did-you-know-you-can-send-legally-binding-e-signatures-directly-in-highlevel"
     },
     {
@@ -5520,7 +5532,7 @@
       "publishedDate": "2026-03-25T05:57:46.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "o70cx3kyyi8-day-2-how-to-go-viral-and-grow-your-business"
     },
     {
@@ -5728,18 +5740,6 @@
       "slug": "ortdh65wwmk-create-blog-posts-with-ai"
     },
     {
-      "filename": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale.md",
-      "title": "Did You Know HighLevel Just Made Using AI Affordable at Scale?",
-      "videoId": "OU-h27EJ6Xg",
-      "url": "https://www.youtube.com/watch?v=OU-h27EJ6Xg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:05:23.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "ou-h27ej6xg-did-you-know-highlevel-just-made-using-ai-affordable-at-scale"
-    },
-    {
       "filename": "ow2-li7ec4i-ecommerce-mobile-ui-improvements-sorting-amp-filtering.md",
       "title": "ECommerce: Mobile UI Improvements - Sorting &amp; Filtering!",
       "videoId": "ow2-Li7Ec4I",
@@ -5788,18 +5788,6 @@
       "slug": "oxja9n6ggwm-manuel-reviews-is-live"
     },
     {
-      "filename": "ozb-kswmp0e-did-you-know-you-can-offer-expiring-coupons-for-limited-time-promos.md",
-      "title": "Did You Know You Can Offer Expiring Coupons for Limited Time Promos?",
-      "videoId": "oZb-kSwmP0E",
-      "url": "https://www.youtube.com/watch?v=oZb-kSwmP0E",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:03:40.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "ozb-kswmp0e-did-you-know-you-can-offer-expiring-coupons-for-limited-time-promos"
-    },
-    {
       "filename": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs.md",
       "title": "Conversations AI   Conversation Summary, Transcript Generation &amp; Conversation Logs",
       "videoId": "p0jQJZYLhEg",
@@ -5810,18 +5798,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs"
-    },
-    {
-      "filename": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers.md",
-      "title": "How to Automate Your Payment Links with Order Submitted Triggers",
-      "videoId": "p7FhSFKlIdA",
-      "url": "https://www.youtube.com/watch?v=p7FhSFKlIdA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T22:42:39.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "p7fhsfklida-how-to-automate-your-payment-links-with-order-submitted-triggers"
     },
     {
       "filename": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai.md",
@@ -5882,18 +5858,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "pg67gbpmsue-ai-agent-logs"
-    },
-    {
-      "filename": "pgl7tdi7sae-how-to-automatically-update-wordpress-core-plugins-and-themes.md",
-      "title": "How to Automatically Update WordPress Core, Plugins, and Themes",
-      "videoId": "pGL7TdI7saE",
-      "url": "https://www.youtube.com/watch?v=pGL7TdI7saE",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:07:59.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.0",
-      "slug": "pgl7tdi7sae-how-to-automatically-update-wordpress-core-plugins-and-themes"
     },
     {
       "filename": "pj1bqffxbi-simplifying-snapshot-updates-with-rolling-notifications.md",
@@ -6300,7 +6264,7 @@
       "publishedDate": "2026-03-23T21:14:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qt17ybvcmq0-day-3-five-day-challenge"
     },
     {
@@ -6612,7 +6576,7 @@
       "publishedDate": "2026-03-24T15:01:26.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rlmbhcrhde8-product-price-amp-variant-level-coupons"
     },
     {
@@ -6662,18 +6626,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "rtatxcweg6e-highlevel-live-india-get-your-tickets-today"
-    },
-    {
-      "filename": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection.md",
-      "title": "How to Add &#39;Other&#39; Option to Forms &amp; Surveys for Accurate Data Collection",
-      "videoId": "RWWjxMOy2cA",
-      "url": "https://www.youtube.com/watch?v=RWWjxMOy2cA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:06:41.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "rwwjxmoy2ca-how-to-add-39-other-39-option-to-forms-amp-surveys-for-accurate-data-collection"
     },
     {
       "filename": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel.md",
@@ -7492,6 +7444,18 @@
       "slug": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly"
     },
     {
+      "filename": "ubmkzjefboa-how-to-set-up-a-referral-program-in-highlevel-get-more-clients-automatically-shorts.md",
+      "title": "How to set up a referral program in HighLevel (Get more clients automatically) #shorts",
+      "videoId": "ubmKzJEFboA",
+      "url": "https://www.youtube.com/watch?v=ubmKzJEFboA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-03-26T22:02:26.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ubmkzjefboa-how-to-set-up-a-referral-program-in-highlevel-get-more-clients-automatically-shorts"
+    },
+    {
       "filename": "ud4ofavdeza-did-you-know-highlevel-can-automatically-manage-spam.md",
       "title": "Did You Know HighLevel Can Automatically Manage Spam?",
       "videoId": "uD4OFavDezA",
@@ -7550,18 +7514,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ujinvudmkzu-how-to-configure-taxes-and-service-fees-in-highlevel"
-    },
-    {
-      "filename": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel.md",
-      "title": "Did You Know You Can Use Smart Lists to Save Time Throughout HighLevel?",
-      "videoId": "UjykeSn2OHE",
-      "url": "https://www.youtube.com/watch?v=UjykeSn2OHE",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:02:49.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "ujykesn2ohe-did-you-know-you-can-use-smart-lists-to-save-time-throughout-highlevel"
     },
     {
       "filename": "uk5o1ukuyt4-next-gen-rich-messaging-rcs-closed-beta-launch.md",
@@ -7800,7 +7752,7 @@
       "publishedDate": "2026-03-23T21:15:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vedod-tmhe4-day-4-five-day-challenge"
     },
     {
@@ -8100,7 +8052,7 @@
       "publishedDate": "2026-03-24T21:00:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "w3oopxkw2by-associations-between-companies-opportunities-amp-custom-objects"
     },
     {
@@ -8236,16 +8188,16 @@
       "slug": "wf5mcjx8yui-prospecting-tool-improvements"
     },
     {
-      "filename": "wgke-pdbepq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
-      "title": "Day 2 - HighLevel Funnels That Capture, Nurture and Close",
-      "videoId": "WGKe-PDBePQ",
-      "url": "https://www.youtube.com/watch?v=WGKe-PDBePQ",
+      "filename": "wgebxs3j6r4-from-accidental-videos-to-top-highlevel-affiliate-how-declan-o-reilly-built-a-system-tha.md",
+      "title": "From accidental videos to top HighLevel affiliate: how Declan O’Reilly built a system that scales",
+      "videoId": "WgEBXS3j6R4",
+      "url": "https://www.youtube.com/watch?v=WgEBXS3j6R4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T05:36:52.000Z",
+      "publishedDate": "2026-03-25T09:52:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.1",
-      "slug": "wgke-pdbepq-day-2-highlevel-funnels-that-capture-nurture-and-close"
+      "slug": "wgebxs3j6r4-from-accidental-videos-to-top-highlevel-affiliate-how-declan-o-reilly-built-a-system-tha"
     },
     {
       "filename": "whha1dq-ug8-select-php-version-when-creating-wordpress-site.md",
@@ -8788,18 +8740,6 @@
       "slug": "xve6bfthnau-support-for-custom-values-in-calendars"
     },
     {
-      "filename": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel.md",
-      "title": "How to Set Up the All-In-One Chat Feature for Your Website or Funnel",
-      "videoId": "xWTo2auRI6s",
-      "url": "https://www.youtube.com/watch?v=xWTo2auRI6s",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-24T21:09:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "xwto2auri6s-how-to-set-up-the-all-in-one-chat-feature-for-your-website-or-funnel"
-    },
-    {
       "filename": "xxani6rjolo-how-to-track-form-submissions-in-highlevel-from-external-websites.md",
       "title": "How To Track Form Submissions in HighLevel from External Websites",
       "videoId": "xXanI6RJOLo",
@@ -9134,18 +9074,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
-    },
-    {
-      "filename": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close.md",
-      "title": "Day 2 - HighLevel Funnels That Capture, Nurture and Close",
-      "videoId": "yRXAiSwWWKQ",
-      "url": "https://www.youtube.com/watch?v=yRXAiSwWWKQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-09-23T19:41:44.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "yrxaiswwwkq-day-2-highlevel-funnels-that-capture-nurture-and-close"
     },
     {
       "filename": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number.md",
@@ -9605,7 +9533,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 763,
+    "fresh": 757,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -9617,7 +9545,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 751,
+        "fresh": 745,
         "warning": 0,
         "expired": 0,
         "unknown": null

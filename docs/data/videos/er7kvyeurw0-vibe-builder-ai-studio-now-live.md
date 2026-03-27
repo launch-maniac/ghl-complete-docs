@@ -1,14 +1,14 @@
 ---
-title: "Did You Know HighLevel Just Made Using AI Affordable at Scale?"
-video_id: "OU-h27EJ6Xg"
-url: "https://www.youtube.com/watch?v=OU-h27EJ6Xg"
-thumbnail: "https://i.ytimg.com/vi/OU-h27EJ6Xg/hqdefault.jpg"
+title: "Vibe Builder/AI Studio Now Live!"
+video_id: "eR7KvYeuRw0"
+url: "https://www.youtube.com/watch?v=eR7KvYeuRw0"
+thumbnail: "https://i.ytimg.com/vi/eR7KvYeuRw0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-24T21:05:23.000Z"
+published_date: "2026-03-27T00:04:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:50.297Z"
+extracted_at: "2026-03-27T07:54:03.118Z"
 
 ---
 
-# 🟢 Did You Know HighLevel Just Made Using AI Affordable at Scale?
+# 🟢 Vibe Builder/AI Studio Now Live!
 
-**Video ID:** `OU-h27EJ6Xg`
+**Video ID:** `eR7KvYeuRw0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/24/2025
+**Published:** 3/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-27T07:41:50.297Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=OU-h27EJ6Xg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/OU-h27EJ6Xg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=eR7KvYeuRw0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/eR7KvYeuRw0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/27/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/27/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

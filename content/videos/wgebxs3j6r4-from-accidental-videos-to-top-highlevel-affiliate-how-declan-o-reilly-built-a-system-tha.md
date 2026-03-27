@@ -1,10 +1,10 @@
 ---
-title: "How to Add &#39;Other&#39; Option to Forms &amp; Surveys for Accurate Data Collection"
-video_id: "RWWjxMOy2cA"
-url: "https://www.youtube.com/watch?v=RWWjxMOy2cA"
-thumbnail: "https://i.ytimg.com/vi/RWWjxMOy2cA/hqdefault.jpg"
+title: "From accidental videos to top HighLevel affiliate: how Declan O’Reilly built a system that scales"
+video_id: "WgEBXS3j6R4"
+url: "https://www.youtube.com/watch?v=WgEBXS3j6R4"
+thumbnail: "https://i.ytimg.com/vi/WgEBXS3j6R4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-24T21:06:41.000Z"
+published_date: "2026-03-25T09:52:56.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:50.188Z"
+extracted_at: "2026-03-27T07:54:04.003Z"
 
 ---
 
-# 🟢 How to Add &#39;Other&#39; Option to Forms &amp; Surveys for Accurate Data Collection
+# 🟢 From accidental videos to top HighLevel affiliate: how Declan O’Reilly built a system that scales
 
-**Video ID:** `RWWjxMOy2cA`
+**Video ID:** `WgEBXS3j6R4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/24/2025
+**Published:** 3/25/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-27T07:41:50.188Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=RWWjxMOy2cA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/RWWjxMOy2cA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WgEBXS3j6R4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/WgEBXS3j6R4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/27/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/27/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 ---
-title: "How to Automate Your Payment Links with Order Submitted Triggers"
-video_id: "p7FhSFKlIdA"
-url: "https://www.youtube.com/watch?v=p7FhSFKlIdA"
-thumbnail: "https://i.ytimg.com/vi/p7FhSFKlIdA/hqdefault.jpg"
+title: "How to set up a referral program in HighLevel (Get more clients automatically) #shorts"
+video_id: "ubmKzJEFboA"
+url: "https://www.youtube.com/watch?v=ubmKzJEFboA"
+thumbnail: "https://i.ytimg.com/vi/ubmKzJEFboA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-24T22:42:39.000Z"
+published_date: "2026-03-26T22:02:26.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-27T07:41:49.422Z"
+extracted_at: "2026-03-27T07:54:03.313Z"
 
 ---
 
-# 🟢 How to Automate Your Payment Links with Order Submitted Triggers
+# 🟢 How to set up a referral program in HighLevel (Get more clients automatically) #shorts
 
-**Video ID:** `p7FhSFKlIdA`
+**Video ID:** `ubmKzJEFboA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/24/2025
+**Published:** 3/26/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-27T07:41:49.422Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=p7FhSFKlIdA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/p7FhSFKlIdA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ubmKzJEFboA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ubmKzJEFboA/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/27/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/27/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

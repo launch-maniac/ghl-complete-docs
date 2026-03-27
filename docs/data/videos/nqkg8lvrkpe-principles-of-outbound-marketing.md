@@ -1,10 +1,10 @@
 ---
-title: "Day 4 - Five Day Challenge"
-video_id: "vedOd-tmHe4"
-url: "https://www.youtube.com/watch?v=vedOd-tmHe4"
-thumbnail: "https://i.ytimg.com/vi/vedOd-tmHe4/hqdefault_live.jpg"
+title: "Principles of Outbound Marketing"
+video_id: "nqKG8lvRKpE"
+url: "https://www.youtube.com/watch?v=nqKG8lvRKpE"
+thumbnail: "https://i.ytimg.com/vi/nqKG8lvRKpE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-23T21:15:44.000Z"
+published_date: "2026-03-25T15:18:45.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-27T07:54:05.913Z"
+extracted_at: "2026-03-27T07:54:03.708Z"
 
 ---
 
-# 🟢 Day 4 - Five Day Challenge
+# 🟢 Principles of Outbound Marketing
 
-**Video ID:** `vedOd-tmHe4`
+**Video ID:** `nqKG8lvRKpE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/23/2026
+**Published:** 3/25/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-27T07:54:05.913Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=vedOd-tmHe4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/vedOd-tmHe4/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=nqKG8lvRKpE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/nqKG8lvRKpE/hqdefault_live.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel"
+title: "Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel?"
 video_id: "O-_ZwuESi-o"
 url: "https://www.youtube.com/watch?v=O-_ZwuESi-o"
 thumbnail: "https://i.ytimg.com/vi/O-_ZwuESi-o/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-03-20T13:32:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.2 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.2"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,11 +16,11 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-22T07:49:21.740Z"
+extracted_at: "2026-03-27T07:54:06.931Z"
 
 ---
 
-# 🟢 Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel
+# 🟢 Did You Know You Can Send Legally Binding E Signatures Directly in HighLevel?
 
 **Video ID:** `O-_ZwuESi-o`
 **Source:** GoHighLevel Official - Last 180 Days
@@ -30,7 +30,7 @@ extracted_at: "2026-03-22T07:49:21.740Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.2 months old (fresh)**
 
 
 
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 3/22/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/27/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
