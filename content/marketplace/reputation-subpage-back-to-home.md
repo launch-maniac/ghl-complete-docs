@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-03-27T06:28:23.848Z"
+extracted_at: "2026-03-28T03:54:10.583Z"
 ---
 
 # Hi, how can we help you?
@@ -39,6 +39,14 @@ Tickets
 ![no results](/assets/cdn/portal/images/no-results.png)
 
 Sorry! nothing found for  
+
+[
+
+LevelUp 2025 Releases
+
+
+
+](/support/solutions/155000000253)
 
 [
 
@@ -109,16 +117,6 @@ Email
 
 
 ](/support/solutions/48000449563)
-
-[
-
-![Contacts](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035732134/original/xAtkKIwnWpZuwGJmD8sXjW_-sWvc4zvT3w.png)
-
-Contacts
-
-
-
-](/support/solutions/155000000123)
 
 #### Most popular articles
 
