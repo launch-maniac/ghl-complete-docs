@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (September 22nd - September 26th 2025)"
-video_id: "fm0VgLQSZCs"
-url: "https://www.youtube.com/watch?v=fm0VgLQSZCs"
-thumbnail: "https://i.ytimg.com/vi/fm0VgLQSZCs/hqdefault.jpg"
+title: "Services Calendars in Conversation AI"
+video_id: "BD4fGf3z_r8"
+url: "https://www.youtube.com/watch?v=BD4fGf3z_r8"
+thumbnail: "https://i.ytimg.com/vi/BD4fGf3z_r8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-27T07:23:46.000Z"
+published_date: "2026-03-28T00:00:00.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.7 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.7"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:23.089Z"
+extracted_at: "2026-03-29T07:53:12.206Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (September 22nd - September 26th 2025)
+# 🟢 Services Calendars in Conversation AI
 
-**Video ID:** `fm0VgLQSZCs`
+**Video ID:** `BD4fGf3z_r8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/27/2025
+**Published:** 3/28/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.7 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:23.089Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fm0VgLQSZCs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/fm0VgLQSZCs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BD4fGf3z_r8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/BD4fGf3z_r8/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/29/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

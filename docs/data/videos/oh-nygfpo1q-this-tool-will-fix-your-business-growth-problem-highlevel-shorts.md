@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - Five Day Challenge"
-video_id: "qt17yBVCmq0"
-url: "https://www.youtube.com/watch?v=qt17yBVCmq0"
-thumbnail: "https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg"
+title: "This Tool Will Fix Your Business Growth Problem (HighLevel) #shorts"
+video_id: "OH_nYgFpO1Q"
+url: "https://www.youtube.com/watch?v=OH_nYgFpO1Q"
+thumbnail: "https://i.ytimg.com/vi/OH_nYgFpO1Q/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-23T21:14:19.000Z"
+published_date: "2026-03-27T22:51:46.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-29T07:53:15.140Z"
+extracted_at: "2026-03-29T07:53:12.415Z"
 
 ---
 
-# 🟢 Day 3 - Five Day Challenge
+# 🟢 This Tool Will Fix Your Business Growth Problem (HighLevel) #shorts
 
-**Video ID:** `qt17yBVCmq0`
+**Video ID:** `OH_nYgFpO1Q`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/23/2026
+**Published:** 3/27/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-29T07:53:15.140Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qt17yBVCmq0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=OH_nYgFpO1Q)
+- [📷 Thumbnail](https://i.ytimg.com/vi/OH_nYgFpO1Q/hqdefault.jpg)
 
 
 ## Content Guidelines

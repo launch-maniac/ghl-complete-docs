@@ -1,10 +1,10 @@
 ---
-title: "Service Calendars in Conversation AI Live!"
-video_id: "7pLBHOfRgV0"
-url: "https://www.youtube.com/watch?v=7pLBHOfRgV0"
-thumbnail: "https://i.ytimg.com/vi/7pLBHOfRgV0/hqdefault.jpg"
+title: "Did You Know You Can Automate Billing for Subscription Services in HighLevel?"
+video_id: "fqcABXqjVmY"
+url: "https://www.youtube.com/watch?v=fqcABXqjVmY"
+thumbnail: "https://i.ytimg.com/vi/fqcABXqjVmY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-26T20:51:46.000Z"
+published_date: "2026-03-27T14:21:14.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-29T07:53:14.124Z"
+extracted_at: "2026-03-29T07:53:13.005Z"
 
 ---
 
-# 🟢 Service Calendars in Conversation AI Live!
+# 🟢 Did You Know You Can Automate Billing for Subscription Services in HighLevel?
 
-**Video ID:** `7pLBHOfRgV0`
+**Video ID:** `fqcABXqjVmY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/26/2026
+**Published:** 3/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-03-29T07:53:14.124Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7pLBHOfRgV0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7pLBHOfRgV0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fqcABXqjVmY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fqcABXqjVmY/hqdefault.jpg)
 
 
 ## Content Guidelines

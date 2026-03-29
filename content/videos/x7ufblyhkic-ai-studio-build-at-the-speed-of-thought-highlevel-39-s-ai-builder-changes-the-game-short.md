@@ -1,14 +1,14 @@
 ---
-title: "How to Set Up a Call Script"
-video_id: "xkVpOVDRIbs"
-url: "https://www.youtube.com/watch?v=xkVpOVDRIbs"
-thumbnail: "https://i.ytimg.com/vi/xkVpOVDRIbs/hqdefault.jpg"
+title: "AI Studio - Build at the speed of thought | HighLevel&#39;s AI builder changes the game! #shorts"
+video_id: "x7ufBLyhkIc"
+url: "https://www.youtube.com/watch?v=x7ufBLyhkIc"
+thumbnail: "https://i.ytimg.com/vi/x7ufBLyhkIc/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T16:24:53.000Z"
+published_date: "2026-03-28T15:24:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.7 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.7"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:24.214Z"
+extracted_at: "2026-03-29T07:53:11.546Z"
 
 ---
 
-# 🟢 How to Set Up a Call Script
+# 🟢 AI Studio - Build at the speed of thought | HighLevel&#39;s AI builder changes the game! #shorts
 
-**Video ID:** `xkVpOVDRIbs`
+**Video ID:** `x7ufBLyhkIc`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/26/2025
+**Published:** 3/28/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.7 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:24.214Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=xkVpOVDRIbs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/xkVpOVDRIbs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x7ufBLyhkIc)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x7ufBLyhkIc/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/29/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

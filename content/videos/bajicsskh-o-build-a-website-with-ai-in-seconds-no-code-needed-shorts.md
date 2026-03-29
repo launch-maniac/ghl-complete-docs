@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - Five Day Challenge"
-video_id: "qt17yBVCmq0"
-url: "https://www.youtube.com/watch?v=qt17yBVCmq0"
-thumbnail: "https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg"
+title: "Build a website with AI in seconds (No code needed) 🚀 #shorts"
+video_id: "BajicssKh-o"
+url: "https://www.youtube.com/watch?v=BajicssKh-o"
+thumbnail: "https://i.ytimg.com/vi/BajicssKh-o/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-23T21:14:19.000Z"
+published_date: "2026-03-27T18:39:48.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.1"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-29T07:53:15.140Z"
+extracted_at: "2026-03-29T07:53:12.620Z"
 
 ---
 
-# 🟢 Day 3 - Five Day Challenge
+# 🟢 Build a website with AI in seconds (No code needed) 🚀 #shorts
 
-**Video ID:** `qt17yBVCmq0`
+**Video ID:** `BajicssKh-o`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/23/2026
+**Published:** 3/27/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-29T07:53:15.140Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qt17yBVCmq0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BajicssKh-o)
+- [📷 Thumbnail](https://i.ytimg.com/vi/BajicssKh-o/hqdefault.jpg)
 
 
 ## Content Guidelines

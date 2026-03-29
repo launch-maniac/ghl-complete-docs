@@ -1,14 +1,14 @@
 ---
-title: "Starting an AI Company with HighLevel - Ray O&#39;Daniel"
-video_id: "zKrUIx4bHmU"
-url: "https://www.youtube.com/watch?v=zKrUIx4bHmU"
-thumbnail: "https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg"
+title: "The HighLevel Release Radar (March 23rd - March 27th 2026)"
+video_id: "lwRtu40FISw"
+url: "https://www.youtube.com/watch?v=lwRtu40FISw"
+thumbnail: "https://i.ytimg.com/vi/lwRtu40FISw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T05:07:40.000Z"
+published_date: "2026-03-28T07:25:38.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-09-30T07:44:30.945Z"
+extracted_at: "2026-03-29T07:53:11.761Z"
 
 ---
 
-# 🟢 Starting an AI Company with HighLevel - Ray O&#39;Daniel
+# 🟢 The HighLevel Release Radar (March 23rd - March 27th 2026)
 
-**Video ID:** `zKrUIx4bHmU`
+**Video ID:** `lwRtu40FISw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/26/2025
+**Published:** 3/28/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-09-30T07:44:30.945Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=zKrUIx4bHmU)
-- [📷 Thumbnail](https://i.ytimg.com/vi/zKrUIx4bHmU/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lwRtu40FISw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/lwRtu40FISw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 9/30/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/29/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 ---
-title: "How to Set Up WhatsApp Coexistence Feature for Your Business"
-video_id: "sV1ID_Z6dPw"
-url: "https://www.youtube.com/watch?v=sV1ID_Z6dPw"
-thumbnail: "https://i.ytimg.com/vi/sV1ID_Z6dPw/hqdefault.jpg"
+title: "Did You Know You Can Automate Billing for Subscription Services in HighLevel?"
+video_id: "fqcABXqjVmY"
+url: "https://www.youtube.com/watch?v=fqcABXqjVmY"
+thumbnail: "https://i.ytimg.com/vi/fqcABXqjVmY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-09-26T16:27:11.000Z"
+published_date: "2026-03-27T14:21:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.7 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.7"
+age_in_months: "0.1"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:23.800Z"
+extracted_at: "2026-03-29T07:53:13.005Z"
 
 ---
 
-# 🟢 How to Set Up WhatsApp Coexistence Feature for Your Business
+# 🟢 Did You Know You Can Automate Billing for Subscription Services in HighLevel?
 
-**Video ID:** `sV1ID_Z6dPw`
+**Video ID:** `fqcABXqjVmY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 9/26/2025
+**Published:** 3/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.7 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:23.800Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sV1ID_Z6dPw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sV1ID_Z6dPw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fqcABXqjVmY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fqcABXqjVmY/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 3/29/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

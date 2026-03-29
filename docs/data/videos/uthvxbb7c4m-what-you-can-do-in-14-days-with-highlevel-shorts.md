@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - Five Day Challenge"
-video_id: "qt17yBVCmq0"
-url: "https://www.youtube.com/watch?v=qt17yBVCmq0"
-thumbnail: "https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg"
+title: "What You Can Do in 14 Days with HighLevel #shorts"
+video_id: "uThVxbB7c4M"
+url: "https://www.youtube.com/watch?v=uThVxbB7c4M"
+thumbnail: "https://i.ytimg.com/vi/uThVxbB7c4M/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-23T21:14:19.000Z"
+published_date: "2026-03-28T00:01:27.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-03-29T07:53:15.140Z"
+extracted_at: "2026-03-29T07:53:11.937Z"
 
 ---
 
-# 🟢 Day 3 - Five Day Challenge
+# 🟢 What You Can Do in 14 Days with HighLevel #shorts
 
-**Video ID:** `qt17yBVCmq0`
+**Video ID:** `uThVxbB7c4M`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/23/2026
+**Published:** 3/28/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-03-29T07:53:15.140Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qt17yBVCmq0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/qt17yBVCmq0/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=uThVxbB7c4M)
+- [📷 Thumbnail](https://i.ytimg.com/vi/uThVxbB7c4M/hqdefault.jpg)
 
 
 ## Content Guidelines
