@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "contacts-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-03-30T12:18:28.853Z"
+extracted_at: "2026-03-31T18:21:44.476Z"
 ---
 
 # Hi, how can we help you?
@@ -39,14 +39,6 @@ Tickets
 ![no results](/assets/cdn/portal/images/no-results.png)
 
 Sorry! nothing found for  
-
-[
-
-LevelUp 2025 Releases
-
-
-
-](/support/solutions/155000000253)
 
 [
 
@@ -118,6 +110,16 @@ Email
 
 ](/support/solutions/48000449563)
 
+[
+
+![Contacts](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/155035732134/original/xAtkKIwnWpZuwGJmD8sXjW_-sWvc4zvT3w.png)
+
+Contacts
+
+
+
+](/support/solutions/155000000123)
+
 #### Most popular articles
 
 [View all articles](/support/solutions)
@@ -138,7 +140,7 @@ Modified on Fri, 26 Sep, 2025 at 1:44 PM
 
 Dedicated Email Sending Domains Overview & Setup
 
-Modified on Fri, 13 Feb at 9:38 AM
+Modified on Tue, 31 Mar at 7:59 AM
 
 ](/support/solutions/articles/48001226115-dedicated-email-sending-domains-overview-setup)[
 
