@@ -3,7 +3,7 @@ title: "View the API 2.0 Docs -->"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://marketplace.gohighlevel.com/docs/"
-extracted_at: "2026-04-04T06:23:29.342Z"
+extracted_at: "2026-04-04T09:22:13.312Z"
 ---
 
 ## Comprehensive API Coverage
