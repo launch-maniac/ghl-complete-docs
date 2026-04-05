@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69c7d648e7553a471a567a42"
+guid: "69d18a08f8b39061e3c9def2"
 author: "Sales &amp; Marketing"
-pubDate: "2026-03-28T13:34:26.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-86"
+pubDate: "2026-04-04T22:04:00.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-86"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 index: 1
 ---
 
@@ -21,7 +21,7 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-Real Estate - 1
+Automotive - 1
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Real Estate - 1
 
 \------------------------------------------------------
 
-Real Estate - 1
+Restaurant & Bar -1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Real Estate - 1
 
 \-----------------------------------------------------
 
-Insurance - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -45,40 +45,54 @@ Insurance - 1
 
 \-----------------------------------------------------
 
+Medical - 1
+
+\-----------------------------------------------------
+
+🚀 **2 New Social Templates Published** 🚀
+
+\-----------------------------------------------------
+
 Marketing Agency - 1
-
-\-----------------------------------------------------
-
-🚀 **2 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Home Services - 1
-
-Health & Wellness - 1
-
-\-----------------------------------------------------
-
-🚀 **2 New Google Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Insurance - 1
 
 Legal - 1
 
-![Architectural Studio - Website](https://canny-assets.io/images/799a9a877299b76c87bdd9de632dad03.png)
+\-----------------------------------------------------
 
-![Commercial Insurance Policy Application - Form](https://canny-assets.io/images/5cbd6a1df038653b21b0f93a3001cc77.png)
+🚀 **3 New Google Ad Templates Published** 🚀
 
-![PR Firm Brand Perception - Survey](https://canny-assets.io/images/362ed0402146d7fbf2f5fa8ad08598e0.png)
+\-----------------------------------------------------
 
-![Property Agent - Email](https://canny-assets.io/images/63033e28fa77fd656640d534baa76509.png)
+Other - 1
 
-![Home Insulation - Facebook Ad](https://canny-assets.io/images/e773ec9eb441d14db58cd1d81c986757.png)
+Medical - 1
 
-![Life Insurance - Google Ad](https://canny-assets.io/images/92eb035d075f5a4d7542b8211abe389d.png)
+Marketing Agency - 1
 
-![Personal Injury Attorney - Google Ad](https://canny-assets.io/images/90f44ba31ba2fc97f3848b307a9330b7.png)
+\------------------------------------------------------
 
-![Wellness Spa - Facebook Ad](https://canny-assets.io/images/35a21c7741654ef8f67d398f4ad8ae8e.png)
+📣 **1 New Snapshot** 📣
+
+\------------------------------------------------------
+
+Beauty & Fashion - Jewelry Shop
+
+![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
+
+![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
+
+![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
+
+![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
+
+![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
+
+![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
+
+![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
+
+![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
+
+![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
+
+![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)

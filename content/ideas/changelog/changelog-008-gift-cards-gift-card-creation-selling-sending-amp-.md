@@ -1,19 +1,19 @@
 ---
-title: "Gift Cards – Gift Card Creation, Selling, Sending &amp; Redemption Now Available"
+title: "Gift Cards – Gift Card Creation, Selling, Sending &amp; Redemption Now Available for All"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "691d6c6691a0e19d5b9e2c22"
+guid: "69ce6243e0aedf02dabc071d"
 author: "Sales &amp; Marketing"
-pubDate: "2025-11-20T12:48:05.000Z"
-link: "https://ideas.gohighlevel.com/changelog/gift-cards-gift-card-creation-selling-sending-redemption-now-available"
+pubDate: "2026-04-02T12:52:42.000Z"
+link: "https://ideas.gohighlevel.com/changelog/gift-cards-gift-card-creation-selling-sending-redemption-now-available-for-all"
 categories: payments,new
-url: "https://ideas.gohighlevel.com/changelog/gift-cards-gift-card-creation-selling-sending-redemption-now-available"
+url: "https://ideas.gohighlevel.com/changelog/gift-cards-gift-card-creation-selling-sending-redemption-now-available-for-all"
 index: 8
 ---
 
 # What’s New?
 
-Businesses can now run a complete, **end-to-end Gift Card System** inside the platform. This release introduces the **ability to create, sell, send, track, and redeem Gift Cards** across a wide range of checkouts.
+Businesses can now run a complete, **end-to-end Gift Card System** inside the platform. This release introduces the **ability to create, sell, send, track, and redeem Gift Cards** across a wide range of checkouts. After running in **Labs for some time**, collecting solid customer feedback and implementing some of it immediately, we have launched Gift Cards for all agencies & sub-accounts.
 
 Gift Cards function as a **flexible prepaid balance that customers can purchase for themselves or others—or that businesses can issue directly** for loyalty, compensation, refunds, or promotions.
 
@@ -111,7 +111,7 @@ Customers can now redeem gift cards on all checkouts that support the Gift Card 
 -   Invoices
 -   Store checkout
 -   Calendar payments (where applicable)
--   Any checkout using supported payment providers (Stripe, NMI, [Authorize.net](http://authorize.net), Square) --> in case of partial payments or subscription purchases; More providers support coming in soon.
+-   Any checkout using supported payment providers (Stripe, NMI, [Authorize.net](http://Authorize.net), Square) --> in case of partial payments or subscription purchases; More providers support coming in soon.
 -   For a **payment entirely done with gift card for only one-time products**, the checkouts would be supporting gift card redemption agnostic of the payment provider.
 
 **Redemption Behavior:**
@@ -125,9 +125,15 @@ Customers can now redeem gift cards on all checkouts that support the Gift Card 
 -   Gift card option on redemption is available only if at least 1 gift card product is created and either sent or purchased by a customer.
 -   Gift card cannot be used on upsell purchases i.e. cannot be redeemed for buying anything via the Upsell flow.
 
-# Where Can I Find This?
+# Major modifications included post Labs release:
 
-**This feature is currently in Labs right now. Enable it from Agency Settings -> Labs for all/specific sub-accounts**
+Based on customer feedback we have ensured that the redemption now clearly calls out the following:
+
+-   _Gift card applied_ - amount used from the gift card
+-   _Remaining gift card balance_ - amount left in the gift card after redemption
+-   _Amount left to pay_ - amount left to be paid that's not covered by the gift card (field only visible if additional payment is required)
+
+# Where Can I Find This?
 
 -   Payments → Gift Cards → Gift Card Products --> Create, edit, archive, deactivate, sell, or send Gift Cards.
 -   Payments → Gift Cards → Gift Card Orders --> Track all issued Gift Cards, view balances, and open order details.
@@ -143,13 +149,9 @@ Future enhancements planned:
 
 -   Gift card redemption on off-session payments
 -   Sending gift cards in 'Test' mode
--   Order-level validity separate from product-level expiry
--   Ability to control where gift cards are redeemable (per checkout, per product, per variant)
--   Partial vs full redemption settings
 -   User permissions for creation, issuing, and redemption
 -   Dedicated link for customers to check balances
 -   Usage transaction history log inside each Gift Card Order
--   Breakout of amounts paid via gift card vs other payment methods - as part of exports
 -   Gift card triggers and actions - automation / workflow support
 -   Public APIs, triggers, actions
 -   Mobile app & POS support
@@ -195,6 +197,10 @@ Future enhancements planned:
 ![WhatsApp Image 2025-11-20 at 12](https://canny-assets.io/images/c36207865cf8c875c4df039eab5236c7.jpeg)
 
 ![WhatsApp Image 2025-11-20 at 12](https://canny-assets.io/images/8a2ee3ed5575e0cb0046fb491f99a015.jpeg)
+
+**Gift Card Redemption:**
+
+![Screenshot 2026-04-02 at 6](https://canny-assets.io/images/6e1524536156aa59888a56c525be06ac.png)
 
 **Additional Visuals:**
 
