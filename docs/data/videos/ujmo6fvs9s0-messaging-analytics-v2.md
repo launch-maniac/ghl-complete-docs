@@ -1,10 +1,10 @@
 ---
-title: "AI Studio AMA"
-video_id: "7bB_z0nDH3U"
-url: "https://www.youtube.com/watch?v=7bB_z0nDH3U"
-thumbnail: "https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg"
+title: "Messaging Analytics V2"
+video_id: "UJMO6fvs9S0"
+url: "https://www.youtube.com/watch?v=UJMO6fvs9S0"
+thumbnail: "https://i.ytimg.com/vi/UJMO6fvs9S0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-03T05:43:57.000Z"
+published_date: "2026-04-03T18:00:27.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-06T08:10:31.317Z"
+extracted_at: "2026-04-06T08:10:30.045Z"
 
 ---
 
-# 🟢 AI Studio AMA
+# 🟢 Messaging Analytics V2
 
-**Video ID:** `7bB_z0nDH3U`
+**Video ID:** `UJMO6fvs9S0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/3/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-06T08:10:31.317Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7bB_z0nDH3U)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=UJMO6fvs9S0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/UJMO6fvs9S0/hqdefault.jpg)
 
 
 ## Content Guidelines

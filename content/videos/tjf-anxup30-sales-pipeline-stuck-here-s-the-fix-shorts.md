@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - From Client Acquisition to MRR"
-video_id: "f6cH4Alabuo"
-url: "https://www.youtube.com/watch?v=f6cH4Alabuo"
-thumbnail: "https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault_live.jpg"
+title: "Sales pipeline stuck? Here’s the fix! #shorts"
+video_id: "TJf_aNXup30"
+url: "https://www.youtube.com/watch?v=TJf_aNXup30"
+thumbnail: "https://i.ytimg.com/vi/TJf_aNXup30/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-31T13:23:02.000Z"
+published_date: "2026-04-04T23:01:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-06T08:10:32.209Z"
+extracted_at: "2026-04-06T08:10:28.185Z"
 
 ---
 
-# 🟢 Day 1 - From Client Acquisition to MRR
+# 🟢 Sales pipeline stuck? Here’s the fix! #shorts
 
-**Video ID:** `f6cH4Alabuo`
+**Video ID:** `TJf_aNXup30`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/31/2026
+**Published:** 4/4/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-04-06T08:10:32.209Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=f6cH4Alabuo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TJf_aNXup30)
+- [📷 Thumbnail](https://i.ytimg.com/vi/TJf_aNXup30/hqdefault.jpg)
 
 
 ## Content Guidelines

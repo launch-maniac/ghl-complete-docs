@@ -1,14 +1,14 @@
 ---
-title: "AI Studio AMA"
-video_id: "7bB_z0nDH3U"
-url: "https://www.youtube.com/watch?v=7bB_z0nDH3U"
-thumbnail: "https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg"
+title: "Build funnels, pages &amp; more with AI (No skills needed) #shorts"
+video_id: "AsKpqv5dXQw"
+url: "https://www.youtube.com/watch?v=AsKpqv5dXQw"
+thumbnail: "https://i.ytimg.com/vi/AsKpqv5dXQw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-03T05:43:57.000Z"
+published_date: "2026-04-04T22:03:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-06T08:10:31.317Z"
+extracted_at: "2026-04-06T08:10:28.388Z"
 
 ---
 
-# 🟢 AI Studio AMA
+# 🟢 Build funnels, pages &amp; more with AI (No skills needed) #shorts
 
-**Video ID:** `7bB_z0nDH3U`
+**Video ID:** `AsKpqv5dXQw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/3/2026
+**Published:** 4/4/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-06T08:10:31.317Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7bB_z0nDH3U)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AsKpqv5dXQw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AsKpqv5dXQw/hqdefault.jpg)
 
 
 ## Content Guidelines

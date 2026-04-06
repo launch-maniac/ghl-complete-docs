@@ -1,14 +1,14 @@
 ---
-title: "Day 5 - Five Day AI Employee Challenge"
-video_id: "cFcXbDd9adY"
-url: "https://www.youtube.com/watch?v=cFcXbDd9adY"
-thumbnail: "https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault.jpg"
+title: "Build funnels, pages &amp; more with AI (No skills needed) #shorts"
+video_id: "AsKpqv5dXQw"
+url: "https://www.youtube.com/watch?v=AsKpqv5dXQw"
+thumbnail: "https://i.ytimg.com/vi/AsKpqv5dXQw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-04T05:38:49.000Z"
+published_date: "2026-04-04T22:03:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:19.873Z"
+extracted_at: "2026-04-06T08:10:28.388Z"
 
 ---
 
-# 🟢 Day 5 - Five Day AI Employee Challenge
+# 🟢 Build funnels, pages &amp; more with AI (No skills needed) #shorts
 
-**Video ID:** `cFcXbDd9adY`
+**Video ID:** `AsKpqv5dXQw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/4/2025
+**Published:** 4/4/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:19.873Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=cFcXbDd9adY)
-- [📷 Thumbnail](https://i.ytimg.com/vi/cFcXbDd9adY/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AsKpqv5dXQw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/AsKpqv5dXQw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
