@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "697e7bd3b7d019da22266442"
+guid: "69d18a08f8b39061e3c9def2"
 author: "Sales &amp; Marketing"
-pubDate: "2026-01-31T22:07:52.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-78"
+pubDate: "2026-04-04T22:04:00.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-78"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 index: 2
 ---
 
@@ -29,7 +29,7 @@ Automotive - 1
 
 \------------------------------------------------------
 
-Financial - 1
+Restaurant & Bar -1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Financial - 1
 
 \-----------------------------------------------------
 
-Automotive - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -45,33 +45,29 @@ Automotive - 1
 
 \-----------------------------------------------------
 
-Business Coaching and Consulting - 1
+Medical - 1
 
 \-----------------------------------------------------
 
-🚀 **4 New Social Templates Published** 🚀
+🚀 **2 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Marketing Agency - 2
+Marketing Agency - 1
 
-Legal - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Google Ad Templates Published** 🚀
+Legal - 1
 
 \-----------------------------------------------------
 
-Health & Wellness - Workout Facility
+🚀 **3 New Google Ad Templates Published** 🚀
 
-Home Services - Roofing Services
+\-----------------------------------------------------
 
-Insurance - Property and Casualty Insurance Coverage
+Other - 1
 
-Legal - Bankruptcy Lawyers
+Medical - 1
 
-Marketing Agency - Advertising Services
+Marketing Agency - 1
 
 \------------------------------------------------------
 
@@ -79,28 +75,24 @@ Marketing Agency - Advertising Services
 
 \------------------------------------------------------
 
-Legal - Real Estate Attorney
+Beauty & Fashion - Jewelry Shop
 
-![Muffler & Brakes Shop - Website](https://canny-assets.io/images/3b3da15e3627e2afae300d38b1408e4e.png)
+![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
 
-![Real Estate Attorney = Snapshot](https://canny-assets.io/images/d55162dc00a1788d1766d39907afdaa6.png)
+![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
 
-![Business Coach Customer Satisfaction - Survey](https://canny-assets.io/images/34d3aecbec2d3d96be0e157f360887d5.png)
+![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
 
-![Financial Planner Informational - Email](https://canny-assets.io/images/af9d59d3bfe72ee46c01b340ba64418a.png)
+![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
 
-![Roadside Assistance Contact - Form](https://canny-assets.io/images/ba101e36ca29880940d9470051840fc3.png)
+![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
 
-![Advertising Services - Google Ad](https://canny-assets.io/images/7ecda4e02ccd6c87507a61f2e300df50.png)
+![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
 
-![Bankruptcy Lawyers - Google Ad](https://canny-assets.io/images/5f2df43f65b1b91b01cf41381489b00e.png)
+![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
 
-![Personal Injury Lawyer - Social](https://canny-assets.io/images/ad1a37012e73c8c4c392b3ff85ac9a1f.png)
+![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
 
-![Property and Casualty Insurance Coverage - Google Ad](https://canny-assets.io/images/03d0401f76932a0c663732cfcfcdc9fe.png)
+![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
 
-![Roofing Services - Google Ad](https://canny-assets.io/images/64f60032d6f144d1593cd05c6ac65143.png)
-
-![SEO Services - Social](https://canny-assets.io/images/05c80499a3a7fabad79eac2e706991c9.png)
-
-![Workout Facility - Google Ad](https://canny-assets.io/images/2f479a21195ce2b7407a8595831c753a.png)
+![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)
