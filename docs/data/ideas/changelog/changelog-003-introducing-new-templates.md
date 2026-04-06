@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "699a36c55b35e6b4b0f2694b"
+guid: "69d18a08f8b39061e3c9def2"
 author: "Sales &amp; Marketing"
-pubDate: "2026-02-21T22:54:27.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-81"
+pubDate: "2026-04-04T22:04:00.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-81"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 index: 3
 ---
 
@@ -21,33 +21,41 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-Home Services - 1
-
-\-----------------------------------------------------
-
-🚀 **4 New Social Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Real Estate - 2
-
-Restaurant & Bar - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Facebook Ad Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Finance - 1
-
-Beauty & Fashion - 1
-
 Automotive - 1
 
-Business Coaching & Consulting - 1
+\------------------------------------------------------
 
-Creative - 1
+🚀 **1 New Email Templates Published** 🚀
+
+\------------------------------------------------------
+
+Restaurant & Bar -1
+
+\-----------------------------------------------------
+
+🚀 **1 New Form Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Legal - 1
+
+\-----------------------------------------------------
+
+🚀 **1 New Survey Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Medical - 1
+
+\-----------------------------------------------------
+
+🚀 **2 New Social Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Marketing Agency - 1
+
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -55,11 +63,11 @@ Creative - 1
 
 \-----------------------------------------------------
 
-Real Estate - Real Estate Investor
+Other - 1
 
-Restaurant & Bar - Tea House
+Medical - 1
 
-Travel & Hospitality - RV Rental Agency
+Marketing Agency - 1
 
 \------------------------------------------------------
 
@@ -67,28 +75,24 @@ Travel & Hospitality - RV Rental Agency
 
 \------------------------------------------------------
 
-Other - Assisted Living Facility
+Beauty & Fashion - Jewelry Shop
 
-![Assisted Living Facility - Snapshot](https://canny-assets.io/images/64f16b8fe2efc6a6405f24eeabc92c19.png)
+![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
 
-![Bookkeeping](https://canny-assets.io/images/a3b3f538e3f6d280dba9aef4e4d7a89c.png)
+![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
 
-![Business Coach](https://canny-assets.io/images/6fceca6b0b1358d68c6b1ba1c8bcad0e.png)
+![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
 
-![Hair Salon](https://canny-assets.io/images/ff243833cf05ca672553912e615864c5.png)
+![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
 
-![Tire Shop](https://canny-assets.io/images/7a31ef3445217debeee1ba359b74c8b0.png)
+![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
 
-![Video Production & Editing](https://canny-assets.io/images/adabdf9b7baf29ce8e58057096538152.png)
+![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
 
-![Appliance Repair - Website](https://canny-assets.io/images/ee3677673acca72dbbef57052bc9ee85.png)
+![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
 
-![Food Delivery Service - Social](https://canny-assets.io/images/24d273779f6ef8a9c58b8f0b92bcb5d4.png)
+![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
 
-![Real Estate Investor - Google Ad](https://canny-assets.io/images/bfe2e28cd68221387d95fb8e9d80ebe2.png)
+![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
 
-![RV Rental Agency - Google Ad](https://canny-assets.io/images/7e13db37a9cb9143cdea532f7525a72c.png)
-
-![Tea House - Google Ad](https://canny-assets.io/images/380239f70aa85c9273c71aa0cb33fee8.png)
-
-![Title Insurance - Social](https://canny-assets.io/images/aec849f96c72c6b1c18582f7c7736a31.png)
+![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)
