@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69b5a1eaa2d4e4e746552f9a"
+guid: "69d18a08f8b39061e3c9def2"
 author: "Sales &amp; Marketing"
-pubDate: "2026-03-14T18:04:13.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-84"
+pubDate: "2026-04-04T22:04:00.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-84"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
 index: 5
 ---
 
@@ -17,13 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **2 New Website Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Marketing Agency - 1
-
-Medical - 1
+Automotive - 1
 
 \------------------------------------------------------
 
@@ -31,7 +29,7 @@ Medical - 1
 
 \------------------------------------------------------
 
-Marketing Agency - 1
+Restaurant & Bar -1
 
 \-----------------------------------------------------
 
@@ -39,7 +37,7 @@ Marketing Agency - 1
 
 \-----------------------------------------------------
 
-Health & Wellness - 1
+Legal - 1
 
 \-----------------------------------------------------
 
@@ -47,39 +45,29 @@ Health & Wellness - 1
 
 \-----------------------------------------------------
 
-Insurance - 1
+Medical - 1
 
 \-----------------------------------------------------
 
-🚀 **4 New Social Templates Published** 🚀
+🚀 **2 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Insurance - 2
+Marketing Agency - 1
 
-Holidays - 2
-
-\-----------------------------------------------------
-
-🚀 **5 New Facebook Ad Templates Published** 🚀
+Legal - 1
 
 \-----------------------------------------------------
 
-Automotive - 1
-
-Business Coaching & Consulting - 1
-
-Beauty & Fashion - 1
+🚀 **3 New Google Ad Templates Published** 🚀
 
 \-----------------------------------------------------
 
-🚀 **5 New Google Ad Templates Published** 🚀
+Other - 1
 
-\-----------------------------------------------------
+Medical - 1
 
-Creative - Salsa Instructor
-
-Finance - Tax Accounting
+Marketing Agency - 1
 
 \------------------------------------------------------
 
@@ -87,30 +75,24 @@ Finance - Tax Accounting
 
 \------------------------------------------------------
 
-Restaurant & Bar - Caterer
+Beauty & Fashion - Jewelry Shop
 
-![Caterer - Snapshot](https://canny-assets.io/images/0855542f4d3b954365897a9a1e9c0829.png)
+![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
 
-![Day Spa - Facebook Ad](https://canny-assets.io/images/768f0f0422af6d6373532bdcf0e7af1f.png)
+![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
 
-![Real Estate Consultant - Facebook](https://canny-assets.io/images/7cacb978c9cc3e7cb303a25b438069c3.png)
+![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
 
-![Roadside Assistance - Facebook](https://canny-assets.io/images/706f972e0a1b4612cbf88ebef5652008.png)
+![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
 
-![Automotive Insurance - Social Planner](https://canny-assets.io/images/04c8f723fd1aeb37134380a8f4cc09b5.png)
+![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
 
-![Digital Marketing - Email](https://canny-assets.io/images/19b37acf8a5a9a00e6791d255b56eac5.png)
+![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
 
-![Fitness Coach - Form](https://canny-assets.io/images/c65a64373985d80ab698dccfc908a854.png)
+![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
 
-![Hair Loss Clinic - Website](https://canny-assets.io/images/08ebe378275e25896e5d32f8e98429dd.png)
+![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
 
-![Life Insurance - Survey](https://canny-assets.io/images/70aa3bcb36d576dd3e32a37bfa246abe.png)
+![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
 
-![Marketing Firm - Website](https://canny-assets.io/images/c5632230fcdc28d163891bf45321aa04.png)
-
-![Salsa Instructor - Google Ad](https://canny-assets.io/images/23fb9ec07626485dc67e31eec6bc5d4d.png)
-
-![St Patrick's Day - Social Planner](https://canny-assets.io/images/64781639ef882849db03ac190338985a.png)
-
-![Tax Accounting - Google Ad](https://canny-assets.io/images/a1e6ccfe62f3d4182a2c2f0e290e0108.png)
+![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)
