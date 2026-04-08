@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Create an Infinite Growth Flywheel Using AI Agent and Automated Messaging?"
-video_id: "sTu28WnIygQ"
-url: "https://www.youtube.com/watch?v=sTu28WnIygQ"
-thumbnail: "https://i.ytimg.com/vi/sTu28WnIygQ/hqdefault.jpg"
+title: "AI Studio   Clone Projects"
+video_id: "xhwelzSxbJA"
+url: "https://www.youtube.com/watch?v=xhwelzSxbJA"
+thumbnail: "https://i.ytimg.com/vi/xhwelzSxbJA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:09:00.000Z"
+published_date: "2026-04-08T00:01:07.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:19.205Z"
+extracted_at: "2026-04-08T08:05:06.554Z"
 
 ---
 
-# 🟢 Did You Know You Can Create an Infinite Growth Flywheel Using AI Agent and Automated Messaging?
+# 🟢 AI Studio   Clone Projects
 
-**Video ID:** `sTu28WnIygQ`
+**Video ID:** `xhwelzSxbJA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 4/8/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:19.205Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sTu28WnIygQ)
-- [📷 Thumbnail](https://i.ytimg.com/vi/sTu28WnIygQ/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=xhwelzSxbJA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/xhwelzSxbJA/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/8/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

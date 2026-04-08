@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Assign Projects to Teammates in Slack with a Simple Workflow?"
-video_id: "ixH5HOoFpl4"
-url: "https://www.youtube.com/watch?v=ixH5HOoFpl4"
-thumbnail: "https://i.ytimg.com/vi/ixH5HOoFpl4/hqdefault.jpg"
+title: "White Label Desktop App Is Live!"
+video_id: "_J8g857W37I"
+url: "https://www.youtube.com/watch?v=_J8g857W37I"
+thumbnail: "https://i.ytimg.com/vi/_J8g857W37I/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:09:45.000Z"
+published_date: "2026-04-07T01:02:14.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-09T07:43:21.639Z"
+extracted_at: "2026-04-08T08:05:07.877Z"
 
 ---
 
-# 🟢 Did You Know You Can Assign Projects to Teammates in Slack with a Simple Workflow?
+# 🟢 White Label Desktop App Is Live!
 
-**Video ID:** `ixH5HOoFpl4`
+**Video ID:** `_J8g857W37I`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 4/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-09T07:43:21.639Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ixH5HOoFpl4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ixH5HOoFpl4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=_J8g857W37I)
+- [📷 Thumbnail](https://i.ytimg.com/vi/_J8g857W37I/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/9/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/8/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

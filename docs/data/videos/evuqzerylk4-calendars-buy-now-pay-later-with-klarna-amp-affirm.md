@@ -1,14 +1,14 @@
 ---
-title: "Did You Know Content AI Can Create Community Posts for You in the Social Planner?"
-video_id: "VStN73NOMCA"
-url: "https://www.youtube.com/watch?v=VStN73NOMCA"
-thumbnail: "https://i.ytimg.com/vi/VStN73NOMCA/hqdefault.jpg"
+title: "Calendars  Buy Now, Pay Later with Klarna &amp; Affirm"
+video_id: "evuqzeryLk4"
+url: "https://www.youtube.com/watch?v=evuqzeryLk4"
+thumbnail: "https://i.ytimg.com/vi/evuqzeryLk4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:10:59.000Z"
+published_date: "2026-04-07T00:00:40.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:18.548Z"
+extracted_at: "2026-04-08T08:05:08.275Z"
 
 ---
 
-# 🟢 Did You Know Content AI Can Create Community Posts for You in the Social Planner?
+# 🟢 Calendars  Buy Now, Pay Later with Klarna &amp; Affirm
 
-**Video ID:** `VStN73NOMCA`
+**Video ID:** `evuqzeryLk4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 4/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:18.548Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=VStN73NOMCA)
-- [📷 Thumbnail](https://i.ytimg.com/vi/VStN73NOMCA/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=evuqzeryLk4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/evuqzeryLk4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/8/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

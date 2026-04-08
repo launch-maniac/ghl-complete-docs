@@ -1,14 +1,14 @@
 ---
-title: "AI Studio AMA"
-video_id: "7bB_z0nDH3U"
-url: "https://www.youtube.com/watch?v=7bB_z0nDH3U"
-thumbnail: "https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg"
+title: "How to stop spam leads in your CRM using AI #shorts"
+video_id: "Z_w2V0zpYVU"
+url: "https://www.youtube.com/watch?v=Z_w2V0zpYVU"
+thumbnail: "https://i.ytimg.com/vi/Z_w2V0zpYVU/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-03T05:43:57.000Z"
+published_date: "2026-04-07T23:03:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-08T08:05:09.908Z"
+extracted_at: "2026-04-08T08:05:06.714Z"
 
 ---
 
-# 🟢 AI Studio AMA
+# 🟢 How to stop spam leads in your CRM using AI #shorts
 
-**Video ID:** `7bB_z0nDH3U`
+**Video ID:** `Z_w2V0zpYVU`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/3/2026
+**Published:** 4/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-08T08:05:09.908Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7bB_z0nDH3U)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7bB_z0nDH3U/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=Z_w2V0zpYVU)
+- [📷 Thumbnail](https://i.ytimg.com/vi/Z_w2V0zpYVU/hqdefault.jpg)
 
 
 ## Content Guidelines

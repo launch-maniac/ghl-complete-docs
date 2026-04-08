@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Have Multiple AI Agents Who Specialize in Different Parts of Your Business?"
-video_id: "UeqcjCHr4ps"
-url: "https://www.youtube.com/watch?v=UeqcjCHr4ps"
-thumbnail: "https://i.ytimg.com/vi/UeqcjCHr4ps/hqdefault.jpg"
+title: "Social Planner – Custom Date Range &amp; Comparative View in Statistics"
+video_id: "TBFUF3Cky34"
+url: "https://www.youtube.com/watch?v=TBFUF3Cky34"
+thumbnail: "https://i.ytimg.com/vi/TBFUF3Cky34/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-06T13:08:07.000Z"
+published_date: "2026-04-07T15:00:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.4 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.4"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:19.429Z"
+extracted_at: "2026-04-08T08:05:07.512Z"
 
 ---
 
-# 🟢 Did You Know You Can Have Multiple AI Agents Who Specialize in Different Parts of Your Business?
+# 🟢 Social Planner – Custom Date Range &amp; Comparative View in Statistics
 
-**Video ID:** `UeqcjCHr4ps`
+**Video ID:** `TBFUF3Cky34`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/6/2025
+**Published:** 4/7/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.4 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:19.429Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=UeqcjCHr4ps)
-- [📷 Thumbnail](https://i.ytimg.com/vi/UeqcjCHr4ps/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=TBFUF3Cky34)
+- [📷 Thumbnail](https://i.ytimg.com/vi/TBFUF3Cky34/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/8/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

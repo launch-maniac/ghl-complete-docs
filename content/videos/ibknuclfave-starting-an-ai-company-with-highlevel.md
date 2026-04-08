@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - From Client Acquisition to MRR"
-video_id: "KyE2ti2jJ38"
-url: "https://www.youtube.com/watch?v=KyE2ti2jJ38"
-thumbnail: "https://i.ytimg.com/vi/KyE2ti2jJ38/hqdefault.jpg"
+title: "Starting an AI Company with HighLevel"
+video_id: "iBkNuCLFaVE"
+url: "https://www.youtube.com/watch?v=iBkNuCLFaVE"
+thumbnail: "https://i.ytimg.com/vi/iBkNuCLFaVE/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-03-31T13:26:39.000Z"
+published_date: "2026-04-06T20:13:49.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-08T08:05:10.062Z"
+extracted_at: "2026-04-08T08:05:08.739Z"
 
 ---
 
-# 🟢 Day 2 - From Client Acquisition to MRR
+# 🟢 Starting an AI Company with HighLevel
 
-**Video ID:** `KyE2ti2jJ38`
+**Video ID:** `iBkNuCLFaVE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 3/31/2026
+**Published:** 4/6/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-04-08T08:05:10.062Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=KyE2ti2jJ38)
-- [📷 Thumbnail](https://i.ytimg.com/vi/KyE2ti2jJ38/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iBkNuCLFaVE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iBkNuCLFaVE/hqdefault_live.jpg)
 
 
 ## Content Guidelines
