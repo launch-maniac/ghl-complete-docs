@@ -3,7 +3,7 @@ title: "Explore Webhooks →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/category/webhook"
-extracted_at: "2026-04-09T09:33:56.069Z"
+extracted_at: "2026-04-09T21:22:54.511Z"
 ---
 
 -   [](/docs/)
@@ -52,6 +52,14 @@ Called whenever an appointment is updated
 Called whenever an app is uninstalled
 
 ](/docs/webhook/AppUninstall)
+
+[
+
+## 📄️ AppUpdate
+
+Called whenever an app is updated to a new version
+
+](/docs/webhook/AppUpdate)
 
 [
 
