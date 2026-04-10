@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-08T08:05:16.744Z",
+  "generated": "2026-04-10T08:09:58.174Z",
   "stats": {
     "channels": 1,
-    "videos": 23,
+    "videos": 29,
     "playlists": 0,
-    "expired": 18,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 23
+    "transcriptsFailed": 29
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -156,7 +156,7 @@
       "publishedDate": "2026-04-07T22:01:09.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0eutzrlcl4c-if-you-feel-stuck-in-your-job-watch-this-shorts"
     },
     {
@@ -1240,18 +1240,6 @@
       "slug": "7-ts0msgbvi-how-to-transfer-sub-accounts-to-a-new-agency"
     },
     {
-      "filename": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel.md",
-      "title": "Day 2 - Launch Your AI Sales Engine with HighLevel",
-      "videoId": "73u4LkeA_08",
-      "url": "https://www.youtube.com/watch?v=73u4LkeA_08",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-07T20:54:29.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.3",
-      "slug": "73u4lkea-08-day-2-launch-your-ai-sales-engine-with-highlevel"
-    },
-    {
       "filename": "77r2pv9teng-reputation-management-video-testimonials.md",
       "title": "Reputation Management  Video Testimonials",
       "videoId": "77r2PV9teNg",
@@ -1620,7 +1608,7 @@
       "publishedDate": "2026-04-06T20:15:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9x3pqyjiyv8-building-sales-channels-to-prep-for-agency-exit"
     },
     {
@@ -2284,6 +2272,18 @@
       "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
     },
     {
+      "filename": "bzh4yqwtrts-use-whatsapp-in-highlevel-to-boost-engagement.md",
+      "title": "Use WhatsApp in HighLevel to Boost Engagement",
+      "videoId": "bzH4yQwTrTs",
+      "url": "https://www.youtube.com/watch?v=bzH4yQwTrTs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-08T15:47:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "bzh4yqwtrts-use-whatsapp-in-highlevel-to-boost-engagement"
+    },
+    {
       "filename": "bzxdtracnyq-priya-jaganathan-invites-you-to-highlevel-live-india-new-delhi-february-25-27-2026.md",
       "title": "Priya Jaganathan invites you to HighLevel LIVE India! | New Delhi | February 25-27, 2026",
       "videoId": "bZXDTraCnyQ",
@@ -2342,6 +2342,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "c3cwntm3zyg-untitled-shorts"
+    },
+    {
+      "filename": "c76lhknbgko-social-planner-external-approval-flow-with-magic-links.md",
+      "title": "Social Planner – External Approval Flow with Magic Links",
+      "videoId": "C76lHKnbgKo",
+      "url": "https://www.youtube.com/watch?v=C76lHKnbgKo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-09T21:00:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "c76lhknbgko-social-planner-external-approval-flow-with-magic-links"
     },
     {
       "filename": "cbkblbcakc0-funnels-websites-amp-sites-speed-optimization-live.md",
@@ -2848,6 +2860,30 @@
       "slug": "dx0eyi2vzhe-how-to-associate-multiple-objects-to-tasks-in-highlevel"
     },
     {
+      "filename": "dxacwiabuyy-ask-ai-live-on-mobile.md",
+      "title": "Ask AI Live on Mobile!",
+      "videoId": "DxACwIaBUYY",
+      "url": "https://www.youtube.com/watch?v=DxACwIaBUYY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:24:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dxacwiabuyy-ask-ai-live-on-mobile"
+    },
+    {
+      "filename": "dxjcxzgrnny-ai-studio-code-editor-is-live.md",
+      "title": "AI Studio Code Editor is Live!",
+      "videoId": "DXJcxzgrnnY",
+      "url": "https://www.youtube.com/watch?v=DXJcxzgrnnY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:26:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dxjcxzgrnny-ai-studio-code-editor-is-live"
+    },
+    {
       "filename": "dynrsohdpiu-automatic-seo-now-live-for-external-sites.md",
       "title": "Automatic SEO Now Live for External Sites!",
       "videoId": "DynrsOhDPIU",
@@ -2892,7 +2928,7 @@
       "publishedDate": "2026-04-07T18:56:19.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dzsua2ftgge-ai-studio-clone-projects-live"
     },
     {
@@ -3016,6 +3052,18 @@
       "slug": "emsskunf4e0-how-to-integrate-stripe-with-gokollab-for-seamless-payments"
     },
     {
+      "filename": "eogivn2obm4-build-publish-amp-go-live-with-a-custom-domain-all-inside-highlevel-ai-studio-shorts.md",
+      "title": "Build, publish &amp; go live with a custom domain! All inside HighLevel AI Studio #shorts",
+      "videoId": "eoGivN2obm4",
+      "url": "https://www.youtube.com/watch?v=eoGivN2obm4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-08T23:00:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "eogivn2obm4-build-publish-amp-go-live-with-a-custom-domain-all-inside-highlevel-ai-studio-shorts"
+    },
+    {
       "filename": "epkg4j3plrc-documents-amp-contracts-collect-card-details-card-on-file.md",
       "title": "Documents &amp; Contracts: Collect Card Details (Card on File)!",
       "videoId": "EpKG4j3Plrc",
@@ -3132,7 +3180,7 @@
       "publishedDate": "2026-04-07T00:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "evuqzerylk4-calendars-buy-now-pay-later-with-klarna-amp-affirm"
     },
     {
@@ -3228,7 +3276,7 @@
       "publishedDate": "2026-04-07T05:25:45.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "f6ch4alabuo-day-1-from-client-acquisition-to-mrr"
     },
     {
@@ -3312,7 +3360,7 @@
       "publishedDate": "2026-04-08T00:03:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fct8oqanxdi-this-could-be-you-at-levelup-2026-apply-to-be-a-speaker-today-shorts"
     },
     {
@@ -4108,6 +4156,18 @@
       "slug": "helyxutaqzm-ecom-variant-selector-display-options-on-product-page"
     },
     {
+      "filename": "hfijp6kxmcs-video-call-rooms-inside-community-events.md",
+      "title": "Video Call Rooms Inside Community Events",
+      "videoId": "hfiJp6KXMCs",
+      "url": "https://www.youtube.com/watch?v=hfiJp6KXMCs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:00:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hfijp6kxmcs-video-call-rooms-inside-community-events"
+    },
+    {
       "filename": "hgntkmeoh-4-how-to-use-highlevel-39-s-ai-business-card-scanner.md",
       "title": "How To Use HighLevel&#39;s AI Business Card Scanner",
       "videoId": "hgntkmEoH-4",
@@ -4305,7 +4365,7 @@
       "videoId": "iBkNuCLFaVE",
       "url": "https://www.youtube.com/watch?v=iBkNuCLFaVE",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-06T20:13:49.000Z",
+      "publishedDate": "2026-04-10T05:07:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -5061,10 +5121,10 @@
       "videoId": "KyE2ti2jJ38",
       "url": "https://www.youtube.com/watch?v=KyE2ti2jJ38",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-03-31T13:26:39.000Z",
+      "publishedDate": "2026-04-08T08:54:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.3",
+      "ageInMonths": "0.1",
       "slug": "kye2ti2jj38-day-2-from-client-acquisition-to-mrr"
     },
     {
@@ -5138,6 +5198,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "l2-t9caxgfe-how-to-navigate-highlevel-39-s-advanced-workflow-builder-a-comprehensive-guide"
+    },
+    {
+      "filename": "l8zckcksgta-live-video-call-rooms-inside-community-events.md",
+      "title": "Live Video Call Rooms Inside Community Events!",
+      "videoId": "l8zCKcKsgTA",
+      "url": "https://www.youtube.com/watch?v=l8zCKcKsgTA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:24:28.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "l8zckcksgta-live-video-call-rooms-inside-community-events"
     },
     {
       "filename": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel.md",
@@ -5520,7 +5592,7 @@
       "publishedDate": "2026-04-08T01:39:49.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mlw1uv9tulq-google-sheets-now-work-with-ai-agents"
     },
     {
@@ -5690,6 +5762,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "n7nhjra-ack-the-highlevel-release-radar-march-2nd-march-6th-2026"
+    },
+    {
+      "filename": "ncg-3y7uvzi-social-planner-external-approval-flow-with-magic-links.md",
+      "title": "Social Planner - External Approval Flow with Magic Links!",
+      "videoId": "ncg-3Y7uVZI",
+      "url": "https://www.youtube.com/watch?v=ncg-3Y7uVZI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:24:59.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ncg-3y7uvzi-social-planner-external-approval-flow-with-magic-links"
     },
     {
       "filename": "ne4fzi2pn3w-if-else-update-contact-field-actions-expanded-field-support-in-dynamic-custom-value-pick.md",
@@ -6364,6 +6448,18 @@
       "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
     },
     {
+      "filename": "poe4spdyaxc-ai-agent-action-in-workflows.md",
+      "title": "AI Agent Action in Workflows",
+      "videoId": "POE4sPdYAXc",
+      "url": "https://www.youtube.com/watch?v=POE4sPdYAXc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-08T18:00:32.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "poe4spdyaxc-ai-agent-action-in-workflows"
+    },
+    {
       "filename": "povb-1rxgym-how-this-platform-made-business-easier.md",
       "title": "How This Platform Made Business Easier",
       "videoId": "povb_1rXGyM",
@@ -6460,18 +6556,6 @@
       "slug": "puhkwi1lgyk-the-highlevel-release-radar-february-16th-february-20th-2026"
     },
     {
-      "filename": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel.md",
-      "title": "Day 2 - Launch Your AI Sales Engine with HighLevel",
-      "videoId": "pVcDDv7l7nI",
-      "url": "https://www.youtube.com/watch?v=pVcDDv7l7nI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-08T05:24:50.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.3",
-      "slug": "pvcddv7l7ni-day-2-launch-your-ai-sales-engine-with-highlevel"
-    },
-    {
       "filename": "pwj-grkbns8-matt-plapp-one-man-show-to-8-figure-agency-owner.md",
       "title": "Matt Plapp - One Man Show to 8-Figure Agency Owner",
       "videoId": "PwJ-grkbNS8",
@@ -6482,6 +6566,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "pwj-grkbns8-matt-plapp-one-man-show-to-8-figure-agency-owner"
+    },
+    {
+      "filename": "pwzycvbnpfk-ai-agent-action-in-workflows-is-live.md",
+      "title": "Ai Agent Action in Workflows is Live!",
+      "videoId": "PWZYCVBnpfk",
+      "url": "https://www.youtube.com/watch?v=PWZYCVBnpfk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-08T21:21:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pwzycvbnpfk-ai-agent-action-in-workflows-is-live"
     },
     {
       "filename": "pxowxzwy3ay-highlevel-case-studies-from-stay-at-home-mom-to-800k-saas-how-keepful-scaled-with-highle.md",
@@ -6948,7 +7044,7 @@
       "publishedDate": "2026-04-07T18:00:52.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ridu2wlsnx4-white-label-desktop-app"
     },
     {
@@ -7204,6 +7300,18 @@
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
     },
     {
+      "filename": "sirhvkjvm-c-contact-page-customization-live.md",
+      "title": "Contact page customization Live!",
+      "videoId": "sIrHvKJVm_c",
+      "url": "https://www.youtube.com/watch?v=sIrHvKJVm_c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:25:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sirhvkjvm-c-contact-page-customization-live"
+    },
+    {
       "filename": "sjfk-3trh7c-inside-squadup-summit-2026-saas-amp-agency-builders-meetup-shorts.md",
       "title": "Inside SquadUp Summit 2026 🚀 | SaaS &amp; Agency Builders Meetup #shorts",
       "videoId": "SJFk-3tRh7c",
@@ -7310,6 +7418,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "sqye-iw7gxs-how-to-set-up-conversation-slas-in-highlevel"
+    },
+    {
+      "filename": "srgpdhbyryy-google-sheets-now-work-with-ai-agents.md",
+      "title": "Google Sheets Now Work With AI Agents",
+      "videoId": "srgpDHbYryY",
+      "url": "https://www.youtube.com/watch?v=srgpDHbYryY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-08T15:13:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "srgpdhbyryy-google-sheets-now-work-with-ai-agents"
     },
     {
       "filename": "srvvrtxf2su-circular-qr-codes.md",
@@ -7512,7 +7632,7 @@
       "publishedDate": "2026-04-07T15:00:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tbfuf3cky34-social-planner-custom-date-range-amp-comparative-view-in-statistics"
     },
     {
@@ -8126,6 +8246,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "v0kfoklvsxk-how-to-use-highlevel-39-s-ask-ai-to-streamline-content-creation-and-publishing"
+    },
+    {
+      "filename": "v1oc-gnopd0-drip-action-major-upgrades.md",
+      "title": "Drip Action: MAJOR UPGRADES!",
+      "videoId": "V1oC_gnopD0",
+      "url": "https://www.youtube.com/watch?v=V1oC_gnopD0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T00:26:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "v1oc-gnopd0-drip-action-major-upgrades"
     },
     {
       "filename": "v1rabviytk8-ecom-additional-product-media-layout-options-for-product-details-page.md",
@@ -9024,7 +9156,7 @@
       "publishedDate": "2026-04-08T00:01:07.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xhwelzsxbja-ai-studio-clone-projects"
     },
     {
@@ -9360,7 +9492,7 @@
       "publishedDate": "2026-04-07T21:00:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ybge31vyfio-digital-fulfillment-for-ecommerce"
     },
     {
@@ -9660,7 +9792,7 @@
       "publishedDate": "2026-04-07T23:03:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "z-w2v0zpyvu-how-to-stop-spam-leads-in-your-crm-using-ai-shorts"
     },
     {
@@ -9794,6 +9926,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zhpg1y7ia1m-funnel-amp-website-enhancements"
+    },
+    {
+      "filename": "zhs1-olu3-e-ai-studio-code-editor.md",
+      "title": "AI Studio Code Editor",
+      "videoId": "zHS1-OlU3_E",
+      "url": "https://www.youtube.com/watch?v=zHS1-OlU3_E",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-09T18:01:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zhs1-olu3-e-ai-studio-code-editor"
     },
     {
       "filename": "zivxidgq7p0-google-analytics-widgets-in-dashboard-and-custom-reports.md",
@@ -10061,7 +10205,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 801,
+    "fresh": 813,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -10073,7 +10217,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 785,
+        "fresh": 797,
         "warning": 0,
         "expired": 0,
         "unknown": null

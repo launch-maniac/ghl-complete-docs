@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Launch Your AI Sales Engine with HighLevel"
-video_id: "pVcDDv7l7nI"
-url: "https://www.youtube.com/watch?v=pVcDDv7l7nI"
-thumbnail: "https://i.ytimg.com/vi/pVcDDv7l7nI/hqdefault.jpg"
+title: "Video Call Rooms Inside Community Events"
+video_id: "hfiJp6KXMCs"
+url: "https://www.youtube.com/watch?v=hfiJp6KXMCs"
+thumbnail: "https://i.ytimg.com/vi/hfiJp6KXMCs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-08T05:24:50.000Z"
+published_date: "2026-04-10T00:00:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:17.086Z"
+extracted_at: "2026-04-10T08:09:49.010Z"
 
 ---
 
-# 🟢 Day 2 - Launch Your AI Sales Engine with HighLevel
+# 🟢 Video Call Rooms Inside Community Events
 
-**Video ID:** `pVcDDv7l7nI`
+**Video ID:** `hfiJp6KXMCs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/8/2025
+**Published:** 4/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:17.086Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pVcDDv7l7nI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/pVcDDv7l7nI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=hfiJp6KXMCs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/hfiJp6KXMCs/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/10/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
