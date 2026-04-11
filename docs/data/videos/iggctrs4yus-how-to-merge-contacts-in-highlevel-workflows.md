@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - From Client Acquisition to MRR"
-video_id: "f6cH4Alabuo"
-url: "https://www.youtube.com/watch?v=f6cH4Alabuo"
-thumbnail: "https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault.jpg"
+title: "How To Merge Contacts in HighLevel Workflows"
+video_id: "iggCTrs4Yus"
+url: "https://www.youtube.com/watch?v=iggCTrs4Yus"
+thumbnail: "https://i.ytimg.com/vi/iggCTrs4Yus/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-07T05:25:45.000Z"
+published_date: "2026-04-10T13:31:33.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-11T07:52:03.489Z"
+extracted_at: "2026-04-11T07:52:00.464Z"
 
 ---
 
-# 🟢 Day 1 - From Client Acquisition to MRR
+# 🟢 How To Merge Contacts in HighLevel Workflows
 
-**Video ID:** `f6cH4Alabuo`
+**Video ID:** `iggCTrs4Yus`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/7/2026
+**Published:** 4/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-11T07:52:03.489Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=f6cH4Alabuo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iggCTrs4Yus)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iggCTrs4Yus/hqdefault.jpg)
 
 
 ## Content Guidelines

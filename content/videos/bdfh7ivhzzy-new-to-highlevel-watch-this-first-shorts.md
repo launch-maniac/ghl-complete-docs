@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - From Client Acquisition to MRR"
-video_id: "f6cH4Alabuo"
-url: "https://www.youtube.com/watch?v=f6cH4Alabuo"
-thumbnail: "https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault.jpg"
+title: "New to HighLevel? Watch this first #shorts"
+video_id: "BdFH7IvhzzY"
+url: "https://www.youtube.com/watch?v=BdFH7IvhzzY"
+thumbnail: "https://i.ytimg.com/vi/BdFH7IvhzzY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-07T05:25:45.000Z"
+published_date: "2026-04-11T01:03:40.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-11T07:52:03.489Z"
+extracted_at: "2026-04-11T07:51:59.168Z"
 
 ---
 
-# 🟢 Day 1 - From Client Acquisition to MRR
+# 🟢 New to HighLevel? Watch this first #shorts
 
-**Video ID:** `f6cH4Alabuo`
+**Video ID:** `BdFH7IvhzzY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/7/2026
+**Published:** 4/11/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-11T07:52:03.489Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=f6cH4Alabuo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/f6cH4Alabuo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BdFH7IvhzzY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/BdFH7IvhzzY/hqdefault.jpg)
 
 
 ## Content Guidelines

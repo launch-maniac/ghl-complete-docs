@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-10T08:09:58.174Z",
+  "generated": "2026-04-11T07:52:07.881Z",
   "stats": {
     "channels": 1,
     "videos": 29,
     "playlists": 0,
-    "expired": 4,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
@@ -230,6 +230,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel"
+    },
+    {
+      "filename": "14xqlm2moyo-how-to-change-agent-voices-in-highlevel.md",
+      "title": "How To Change Agent Voices in HighLevel",
+      "videoId": "14XQLm2mOYo",
+      "url": "https://www.youtube.com/watch?v=14XQLm2mOYo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T13:32:15.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "14xqlm2moyo-how-to-change-agent-voices-in-highlevel"
     },
     {
       "filename": "18ckgdgzily-funnel-amp-website-ai-upgrades.md",
@@ -1756,6 +1768,18 @@
       "slug": "aec6dhez4pk-highlevel-case-study-churchcandy"
     },
     {
+      "filename": "ah1jqr9ptpe-how-to-boost-call-success-with-voice-integrity-in-highlevel.md",
+      "title": "How To Boost Call Success with Voice Integrity in HighLevel",
+      "videoId": "AH1JqR9PTPE",
+      "url": "https://www.youtube.com/watch?v=AH1JqR9PTPE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T22:17:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ah1jqr9ptpe-how-to-boost-call-success-with-voice-integrity-in-highlevel"
+    },
+    {
       "filename": "aklo2hshmw8-highlevel-handles-all-our-calls-amp-sales-in-one-place.md",
       "title": "HighLevel Handles All Our Calls &amp; Sales in One Place",
       "videoId": "aKlo2HsHMW8",
@@ -2054,6 +2078,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "bd4fgf3z-r8-services-calendars-in-conversation-ai"
+    },
+    {
+      "filename": "bdfh7ivhzzy-new-to-highlevel-watch-this-first-shorts.md",
+      "title": "New to HighLevel? Watch this first #shorts",
+      "videoId": "BdFH7IvhzzY",
+      "url": "https://www.youtube.com/watch?v=BdFH7IvhzzY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-11T01:03:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "bdfh7ivhzzy-new-to-highlevel-watch-this-first-shorts"
     },
     {
       "filename": "befduryr7p8-fathom-actions-amp-triggers-in-workflows.md",
@@ -3060,7 +3096,7 @@
       "publishedDate": "2026-04-08T23:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "eogivn2obm4-build-publish-amp-go-live-with-a-custom-domain-all-inside-highlevel-ai-studio-shorts"
     },
     {
@@ -3328,18 +3364,6 @@
       "slug": "fbqzhbfv0y-voice-ai-advanced-settings"
     },
     {
-      "filename": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel.md",
-      "title": "Austin Schneider: Get clients without cold DMs using HighLevel",
-      "videoId": "fBSLU2uKeLM",
-      "url": "https://www.youtube.com/watch?v=fBSLU2uKeLM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-10T11:25:40.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "fbslu2ukelm-austin-schneider-get-clients-without-cold-dms-using-highlevel"
-    },
-    {
       "filename": "fcm7ccmuqrw-did-you-know-you-can-centralize-task-management-in-highlevel.md",
       "title": "Did You Know You Can Centralize Task Management in HighLevel?",
       "videoId": "FcM7CCmuQRw",
@@ -3386,6 +3410,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fgc6z8e9-ze-conversations-sla-performance-dashboard"
+    },
+    {
+      "filename": "fhnkgyxmrza-how-to-customize-group-tabs-in-highlevel-for-community-engagement.md",
+      "title": "How To Customize Group Tabs in HighLevel for Community Engagement",
+      "videoId": "FhNkGyXMrzA",
+      "url": "https://www.youtube.com/watch?v=FhNkGyXMrzA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T22:16:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fhnkgyxmrza-how-to-customize-group-tabs-in-highlevel-for-community-engagement"
     },
     {
       "filename": "fjh38t4e7-y-courses-import-from-media-storage-live.md",
@@ -4084,18 +4120,6 @@
       "slug": "hd3ukoog4oe-the-highlevel-release-radar-february-9th-february-13th-2026"
     },
     {
-      "filename": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm.md",
-      "title": "Turn DMs into Sales with HighLevel with Raquel Diehm",
-      "videoId": "he2GKot-KYg",
-      "url": "https://www.youtube.com/watch?v=he2GKot-KYg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-10T05:10:58.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "he2gkot-kyg-turn-dms-into-sales-with-highlevel-with-raquel-diehm"
-    },
-    {
       "filename": "hefhkzxmz18-chris-dillon-leader-operator-builder-and-now-highlevel-live-india-speaker-get-ready-to-l.md",
       "title": "Chris Dillon: leader, operator, builder. And now, HighLevel LIVE India speaker. Get ready to learn!",
       "videoId": "HEfhKZXMz18",
@@ -4192,16 +4216,16 @@
       "slug": "hj1-3wxz1js-migrating-complex-tech-stacks-from-salesforce-and-hubspot-to-highlevel"
     },
     {
-      "filename": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel.md",
-      "title": "How Jefferey Banek (The Funnel Doc) Became an AI Agency Hero with HighLevel",
-      "videoId": "HLRcIkMV-f0",
-      "url": "https://www.youtube.com/watch?v=HLRcIkMV-f0",
+      "filename": "hn-gwrkoh-4-drip-action-major-upgrades.md",
+      "title": "Drip Action  Major Upgrades",
+      "videoId": "hN_GWRKoh-4",
+      "url": "https://www.youtube.com/watch?v=hN_GWRKoh-4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-09T19:51:58.000Z",
+      "publishedDate": "2026-04-10T21:00:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "hlrcikmv-f0-how-jefferey-banek-the-funnel-doc-became-an-ai-agency-hero-with-highlevel"
+      "ageInMonths": "0.0",
+      "slug": "hn-gwrkoh-4-drip-action-major-upgrades"
     },
     {
       "filename": "hn328oev-qg-day-2-scale-with-digital-products-no-ad-spend-needed.md",
@@ -4430,6 +4454,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ifzczbxahtm-cloning-content-in-new-course-builder"
+    },
+    {
+      "filename": "iggctrs4yus-how-to-merge-contacts-in-highlevel-workflows.md",
+      "title": "How To Merge Contacts in HighLevel Workflows",
+      "videoId": "iggCTrs4Yus",
+      "url": "https://www.youtube.com/watch?v=iggCTrs4Yus",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T13:31:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "iggctrs4yus-how-to-merge-contacts-in-highlevel-workflows"
     },
     {
       "filename": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder.md",
@@ -5078,6 +5114,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "kryngy-c-zi-google-forms-integration-now-live-inside-highlevel"
+    },
+    {
+      "filename": "ksubkeqg2yu-ask-ai-on-mobile.md",
+      "title": "Ask AI on Mobile",
+      "videoId": "KSubKEqG2yU",
+      "url": "https://www.youtube.com/watch?v=KSubKEqG2yU",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T18:00:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ksubkeqg2yu-ask-ai-on-mobile"
     },
     {
       "filename": "kx4ucj34e2s-new-ai-builder-everyone-is-using-right-now-shorts.md",
@@ -6576,7 +6624,7 @@
       "publishedDate": "2026-04-08T21:21:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "pwzycvbnpfk-ai-agent-action-in-workflows-is-live"
     },
     {
@@ -6866,6 +6914,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.4",
       "slug": "qzmqxusv7t0-did-you-know-you-can-boost-your-google-business-profile-right-within-highlevel"
+    },
+    {
+      "filename": "qzs5f2u3ffg-the-highlevel-release-radar-april-6th-april-10th-2026.md",
+      "title": "The HighLevel Release Radar (April 6th - April 10th 2026)",
+      "videoId": "qZS5f2u3fFg",
+      "url": "https://www.youtube.com/watch?v=qZS5f2u3fFg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-11T07:44:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qzs5f2u3ffg-the-highlevel-release-radar-april-6th-april-10th-2026"
     },
     {
       "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
@@ -9936,7 +9996,7 @@
       "publishedDate": "2026-04-09T18:01:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "zhs1-olu3-e-ai-studio-code-editor"
     },
     {
@@ -10058,6 +10118,30 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "zqm-oy4k2n8-did-you-know-you-can-use-trigger-links-to-qualify-new-leads"
+    },
+    {
+      "filename": "zrsjdxgec3a-contact-page-customization.md",
+      "title": "Contact Page Customization",
+      "videoId": "ZRsJdxgeC3A",
+      "url": "https://www.youtube.com/watch?v=ZRsJdxgeC3A",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T15:01:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zrsjdxgec3a-contact-page-customization"
+    },
+    {
+      "filename": "zscictwioy0-how-to-add-taxes-to-rentals-in-highlevel-easily.md",
+      "title": "How To Add Taxes to Rentals in HighLevel Easily",
+      "videoId": "ZSCIcTwIOY0",
+      "url": "https://www.youtube.com/watch?v=ZSCIcTwIOY0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-10T22:15:30.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zscictwioy0-how-to-add-taxes-to-rentals-in-highlevel-easily"
     },
     {
       "filename": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel.md",
@@ -10205,7 +10289,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 813,
+    "fresh": 820,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -10217,7 +10301,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 797,
+        "fresh": 804,
         "warning": 0,
         "expired": 0,
         "unknown": null

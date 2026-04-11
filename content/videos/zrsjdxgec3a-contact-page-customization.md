@@ -1,14 +1,14 @@
 ---
-title: "Turn DMs into Sales with HighLevel with Raquel Diehm"
-video_id: "he2GKot-KYg"
-url: "https://www.youtube.com/watch?v=he2GKot-KYg"
-thumbnail: "https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg"
+title: "Contact Page Customization"
+video_id: "ZRsJdxgeC3A"
+url: "https://www.youtube.com/watch?v=ZRsJdxgeC3A"
+thumbnail: "https://i.ytimg.com/vi/ZRsJdxgeC3A/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-10T05:10:58.000Z"
+published_date: "2026-04-10T15:01:05.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:16.631Z"
+extracted_at: "2026-04-11T07:52:00.181Z"
 
 ---
 
-# 🟢 Turn DMs into Sales with HighLevel with Raquel Diehm
+# 🟢 Contact Page Customization
 
-**Video ID:** `he2GKot-KYg`
+**Video ID:** `ZRsJdxgeC3A`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/10/2025
+**Published:** 4/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:16.631Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=he2GKot-KYg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/he2GKot-KYg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZRsJdxgeC3A)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZRsJdxgeC3A/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/11/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

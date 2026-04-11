@@ -1,14 +1,14 @@
 ---
-title: "Use WhatsApp in HighLevel to Boost Engagement"
-video_id: "bzH4yQwTrTs"
-url: "https://www.youtube.com/watch?v=bzH4yQwTrTs"
-thumbnail: "https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (April 6th - April 10th 2026)"
+video_id: "qZS5f2u3fFg"
+url: "https://www.youtube.com/watch?v=qZS5f2u3fFg"
+thumbnail: "https://i.ytimg.com/vi/qZS5f2u3fFg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-08T15:47:56.000Z"
+published_date: "2026-04-11T07:44:31.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-11T07:52:02.869Z"
+extracted_at: "2026-04-11T07:51:58.995Z"
 
 ---
 
-# 🟢 Use WhatsApp in HighLevel to Boost Engagement
+# 🟢 The HighLevel Release Radar (April 6th - April 10th 2026)
 
-**Video ID:** `bzH4yQwTrTs`
+**Video ID:** `qZS5f2u3fFg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/8/2026
+**Published:** 4/11/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-04-11T07:52:02.869Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bzH4yQwTrTs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qZS5f2u3fFg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/qZS5f2u3fFg/hqdefault.jpg)
 
 
 ## Content Guidelines

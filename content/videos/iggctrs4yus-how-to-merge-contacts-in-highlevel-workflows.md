@@ -1,14 +1,14 @@
 ---
-title: "Austin Schneider: Get clients without cold DMs using HighLevel"
-video_id: "fBSLU2uKeLM"
-url: "https://www.youtube.com/watch?v=fBSLU2uKeLM"
-thumbnail: "https://i.ytimg.com/vi/fBSLU2uKeLM/hqdefault.jpg"
+title: "How To Merge Contacts in HighLevel Workflows"
+video_id: "iggCTrs4Yus"
+url: "https://www.youtube.com/watch?v=iggCTrs4Yus"
+thumbnail: "https://i.ytimg.com/vi/iggCTrs4Yus/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-10T11:25:40.000Z"
+published_date: "2026-04-10T13:31:33.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:16.331Z"
+extracted_at: "2026-04-11T07:52:00.464Z"
 
 ---
 
-# 🟢 Austin Schneider: Get clients without cold DMs using HighLevel
+# 🟢 How To Merge Contacts in HighLevel Workflows
 
-**Video ID:** `fBSLU2uKeLM`
+**Video ID:** `iggCTrs4Yus`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/10/2025
+**Published:** 4/10/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:16.331Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fBSLU2uKeLM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/fBSLU2uKeLM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iggCTrs4Yus)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iggCTrs4Yus/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/11/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
