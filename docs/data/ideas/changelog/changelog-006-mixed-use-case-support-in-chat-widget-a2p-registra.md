@@ -6,7 +6,7 @@ guid: "69d7d175f8b6a4f5a6a5f8ea"
 author: "Nikunj Sharma"
 pubDate: "2026-04-09T16:22:20.000Z"
 link: "https://ideas.gohighlevel.com/changelog/mixed-use-case-support-in-chat-widget-a2p-registration-flow"
-categories: new
+categories: phone system,new
 url: "https://ideas.gohighlevel.com/changelog/mixed-use-case-support-in-chat-widget-a2p-registration-flow"
 index: 6
 ---
