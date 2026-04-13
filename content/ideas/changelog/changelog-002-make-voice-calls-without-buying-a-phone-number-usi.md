@@ -92,3 +92,4 @@ Previously, you had to buy a phone number before you could make a single call. N
 -   You can still make outbound calls from your existing phone number outside of GHL
 -   You can always purchase a dedicated GHL phone number at any time
 -   ID verification is needed once for a sub-account
+-   Mobile app support coming soon
