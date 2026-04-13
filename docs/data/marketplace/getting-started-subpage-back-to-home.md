@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "getting-started-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-04-13T09:39:01.353Z"
+extracted_at: "2026-04-13T15:34:43.610Z"
 ---
 
 # Hi, how can we help you?
@@ -128,7 +128,7 @@ Contacts
 
 HighLevel API Documentation
 
-Modified on Wed, 4 Feb at 7:34 AM
+Modified on Mon, 13 Apr at 5:50 AM
 
 ](/support/solutions/articles/48001060529-highlevel-api-documentation)[
 
