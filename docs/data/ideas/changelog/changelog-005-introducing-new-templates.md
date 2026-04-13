@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69d18a08f8b39061e3c9def2"
+guid: "69daafd79e967176ba0ece18"
 author: "Sales &amp; Marketing"
-pubDate: "2026-04-04T22:04:00.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
+pubDate: "2026-04-11T20:35:15.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-88"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-88"
 index: 5
 ---
 
@@ -17,11 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Website Templates Published** 🚀
+🚀 **1 New Store Templates Published** 🚀
 
 \------------------------------------------------------
 
-Automotive - 1
+Beauty & Fashion - 1
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Automotive - 1
 
 \------------------------------------------------------
 
-Restaurant & Bar -1
+Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Restaurant & Bar -1
 
 \-----------------------------------------------------
 
-Legal - 1
+Marketing Agency - 1
 
 \-----------------------------------------------------
 
@@ -45,29 +45,33 @@ Legal - 1
 
 \-----------------------------------------------------
 
-Medical - 1
+Real Estate - 1
 
 \-----------------------------------------------------
 
-🚀 **2 New Social Templates Published** 🚀
+🚀 **4 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Marketing Agency - 1
+Other - 2
 
-Legal - 1
-
-\-----------------------------------------------------
-
-🚀 **3 New Google Ad Templates Published** 🚀
+Medical - 2
 
 \-----------------------------------------------------
 
-Other - 1
+🚀 **5 New Google Ad Templates Published** 🚀
 
-Medical - 1
+\-----------------------------------------------------
 
-Marketing Agency - 1
+Beauty & Fashion - Tailor
+
+Automotive - Emergency Roadside Service
+
+Travel & Hospitality - Cabin Rental
+
+Restaurant & Bar - Bakery Shop
+
+Real Estate - Title Company
 
 \------------------------------------------------------
 
@@ -75,24 +79,28 @@ Marketing Agency - 1
 
 \------------------------------------------------------
 
-Beauty & Fashion - Jewelry Shop
+Automotive - Car Rental Agency
 
-![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
+![Bakery Shop - Google Ad](https://canny-assets.io/images/f85838324210828188f14a743bd01725.png)
 
-![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
+![Cabin Rental - Google Ad](https://canny-assets.io/images/cfb3706e9de5f90f85b8ede36ca2493d.png)
 
-![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
+![Cosmetic Clinic - Social Planner](https://canny-assets.io/images/3c457ff109b86afcf1af86e8a17e786f.png)
 
-![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
+![Emergency Roadside Service - Google Ad](https://canny-assets.io/images/16319dd6fc042f29922000c21c5f1216.png)
 
-![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
+![Event Marketing - Form](https://canny-assets.io/images/9f69c323a228451303ea4be280cfb66b.png)
 
-![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
+![Jewelry Shop - Store](https://canny-assets.io/images/8c805619e09b7ed8a35235a8c42cbd89.png)
 
-![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
+![Recruiting Services - Social Planner](https://canny-assets.io/images/d21abe499e8fa55ec66ec12541021378.png)
 
-![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
+![Short-Term Rental Management - Email](https://canny-assets.io/images/5d9313af3b97418fde03e0d7a17cfa4c.png)
 
-![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
+![Tailor - Google Ad](https://canny-assets.io/images/91e38f8db05538fff24c0c8ddeed84e0.png)
 
-![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)
+![Title Company - Google Ad](https://canny-assets.io/images/9862dcbdc87c592f9939843ce692d22a.png)
+
+![Title Company - Survey](https://canny-assets.io/images/27bb996695d3ac54f0b4224331c33996.png)
+
+![Car Rental Agency - Snapshot](https://canny-assets.io/images/94b54710298070985c589979df086d64.png)
