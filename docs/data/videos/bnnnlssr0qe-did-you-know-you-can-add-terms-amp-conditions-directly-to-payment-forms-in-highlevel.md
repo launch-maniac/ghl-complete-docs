@@ -1,10 +1,10 @@
 ---
-title: "Use WhatsApp in HighLevel to Boost Engagement"
-video_id: "bzH4yQwTrTs"
-url: "https://www.youtube.com/watch?v=bzH4yQwTrTs"
-thumbnail: "https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg"
+title: "Did You Know You Can Add Terms &amp; Conditions Directly to Payment Forms in HighLevel?"
+video_id: "BNNnLSsR0qE"
+url: "https://www.youtube.com/watch?v=BNNnLSsR0qE"
+thumbnail: "https://i.ytimg.com/vi/BNNnLSsR0qE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-14T05:11:41.000Z"
+published_date: "2026-04-13T15:24:24.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-14T08:11:34.084Z"
+extracted_at: "2026-04-14T08:11:35.308Z"
 
 ---
 
-# 🟢 Use WhatsApp in HighLevel to Boost Engagement
+# 🟢 Did You Know You Can Add Terms &amp; Conditions Directly to Payment Forms in HighLevel?
 
-**Video ID:** `bzH4yQwTrTs`
+**Video ID:** `BNNnLSsR0qE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/14/2026
+**Published:** 4/13/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-14T08:11:34.084Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bzH4yQwTrTs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BNNnLSsR0qE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/BNNnLSsR0qE/hqdefault.jpg)
 
 
 ## Content Guidelines

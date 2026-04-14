@@ -1,10 +1,10 @@
 ---
-title: "Use WhatsApp in HighLevel to Boost Engagement"
-video_id: "bzH4yQwTrTs"
-url: "https://www.youtube.com/watch?v=bzH4yQwTrTs"
-thumbnail: "https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg"
+title: "Automate your business with HighLevel #shorts"
+video_id: "gzh71u27g4k"
+url: "https://www.youtube.com/watch?v=gzh71u27g4k"
+thumbnail: "https://i.ytimg.com/vi/gzh71u27g4k/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-14T05:11:41.000Z"
+published_date: "2026-04-14T01:02:47.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-14T08:11:34.084Z"
+extracted_at: "2026-04-14T08:11:34.264Z"
 
 ---
 
-# 🟢 Use WhatsApp in HighLevel to Boost Engagement
+# 🟢 Automate your business with HighLevel #shorts
 
-**Video ID:** `bzH4yQwTrTs`
+**Video ID:** `gzh71u27g4k`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/14/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-14T08:11:34.084Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bzH4yQwTrTs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gzh71u27g4k)
+- [📷 Thumbnail](https://i.ytimg.com/vi/gzh71u27g4k/hqdefault.jpg)
 
 
 ## Content Guidelines

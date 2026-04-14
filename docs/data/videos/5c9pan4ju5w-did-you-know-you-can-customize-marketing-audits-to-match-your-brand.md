@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (October 6th - October 10th 2025)"
-video_id: "ke7aVnEnYqs"
-url: "https://www.youtube.com/watch?v=ke7aVnEnYqs"
-thumbnail: "https://i.ytimg.com/vi/ke7aVnEnYqs/hqdefault.jpg"
+title: "Did You Know You Can Customize Marketing Audits to Match Your Brand"
+video_id: "5c9paN4ju5w"
+url: "https://www.youtube.com/watch?v=5c9paN4ju5w"
+thumbnail: "https://i.ytimg.com/vi/5c9paN4ju5w/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-10T18:34:49.000Z"
+published_date: "2026-04-13T15:25:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:16.005Z"
+extracted_at: "2026-04-14T08:11:34.884Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (October 6th - October 10th 2025)
+# 🟢 Did You Know You Can Customize Marketing Audits to Match Your Brand
 
-**Video ID:** `ke7aVnEnYqs`
+**Video ID:** `5c9paN4ju5w`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/10/2025
+**Published:** 4/13/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:16.005Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ke7aVnEnYqs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/ke7aVnEnYqs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5c9paN4ju5w)
+- [📷 Thumbnail](https://i.ytimg.com/vi/5c9paN4ju5w/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/14/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

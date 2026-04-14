@@ -1,14 +1,14 @@
 ---
-title: "Use WhatsApp in HighLevel to Boost Engagement"
-video_id: "bzH4yQwTrTs"
-url: "https://www.youtube.com/watch?v=bzH4yQwTrTs"
-thumbnail: "https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg"
+title: "Build interactive tools for client websites using HighLevel AI Studio #shorts"
+video_id: "ImVdChLv3nk"
+url: "https://www.youtube.com/watch?v=ImVdChLv3nk"
+thumbnail: "https://i.ytimg.com/vi/ImVdChLv3nk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-14T05:11:41.000Z"
+published_date: "2026-04-12T01:02:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.0 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.0"
+age_in_months: "0.1"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-14T08:11:34.084Z"
+extracted_at: "2026-04-14T08:11:36.081Z"
 
 ---
 
-# 🟢 Use WhatsApp in HighLevel to Boost Engagement
+# 🟢 Build interactive tools for client websites using HighLevel AI Studio #shorts
 
-**Video ID:** `bzH4yQwTrTs`
+**Video ID:** `ImVdChLv3nk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/14/2026
+**Published:** 4/12/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.0 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-14T08:11:34.084Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bzH4yQwTrTs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ImVdChLv3nk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ImVdChLv3nk/hqdefault.jpg)
 
 
 ## Content Guidelines

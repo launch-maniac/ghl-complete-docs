@@ -1,10 +1,10 @@
 ---
-title: "Use WhatsApp in HighLevel to Boost Engagement"
-video_id: "bzH4yQwTrTs"
-url: "https://www.youtube.com/watch?v=bzH4yQwTrTs"
-thumbnail: "https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg"
+title: "Unexpected benefits of being self-employed no one talks about! #shorts"
+video_id: "p9RYiGSLTm8"
+url: "https://www.youtube.com/watch?v=p9RYiGSLTm8"
+thumbnail: "https://i.ytimg.com/vi/p9RYiGSLTm8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-14T05:11:41.000Z"
+published_date: "2026-04-14T00:02:10.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-14T08:11:34.084Z"
+extracted_at: "2026-04-14T08:11:34.471Z"
 
 ---
 
-# 🟢 Use WhatsApp in HighLevel to Boost Engagement
+# 🟢 Unexpected benefits of being self-employed no one talks about! #shorts
 
-**Video ID:** `bzH4yQwTrTs`
+**Video ID:** `p9RYiGSLTm8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/14/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-14T08:11:34.084Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=bzH4yQwTrTs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/bzH4yQwTrTs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=p9RYiGSLTm8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/p9RYiGSLTm8/hqdefault.jpg)
 
 
 ## Content Guidelines
