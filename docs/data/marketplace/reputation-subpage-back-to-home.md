@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "reputation-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-04-15T06:39:49.663Z"
+extracted_at: "2026-04-15T09:37:09.732Z"
 ---
 
 # Hi, how can we help you?
@@ -140,7 +140,7 @@ Modified on Fri, 26 Sep, 2025 at 1:44 PM
 
 Dedicated Email Sending Domains Overview & Setup
 
-Modified on Tue, 7 Apr at 3:51 AM
+Modified on Wed, 15 Apr at 4:13 AM
 
 ](/support/solutions/articles/48001226115-dedicated-email-sending-domains-overview-setup)[
 
@@ -158,7 +158,7 @@ Modified on Mon, 6 Apr at 5:28 AM
 
 LC Phone Pricing & Billing Guide
 
-Modified on Thu, 2 Apr at 7:09 AM
+Modified on Wed, 15 Apr at 3:16 AM
 
 ](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
 
