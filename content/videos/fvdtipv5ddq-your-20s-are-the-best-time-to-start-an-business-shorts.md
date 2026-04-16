@@ -1,14 +1,14 @@
 ---
-title: "Adrianne Branche: Grow Your Agency with Sales &amp; Marketing Automation"
-video_id: "FEEBm070pHo"
-url: "https://www.youtube.com/watch?v=FEEBm070pHo"
-thumbnail: "https://i.ytimg.com/vi/FEEBm070pHo/hqdefault.jpg"
+title: "Your 20s are the best time to start an business. #shorts"
+video_id: "FVdTiPV5DDQ"
+url: "https://www.youtube.com/watch?v=FVdTiPV5DDQ"
+thumbnail: "https://i.ytimg.com/vi/FVdTiPV5DDQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-14T04:45:07.000Z"
+published_date: "2026-04-15T23:01:35.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:14.437Z"
+extracted_at: "2026-04-16T08:11:59.060Z"
 
 ---
 
-# 🟢 Adrianne Branche: Grow Your Agency with Sales &amp; Marketing Automation
+# 🟢 Your 20s are the best time to start an business. #shorts
 
-**Video ID:** `FEEBm070pHo`
+**Video ID:** `FVdTiPV5DDQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/14/2025
+**Published:** 4/15/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:14.437Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FEEBm070pHo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/FEEBm070pHo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=FVdTiPV5DDQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/FVdTiPV5DDQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/16/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

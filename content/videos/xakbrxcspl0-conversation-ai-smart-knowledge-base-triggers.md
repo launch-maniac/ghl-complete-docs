@@ -1,14 +1,14 @@
 ---
-title: "WordPress  Disk Space Add On for WordPress Hosting"
-video_id: "v6EsteA4H7U"
-url: "https://www.youtube.com/watch?v=v6EsteA4H7U"
-thumbnail: "https://i.ytimg.com/vi/v6EsteA4H7U/hqdefault.jpg"
+title: "Conversation AI | Smart Knowledge Base Triggers!"
+video_id: "XAkBRXCsPl0"
+url: "https://www.youtube.com/watch?v=XAkBRXCsPl0"
+thumbnail: "https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-13T21:01:04.000Z"
+published_date: "2026-04-15T20:26:33.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-17T07:43:14.608Z"
+extracted_at: "2026-04-16T08:11:59.426Z"
 
 ---
 
-# 🟢 WordPress  Disk Space Add On for WordPress Hosting
+# 🟢 Conversation AI | Smart Knowledge Base Triggers!
 
-**Video ID:** `v6EsteA4H7U`
+**Video ID:** `XAkBRXCsPl0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/13/2025
+**Published:** 4/15/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-17T07:43:14.608Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=v6EsteA4H7U)
-- [📷 Thumbnail](https://i.ytimg.com/vi/v6EsteA4H7U/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=XAkBRXCsPl0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/17/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/16/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

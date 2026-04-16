@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Customize Marketing Audits to Match Your Brand"
+title: "Did You Know You Can Customize Marketing Audits to Match Your Brand?"
 video_id: "5c9paN4ju5w"
 url: "https://www.youtube.com/watch?v=5c9paN4ju5w"
 thumbnail: "https://i.ytimg.com/vi/5c9paN4ju5w/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-04-13T15:25:53.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.0 months old (fresh)"
+freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.0"
+age_in_months: "0.1"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,11 +16,11 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-14T08:11:34.884Z"
+extracted_at: "2026-04-16T08:12:00.706Z"
 
 ---
 
-# 🟢 Did You Know You Can Customize Marketing Audits to Match Your Brand
+# 🟢 Did You Know You Can Customize Marketing Audits to Match Your Brand?
 
 **Video ID:** `5c9paN4ju5w`
 **Source:** GoHighLevel Official - Last 180 Days
@@ -30,7 +30,7 @@ extracted_at: "2026-04-14T08:11:34.884Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.0 months old (fresh)**
+**Video is 0.1 months old (fresh)**
 
 
 
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 4/14/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/16/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

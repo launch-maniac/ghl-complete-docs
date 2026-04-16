@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-14T08:11:41.031Z",
+  "generated": "2026-04-16T08:12:05.787Z",
   "stats": {
     "channels": 1,
-    "videos": 11,
+    "videos": 16,
     "playlists": 0,
-    "expired": 4,
+    "expired": 14,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 11
+    "transcriptsFailed": 16
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -941,14 +941,14 @@
     },
     {
       "filename": "5c9pan4ju5w-did-you-know-you-can-customize-marketing-audits-to-match-your-brand.md",
-      "title": "Did You Know You Can Customize Marketing Audits to Match Your Brand",
+      "title": "Did You Know You Can Customize Marketing Audits to Match Your Brand?",
       "videoId": "5c9paN4ju5w",
       "url": "https://www.youtube.com/watch?v=5c9paN4ju5w",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-04-13T15:25:53.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5c9pan4ju5w-did-you-know-you-can-customize-marketing-audits-to-match-your-brand"
     },
     {
@@ -1372,6 +1372,18 @@
       "slug": "7td8emjsd2k-custom-objects-sorting-by-custom-fields-live"
     },
     {
+      "filename": "7wea1ujoqwk-day-1-the-97-digital-product-launch-system.md",
+      "title": "Day 1 - The $97 Digital Product Launch System",
+      "videoId": "7wea1UjOqWk",
+      "url": "https://www.youtube.com/watch?v=7wea1UjOqWk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-14T14:54:05.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "7wea1ujoqwk-day-1-the-97-digital-product-launch-system"
+    },
+    {
       "filename": "7xen9uyjgyg-day-5-five-day-challenge.md",
       "title": "Day 5 - Five Day Challenge",
       "videoId": "7xEn9UYjgYg",
@@ -1394,6 +1406,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
+    },
+    {
+      "filename": "7y1xzezx-a4-highlevel-case-study-ar-funnel.md",
+      "title": "HighLevel Case Study - AR Funnel",
+      "videoId": "7Y1xzezX_a4",
+      "url": "https://www.youtube.com/watch?v=7Y1xzezX_a4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-15T21:49:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "7y1xzezx-a4-highlevel-case-study-ar-funnel"
     },
     {
       "filename": "7zovxtpov0-highlevel-mobile-upgrade-custom-dispositions-and-sticky-outbound-number-now-live.md",
@@ -1788,7 +1812,7 @@
       "publishedDate": "2026-04-10T22:17:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "ah1jqr9ptpe-how-to-boost-call-success-with-voice-integrity-in-highlevel"
     },
     {
@@ -2232,7 +2256,7 @@
       "publishedDate": "2026-04-13T15:24:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bnnnlssr0qe-did-you-know-you-can-add-terms-amp-conditions-directly-to-payment-forms-in-highlevel"
     },
     {
@@ -2340,7 +2364,7 @@
       "publishedDate": "2026-04-14T05:11:41.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "bzh4yqwtrts-use-whatsapp-in-highlevel-to-boost-engagement"
     },
     {
@@ -2786,18 +2810,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "djg-fbfw5ii-how-to-use-geographic-analytics-in-highlevel"
-    },
-    {
-      "filename": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel.md",
-      "title": "The New Advanced Workflow Builder In HighLevel",
-      "videoId": "djJeYJlBGMc",
-      "url": "https://www.youtube.com/watch?v=djJeYJlBGMc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-15T14:59:01.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.3",
-      "slug": "djjeyjlbgmc-the-new-advanced-workflow-builder-in-highlevel"
     },
     {
       "filename": "djvvpq-wb4-schema-markup-generator-live.md",
@@ -3412,18 +3424,6 @@
       "slug": "fct8oqanxdi-this-could-be-you-at-levelup-2026-apply-to-be-a-speaker-today-shorts"
     },
     {
-      "filename": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation.md",
-      "title": "Adrianne Branche: Grow Your Agency with Sales &amp; Marketing Automation",
-      "videoId": "FEEBm070pHo",
-      "url": "https://www.youtube.com/watch?v=FEEBm070pHo",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-14T04:45:07.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "feebm070pho-adrianne-branche-grow-your-agency-with-sales-amp-marketing-automation"
-    },
-    {
       "filename": "fgc6z8e9-ze-conversations-sla-performance-dashboard.md",
       "title": "Conversations  SLA Performance Dashboard",
       "videoId": "FGC6z8E9_ZE",
@@ -3518,18 +3518,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fkg2ojtnnfe-updated-ai-validation-for-chat-widget-first-a2p-campaigns"
-    },
-    {
-      "filename": "fkianqdg4qi-expanded-goal-types-in-workflows.md",
-      "title": "Expanded Goal Types in Workflows!",
-      "videoId": "fkIANQDG4qI",
-      "url": "https://www.youtube.com/watch?v=fkIANQDG4qI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-13T19:43:52.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "fkianqdg4qi-expanded-goal-types-in-workflows"
     },
     {
       "filename": "fn3b1knali0-did-you-know-you-can-build-and-sell-your-expertise-directly-in-highlevel.md",
@@ -3638,6 +3626,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner"
+    },
+    {
+      "filename": "fvdtipv5ddq-your-20s-are-the-best-time-to-start-an-business-shorts.md",
+      "title": "Your 20s are the best time to start an business. #shorts",
+      "videoId": "FVdTiPV5DDQ",
+      "url": "https://www.youtube.com/watch?v=FVdTiPV5DDQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-15T23:01:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fvdtipv5ddq-your-20s-are-the-best-time-to-start-an-business-shorts"
     },
     {
       "filename": "fvif1kckr6g-marketing-audit-report-workflow-action-live.md",
@@ -4068,7 +4068,7 @@
       "publishedDate": "2026-04-14T01:02:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "gzh71u27g4k-automate-your-business-with-highlevel-shorts"
     },
     {
@@ -4154,6 +4154,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "hd3ukoog4oe-the-highlevel-release-radar-february-9th-february-13th-2026"
+    },
+    {
+      "filename": "he7er0mcv-q-day-2-the-97-digital-product-launch-system.md",
+      "title": "Day 2 - The $97 Digital Product Launch System",
+      "videoId": "He7Er0McV_Q",
+      "url": "https://www.youtube.com/watch?v=He7Er0McV_Q",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-14T14:55:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "he7er0mcv-q-day-2-the-97-digital-product-launch-system"
     },
     {
       "filename": "hefhkzxmz18-chris-dillon-leader-operator-builder-and-now-highlevel-live-india-speaker-get-ready-to-l.md",
@@ -4360,18 +4372,6 @@
       "slug": "hvbge-tn0u-untitled"
     },
     {
-      "filename": "i-symi8y-be-automations-expanded-goal-types-in-workflow-action.md",
-      "title": "Automations  Expanded Goal Types in Workflow Action",
-      "videoId": "I-SYmi8y_bE",
-      "url": "https://www.youtube.com/watch?v=I-SYmi8y_bE",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-13T18:00:26.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "i-symi8y-be-automations-expanded-goal-types-in-workflow-action"
-    },
-    {
       "filename": "i1tz3ymis-0-ai-builder-39-s-newest-skills-full-workflow-settings-control-amp-naming.md",
       "title": "AI Builder&#39;s Newest Skills  Full Workflow Settings Control &amp; Naming",
       "videoId": "I1tz3yMIs-0",
@@ -4548,7 +4548,7 @@
       "publishedDate": "2026-04-13T15:22:36.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ijs8meerhek-did-you-know-you-can-monetize-your-expertise-with-digital-products-in-highlevel"
     },
     {
@@ -4730,6 +4730,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "jcxr4mgqxrw-schema-markup-generator"
+    },
+    {
+      "filename": "jdeyr5zi-je-did-you-know-you-can-set-and-enforce-slas-in-highlevel.md",
+      "title": "Did You Know You Can Set and Enforce SLAs in HighLevel?",
+      "videoId": "JdeYR5zi_JE",
+      "url": "https://www.youtube.com/watch?v=JdeYR5zi_JE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T00:36:43.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jdeyr5zi-je-did-you-know-you-can-set-and-enforce-slas-in-highlevel"
     },
     {
       "filename": "jfyiwtqjoge-highlevel-workflow-optimization-achieves-97-7-percent-latency-reduction.md",
@@ -5304,7 +5316,7 @@
       "publishedDate": "2026-04-13T15:25:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "l2fwytebeew-did-you-know-you-can-run-private-client-communities-in-highlevel"
     },
     {
@@ -6088,6 +6100,18 @@
       "slug": "nycf0e-0k94-the-ad-manager-in-highlevel-is-now-free-to-agencies"
     },
     {
+      "filename": "nyfhpvrvvw0-seo-live-for-ai-studio.md",
+      "title": "SEO Live for AI Studio!",
+      "videoId": "nyFhPvrVVW0",
+      "url": "https://www.youtube.com/watch?v=nyFhPvrVVW0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-15T20:26:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nyfhpvrvvw0-seo-live-for-ai-studio"
+    },
+    {
       "filename": "o-ld5mxv-my-company-csv-export-live.md",
       "title": "Company CSV Export Live!",
       "videoId": "O-Ld5mXv_MY",
@@ -6408,7 +6432,7 @@
       "publishedDate": "2026-04-14T00:02:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "p9ryigsltm8-unexpected-benefits-of-being-self-employed-no-one-talks-about-shorts"
     },
     {
@@ -6996,7 +7020,7 @@
       "publishedDate": "2026-04-11T07:44:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "qzs5f2u3ffg-the-highlevel-release-radar-april-6th-april-10th-2026"
     },
     {
@@ -7370,18 +7394,6 @@
       "contentCategory": "evergreen",
       "ageInMonths": "0.1",
       "slug": "s9b5a4wnzxa-template-library-introducing-new-templates-no-74"
-    },
-    {
-      "filename": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live.md",
-      "title": "Disk Space Add On for WordPress Hosting  Live!",
-      "videoId": "sBsb6G_i1Rk",
-      "url": "https://www.youtube.com/watch?v=sBsb6G_i1Rk",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-13T19:43:10.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "sbsb6g-i1rk-disk-space-add-on-for-wordpress-hosting-live"
     },
     {
       "filename": "seq-zbu0o8g-how-to-optimize-your-email-campaigns-with-highlevel-s-smart-send-feature.md",
@@ -8272,18 +8284,6 @@
       "slug": "url8myu0uc-did-you-know-you-can-auto-assign-leads-in-highlevel"
     },
     {
-      "filename": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win.md",
-      "title": "Joana Maas: Simple Tools to Help Agencies Win",
-      "videoId": "urmgVy-cyFc",
-      "url": "https://www.youtube.com/watch?v=urmgVy-cyFc",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-15T04:49:42.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "urmgvy-cyfc-joana-maas-simple-tools-to-help-agencies-win"
-    },
-    {
       "filename": "urzsyynhync-new-template-live.md",
       "title": "New Template Live!",
       "videoId": "UrZsYynHyNc",
@@ -8414,18 +8414,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "v2l8bv9youy-brad-parnell-build-smarter-funnels-with-highlevel"
-    },
-    {
-      "filename": "v6estea4h7u-wordpress-disk-space-add-on-for-wordpress-hosting.md",
-      "title": "WordPress  Disk Space Add On for WordPress Hosting",
-      "videoId": "v6EsteA4H7U",
-      "url": "https://www.youtube.com/watch?v=v6EsteA4H7U",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-13T21:01:04.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "v6estea4h7u-wordpress-disk-space-add-on-for-wordpress-hosting"
     },
     {
       "filename": "v6qajhy0hqa-conversation-ai-email-channel-support.md",
@@ -9230,6 +9218,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "x8rjvanf79s-saaspreneur-workshop-with-frank-kern-day-3"
+    },
+    {
+      "filename": "xakbrxcspl0-conversation-ai-smart-knowledge-base-triggers.md",
+      "title": "Conversation AI | Smart Knowledge Base Triggers!",
+      "videoId": "XAkBRXCsPl0",
+      "url": "https://www.youtube.com/watch?v=XAkBRXCsPl0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-15T20:26:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xakbrxcspl0-conversation-ai-smart-knowledge-base-triggers"
     },
     {
       "filename": "xcazozdtj-c-how-to-build-an-ai-powered-email-campaign-with-highlevel.md",

@@ -1,14 +1,14 @@
 ---
-title: "The New Advanced Workflow Builder In HighLevel"
-video_id: "djJeYJlBGMc"
-url: "https://www.youtube.com/watch?v=djJeYJlBGMc"
-thumbnail: "https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg"
+title: "HighLevel Case Study - AR Funnel"
+video_id: "7Y1xzezX_a4"
+url: "https://www.youtube.com/watch?v=7Y1xzezX_a4"
+thumbnail: "https://i.ytimg.com/vi/7Y1xzezX_a4/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-15T14:59:01.000Z"
+published_date: "2026-04-15T21:49:37.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.3 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.3"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-23T07:44:07.317Z"
+extracted_at: "2026-04-16T08:11:59.256Z"
 
 ---
 
-# 🟢 The New Advanced Workflow Builder In HighLevel
+# 🟢 HighLevel Case Study - AR Funnel
 
-**Video ID:** `djJeYJlBGMc`
+**Video ID:** `7Y1xzezX_a4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/15/2025
+**Published:** 4/15/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.3 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2025-10-23T07:44:07.317Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=djJeYJlBGMc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/djJeYJlBGMc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7Y1xzezX_a4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/7Y1xzezX_a4/hqdefault_live.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/23/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/16/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

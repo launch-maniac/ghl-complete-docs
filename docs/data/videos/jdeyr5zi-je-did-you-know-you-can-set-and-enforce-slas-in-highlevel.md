@@ -1,14 +1,14 @@
 ---
-title: "Joana Maas: Simple Tools to Help Agencies Win"
-video_id: "urmgVy-cyFc"
-url: "https://www.youtube.com/watch?v=urmgVy-cyFc"
-thumbnail: "https://i.ytimg.com/vi/urmgVy-cyFc/hqdefault.jpg"
+title: "Did You Know You Can Set and Enforce SLAs in HighLevel?"
+video_id: "JdeYR5zi_JE"
+url: "https://www.youtube.com/watch?v=JdeYR5zi_JE"
+thumbnail: "https://i.ytimg.com/vi/JdeYR5zi_JE/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-15T04:49:42.000Z"
+published_date: "2026-04-16T00:36:43.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-19T07:41:32.437Z"
+extracted_at: "2026-04-16T08:11:58.867Z"
 
 ---
 
-# 🟢 Joana Maas: Simple Tools to Help Agencies Win
+# 🟢 Did You Know You Can Set and Enforce SLAs in HighLevel?
 
-**Video ID:** `urmgVy-cyFc`
+**Video ID:** `JdeYR5zi_JE`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/15/2025
+**Published:** 4/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-19T07:41:32.437Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=urmgVy-cyFc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/urmgVy-cyFc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=JdeYR5zi_JE)
+- [📷 Thumbnail](https://i.ytimg.com/vi/JdeYR5zi_JE/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/19/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/16/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

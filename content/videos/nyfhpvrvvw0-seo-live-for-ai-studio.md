@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Add Terms &amp; Conditions Directly to Payment Forms in HighLevel?"
-video_id: "BNNnLSsR0qE"
-url: "https://www.youtube.com/watch?v=BNNnLSsR0qE"
-thumbnail: "https://i.ytimg.com/vi/BNNnLSsR0qE/hqdefault.jpg"
+title: "SEO Live for AI Studio!"
+video_id: "nyFhPvrVVW0"
+url: "https://www.youtube.com/watch?v=nyFhPvrVVW0"
+thumbnail: "https://i.ytimg.com/vi/nyFhPvrVVW0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-13T15:24:24.000Z"
+published_date: "2026-04-15T20:26:58.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-16T08:12:01.116Z"
+extracted_at: "2026-04-16T08:11:59.612Z"
 
 ---
 
-# 🟢 Did You Know You Can Add Terms &amp; Conditions Directly to Payment Forms in HighLevel?
+# 🟢 SEO Live for AI Studio!
 
-**Video ID:** `BNNnLSsR0qE`
+**Video ID:** `nyFhPvrVVW0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/13/2026
+**Published:** 4/15/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-16T08:12:01.116Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=BNNnLSsR0qE)
-- [📷 Thumbnail](https://i.ytimg.com/vi/BNNnLSsR0qE/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=nyFhPvrVVW0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/nyFhPvrVVW0/hqdefault.jpg)
 
 
 ## Content Guidelines
