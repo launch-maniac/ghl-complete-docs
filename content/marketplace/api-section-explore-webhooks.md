@@ -3,7 +3,7 @@ title: "Explore Webhooks →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/category/webhook"
-extracted_at: "2026-04-16T09:37:59.660Z"
+extracted_at: "2026-04-16T12:25:36.041Z"
 ---
 
 -   [](/docs/)
@@ -100,6 +100,14 @@ Called whenever a campaign status is updated
 Called whenever a contact is created
 
 ](/docs/webhook/ContactCreate)
+
+[
+
+## 📄️ ContactUpdate
+
+Called whenever the specific fields in contact is updated
+
+](/docs/webhook/ContactUpdate)
 
 [
 

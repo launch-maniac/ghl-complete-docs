@@ -3,12 +3,12 @@ title: "Documentation"
 category: "marketplace"
 type: "developer-portal-subpage"
 url: "https://marketplace.gohighlevel.com/docs/"
-extracted_at: "2026-04-16T09:32:53.995Z"
+extracted_at: "2026-04-16T12:20:36.227Z"
 ---
 
 ## Comprehensive API Coverage
 
-Access all HighLevel platform features through our REST API. Perfect for building integrations, automating workflows, and creating custom applications.
+Access all HighLevel platform features through our REST API.Perfect for building integrations, automating workflows, and creating custom applications.
 
 ### 🏢 CRM & Contacts
 

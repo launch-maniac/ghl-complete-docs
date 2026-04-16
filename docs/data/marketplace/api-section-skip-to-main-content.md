@@ -3,12 +3,12 @@ title: "Skip to main content"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/#__docusaurus_skipToContent_fallback"
-extracted_at: "2026-04-16T09:37:15.436Z"
+extracted_at: "2026-04-16T12:24:51.508Z"
 ---
 
 ## Comprehensive API Coverage
 
-Access all HighLevel platform features through our REST API. Perfect for building integrations, automating workflows, and creating custom applications.
+Access all HighLevel platform features through our REST API.Perfect for building integrations, automating workflows, and creating custom applications.
 
 ### 🏢 CRM & Contacts
 
