@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-16T08:12:05.787Z",
+  "generated": "2026-04-17T08:11:57.495Z",
   "stats": {
     "channels": 1,
-    "videos": 16,
+    "videos": 18,
     "playlists": 0,
-    "expired": 14,
+    "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 16
+    "transcriptsFailed": 18
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -964,6 +964,18 @@
       "slug": "5diyyqh3g8i-3-strategies-agencies-use-to-convert-into-saas"
     },
     {
+      "filename": "5hju8rfqqew-services-v2-category-first-booking-live.md",
+      "title": "Services (v2) - Category-First Booking Live!",
+      "videoId": "5HJu8rFQqew",
+      "url": "https://www.youtube.com/watch?v=5HJu8rFQqew",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T23:02:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "5hju8rfqqew-services-v2-category-first-booking-live"
+    },
+    {
       "filename": "5lakeng-no8-the-highlevel-release-radar-january-5th-january-9th-2026.md",
       "title": "The HighLevel Release Radar (January 5th - January 9th 2026)",
       "videoId": "5lakeNg_nO8",
@@ -1396,24 +1408,12 @@
       "slug": "7xen9uyjgyg-day-5-five-day-challenge"
     },
     {
-      "filename": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days.md",
-      "title": "Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days",
-      "videoId": "7xl6GPLYXqg",
-      "url": "https://www.youtube.com/watch?v=7xl6GPLYXqg",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-16T04:52:10.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "7xl6gplyxqg-alister-shirazi-how-he-built-100-saas-clients-in-90-days"
-    },
-    {
       "filename": "7y1xzezx-a4-highlevel-case-study-ar-funnel.md",
       "title": "HighLevel Case Study - AR Funnel",
       "videoId": "7Y1xzezX_a4",
       "url": "https://www.youtube.com/watch?v=7Y1xzezX_a4",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-15T21:49:37.000Z",
+      "publishedDate": "2026-04-17T05:22:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -1958,6 +1958,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "auphhjubfcg-reputation-management-manual-reviews"
+    },
+    {
+      "filename": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database.md",
+      "title": "Did You Know You Can Connect Custom Objects Together to Build a Relational Database",
+      "videoId": "avBYW1aQ7_M",
+      "url": "https://www.youtube.com/watch?v=avBYW1aQ7_M",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T21:08:39.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database"
     },
     {
       "filename": "axati7tlrdy-template-library-introducing-new-templates-no-66.md",
@@ -3302,6 +3314,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "eybzppjujgs-day-3-five-day-challenge"
+    },
+    {
+      "filename": "ez3lbr-7o1k-seo-for-ai-studio.md",
+      "title": "SEO for AI Studio",
+      "videoId": "EZ3lbR-7O1k",
+      "url": "https://www.youtube.com/watch?v=EZ3lbR-7O1k",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T15:00:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ez3lbr-7o1k-seo-for-ai-studio"
     },
     {
       "filename": "f-hvcamwweu-land-your-first-5-clients-with-highlevel-no-ads-needed.md",
@@ -7948,6 +7972,18 @@
       "slug": "tq3jlpwrt2w-workflow-builder-find-amp-replace-is-here"
     },
     {
+      "filename": "ts5vn3ljmr0-agent-log-metrics-upgrade.md",
+      "title": "Agent Log Metrics Upgrade!",
+      "videoId": "tS5VN3ljmr0",
+      "url": "https://www.youtube.com/watch?v=tS5VN3ljmr0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T23:01:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ts5vn3ljmr0-agent-log-metrics-upgrade"
+    },
+    {
       "filename": "ttp6lzmvsdg-communities-amp-gokollab-internationalization-for-push-notifications-amp-emails.md",
       "title": "Communities &amp; GoKollab Internationalization for Push Notifications &amp; Emails",
       "videoId": "ttp6lZmVsdg",
@@ -8140,6 +8176,18 @@
       "slug": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly"
     },
     {
+      "filename": "ubc69nbe9-0-did-you-know-you-can-host-paid-communities-directly-in-highlevel.md",
+      "title": "Did You Know You Can Host Paid Communities Directly in HighLevel?",
+      "videoId": "uBC69NBE9-0",
+      "url": "https://www.youtube.com/watch?v=uBC69NBE9-0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T15:58:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ubc69nbe9-0-did-you-know-you-can-host-paid-communities-directly-in-highlevel"
+    },
+    {
       "filename": "ubmkzjefboa-how-to-set-up-a-referral-program-in-highlevel-get-more-clients-automatically-shorts.md",
       "title": "How to set up a referral program in HighLevel (Get more clients automatically) #shorts",
       "videoId": "ubmKzJEFboA",
@@ -8150,6 +8198,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ubmkzjefboa-how-to-set-up-a-referral-program-in-highlevel-get-more-clients-automatically-shorts"
+    },
+    {
+      "filename": "uckijunjcw4-conversation-ai-smart-knowledge-base-triggers.md",
+      "title": "Conversation AI   Smart Knowledge Base Triggers",
+      "videoId": "UcKijUNjcW4",
+      "url": "https://www.youtube.com/watch?v=UcKijUNjcW4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T18:00:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "uckijunjcw4-conversation-ai-smart-knowledge-base-triggers"
     },
     {
       "filename": "ud7kyftoddm-create-funnels-forms-amp-client-portals-with-ai-shorts.md",
@@ -8942,6 +9002,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "wi6mpapkgvk-the-highlevel-release-radar-november-3rd-november-7th-2025"
+    },
+    {
+      "filename": "wj-vmze-4ke-course-live-sessions-teach-live-right-inside-your-course.md",
+      "title": "Course Live Sessions - Teach Live, Right Inside Your Course!",
+      "videoId": "wJ-VMZe-4kE",
+      "url": "https://www.youtube.com/watch?v=wJ-VMZe-4kE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T23:01:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "wj-vmze-4ke-course-live-sessions-teach-live-right-inside-your-course"
     },
     {
       "filename": "wjbo61htgwq-qr-code-element-live-in-the-builder.md",
@@ -9832,6 +9904,18 @@
       "slug": "yrgbizuqwks-day-2-ai-sales-systems-you-can-launch-with-highlevel"
     },
     {
+      "filename": "ysn0ujpmaik-your-crm-can-now-answer-your-questions-highlevel-ask-ai-shorts.md",
+      "title": "Your CRM can now answer your questions 💬 | HighLevel Ask AI #shorts",
+      "videoId": "YsN0uJpmaIk",
+      "url": "https://www.youtube.com/watch?v=YsN0uJpmaIk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T19:18:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ysn0ujpmaik-your-crm-can-now-answer-your-questions-highlevel-ask-ai-shorts"
+    },
+    {
       "filename": "ysniyeh1svg-mobile-upgrade-custom-dispositions-amp-sticky-outbound-number.md",
       "title": "Mobile Upgrade - Custom Dispositions &amp; Sticky Outbound Number",
       "videoId": "ySNIYeH1svg",
@@ -10216,6 +10300,18 @@
       "slug": "zssviiakexc-how-to-bulk-manage-qr-codes-in-highlevel"
     },
     {
+      "filename": "ztxfa-myrjc-funnels-in-courses-in-live.md",
+      "title": "Funnels in Courses in Live!",
+      "videoId": "ZtXFa-MyRjc",
+      "url": "https://www.youtube.com/watch?v=ZtXFa-MyRjc",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-16T23:02:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ztxfa-myrjc-funnels-in-courses-in-live"
+    },
+    {
       "filename": "zukt1zif-80-how-to-deliver-client-value-through-detailed-marketing-audit-reports-for-sub-accounts.md",
       "title": "How to Deliver Client Value through Detailed Marketing Audit Reports for Sub-Accounts",
       "videoId": "zukT1ZIF_80",
@@ -10349,7 +10445,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 825,
+    "fresh": 833,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -10361,7 +10457,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 809,
+        "fresh": 817,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,10 +1,10 @@
 ---
-title: "Conversation AI | Smart Knowledge Base Triggers!"
-video_id: "XAkBRXCsPl0"
-url: "https://www.youtube.com/watch?v=XAkBRXCsPl0"
-thumbnail: "https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg"
+title: "Conversation AI   Smart Knowledge Base Triggers"
+video_id: "UcKijUNjcW4"
+url: "https://www.youtube.com/watch?v=UcKijUNjcW4"
+thumbnail: "https://i.ytimg.com/vi/UcKijUNjcW4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-15T20:26:33.000Z"
+published_date: "2026-04-16T18:00:22.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-17T08:11:49.804Z"
+extracted_at: "2026-04-17T08:11:48.814Z"
 
 ---
 
-# 🟢 Conversation AI | Smart Knowledge Base Triggers!
+# 🟢 Conversation AI   Smart Knowledge Base Triggers
 
-**Video ID:** `XAkBRXCsPl0`
+**Video ID:** `UcKijUNjcW4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/15/2026
+**Published:** 4/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-17T08:11:49.804Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=XAkBRXCsPl0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=UcKijUNjcW4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/UcKijUNjcW4/hqdefault.jpg)
 
 
 ## Content Guidelines

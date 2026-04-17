@@ -1,10 +1,10 @@
 ---
-title: "Conversation AI | Smart Knowledge Base Triggers!"
-video_id: "XAkBRXCsPl0"
-url: "https://www.youtube.com/watch?v=XAkBRXCsPl0"
-thumbnail: "https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg"
+title: "Did You Know You Can Host Paid Communities Directly in HighLevel?"
+video_id: "uBC69NBE9-0"
+url: "https://www.youtube.com/watch?v=uBC69NBE9-0"
+thumbnail: "https://i.ytimg.com/vi/uBC69NBE9-0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-15T20:26:33.000Z"
+published_date: "2026-04-16T15:58:18.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-17T08:11:49.804Z"
+extracted_at: "2026-04-17T08:11:48.988Z"
 
 ---
 
-# 🟢 Conversation AI | Smart Knowledge Base Triggers!
+# 🟢 Did You Know You Can Host Paid Communities Directly in HighLevel?
 
-**Video ID:** `XAkBRXCsPl0`
+**Video ID:** `uBC69NBE9-0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/15/2026
+**Published:** 4/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-17T08:11:49.804Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=XAkBRXCsPl0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/XAkBRXCsPl0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=uBC69NBE9-0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/uBC69NBE9-0/hqdefault.jpg)
 
 
 ## Content Guidelines

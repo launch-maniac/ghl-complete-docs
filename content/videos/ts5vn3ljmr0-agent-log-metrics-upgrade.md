@@ -1,14 +1,14 @@
 ---
-title: "Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days"
-video_id: "7xl6GPLYXqg"
-url: "https://www.youtube.com/watch?v=7xl6GPLYXqg"
-thumbnail: "https://i.ytimg.com/vi/7xl6GPLYXqg/hqdefault.jpg"
+title: "Agent Log Metrics Upgrade!"
+video_id: "tS5VN3ljmr0"
+url: "https://www.youtube.com/watch?v=tS5VN3ljmr0"
+thumbnail: "https://i.ytimg.com/vi/tS5VN3ljmr0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-16T04:52:10.000Z"
+published_date: "2026-04-16T23:01:24.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-20T07:44:20.220Z"
+extracted_at: "2026-04-17T08:11:47.937Z"
 
 ---
 
-# 🟢 Alister Shirazi: How He Built 100+ SaaS Clients in 90 Days
+# 🟢 Agent Log Metrics Upgrade!
 
-**Video ID:** `7xl6GPLYXqg`
+**Video ID:** `tS5VN3ljmr0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/16/2025
+**Published:** 4/16/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-20T07:44:20.220Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7xl6GPLYXqg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7xl6GPLYXqg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=tS5VN3ljmr0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/tS5VN3ljmr0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/20/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/17/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
