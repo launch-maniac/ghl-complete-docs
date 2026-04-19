@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-17T08:11:57.495Z",
+  "generated": "2026-04-19T08:04:14.713Z",
   "stats": {
     "channels": 1,
-    "videos": 18,
+    "videos": 32,
     "playlists": 0,
-    "expired": 2,
+    "expired": 4,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 18
+    "transcriptsFailed": 32
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -700,6 +700,18 @@
       "slug": "3pibf4pc-wg-import-email-templates-with-ai"
     },
     {
+      "filename": "3raj5mzltha-location-level-breakdown-for-reselling-profit-cost-transparency.md",
+      "title": "Location - Level Breakdown for Reselling Profit/Cost Transparency!",
+      "videoId": "3rAJ5MzltHA",
+      "url": "https://www.youtube.com/watch?v=3rAJ5MzltHA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:41:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3raj5mzltha-location-level-breakdown-for-reselling-profit-cost-transparency"
+    },
+    {
       "filename": "3rtms9gglfe-how-to-track-gift-card-performance-analytics.md",
       "title": "How To Track Gift Card Performance Analytics",
       "videoId": "3rtMS9gGlFE",
@@ -710,6 +722,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "3rtms9gglfe-how-to-track-gift-card-performance-analytics"
+    },
+    {
+      "filename": "3rz9pw48qe8-touhid-hasan-field-service-management-in-highlevel.md",
+      "title": "Touhid Hasan: Field Service Management in HighLevel",
+      "videoId": "3RZ9PW48Qe8",
+      "url": "https://www.youtube.com/watch?v=3RZ9PW48Qe8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-19T04:31:13.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3rz9pw48qe8-touhid-hasan-field-service-management-in-highlevel"
     },
     {
       "filename": "3tiuid1io8g-how-martin-scaled-fast-using-highlevel-the-all-in-one-system-behind-his-success.md",
@@ -972,7 +996,7 @@
       "publishedDate": "2026-04-16T23:02:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "5hju8rfqqew-services-v2-category-first-booking-live"
     },
     {
@@ -1392,7 +1416,7 @@
       "publishedDate": "2026-04-14T14:54:05.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "7wea1ujoqwk-day-1-the-97-digital-product-launch-system"
     },
     {
@@ -1416,7 +1440,7 @@
       "publishedDate": "2026-04-17T05:22:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "7y1xzezx-a4-highlevel-case-study-ar-funnel"
     },
     {
@@ -1968,7 +1992,7 @@
       "publishedDate": "2026-04-16T21:08:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database"
     },
     {
@@ -2764,6 +2788,18 @@
       "slug": "d95fajraxsu-course-update-welcome-every-learner-with-a-badge"
     },
     {
+      "filename": "dd0pgng5gs4-how-to-set-up-ai-agents-in-highlevel-for-lead-follow-up-shorts.md",
+      "title": "How to set up AI agents in HighLevel for lead follow-Up #shorts",
+      "videoId": "dd0pgNG5GS4",
+      "url": "https://www.youtube.com/watch?v=dd0pgNG5GS4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T23:01:09.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dd0pgng5gs4-how-to-set-up-ai-agents-in-highlevel-for-lead-follow-up-shorts"
+    },
+    {
       "filename": "delbbnsye50-introducing-email-sequences.md",
       "title": "Introducing Email Sequences",
       "videoId": "deLBBnsyE50",
@@ -2812,6 +2848,18 @@
       "slug": "dg3vi7cjvtc-recurring-listings-performance-recap-reports"
     },
     {
+      "filename": "dgwgffyhpuo-ai-agent-action-gets-conversation-history-as-a-tool.md",
+      "title": "AI Agent Action Gets Conversation History as a Tool!",
+      "videoId": "DgWgFFYHpuo",
+      "url": "https://www.youtube.com/watch?v=DgWgFFYHpuo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:09:41.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "dgwgffyhpuo-ai-agent-action-gets-conversation-history-as-a-tool"
+    },
+    {
       "filename": "djg-fbfw5ii-how-to-use-geographic-analytics-in-highlevel.md",
       "title": "How To Use Geographic Analytics in HighLevel",
       "videoId": "DjG_FBfw5II",
@@ -2822,6 +2870,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "djg-fbfw5ii-how-to-use-geographic-analytics-in-highlevel"
+    },
+    {
+      "filename": "djs-dn4j-na-inbound-email-trigger-for-workflows-is-here.md",
+      "title": "Inbound Email Trigger for Workflows is here!",
+      "videoId": "djS_DN4j-nA",
+      "url": "https://www.youtube.com/watch?v=djS_DN4j-nA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:09:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "djs-dn4j-na-inbound-email-trigger-for-workflows-is-here"
     },
     {
       "filename": "djvvpq-wb4-schema-markup-generator-live.md",
@@ -3324,7 +3384,7 @@
       "publishedDate": "2026-04-16T15:00:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ez3lbr-7o1k-seo-for-ai-studio"
     },
     {
@@ -3856,6 +3916,30 @@
       "slug": "g83r-vqplri-big-upgrade-alert-highlevel-s-backend-trigger-flow-enhancements-are-here"
     },
     {
+      "filename": "g8tt5omqxgm-the-highlevel-release-radar-april-13th-april-17th-2026.md",
+      "title": "The HighLevel Release Radar (April 13th - April 17th 2026)",
+      "videoId": "G8TT5omqXgM",
+      "url": "https://www.youtube.com/watch?v=G8TT5omqXgM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-18T07:33:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g8tt5omqxgm-the-highlevel-release-radar-april-13th-april-17th-2026"
+    },
+    {
+      "filename": "g917u66y3m8-affiliate-commission-pay-per-sale-for-forms-surveys-and-calendars-live.md",
+      "title": "Affiliate Commission   Pay Per Sale For Forms, Surveys and Calendars Live!",
+      "videoId": "G917U66y3M8",
+      "url": "https://www.youtube.com/watch?v=G917U66y3M8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:41:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g917u66y3m8-affiliate-commission-pay-per-sale-for-forms-surveys-and-calendars-live"
+    },
+    {
       "filename": "ga1mq6aupte-jarryd-holmes-grow-fast-with-funnels-voice-ai-highlevel.md",
       "title": "Jarryd Holmes – Grow Fast with Funnels, Voice AI + HighLevel",
       "videoId": "gA1MQ6aUPTE",
@@ -4188,7 +4272,7 @@
       "publishedDate": "2026-04-14T14:55:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "he7er0mcv-q-day-2-the-97-digital-product-launch-system"
     },
     {
@@ -4672,18 +4756,6 @@
       "slug": "iyzk54iazry-saaspreneur-workshop-with-frank-kern-day-2"
     },
     {
-      "filename": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships.md",
-      "title": "Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships",
-      "videoId": "j-OKZ2prrro",
-      "url": "https://www.youtube.com/watch?v=j-OKZ2prrro",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-17T04:49:25.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "j-okz2prrro-ashley-bissing-grow-with-networking-ads-amp-client-relationships"
-    },
-    {
       "filename": "j0fgj3zjwbc-how-to-set-up-shipping-profiles-and-zones-in-highlevel.md",
       "title": "How To Set Up Shipping Profiles and Zones in HighLevel",
       "videoId": "J0FgJ3ZJwBc",
@@ -4814,6 +4886,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "jgrqxpe-otu-video-testimonials-live"
+    },
+    {
+      "filename": "jhqffknt2fy-services-v2-category-first-booking.md",
+      "title": "Services v2   Category First Booking",
+      "videoId": "JHQFfkNT2FY",
+      "url": "https://www.youtube.com/watch?v=JHQFfkNT2FY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-18T00:00:18.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "jhqffknt2fy-services-v2-category-first-booking"
     },
     {
       "filename": "jk078uejpqk-highlevel-surveys-and-quizzes-now-supports-persistence.md",
@@ -5354,6 +5438,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "l8zckcksgta-live-video-call-rooms-inside-community-events"
+    },
+    {
+      "filename": "lbxyi7v-m4-we-built-highlevel-so-you-can-have-your-days-back-quote-shorts.md",
+      "title": "We built HighLevel so you can have your days back!   Quote #shorts",
+      "videoId": "_lbxyI7v_m4",
+      "url": "https://www.youtube.com/watch?v=_lbxyI7v_m4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-18T22:03:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lbxyi7v-m4-we-built-highlevel-so-you-can-have-your-days-back-quote-shorts"
     },
     {
       "filename": "ldfukaf2kb0-day-2-upgrade-outdated-businesses-with-ai-highlevel.md",
@@ -5956,6 +6052,18 @@
       "slug": "nhysimfrjiq-company-variables-now-available-in-workflows"
     },
     {
+      "filename": "nil1eoynnls-opportunity-forecasting-is-live.md",
+      "title": "Opportunity Forecasting is Live!",
+      "videoId": "NIL1EoYnnLs",
+      "url": "https://www.youtube.com/watch?v=NIL1EoYnnLs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:08:56.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "nil1eoynnls-opportunity-forecasting-is-live"
+    },
+    {
       "filename": "nizabotxs70-how-keepful-built-an-800k-saas-on-highlevel-and-transformed-the-bookkeeping-industry.md",
       "title": "How Keepful Built an $800K SaaS on HighLevel and Transformed the Bookkeeping Industry",
       "videoId": "nIZaBOTXs70",
@@ -6132,7 +6240,7 @@
       "publishedDate": "2026-04-15T20:26:58.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nyfhpvrvvw0-seo-live-for-ai-studio"
     },
     {
@@ -6292,6 +6400,18 @@
       "slug": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel"
     },
     {
+      "filename": "olxupae9xii-how-to-launch-a-digital-product-and-make-100k-in-30-days-free-workshop-shorts.md",
+      "title": "How to Launch a Digital Product and Make $100K in 30 Days (Free Workshop) #shorts",
+      "videoId": "oLxUPAE9XiI",
+      "url": "https://www.youtube.com/watch?v=oLxUPAE9XiI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T22:05:35.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "olxupae9xii-how-to-launch-a-digital-product-and-make-100k-in-30-days-free-workshop-shorts"
+    },
+    {
       "filename": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow.md",
       "title": "Did you know you can assign projects to teammates in slack with a simple workflow",
       "videoId": "ooc-3WBZ3UA",
@@ -6446,6 +6566,30 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs"
+    },
+    {
+      "filename": "p5voclokbze-agent-log-metrics-upgrade.md",
+      "title": "Agent Log Metrics Upgrade",
+      "videoId": "P5vocLOkbzE",
+      "url": "https://www.youtube.com/watch?v=P5vocLOkbzE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T15:00:53.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "p5voclokbze-agent-log-metrics-upgrade"
+    },
+    {
+      "filename": "p6cna2akxiq-courses-live-sessions-teach-live-right-inside-your-course.md",
+      "title": "Courses Live Sessions — Teach Live, Right Inside Your Course",
+      "videoId": "p6Cna2AKXiQ",
+      "url": "https://www.youtube.com/watch?v=p6Cna2AKXiQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T18:00:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "p6cna2akxiq-courses-live-sessions-teach-live-right-inside-your-course"
     },
     {
       "filename": "p9ryigsltm8-unexpected-benefits-of-being-self-employed-no-one-talks-about-shorts.md",
@@ -6926,6 +7070,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "qogadkhrfzq-highlevel-case-studies-how-churchcandy-scaled-from-zero-to-a-thriving-agency"
+    },
+    {
+      "filename": "qopjpxixaus-funnels-in-courses.md",
+      "title": "Funnels in Courses",
+      "videoId": "QOpjPxiXaUs",
+      "url": "https://www.youtube.com/watch?v=QOpjPxiXaUs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:00:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "qopjpxixaus-funnels-in-courses"
     },
     {
       "filename": "qqjkvzcfumw-from-0-to-780k-how-lorenzo-built-a-thriving-paid-community-on-highlevel.md",
@@ -7540,6 +7696,18 @@
       "slug": "smsds4rvjia-how-to-boost-your-gokollab-community-engagement-through-affiliate-programs"
     },
     {
+      "filename": "socrroqsdsg-field-service-management-inside-highlevel-no-extra-tools-shorts.md",
+      "title": "Field service management inside HighLevel (No extra tools) #shorts",
+      "videoId": "SocrROqSdSg",
+      "url": "https://www.youtube.com/watch?v=SocrROqSdSg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-19T00:24:14.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "socrroqsdsg-field-service-management-inside-highlevel-no-extra-tools-shorts"
+    },
+    {
       "filename": "sp77csl2xv4-clickup-integration-live.md",
       "title": "ClickUp Integration Live!",
       "videoId": "sP77CsL2Xv4",
@@ -7980,7 +8148,7 @@
       "publishedDate": "2026-04-16T23:01:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ts5vn3ljmr0-agent-log-metrics-upgrade"
     },
     {
@@ -8184,7 +8352,7 @@
       "publishedDate": "2026-04-16T15:58:18.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ubc69nbe9-0-did-you-know-you-can-host-paid-communities-directly-in-highlevel"
     },
     {
@@ -8208,7 +8376,7 @@
       "publishedDate": "2026-04-16T18:00:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "uckijunjcw4-conversation-ai-smart-knowledge-base-triggers"
     },
     {
@@ -8740,6 +8908,18 @@
       "slug": "vv8zigsrbqo-ai-builder-39-s-newest-skills-full-workflow-settings-control-amp-naming"
     },
     {
+      "filename": "vwxcha-1zpa-touhid-hasan-field-service-management-in-highlevel.md",
+      "title": "Touhid Hasan: Field Service Management in HighLevel",
+      "videoId": "vWxcHA_1ZPA",
+      "url": "https://www.youtube.com/watch?v=vWxcHA_1ZPA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T14:31:55.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "vwxcha-1zpa-touhid-hasan-field-service-management-in-highlevel"
+    },
+    {
       "filename": "vxkqyrqofvq-highlevel-website-chat-widget-update-notification-sound-option-now-live.md",
       "title": "HighLevel Website Chat Widget Update: Notification Sound Option Now Live!",
       "videoId": "vXKqYRQoFvQ",
@@ -8944,18 +9124,6 @@
       "slug": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel"
     },
     {
-      "filename": "wezzomxowms-levelup-day-restream.md",
-      "title": "LevelUp Day Restream",
-      "videoId": "wezZoMXowMs",
-      "url": "https://www.youtube.com/watch?v=wezZoMXowMs",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-17T17:18:46.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "wezzomxowms-levelup-day-restream"
-    },
-    {
       "filename": "wf5mcjx8yui-prospecting-tool-improvements.md",
       "title": "Prospecting Tool Improvements",
       "videoId": "Wf5McjX8YuI",
@@ -9012,7 +9180,7 @@
       "publishedDate": "2026-04-16T23:01:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "wj-vmze-4ke-course-live-sessions-teach-live-right-inside-your-course"
     },
     {
@@ -9304,6 +9472,18 @@
       "slug": "xakbrxcspl0-conversation-ai-smart-knowledge-base-triggers"
     },
     {
+      "filename": "xc-wtv4ll3y-mcp-in-ai-agent-action-live.md",
+      "title": "MCP in AI Agent Action Live!",
+      "videoId": "XC-wTv4lL3Y",
+      "url": "https://www.youtube.com/watch?v=XC-wTv4lL3Y",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:09:29.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xc-wtv4ll3y-mcp-in-ai-agent-action-live"
+    },
+    {
       "filename": "xcazozdtj-c-how-to-build-an-ai-powered-email-campaign-with-highlevel.md",
       "title": "How To Build an AI Powered Email Campaign with HighLevel",
       "videoId": "xCazOZdTJ_c",
@@ -9470,6 +9650,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xs-9pgl6uaw-did-you-know-you-can-build-a-marketing-scorecard-in-highlevel"
+    },
+    {
+      "filename": "xse39udmjt4-all-in-one-ai-business-platform-unlimited-contacts-clients-amp-more-highlevel-shorts.md",
+      "title": "All-in-One AI Business Platform: unlimited contacts, clients &amp; more | HighLevel #shorts",
+      "videoId": "xSE39uDmJT4",
+      "url": "https://www.youtube.com/watch?v=xSE39uDmJT4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T20:00:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xse39udmjt4-all-in-one-ai-business-platform-unlimited-contacts-clients-amp-more-highlevel-shorts"
     },
     {
       "filename": "xu3j9tkenue-opportunities-duplicate-pipelines-across-sub-accounts.md",
@@ -9796,6 +9988,18 @@
       "slug": "yj-8ugzzdsw-embedded-live-chat-widget"
     },
     {
+      "filename": "yljh-06h-bw-major-agency-billing-reports-update.md",
+      "title": "Major Agency Billing Reports Update!",
+      "videoId": "YLjh_06H-Bw",
+      "url": "https://www.youtube.com/watch?v=YLjh_06H-Bw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-17T21:41:58.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "yljh-06h-bw-major-agency-billing-reports-update"
+    },
+    {
       "filename": "ylxh1oyrhf8-how-to-automate-tasks-with-highlevel-39-s-scheduler-trigger.md",
       "title": "How To Automate Tasks with HighLevel&#39;s Scheduler Trigger",
       "videoId": "yLXH1OyrhF8",
@@ -9912,7 +10116,7 @@
       "publishedDate": "2026-04-16T19:18:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ysn0ujpmaik-your-crm-can-now-answer-your-questions-highlevel-ask-ai-shorts"
     },
     {
@@ -10308,7 +10512,7 @@
       "publishedDate": "2026-04-16T23:02:10.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ztxfa-myrjc-funnels-in-courses-in-live"
     },
     {
@@ -10445,7 +10649,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 833,
+    "fresh": 850,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -10457,7 +10661,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 817,
+        "fresh": 834,
         "warning": 0,
         "expired": 0,
         "unknown": null

@@ -1,14 +1,14 @@
 ---
-title: "Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships"
-video_id: "j-OKZ2prrro"
-url: "https://www.youtube.com/watch?v=j-OKZ2prrro"
-thumbnail: "https://i.ytimg.com/vi/j-OKZ2prrro/hqdefault.jpg"
+title: "Inbound Email Trigger for Workflows is here!"
+video_id: "djS_DN4j-nA"
+url: "https://www.youtube.com/watch?v=djS_DN4j-nA"
+thumbnail: "https://i.ytimg.com/vi/djS_DN4j-nA/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-17T04:49:25.000Z"
+published_date: "2026-04-17T21:09:19.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-19T07:41:31.850Z"
+extracted_at: "2026-04-19T08:04:06.172Z"
 
 ---
 
-# 🟢 Ashley Bissing: Grow with Networking, Ads &amp; Client Relationships
+# 🟢 Inbound Email Trigger for Workflows is here!
 
-**Video ID:** `j-OKZ2prrro`
+**Video ID:** `djS_DN4j-nA`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/17/2025
+**Published:** 4/17/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-19T07:41:31.850Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=j-OKZ2prrro)
-- [📷 Thumbnail](https://i.ytimg.com/vi/j-OKZ2prrro/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=djS_DN4j-nA)
+- [📷 Thumbnail](https://i.ytimg.com/vi/djS_DN4j-nA/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/19/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/19/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
