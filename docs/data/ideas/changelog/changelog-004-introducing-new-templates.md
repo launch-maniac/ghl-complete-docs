@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69daafd79e967176ba0ece18"
+guid: "69e2f1365d5e25eab8afc849"
 author: "Sales &amp; Marketing"
-pubDate: "2026-04-11T20:35:15.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-88"
+pubDate: "2026-04-18T02:55:49.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-89"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-88"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-89"
 index: 4
 ---
 
@@ -17,11 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **1 New Store Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Beauty & Fashion - 1
+Automotive - 1
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Beauty & Fashion - 1
 
 \------------------------------------------------------
 
-Travel & Hospitality - 1
+Automotive - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Travel & Hospitality - 1
 
 \-----------------------------------------------------
 
-Marketing Agency - 1
+Medical - 1
 
 \-----------------------------------------------------
 
@@ -45,7 +45,7 @@ Marketing Agency - 1
 
 \-----------------------------------------------------
 
-Real Estate - 1
+Restaurant & Bar - 1
 
 \-----------------------------------------------------
 
@@ -53,9 +53,9 @@ Real Estate - 1
 
 \-----------------------------------------------------
 
-Other - 2
+Real Estate - 2
 
-Medical - 2
+Restaurant and Bar - 2
 
 \-----------------------------------------------------
 
@@ -63,15 +63,15 @@ Medical - 2
 
 \-----------------------------------------------------
 
-Beauty & Fashion - Tailor
+Home Services - Deck Contractor
 
-Automotive - Emergency Roadside Service
+Health & Wellness - Wellness Retreat
 
-Travel & Hospitality - Cabin Rental
+Finance - Credit Recovery
 
-Restaurant & Bar - Bakery Shop
+Creative - Creative Writer
 
-Real Estate - Title Company
+Business Coaching & Consulting - Private Tutor
 
 \------------------------------------------------------
 
@@ -79,28 +79,28 @@ Real Estate - Title Company
 
 \------------------------------------------------------
 
-Automotive - Car Rental Agency
+Business Coaching & Consulting - Real Estate Consultant
 
-![Bakery Shop - Google Ad](https://canny-assets.io/images/f85838324210828188f14a743bd01725.png)
+![Brake & Muffler Shop - Email](https://canny-assets.io/images/47eab1cbbd62c43f3245d3f5509ab937.png)
 
-![Cabin Rental - Google Ad](https://canny-assets.io/images/cfb3706e9de5f90f85b8ede36ca2493d.png)
+![Car Rental Agency - Website](https://canny-assets.io/images/7edb2c0a59e24df064816f58545266d1.png)
 
-![Cosmetic Clinic - Social Planner](https://canny-assets.io/images/3c457ff109b86afcf1af86e8a17e786f.png)
+![Coffee Shop - Survey](https://canny-assets.io/images/03b79746c649152ac6ac59550fdf99a0.png)
 
-![Emergency Roadside Service - Google Ad](https://canny-assets.io/images/16319dd6fc042f29922000c21c5f1216.png)
+![Commercial Building Inspector - Social Planner](https://canny-assets.io/images/92acdd9c2af15f4c08d17d859bc2cccb.png)
 
-![Event Marketing - Form](https://canny-assets.io/images/9f69c323a228451303ea4be280cfb66b.png)
+![Creative Writer - Google Ad](https://canny-assets.io/images/3a9dc66664e3f7f8d3d8ebabaf4303fc.png)
 
-![Jewelry Shop - Store](https://canny-assets.io/images/8c805619e09b7ed8a35235a8c42cbd89.png)
+![Credit Recovery - Google Ad](https://canny-assets.io/images/11faa0aa407eef81c08e96873473025e.png)
 
-![Recruiting Services - Social Planner](https://canny-assets.io/images/d21abe499e8fa55ec66ec12541021378.png)
+![Deck Contractor - Google Ad](https://canny-assets.io/images/2925e50b8b4b25546e2e0c1055704901.png)
 
-![Short-Term Rental Management - Email](https://canny-assets.io/images/5d9313af3b97418fde03e0d7a17cfa4c.png)
+![Food Truck - Social Planner](https://canny-assets.io/images/0d74f6e3e43b86ef1e2c244105bdf16d.png)
 
-![Tailor - Google Ad](https://canny-assets.io/images/91e38f8db05538fff24c0c8ddeed84e0.png)
+![Medical Hair Loss - Form](https://canny-assets.io/images/40c4954129effcccf0335d9865eef523.png)
 
-![Title Company - Google Ad](https://canny-assets.io/images/9862dcbdc87c592f9939843ce692d22a.png)
+![Private Tutor - Google Ad](https://canny-assets.io/images/61844fa69ce77c7e7c86d97f8abe261a.png)
 
-![Title Company - Survey](https://canny-assets.io/images/27bb996695d3ac54f0b4224331c33996.png)
+![Real Estate Consultant - Snapshot](https://canny-assets.io/images/dbff9b0de66d2e305b335dc874659ea3.png)
 
-![Car Rental Agency - Snapshot](https://canny-assets.io/images/94b54710298070985c589979df086d64.png)
+![Wellness Retreat - Google Ad](https://canny-assets.io/images/24288733edf65b4e9d6f16bb7affd70c.png)
