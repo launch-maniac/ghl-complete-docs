@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69d18a08f8b39061e3c9def2"
+guid: "69e2f1365d5e25eab8afc849"
 author: "Sales &amp; Marketing"
-pubDate: "2026-04-04T22:04:00.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
+pubDate: "2026-04-18T02:55:49.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-89"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-87"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-89"
 index: 3
 ---
 
@@ -29,7 +29,7 @@ Automotive - 1
 
 \------------------------------------------------------
 
-Restaurant & Bar -1
+Automotive - 1
 
 \-----------------------------------------------------
 
@@ -37,7 +37,7 @@ Restaurant & Bar -1
 
 \-----------------------------------------------------
 
-Legal - 1
+Medical - 1
 
 \-----------------------------------------------------
 
@@ -45,29 +45,33 @@ Legal - 1
 
 \-----------------------------------------------------
 
-Medical - 1
+Restaurant & Bar - 1
 
 \-----------------------------------------------------
 
-🚀 **2 New Social Templates Published** 🚀
+🚀 **4 New Social Templates Published** 🚀
 
 \-----------------------------------------------------
 
-Marketing Agency - 1
+Real Estate - 2
 
-Legal - 1
-
-\-----------------------------------------------------
-
-🚀 **3 New Google Ad Templates Published** 🚀
+Restaurant and Bar - 2
 
 \-----------------------------------------------------
 
-Other - 1
+🚀 **5 New Google Ad Templates Published** 🚀
 
-Medical - 1
+\-----------------------------------------------------
 
-Marketing Agency - 1
+Home Services - Deck Contractor
+
+Health & Wellness - Wellness Retreat
+
+Finance - Credit Recovery
+
+Creative - Creative Writer
+
+Business Coaching & Consulting - Private Tutor
 
 \------------------------------------------------------
 
@@ -75,24 +79,28 @@ Marketing Agency - 1
 
 \------------------------------------------------------
 
-Beauty & Fashion - Jewelry Shop
+Business Coaching & Consulting - Real Estate Consultant
 
-![Banquet - Email](https://canny-assets.io/images/798dbe42534f48950e5799a193bdc05b.png)
+![Brake & Muffler Shop - Email](https://canny-assets.io/images/47eab1cbbd62c43f3245d3f5509ab937.png)
 
-![Dermatology - Survey](https://canny-assets.io/images/e24bb98228bc8209a7c2155c2c47e4d3.png)
+![Car Rental Agency - Website](https://canny-assets.io/images/7edb2c0a59e24df064816f58545266d1.png)
 
-![Intellectual Property Law Firm - Form](https://canny-assets.io/images/10e38546ccad128f505b7906ff091ebe.png)
+![Coffee Shop - Survey](https://canny-assets.io/images/03b79746c649152ac6ac59550fdf99a0.png)
 
-![Tire Shop - Website](https://canny-assets.io/images/509f7e10e1ee6f2b28f4784115fa7ddc.jpeg)
+![Commercial Building Inspector - Social Planner](https://canny-assets.io/images/92acdd9c2af15f4c08d17d859bc2cccb.png)
 
-![Affiliate Marketing Agency - Social](https://canny-assets.io/images/7996d570ccdd1d816bd394d0e2d928f3.png)
+![Creative Writer - Google Ad](https://canny-assets.io/images/3a9dc66664e3f7f8d3d8ebabaf4303fc.png)
 
-![Dog Trainer - Google Ad](https://canny-assets.io/images/86b8a7f9d617b0763a461bb43c328588.png)
+![Credit Recovery - Google Ad](https://canny-assets.io/images/11faa0aa407eef81c08e96873473025e.png)
 
-![Jewelry Shop - Snapshot](https://canny-assets.io/images/55bd245610a4be50bce9480b2378080f.png)
+![Deck Contractor - Google Ad](https://canny-assets.io/images/2925e50b8b4b25546e2e0c1055704901.png)
 
-![Mediation Services - Social](https://canny-assets.io/images/69c8031f48377f43ab4d1491012d19b0.png)
+![Food Truck - Social Planner](https://canny-assets.io/images/0d74f6e3e43b86ef1e2c244105bdf16d.png)
 
-![Physical Therapy Clinic - Google Ad](https://canny-assets.io/images/1440703fcb89123bc0427768f6b103f5.png)
+![Medical Hair Loss - Form](https://canny-assets.io/images/40c4954129effcccf0335d9865eef523.png)
 
-![Workflow Automation - Google Ad](https://canny-assets.io/images/21203c677df15fcbbe5851edc93b397e.png)
+![Private Tutor - Google Ad](https://canny-assets.io/images/61844fa69ce77c7e7c86d97f8abe261a.png)
+
+![Real Estate Consultant - Snapshot](https://canny-assets.io/images/dbff9b0de66d2e305b335dc874659ea3.png)
+
+![Wellness Retreat - Google Ad](https://canny-assets.io/images/24288733edf65b4e9d6f16bb7affd70c.png)
