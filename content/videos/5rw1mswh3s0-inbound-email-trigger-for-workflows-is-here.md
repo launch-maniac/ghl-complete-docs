@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - The $97 Digital Product Launch System"
-video_id: "7wea1UjOqWk"
-url: "https://www.youtube.com/watch?v=7wea1UjOqWk"
-thumbnail: "https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg"
+title: "Inbound Email Trigger for Workflows Is Here"
+video_id: "5rW1MSwH3S0"
+url: "https://www.youtube.com/watch?v=5rW1MSwH3S0"
+thumbnail: "https://i.ytimg.com/vi/5rW1MSwH3S0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-20T17:45:56.000Z"
+published_date: "2026-04-20T18:00:12.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-22T08:13:04.743Z"
+extracted_at: "2026-04-22T08:13:04.577Z"
 
 ---
 
-# 🟢 Day 1 - The $97 Digital Product Launch System
+# 🟢 Inbound Email Trigger for Workflows Is Here
 
-**Video ID:** `7wea1UjOqWk`
+**Video ID:** `5rW1MSwH3S0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/20/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-22T08:13:04.743Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7wea1UjOqWk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=5rW1MSwH3S0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/5rW1MSwH3S0/hqdefault.jpg)
 
 
 ## Content Guidelines

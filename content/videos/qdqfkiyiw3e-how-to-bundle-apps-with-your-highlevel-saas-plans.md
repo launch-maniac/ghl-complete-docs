@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - The $97 Digital Product Launch System"
-video_id: "7wea1UjOqWk"
-url: "https://www.youtube.com/watch?v=7wea1UjOqWk"
-thumbnail: "https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg"
+title: "How to bundle apps with your HighLevel SaaS plans"
+video_id: "QdQFkIYiW3E"
+url: "https://www.youtube.com/watch?v=QdQFkIYiW3E"
+thumbnail: "https://i.ytimg.com/vi/QdQFkIYiW3E/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-20T17:45:56.000Z"
+published_date: "2026-04-20T22:04:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-22T08:13:04.743Z"
+extracted_at: "2026-04-22T08:13:03.980Z"
 
 ---
 
-# 🟢 Day 1 - The $97 Digital Product Launch System
+# 🟢 How to bundle apps with your HighLevel SaaS plans
 
-**Video ID:** `7wea1UjOqWk`
+**Video ID:** `QdQFkIYiW3E`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/20/2026
@@ -30,7 +30,7 @@ extracted_at: "2026-04-22T08:13:04.743Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-22T08:13:04.743Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7wea1UjOqWk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=QdQFkIYiW3E)
+- [📷 Thumbnail](https://i.ytimg.com/vi/QdQFkIYiW3E/hqdefault.jpg)
 
 
 ## Content Guidelines

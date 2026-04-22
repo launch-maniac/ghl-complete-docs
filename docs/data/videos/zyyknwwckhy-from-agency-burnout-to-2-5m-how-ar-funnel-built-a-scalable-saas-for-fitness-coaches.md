@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - The $97 Digital Product Launch System"
-video_id: "7wea1UjOqWk"
-url: "https://www.youtube.com/watch?v=7wea1UjOqWk"
-thumbnail: "https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg"
+title: "From agency burnout to $2.5M: How AR Funnel built a scalable SaaS for fitness coaches"
+video_id: "ZYYknWwCKhY"
+url: "https://www.youtube.com/watch?v=ZYYknWwCKhY"
+thumbnail: "https://i.ytimg.com/vi/ZYYknWwCKhY/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-20T17:45:56.000Z"
+published_date: "2026-04-20T15:44:05.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-22T08:13:04.743Z"
+extracted_at: "2026-04-22T08:13:05.128Z"
 
 ---
 
-# 🟢 Day 1 - The $97 Digital Product Launch System
+# 🟢 From agency burnout to $2.5M: How AR Funnel built a scalable SaaS for fitness coaches
 
-**Video ID:** `7wea1UjOqWk`
+**Video ID:** `ZYYknWwCKhY`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/20/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-22T08:13:04.743Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7wea1UjOqWk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZYYknWwCKhY)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZYYknWwCKhY/hqdefault.jpg)
 
 
 ## Content Guidelines

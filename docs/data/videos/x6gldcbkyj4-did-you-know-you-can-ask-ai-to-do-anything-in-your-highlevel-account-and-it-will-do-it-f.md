@@ -1,10 +1,10 @@
 ---
-title: "Day 1 - The $97 Digital Product Launch System"
-video_id: "7wea1UjOqWk"
-url: "https://www.youtube.com/watch?v=7wea1UjOqWk"
-thumbnail: "https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg"
+title: "Did You Know You Can Ask AI to Do Anything in Your HighLevel Account, and It Will Do It for You?"
+video_id: "x6gLdCbKYJ4"
+url: "https://www.youtube.com/watch?v=x6gLdCbKYJ4"
+thumbnail: "https://i.ytimg.com/vi/x6gLdCbKYJ4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-20T17:45:56.000Z"
+published_date: "2026-04-20T16:24:46.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.1 months old (fresh)"
 content_category: "standard"
@@ -16,13 +16,13 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-22T08:13:04.743Z"
+extracted_at: "2026-04-22T08:13:04.917Z"
 
 ---
 
-# 🟢 Day 1 - The $97 Digital Product Launch System
+# 🟢 Did You Know You Can Ask AI to Do Anything in Your HighLevel Account, and It Will Do It for You?
 
-**Video ID:** `7wea1UjOqWk`
+**Video ID:** `x6gLdCbKYJ4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 4/20/2026
@@ -47,8 +47,8 @@ extracted_at: "2026-04-22T08:13:04.743Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=7wea1UjOqWk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/7wea1UjOqWk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x6gLdCbKYJ4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/x6gLdCbKYJ4/hqdefault.jpg)
 
 
 ## Content Guidelines

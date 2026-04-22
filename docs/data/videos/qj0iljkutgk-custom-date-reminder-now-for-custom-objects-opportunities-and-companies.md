@@ -1,14 +1,14 @@
 ---
-title: "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "u6VCeB7PlX4"
-url: "https://www.youtube.com/watch?v=u6VCeB7PlX4"
-thumbnail: "https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg"
+title: "Custom Date Reminder  Now for Custom Objects, Opportunities and Companies!"
+video_id: "qJ0ILjkuTGk"
+url: "https://www.youtube.com/watch?v=qJ0ILjkuTGk"
+thumbnail: "https://i.ytimg.com/vi/qJ0ILjkuTGk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-20T19:19:22.000Z"
+published_date: "2026-04-21T22:17:18.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-25T07:42:07.929Z"
+extracted_at: "2026-04-22T08:13:01.199Z"
 
 ---
 
-# 🟢 Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Custom Date Reminder  Now for Custom Objects, Opportunities and Companies!
 
-**Video ID:** `u6VCeB7PlX4`
+**Video ID:** `qJ0ILjkuTGk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/20/2025
+**Published:** 4/21/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-25T07:42:07.929Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=u6VCeB7PlX4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/u6VCeB7PlX4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=qJ0ILjkuTGk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/qJ0ILjkuTGk/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/25/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/22/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
