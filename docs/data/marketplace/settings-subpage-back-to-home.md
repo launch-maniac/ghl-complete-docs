@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-04-21T18:25:59.005Z"
+extracted_at: "2026-04-22T06:40:14.164Z"
 ---
 
 # Hi, how can we help you?
@@ -174,17 +174,17 @@ Modified on Sun, 3 Aug, 2025 at 6:12 AM
 
 ](/support/solutions/articles/48001223546-what-is-lc-lead-connector-phone-system-)[
 
-How to set up Root Domain/Subdomain for your Funnels/Websites?
-
-Modified on Thu, 18 Dec, 2025 at 6:36 AM
-
-](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
-
 HighLevel Pricing Guide
 
 Modified on Mon, 30 Mar at 7:03 AM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
+
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+
+Modified on Thu, 18 Dec, 2025 at 6:36 AM
+
+](/support/solutions/articles/48001153720-how-to-set-up-root-domain-subdomain-for-your-funnels-websites-)[
 
 How do I find my Client's Location ID?
 
