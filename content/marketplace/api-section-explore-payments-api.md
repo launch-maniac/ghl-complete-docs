@@ -3,7 +3,7 @@ title: "Explore Payments API →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/ghl/payments/integrations"
-extracted_at: "2026-04-24T15:33:22.697Z"
+extracted_at: "2026-04-24T18:20:44.005Z"
 ---
 
 -   [](/docs/)
