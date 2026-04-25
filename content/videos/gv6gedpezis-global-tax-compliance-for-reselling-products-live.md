@@ -1,14 +1,14 @@
 ---
-title: "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert"
-video_id: "4bFQG-BpMSw"
-url: "https://www.youtube.com/watch?v=4bFQG-BpMSw"
-thumbnail: "https://i.ytimg.com/vi/4bFQG-BpMSw/hqdefault.jpg"
+title: "Global Tax Compliance for Reselling Products Live!"
+video_id: "gV6geDPEzIs"
+url: "https://www.youtube.com/watch?v=gV6geDPEzIs"
+thumbnail: "https://i.ytimg.com/vi/gV6geDPEzIs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-23T20:15:09.000Z"
+published_date: "2026-04-24T22:10:49.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-26T07:41:20.371Z"
+extracted_at: "2026-04-25T07:58:41.608Z"
 
 ---
 
-# 🟢 Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert
+# 🟢 Global Tax Compliance for Reselling Products Live!
 
-**Video ID:** `4bFQG-BpMSw`
+**Video ID:** `gV6geDPEzIs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/23/2025
+**Published:** 4/24/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-26T07:41:20.371Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4bFQG-BpMSw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4bFQG-BpMSw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gV6geDPEzIs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/gV6geDPEzIs/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/26/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

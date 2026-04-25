@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T08:15:02.474Z",
+  "generated": "2026-04-25T07:58:50.012Z",
   "stats": {
     "channels": 1,
-    "videos": 36,
+    "videos": 27,
     "playlists": 0,
-    "expired": 2,
+    "expired": 12,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 36
+    "transcriptsFailed": 27
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -784,18 +784,6 @@
       "slug": "44uep5wx0b8-advanced-tag-filtering-in-triggers-live"
     },
     {
-      "filename": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert.md",
-      "title": "Day 2 - Build Your AI Sales Team: Track, Follow Up, Convert",
-      "videoId": "4bFQG-BpMSw",
-      "url": "https://www.youtube.com/watch?v=4bFQG-BpMSw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-23T20:15:09.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "4bfqg-bpmsw-day-2-build-your-ai-sales-team-track-follow-up-convert"
-    },
-    {
       "filename": "4bqgnvtg-g8-public-apis-for-ai-agent-studio.md",
       "title": "Public APIs for AI Agent Studio",
       "videoId": "4bQGnVtG-G8",
@@ -1464,7 +1452,7 @@
       "publishedDate": "2026-04-20T17:45:56.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "7wea1ujoqwk-day-1-the-97-digital-product-launch-system"
     },
     {
@@ -1728,7 +1716,7 @@
       "publishedDate": "2026-04-22T23:02:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "9ffxwjb1f4q-best-ai-tool-for-agencies-and-small-businesses-2026-shorts"
     },
     {
@@ -1898,6 +1886,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "abnxrtl9es4-the-biggest-myths-about-entrepreneurship-debunked-shorts"
+    },
+    {
+      "filename": "advtwyuhp-c-the-97-digital-product-launch-system-day-2.md",
+      "title": "The $97 Digital Product Launch System Day 2",
+      "videoId": "AdvTWYuHp-c",
+      "url": "https://www.youtube.com/watch?v=AdvTWYuHp-c",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T15:36:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "advtwyuhp-c-the-97-digital-product-launch-system-day-2"
     },
     {
       "filename": "aec6dhez4pk-highlevel-case-study-churchcandy.md",
@@ -2452,18 +2452,6 @@
       "slug": "bxejvoo1iaa-monday-com-integration-with-workflow-triggers-amp-actions"
     },
     {
-      "filename": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel.md",
-      "title": "Karina Correa: Voice &amp; Chat AI for Growth with HighLevel",
-      "videoId": "BYm0e46nFmw",
-      "url": "https://www.youtube.com/watch?v=BYm0e46nFmw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-24T13:58:04.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "bym0e46nfmw-karina-correa-voice-amp-chat-ai-for-growth-with-highlevel"
-    },
-    {
       "filename": "bzh4yqwtrts-use-whatsapp-in-highlevel-to-boost-engagement.md",
       "title": "Use WhatsApp in HighLevel to Boost Engagement",
       "videoId": "bzH4yQwTrTs",
@@ -2688,7 +2676,7 @@
       "publishedDate": "2026-04-22T22:16:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "coqkekqqbxa-printful-auto-shipping-profile-amp-live-rates-at-checkout-live"
     },
     {
@@ -2738,6 +2726,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "cqpumgzuqoy-folders-for-ai-agents-live"
+    },
+    {
+      "filename": "cr93yl-ceey-ads-manager-api-live.md",
+      "title": "Ads Manager API Live!",
+      "videoId": "cr93Yl-CEeY",
+      "url": "https://www.youtube.com/watch?v=cr93Yl-CEeY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T22:12:16.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cr93yl-ceey-ads-manager-api-live"
     },
     {
       "filename": "cvfd-sumztu-opportunities-duplicate-pipelines-across-sub-accounts-live.md",
@@ -2884,6 +2884,18 @@
       "slug": "d3r7jsb51rc-did-you-know-you-can-auto-generate-sales-funnels-with-ai-powered-copy"
     },
     {
+      "filename": "d6rxaqnjloe-opportunity-smart-lists.md",
+      "title": "Opportunity Smart Lists",
+      "videoId": "d6rxaqNjLoE",
+      "url": "https://www.youtube.com/watch?v=d6rxaqNjLoE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T18:00:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "d6rxaqnjloe-opportunity-smart-lists"
+    },
+    {
       "filename": "d6szzzjhvai-did-you-know-you-can-jumpstart-your-business-using-our-template-library.md",
       "title": "Did You Know You Can Jumpstart Your Business Using Our Template Library",
       "videoId": "D6SZzzjHvAI",
@@ -3024,7 +3036,7 @@
       "publishedDate": "2026-04-23T00:00:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "dkx1d7jqhmk-custom-date-reminder-now-for-custom-objects-opportunities-and-companies"
     },
     {
@@ -3468,7 +3480,7 @@
       "publishedDate": "2026-04-22T22:14:44.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "euese2dghaq-ai-studio-is-now-multilingual"
     },
     {
@@ -3480,7 +3492,7 @@
       "publishedDate": "2026-04-22T22:17:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "euh-xez3cpo-custom-object-templates-pre-built-industry-templates-for-faster-setup"
     },
     {
@@ -3504,7 +3516,7 @@
       "publishedDate": "2026-04-22T18:00:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ewfi3o-ckqa-tax-support-in-courses-checkout"
     },
     {
@@ -3573,7 +3585,7 @@
       "videoId": "ezsBbqK1hCc",
       "url": "https://www.youtube.com/watch?v=ezsBbqK1hCc",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-21T21:08:03.000Z",
+      "publishedDate": "2026-04-24T05:19:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -3638,18 +3650,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "f6hwvzosoue-did-you-know-you-can-clone-entire-client-setups-using-highlevel-snapshots"
-    },
-    {
-      "filename": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge.md",
-      "title": "Day 5 - Five Day AI Employee Challenge",
-      "videoId": "F6ib67HW6Aw",
-      "url": "https://www.youtube.com/watch?v=F6ib67HW6Aw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-22T19:38:00.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.3",
-      "slug": "f6ib67hw6aw-day-5-five-day-ai-employee-challenge"
     },
     {
       "filename": "f73fighm4ys-did-you-know-highlevel-can-remind-your-customers-of-appointments-by-email-text-or-voicem.md",
@@ -4032,7 +4032,7 @@
       "publishedDate": "2026-04-22T21:00:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fyslqvsd7ly-automatic-form-capture-on-any-website-zero-setup"
     },
     {
@@ -4334,6 +4334,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "gv5uxlkkff4-how-to-use-manual-and-smart-collections-in-highlevel-ecommerce-stores"
+    },
+    {
+      "filename": "gv6gedpezis-global-tax-compliance-for-reselling-products-live.md",
+      "title": "Global Tax Compliance for Reselling Products Live!",
+      "videoId": "gV6geDPEzIs",
+      "url": "https://www.youtube.com/watch?v=gV6geDPEzIs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T22:10:49.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "gv6gedpezis-global-tax-compliance-for-reselling-products-live"
     },
     {
       "filename": "gvqckzol1ow-site-analytics-average-time-on-page-stats.md",
@@ -4696,6 +4708,18 @@
       "slug": "hvbge-tn0u-untitled"
     },
     {
+      "filename": "hzmxjikaop0-social-planner-comment-management-now-supports-communities.md",
+      "title": "Social Planner – Comment Management now supports Communities!",
+      "videoId": "hzmXjIkAop0",
+      "url": "https://www.youtube.com/watch?v=hzmXjIkAop0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T22:08:40.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "hzmxjikaop0-social-planner-comment-management-now-supports-communities"
+    },
+    {
       "filename": "i1tz3ymis-0-ai-builder-39-s-newest-skills-full-workflow-settings-control-amp-naming.md",
       "title": "AI Builder&#39;s Newest Skills  Full Workflow Settings Control &amp; Naming",
       "videoId": "I1tz3yMIs-0",
@@ -4718,6 +4742,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "i381qm-p20-did-you-know-you-can-sell-ai-powered-services-with-highlevel"
+    },
+    {
+      "filename": "i3qvnuv5nnk-sell-templates-in-the-marketplace-now-live.md",
+      "title": "Sell Templates in the Marketplace Now Live!",
+      "videoId": "i3qvnUV5nnk",
+      "url": "https://www.youtube.com/watch?v=i3qvnUV5nnk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T22:07:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "critical",
+      "ageInMonths": "0.0",
+      "slug": "i3qvnuv5nnk-sell-templates-in-the-marketplace-now-live"
     },
     {
       "filename": "i3rxka-ydnk-how-to-use-the-advanced-workflow-builder-an-introduction-guide.md",
@@ -4838,6 +4874,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "iggctrs4yus-how-to-merge-contacts-in-highlevel-workflows"
+    },
+    {
+      "filename": "ihdcwel8sfe-printful-auto-shipping-profile-and-live-rates-at-checkout.md",
+      "title": "Printful Auto Shipping Profile and Live Rates at Checkout",
+      "videoId": "ihDcWEL8SfE",
+      "url": "https://www.youtube.com/watch?v=ihDcWEL8SfE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-25T00:01:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ihdcwel8sfe-printful-auto-shipping-profile-and-live-rates-at-checkout"
     },
     {
       "filename": "ihlwudfo3wk-auto-ai-follow-up-live-in-flow-builder.md",
@@ -4980,7 +5028,7 @@
       "publishedDate": "2026-04-22T15:00:35.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ivyeuqmnhda-new-community-course-in-person-networking"
     },
     {
@@ -5030,6 +5078,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "j4lcvlovqy-conversation-views-save-filters-work-faster"
+    },
+    {
+      "filename": "j6l-unf6yr0-whatsapp-calling.md",
+      "title": "WhatsApp Calling",
+      "videoId": "J6L_uNf6yr0",
+      "url": "https://www.youtube.com/watch?v=J6L_uNf6yr0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T15:00:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "j6l-unf6yr0-whatsapp-calling"
     },
     {
       "filename": "j8g857w37i-white-label-desktop-app-is-live.md",
@@ -6000,7 +6060,7 @@
       "publishedDate": "2026-04-21T20:58:14.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mddr8bxg9cg-andrew-brockenbush-build-a-systems-driven-agency-with-highlevel"
     },
     {
@@ -6098,18 +6158,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "mlw1uv9tulq-google-sheets-now-work-with-ai-agents"
-    },
-    {
-      "filename": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert.md",
-      "title": "Day 1 - Build Your AI Sales Team: Track, Follow Up, Convert",
-      "videoId": "mn7dKUzhbg4",
-      "url": "https://www.youtube.com/watch?v=mn7dKUzhbg4",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-23T20:14:20.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "mn7dkuzhbg4-day-1-build-your-ai-sales-team-track-follow-up-convert"
     },
     {
       "filename": "mndgzf5kzv4-reputation-widgets-speed-upgrade.md",
@@ -6676,6 +6724,18 @@
       "slug": "oll-gb1-x4-how-to-set-up-recurring-webinars-in-highlevel"
     },
     {
+      "filename": "ollvxqxg2dy-mobile-app-speed-improvements-v4-13-1-or-later.md",
+      "title": "Mobile App Speed Improvements! v4 13 1 or later!",
+      "videoId": "OLlVXQXg2DY",
+      "url": "https://www.youtube.com/watch?v=OLlVXQXg2DY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T22:10:00.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ollvxqxg2dy-mobile-app-speed-improvements-v4-13-1-or-later"
+    },
+    {
       "filename": "olxupae9xii-how-to-launch-a-digital-product-and-make-100k-in-30-days-free-workshop-shorts.md",
       "title": "How to Launch a Digital Product and Make $100K in 30 Days (Free Workshop) #shorts",
       "videoId": "oLxUPAE9XiI",
@@ -6856,6 +6916,18 @@
       "slug": "p0jqjzylheg-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs"
     },
     {
+      "filename": "p0qkwa1ltby-the-97-digital-product-launch-system-day-1.md",
+      "title": "The $97 Digital Product Launch System Day 1",
+      "videoId": "p0qkWa1LTBY",
+      "url": "https://www.youtube.com/watch?v=p0qkWa1LTBY",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T15:35:10.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.1",
+      "slug": "p0qkwa1ltby-the-97-digital-product-launch-system-day-1"
+    },
+    {
       "filename": "p5voclokbze-agent-log-metrics-upgrade.md",
       "title": "Agent Log Metrics Upgrade",
       "videoId": "P5vocLOkbzE",
@@ -6914,18 +6986,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.3",
       "slug": "pdxvegcg6ze-did-you-know-you-can-send-external-data-into-highlevel-automatically"
-    },
-    {
-      "filename": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel.md",
-      "title": "Web Design to Recurring Revenue with HighLevel",
-      "videoId": "pEFFQdgF3PM",
-      "url": "https://www.youtube.com/watch?v=pEFFQdgF3PM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-24T05:17:47.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.5",
-      "slug": "peffqdgf3pm-web-design-to-recurring-revenue-with-highlevel"
     },
     {
       "filename": "pfon-xno080-did-you-know-you-can-run-all-your-socials-from-the-highlevel-mobile-app.md",
@@ -7672,18 +7732,6 @@
       "slug": "redmtab3cgi-voice-ai-more-voices-more-languages-amp-elevenlabs-import-live"
     },
     {
-      "filename": "rejar47m0vq-day-3-five-day-ai-employee-challenge.md",
-      "title": "Day 3 - Five Day AI Employee Challenge",
-      "videoId": "REJAR47m0vQ",
-      "url": "https://www.youtube.com/watch?v=REJAR47m0vQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-22T19:34:13.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "rejar47m0vq-day-3-five-day-ai-employee-challenge"
-    },
-    {
       "filename": "rf6rcpcwu2a-get-barbershop-reviews-reactivations-amp-bookings-on-autopilot.md",
       "title": "Get Barbershop Reviews, Reactivations &amp; Bookings on Autopilot",
       "videoId": "rF6RcPCwu2A",
@@ -7840,6 +7888,18 @@
       "slug": "rtatxcweg6e-highlevel-live-india-get-your-tickets-today"
     },
     {
+      "filename": "ruf-3yshtlk-custom-object-templates-pre-built-industry-templates-for-faster-setup.md",
+      "title": "Custom Object Templates  Pre Built Industry Templates for Faster Setup",
+      "videoId": "RuF_3ySHtLk",
+      "url": "https://www.youtube.com/watch?v=RuF_3ySHtLk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T21:00:27.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "ruf-3yshtlk-custom-object-templates-pre-built-industry-templates-for-faster-setup"
+    },
+    {
       "filename": "rz9tgzfnsqg-6-figures-from-10-clients-with-highlevel.md",
       "title": "6 Figures from 10 Clients with HighLevel",
       "videoId": "Rz9tgZFnSQg",
@@ -7946,6 +8006,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "siamntkzu-g-agency-client-acquisition-formula"
+    },
+    {
+      "filename": "sic-a2zpufi-voice-ai-22-new-languages-amp-voice-model-picker-live.md",
+      "title": "Voice AI  22 New Languages &amp; Voice Model Picker Live!",
+      "videoId": "sIc_a2zPUfI",
+      "url": "https://www.youtube.com/watch?v=sIc_a2zPUfI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-23T22:11:21.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "sic-a2zpufi-voice-ai-22-new-languages-amp-voice-model-picker-live"
     },
     {
       "filename": "sirhvkjvm-c-contact-page-customization-live.md",
@@ -8676,7 +8748,7 @@
       "publishedDate": "2026-04-22T22:15:55.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ubggnoqqgha-opportunity-smart-lists-live"
     },
     {
@@ -8894,6 +8966,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "uthvxbb7c4m-what-you-can-do-in-14-days-with-highlevel-shorts"
+    },
+    {
+      "filename": "uwnz-ern4l0-your-crm-can-now-answer-your-questions-highlevel-ask-ai-shorts.md",
+      "title": "Your CRM can now answer your questions 💬 | HighLevel Ask AI #shorts",
+      "videoId": "uWNZ-ERn4l0",
+      "url": "https://www.youtube.com/watch?v=uWNZ-ERn4l0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-24T21:45:22.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "uwnz-ern4l0-your-crm-can-now-answer-your-questions-highlevel-ask-ai-shorts"
     },
     {
       "filename": "uzis06cq-aq-how-to-configure-agent-studio-triggers-in-highlevel.md",
@@ -9326,6 +9410,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "w2pgqzp9q-o-ayden-payments-now-live-inside-highlevel-cards-eu-amp-north-america"
+    },
+    {
+      "filename": "w3nbiafyhsw-the-highlevel-release-radar-april-20th-april-24th-2026.md",
+      "title": "The HighLevel Release Radar (April 20th - April 24th 2026)",
+      "videoId": "W3nBIAfyHSw",
+      "url": "https://www.youtube.com/watch?v=W3nBIAfyHSw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-25T07:04:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "w3nbiafyhsw-the-highlevel-release-radar-april-20th-april-24th-2026"
     },
     {
       "filename": "w3oopxkw2by-associations-between-companies-opportunities-amp-custom-objects.md",
@@ -10200,7 +10296,7 @@
       "publishedDate": "2026-04-22T00:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "y9hsrqusgqq-sell-smarter-in-latam-with-mercado-pago-payments"
     },
     {
@@ -11045,19 +11141,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 883,
+    "fresh": 891,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 4,
+        "fresh": 5,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 867,
+        "fresh": 874,
         "warning": 0,
         "expired": 0,
         "unknown": null

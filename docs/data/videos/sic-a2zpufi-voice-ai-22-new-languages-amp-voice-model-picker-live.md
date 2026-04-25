@@ -1,14 +1,14 @@
 ---
-title: "Web Design to Recurring Revenue with HighLevel"
-video_id: "pEFFQdgF3PM"
-url: "https://www.youtube.com/watch?v=pEFFQdgF3PM"
-thumbnail: "https://i.ytimg.com/vi/pEFFQdgF3PM/hqdefault.jpg"
+title: "Voice AI  22 New Languages &amp; Voice Model Picker Live!"
+video_id: "sIc_a2zPUfI"
+url: "https://www.youtube.com/watch?v=sIc_a2zPUfI"
+thumbnail: "https://i.ytimg.com/vi/sIc_a2zPUfI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-24T05:17:47.000Z"
+published_date: "2026-04-23T22:11:21.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.5 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.5"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-07T07:44:13.923Z"
+extracted_at: "2026-04-25T07:58:42.745Z"
 
 ---
 
-# 🟢 Web Design to Recurring Revenue with HighLevel
+# 🟢 Voice AI  22 New Languages &amp; Voice Model Picker Live!
 
-**Video ID:** `pEFFQdgF3PM`
+**Video ID:** `sIc_a2zPUfI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/24/2025
+**Published:** 4/23/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.5 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-07T07:44:13.923Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=pEFFQdgF3PM)
-- [📷 Thumbnail](https://i.ytimg.com/vi/pEFFQdgF3PM/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=sIc_a2zPUfI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/sIc_a2zPUfI/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/7/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/25/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
