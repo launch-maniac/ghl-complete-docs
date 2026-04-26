@@ -1,10 +1,10 @@
 ---
-title: "Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel"
-video_id: "mDDr8BxG9Cg"
-url: "https://www.youtube.com/watch?v=mDDr8BxG9Cg"
-thumbnail: "https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault.jpg"
+title: "Your story is the most powerful tool you have | HighLevel #shorts"
+video_id: "52txCvZpHsk"
+url: "https://www.youtube.com/watch?v=52txCvZpHsk"
+thumbnail: "https://i.ytimg.com/vi/52txCvZpHsk/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-26T05:10:54.000Z"
+published_date: "2026-04-25T22:03:24.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-26T08:05:49.263Z"
+extracted_at: "2026-04-26T08:05:49.415Z"
 
 ---
 
-# 🟢 Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel
+# 🟢 Your story is the most powerful tool you have | HighLevel #shorts
 
-**Video ID:** `mDDr8BxG9Cg`
+**Video ID:** `52txCvZpHsk`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/26/2026
+**Published:** 4/25/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-04-26T08:05:49.263Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mDDr8BxG9Cg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=52txCvZpHsk)
+- [📷 Thumbnail](https://i.ytimg.com/vi/52txCvZpHsk/hqdefault.jpg)
 
 
 ## Content Guidelines

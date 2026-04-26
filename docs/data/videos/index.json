@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-25T07:58:50.012Z",
+  "generated": "2026-04-26T08:05:57.048Z",
   "stats": {
     "channels": 1,
-    "videos": 27,
+    "videos": 19,
     "playlists": 0,
-    "expired": 12,
+    "expired": 14,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 27
+    "transcriptsFailed": 19
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -950,6 +950,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "50upotmf9oc-day-2-five-day-challenge"
+    },
+    {
+      "filename": "52txcvzphsk-your-story-is-the-most-powerful-tool-you-have-highlevel-shorts.md",
+      "title": "Your story is the most powerful tool you have | HighLevel #shorts",
+      "videoId": "52txCvZpHsk",
+      "url": "https://www.youtube.com/watch?v=52txCvZpHsk",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-25T22:03:24.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "52txcvzphsk-your-story-is-the-most-powerful-tool-you-have-highlevel-shorts"
     },
     {
       "filename": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed.md",
@@ -2892,7 +2904,7 @@
       "publishedDate": "2026-04-24T18:00:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d6rxaqnjloe-opportunity-smart-lists"
     },
     {
@@ -3182,18 +3194,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "dxjcxzgrnny-ai-studio-code-editor-is-live"
-    },
-    {
-      "filename": "dynrsohdpiu-automatic-seo-now-live-for-external-sites.md",
-      "title": "Automatic SEO Now Live for External Sites!",
-      "videoId": "DynrsOhDPIU",
-      "url": "https://www.youtube.com/watch?v=DynrsOhDPIU",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:43:41.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "dynrsohdpiu-automatic-seo-now-live-for-external-sites"
     },
     {
       "filename": "dzbij2tmous-a-little-birdie-told-us-why-agencies-are-switching-to-highlevel-shorts.md",
@@ -3588,7 +3588,7 @@
       "publishedDate": "2026-04-24T05:19:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ezsbbqk1hcc-snapshot-masterclass-build-smarter-with-highlevel"
     },
     {
@@ -4540,30 +4540,6 @@
       "slug": "hefhkzxmz18-untitled-shorts"
     },
     {
-      "filename": "hekfqly173k-feature-update-public-apis-for-highlevel-ai-agent-studio-now-live.md",
-      "title": "Feature Update: Public APIs for HighLevel AI Agent Studio Now Live",
-      "videoId": "HeKfqLY173k",
-      "url": "https://www.youtube.com/watch?v=HeKfqLY173k",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:46:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.0",
-      "slug": "hekfqly173k-feature-update-public-apis-for-highlevel-ai-agent-studio-now-live"
-    },
-    {
-      "filename": "hekfqly173k-public-apis-for-ai-agent-studio-live.md",
-      "title": "Public APIs for AI Agent Studio Live!",
-      "videoId": "HeKfqLY173k",
-      "url": "https://www.youtube.com/watch?v=HeKfqLY173k",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:46:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "hekfqly173k-public-apis-for-ai-agent-studio-live"
-    },
-    {
       "filename": "helyxutaqzm-ecom-variant-selector-display-options-on-product-page.md",
       "title": "Ecom Variant Selector Display Options on Product Page",
       "videoId": "heLYxUTaqzM",
@@ -4716,7 +4692,7 @@
       "publishedDate": "2026-04-23T22:08:40.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "hzmxjikaop0-social-planner-comment-management-now-supports-communities"
     },
     {
@@ -4752,7 +4728,7 @@
       "publishedDate": "2026-04-23T22:07:01.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "critical",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "i3qvnuv5nnk-sell-templates-in-the-marketplace-now-live"
     },
     {
@@ -4766,18 +4742,6 @@
       "contentCategory": "evergreen",
       "ageInMonths": "0.1",
       "slug": "i3rxka-ydnk-how-to-use-the-advanced-workflow-builder-an-introduction-guide"
-    },
-    {
-      "filename": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025.md",
-      "title": "The HighLevel Release Radar (October 20th - October 24th 2025)",
-      "videoId": "IamLMg2uIs8",
-      "url": "https://www.youtube.com/watch?v=IamLMg2uIs8",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-24T18:49:53.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "iamlmg2uis8-the-highlevel-release-radar-october-20th-october-24th-2025"
     },
     {
       "filename": "ibknuclfave-starting-an-ai-company-with-highlevel.md",
@@ -5088,7 +5052,7 @@
       "publishedDate": "2026-04-24T15:00:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "j6l-unf6yr0-whatsapp-calling"
     },
     {
@@ -6057,10 +6021,10 @@
       "videoId": "mDDr8BxG9Cg",
       "url": "https://www.youtube.com/watch?v=mDDr8BxG9Cg",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-21T20:58:14.000Z",
+      "publishedDate": "2026-04-26T05:10:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "mddr8bxg9cg-andrew-brockenbush-build-a-systems-driven-agency-with-highlevel"
     },
     {
@@ -6732,7 +6696,7 @@
       "publishedDate": "2026-04-23T22:10:00.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "ollvxqxg2dy-mobile-app-speed-improvements-v4-13-1-or-later"
     },
     {
@@ -6758,18 +6722,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ooc-3wbz3ua-did-you-know-you-can-assign-projects-to-teammates-in-slack-with-a-simple-workflow"
-    },
-    {
-      "filename": "ookdrqriqmi-barbershop-playbook-is-live.md",
-      "title": "Barbershop Playbook is Live!",
-      "videoId": "OokDRQrIQMI",
-      "url": "https://www.youtube.com/watch?v=OokDRQrIQMI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:43:02.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "ookdrqriqmi-barbershop-playbook-is-live"
     },
     {
       "filename": "oq0-wqlqq4-starting-a-business-as-a-woman-watch-this-first-shorts.md",
@@ -8016,7 +7968,7 @@
       "publishedDate": "2026-04-23T22:11:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "sic-a2zpufi-voice-ai-22-new-languages-amp-voice-model-picker-live"
     },
     {
@@ -9736,30 +9688,6 @@
       "slug": "wy42tqrun80-how-to-create-and-manage-global-custom-colors-in-highlevel"
     },
     {
-      "filename": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots.md",
-      "title": "Agent Studio Integration Now in Snapshots!",
-      "videoId": "wY8Nb4aPnWQ",
-      "url": "https://www.youtube.com/watch?v=wY8Nb4aPnWQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:44:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "wy8nb4apnwq-agent-studio-integration-now-in-snapshots"
-    },
-    {
-      "filename": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots.md",
-      "title": "Feature Update: HighLevel Agent Studio Integration Now in Snapshots",
-      "videoId": "wY8Nb4aPnWQ",
-      "url": "https://www.youtube.com/watch?v=wY8Nb4aPnWQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-25T00:44:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "1.0",
-      "slug": "wy8nb4apnwq-feature-update-highlevel-agent-studio-integration-now-in-snapshots"
-    },
-    {
       "filename": "wzsg-jztz4g-service-appointments-can-now-be-edited.md",
       "title": "Service Appointments Can Now Be Edited!",
       "videoId": "WZsg_jZtz4g",
@@ -11141,7 +11069,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 891,
+    "fresh": 885,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -11153,7 +11081,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 874,
+        "fresh": 868,
         "warning": 0,
         "expired": 0,
         "unknown": null

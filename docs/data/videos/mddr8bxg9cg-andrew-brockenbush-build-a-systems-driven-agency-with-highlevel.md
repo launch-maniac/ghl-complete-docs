@@ -2,13 +2,13 @@
 title: "Andrew Brockenbush: Build a Systems-Driven Agency with HighLevel"
 video_id: "mDDr8BxG9Cg"
 url: "https://www.youtube.com/watch?v=mDDr8BxG9Cg"
-thumbnail: "https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault_live.jpg"
+thumbnail: "https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-21T20:58:14.000Z"
+published_date: "2026-04-26T05:10:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,7 +16,7 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-25T07:58:45.474Z"
+extracted_at: "2026-04-26T08:05:49.263Z"
 
 ---
 
@@ -25,12 +25,12 @@ extracted_at: "2026-04-25T07:58:45.474Z"
 **Video ID:** `mDDr8BxG9Cg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/21/2026
+**Published:** 4/26/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -43,7 +43,7 @@ extracted_at: "2026-04-25T07:58:45.474Z"
 
 ## Quick Access
 - [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mDDr8BxG9Cg)
-- [📷 Thumbnail](https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault_live.jpg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/mDDr8BxG9Cg/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -62,6 +62,6 @@ This tutorial video covers GoHighLevel platform features and functionality. Acce
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 4/25/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/26/2026*
 *Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*
