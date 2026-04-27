@@ -1,10 +1,10 @@
 ---
-title: "Your story is the most powerful tool you have | HighLevel #shorts"
-video_id: "52txCvZpHsk"
-url: "https://www.youtube.com/watch?v=52txCvZpHsk"
-thumbnail: "https://i.ytimg.com/vi/52txCvZpHsk/hqdefault.jpg"
+title: "HighLevel LevelUp 2026 Conference | Flash Sale Now Live #shorts"
+video_id: "iIwanlSAjUo"
+url: "https://www.youtube.com/watch?v=iIwanlSAjUo"
+thumbnail: "https://i.ytimg.com/vi/iIwanlSAjUo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-25T22:03:24.000Z"
+published_date: "2026-04-26T23:03:31.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-27T08:24:57.910Z"
+extracted_at: "2026-04-27T08:24:57.579Z"
 
 ---
 
-# 🟢 Your story is the most powerful tool you have | HighLevel #shorts
+# 🟢 HighLevel LevelUp 2026 Conference | Flash Sale Now Live #shorts
 
-**Video ID:** `52txCvZpHsk`
+**Video ID:** `iIwanlSAjUo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/25/2026
+**Published:** 4/26/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
@@ -42,8 +42,8 @@ extracted_at: "2026-04-27T08:24:57.910Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=52txCvZpHsk)
-- [📷 Thumbnail](https://i.ytimg.com/vi/52txCvZpHsk/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=iIwanlSAjUo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/iIwanlSAjUo/hqdefault.jpg)
 
 
 ## Content Guidelines
