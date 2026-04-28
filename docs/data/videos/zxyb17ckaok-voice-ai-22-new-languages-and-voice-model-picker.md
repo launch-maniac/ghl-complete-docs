@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (April 20th - April 24th 2026)"
-video_id: "W3nBIAfyHSw"
-url: "https://www.youtube.com/watch?v=W3nBIAfyHSw"
-thumbnail: "https://i.ytimg.com/vi/W3nBIAfyHSw/hqdefault.jpg"
+title: "Voice AI  22 New Languages and Voice Model Picker"
+video_id: "ZXyb17ckaok"
+url: "https://www.youtube.com/watch?v=ZXyb17ckaok"
+thumbnail: "https://i.ytimg.com/vi/ZXyb17ckaok/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-25T07:04:33.000Z"
+published_date: "2026-04-27T15:00:52.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-28T08:22:41.822Z"
+extracted_at: "2026-04-28T08:22:41.184Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (April 20th - April 24th 2026)
+# 🟢 Voice AI  22 New Languages and Voice Model Picker
 
-**Video ID:** `W3nBIAfyHSw`
+**Video ID:** `ZXyb17ckaok`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/25/2026
+**Published:** 4/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-04-28T08:22:41.822Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=W3nBIAfyHSw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/W3nBIAfyHSw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=ZXyb17ckaok)
+- [📷 Thumbnail](https://i.ytimg.com/vi/ZXyb17ckaok/hqdefault.jpg)
 
 
 ## Content Guidelines

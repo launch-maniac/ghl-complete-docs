@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-27T08:25:04.302Z",
+  "generated": "2026-04-28T08:22:46.492Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 11,
     "playlists": 0,
     "expired": 2,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 11
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -290,6 +290,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "1qwsibwrses-the-highlevel-release-radar-january-19th-january-23rd-2026"
+    },
+    {
+      "filename": "1rdwe0qutrg-ai-studio-is-now-multilingual.md",
+      "title": "AI Studio Is Now Multilingual",
+      "videoId": "1rDWe0qUtRg",
+      "url": "https://www.youtube.com/watch?v=1rDWe0qUtRg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-27T21:00:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "1rdwe0qutrg-ai-studio-is-now-multilingual"
     },
     {
       "filename": "1tmcvffhp6k-highlevel-integration-page-ui-and-ux-revamp-now-live.md",
@@ -960,7 +972,7 @@
       "publishedDate": "2026-04-25T22:03:24.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "52txcvzphsk-your-story-is-the-most-powerful-tool-you-have-highlevel-shorts"
     },
     {
@@ -1728,7 +1740,7 @@
       "publishedDate": "2026-04-22T23:02:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "9ffxwjb1f4q-best-ai-tool-for-agencies-and-small-businesses-2026-shorts"
     },
     {
@@ -3892,18 +3904,6 @@
       "slug": "fqcabxqjvmy-did-you-know-you-can-automate-billing-for-subscription-services-in-highlevel"
     },
     {
-      "filename": "fqebgwsygb4-agent-studio-integration-now-in-snapshots.md",
-      "title": "Agent Studio Integration Now in Snapshots!",
-      "videoId": "fqEBgWsYGB4",
-      "url": "https://www.youtube.com/watch?v=fqEBgWsYGB4",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-27T15:01:20.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "fqebgwsygb4-agent-studio-integration-now-in-snapshots"
-    },
-    {
       "filename": "fuasypjquc4-going-from-mom-to-7-figure-agency-owner.md",
       "title": "Going from Mom to 7-Figure Agency Owner",
       "videoId": "fUASYPjQUC4",
@@ -4310,6 +4310,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "gplgf8lvsvc-highlevel-case-studies-from-complete-reset-to-1m-in-revenue"
+    },
+    {
+      "filename": "grxnv6bnbti-did-you-know-you-can-build-forms-surveys-and-booking-pages-inside-ai-studio.md",
+      "title": "Did You Know You Can Build Forms, Surveys, and Booking Pages inside AI Studio",
+      "videoId": "gRxnV6BNBtI",
+      "url": "https://www.youtube.com/watch?v=gRxnV6BNBtI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-27T15:59:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "grxnv6bnbti-did-you-know-you-can-build-forms-surveys-and-booking-pages-inside-ai-studio"
     },
     {
       "filename": "gug7ntaksey-digital-fulfillment-for-ecommerce-live.md",
@@ -5968,6 +5980,18 @@
       "slug": "m4efb3oyjnq-new-image-layout-options-for-forms-amp-surveys"
     },
     {
+      "filename": "m69jop4utqw-sell-templates-in-the-marketplace.md",
+      "title": "Sell Templates in the Marketplace",
+      "videoId": "m69JOP4Utqw",
+      "url": "https://www.youtube.com/watch?v=m69JOP4Utqw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-27T18:00:42.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "critical",
+      "ageInMonths": "0.0",
+      "slug": "m69jop4utqw-sell-templates-in-the-marketplace"
+    },
+    {
       "filename": "m8vu02dxfak-did-you-know-you-can-recover-failed-payments-automatically-in-highlevel.md",
       "title": "Did You Know You Can Recover Failed Payments Automatically in HighLevel?",
       "videoId": "M8vu02DxFak",
@@ -6036,7 +6060,7 @@
       "publishedDate": "2026-04-26T05:10:54.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mddr8bxg9cg-andrew-brockenbush-build-a-systems-driven-agency-with-highlevel"
     },
     {
@@ -6926,6 +6950,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "p9ryigsltm8-unexpected-benefits-of-being-self-employed-no-one-talks-about-shorts"
+    },
+    {
+      "filename": "paitdgjcne-social-planner-comment-management-now-supports-communities.md",
+      "title": "Social Planner  Comment Management Now Supports Communities",
+      "videoId": "_PaITDGjCNE",
+      "url": "https://www.youtube.com/watch?v=_PaITDGjCNE",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-28T00:00:37.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "paitdgjcne-social-planner-comment-management-now-supports-communities"
     },
     {
       "filename": "pc6k-nmvu-k-day-2-get-more-clients-with-highlevel-ai.md",
@@ -11020,6 +11056,18 @@
       "slug": "zxn4fvczzfq-enhanced-border-controls-in-page-builder"
     },
     {
+      "filename": "zxyb17ckaok-voice-ai-22-new-languages-and-voice-model-picker.md",
+      "title": "Voice AI  22 New Languages and Voice Model Picker",
+      "videoId": "ZXyb17ckaok",
+      "url": "https://www.youtube.com/watch?v=ZXyb17ckaok",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-27T15:00:52.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "zxyb17ckaok-voice-ai-22-new-languages-and-voice-model-picker"
+    },
+    {
       "filename": "zym3uk3i0i8-did-you-know-you-can-boost-ratings-with-automated-review-requests.md",
       "title": "Did You Know You Can Boost Ratings with Automated Review Requests",
       "videoId": "ZyM3UK3i0i8",
@@ -11069,19 +11117,19 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 885,
+    "fresh": 889,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
     "byCategory": {
       "critical": {
-        "fresh": 5,
+        "fresh": 6,
         "warning": 0,
         "expired": 0,
         "unknown": null
       },
       "standard": {
-        "fresh": 868,
+        "fresh": 871,
         "warning": 0,
         "expired": 0,
         "unknown": null

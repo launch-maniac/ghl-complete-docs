@@ -1,14 +1,14 @@
 ---
-title: "Agent Studio Integration Now in Snapshots!"
-video_id: "fqEBgWsYGB4"
-url: "https://www.youtube.com/watch?v=fqEBgWsYGB4"
-thumbnail: "https://i.ytimg.com/vi/fqEBgWsYGB4/hqdefault.jpg"
+title: "Did You Know You Can Build Forms, Surveys, and Booking Pages inside AI Studio"
+video_id: "gRxnV6BNBtI"
+url: "https://www.youtube.com/watch?v=gRxnV6BNBtI"
+thumbnail: "https://i.ytimg.com/vi/gRxnV6BNBtI/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-27T15:01:20.000Z"
+published_date: "2026-04-27T15:59:44.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-30T07:43:17.839Z"
+extracted_at: "2026-04-28T08:22:40.996Z"
 
 ---
 
-# 🟢 Agent Studio Integration Now in Snapshots!
+# 🟢 Did You Know You Can Build Forms, Surveys, and Booking Pages inside AI Studio
 
-**Video ID:** `fqEBgWsYGB4`
+**Video ID:** `gRxnV6BNBtI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/27/2025
+**Published:** 4/27/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-30T07:43:17.839Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fqEBgWsYGB4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/fqEBgWsYGB4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=gRxnV6BNBtI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/gRxnV6BNBtI/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/30/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 4/28/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

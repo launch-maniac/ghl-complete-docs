@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (April 20th - April 24th 2026)"
-video_id: "W3nBIAfyHSw"
-url: "https://www.youtube.com/watch?v=W3nBIAfyHSw"
-thumbnail: "https://i.ytimg.com/vi/W3nBIAfyHSw/hqdefault.jpg"
+title: "Sell Templates in the Marketplace"
+video_id: "m69JOP4Utqw"
+url: "https://www.youtube.com/watch?v=m69JOP4Utqw"
+thumbnail: "https://i.ytimg.com/vi/m69JOP4Utqw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-25T07:04:33.000Z"
+published_date: "2026-04-27T18:00:42.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
-content_category: "standard"
-age_in_months: "0.1"
+freshness_message: "Video is 0.0 months old (fresh)"
+content_category: "critical"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-28T08:22:41.822Z"
+extracted_at: "2026-04-28T08:22:40.825Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (April 20th - April 24th 2026)
+# 🟢 Sell Templates in the Marketplace
 
-**Video ID:** `W3nBIAfyHSw`
+**Video ID:** `m69JOP4Utqw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/25/2026
-**Content Type:** standard
+**Published:** 4/27/2026
+**Content Type:** critical
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,14 +47,14 @@ extracted_at: "2026-04-28T08:22:41.822Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=W3nBIAfyHSw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/W3nBIAfyHSw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=m69JOP4Utqw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/m69JOP4Utqw/hqdefault.jpg)
 
 
 ## Content Guidelines
+⚡ **Critical Topic:** This video covers rapidly evolving features (API, OAuth, Marketplace) and expires after 3 months.
 
 
-📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
 This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
@@ -69,4 +69,4 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 4/28/2026*
 *Transcript extraction: ✅ 0 words (en)*
-*Freshness monitored: Videos expire after 6 months*
+*Freshness monitored: Videos expire after 3 months*
