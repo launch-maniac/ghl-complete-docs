@@ -1,13 +1,13 @@
 {
-  "generated": "2026-04-28T06:58:18.029Z",
+  "generated": "2026-04-28T09:54:16.160Z",
   "stats": {
     "categories": 0,
-    "docs": 19,
+    "docs": 23,
     "errors": 27,
     "successful": 27,
     "failed": [],
     "retries": 0,
-    "startTime": 1777359132591
+    "startTime": 1777369669248
   },
   "documents": [
     {
@@ -16,6 +16,27 @@
       "type": "api",
       "url": "https://marketplace.gohighlevel.com/docs/ghl/marketplace/developer-marketplace-api/",
       "slug": "api-developer-marketplace-api"
+    },
+    {
+      "filename": "api-section-2021-04-15.md",
+      "title": "2021-04-15",
+      "type": "api-section",
+      "url": "https://marketplace.gohighlevel.com/docs/",
+      "slug": "api-section-2021-04-15"
+    },
+    {
+      "filename": "api-section-2021-07-28.md",
+      "title": "2021-07-28",
+      "type": "api-section",
+      "url": "https://marketplace.gohighlevel.com/docs/",
+      "slug": "api-section-2021-07-28"
+    },
+    {
+      "filename": "api-section-2023-02-21.md",
+      "title": "2023-02-21",
+      "type": "api-section",
+      "url": "https://marketplace.gohighlevel.com/docs/",
+      "slug": "api-section-2023-02-21"
     },
     {
       "filename": "api-section-authentication-guide.md",

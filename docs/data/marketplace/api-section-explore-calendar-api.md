@@ -3,12 +3,14 @@ title: "Explore Calendar API →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/ghl/calendars/calendars"
-extracted_at: "2026-04-28T06:57:54.506Z"
+extracted_at: "2026-04-28T09:53:52.456Z"
 ---
 
 -   [](/docs/)
 -   Calendars
 -   Calendars
+
+Version: 2023-02-21
 
 # Calendars
 
