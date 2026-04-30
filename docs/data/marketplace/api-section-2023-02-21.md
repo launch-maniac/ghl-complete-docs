@@ -3,7 +3,7 @@ title: "2023-02-21"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/"
-extracted_at: "2026-04-30T12:33:44.455Z"
+extracted_at: "2026-04-30T15:41:28.853Z"
 ---
 
 ## Comprehensive API Coverage

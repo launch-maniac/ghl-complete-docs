@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-04-30T12:33:17.603Z"
+extracted_at: "2026-04-30T15:40:57.945Z"
 ---
 
 # Hi, how can we help you?
