@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-30T08:22:44.711Z",
+  "generated": "2026-05-01T08:21:44.317Z",
   "stats": {
     "channels": 1,
-    "videos": 27,
+    "videos": 24,
     "playlists": 0,
-    "expired": 30,
+    "expired": 6,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 27
+    "transcriptsFailed": 24
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -220,6 +220,18 @@
       "slug": "0txsfg4jy-q-did-you-know-you-can-resell-voice-ai-agents-in-highlevel"
     },
     {
+      "filename": "0x9jwrwhhqw-how-to-use-ask-ai-in-highlevel-to-automate-tasks.md",
+      "title": "How To Use Ask AI in HighLevel to Automate Tasks",
+      "videoId": "0X9JWrWhhqw",
+      "url": "https://www.youtube.com/watch?v=0X9JWrWhhqw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-30T16:19:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "0x9jwrwhhqw-how-to-use-ask-ai-in-highlevel-to-automate-tasks"
+    },
+    {
       "filename": "14kdsuxnv-c-from-click-to-close-smarter-tracking-with-highlevel.md",
       "title": "From Click to Close: Smarter Tracking with HighLevel",
       "videoId": "14kDSuXnV_c",
@@ -276,7 +288,7 @@
       "publishedDate": "2026-04-28T21:00:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "1hjnezjkiyg-ads-manager-api"
     },
     {
@@ -600,7 +612,7 @@
       "publishedDate": "2026-04-29T15:51:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "31vktbpkopg-did-you-know-you-can-experiment-in-ai-studio-without-risking-your-live-page"
     },
     {
@@ -662,6 +674,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "3awiuoz4tx0-new-templates-live"
+    },
+    {
+      "filename": "3d5najnmbdi-how-to-attract-clients-without-sales-calls.md",
+      "title": "How to Attract Clients Without Sales Calls",
+      "videoId": "3d5NAjNmBdI",
+      "url": "https://www.youtube.com/watch?v=3d5NAjNmBdI",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-30T14:41:51.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "3d5najnmbdi-how-to-attract-clients-without-sales-calls"
     },
     {
       "filename": "3fkof6ieki-workflow-highlight-contact-path-upgrade.md",
@@ -856,18 +880,6 @@
       "slug": "4fpldviuo-m-voice-ai-agent-logs"
     },
     {
-      "filename": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live.md",
-      "title": "HighLevel Ad Manager: Audience Segments for Google Ads is now Live!",
-      "videoId": "4fVvMFT2Pu4",
-      "url": "https://www.youtube.com/watch?v=4fVvMFT2Pu4",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T15:18:47.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "4fvvmft2pu4-highlevel-ad-manager-audience-segments-for-google-ads-is-now-live"
-    },
-    {
       "filename": "4gumu48qufu-day-4-five-day-challenge.md",
       "title": "Day 4 - Five Day Challenge",
       "videoId": "4gUmU48qUfU",
@@ -1041,7 +1053,7 @@
       "videoId": "5KPO3Krw3bU",
       "url": "https://www.youtube.com/watch?v=5KPO3Krw3bU",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-28T21:38:52.000Z",
+      "publishedDate": "2026-05-01T05:22:08.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
       "ageInMonths": "0.0",
@@ -2136,7 +2148,7 @@
       "publishedDate": "2026-04-28T22:04:21.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "av5l-g0vxq-attracting-unqualified-leads-here-s-how-mike-crowson-fixed-this-in-his-biz-with-highlevel"
     },
     {
@@ -2964,7 +2976,7 @@
       "publishedDate": "2026-04-29T16:03:27.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "d8qlelcvpai-how-to-set-up-ach-transfers-with-nmi-in-highlevel"
     },
     {
@@ -5464,6 +5476,18 @@
       "slug": "kc8d72yxqlk-web-design-to-recurring-revenue-with-highlevel"
     },
     {
+      "filename": "kersoqupqvm-what-can-ask-ai-in-highlevel-do-for-you.md",
+      "title": "What can Ask AI in HighLevel do for you?",
+      "videoId": "kErsoQUpqVM",
+      "url": "https://www.youtube.com/watch?v=kErsoQUpqVM",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-04-30T18:15:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kersoqupqvm-what-can-ask-ai-in-highlevel-do-for-you"
+    },
+    {
       "filename": "kf6xjwyfyai-reputation-management-drip-mode-in-reviews-ai.md",
       "title": "Reputation Management – Drip Mode in Reviews AI",
       "videoId": "KF6xJwyFyAI",
@@ -5860,18 +5884,6 @@
       "slug": "lnvtbxni8va-day-1-five-day-ai-employee-challenge"
     },
     {
-      "filename": "loxe-oz69si-day-3-five-day-ai-employee-challenge.md",
-      "title": "Day 3 - Five Day AI Employee Challenge",
-      "videoId": "LOxe-oZ69SI",
-      "url": "https://www.youtube.com/watch?v=LOxe-oZ69SI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T05:07:18.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "loxe-oz69si-day-3-five-day-ai-employee-challenge"
-    },
-    {
       "filename": "lpdzhxm-hx0-day-1-how-to-go-viral-and-grow-your-business.md",
       "title": "Day 1 - How to Go Viral and Grow Your Business",
       "videoId": "lPDzHxm-Hx0",
@@ -6048,7 +6060,7 @@
       "publishedDate": "2026-04-29T00:03:15.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mcyv-dswkwq-if-you-can-39-t-answer-these-3-questions-your-business-is-in-trouble-shorts"
     },
     {
@@ -6504,7 +6516,7 @@
       "publishedDate": "2026-04-29T02:01:43.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "nr-o7pb-spm-must-attend-event-for-agency-owners-in-2026-levelup-2026-shorts"
     },
     {
@@ -6612,7 +6624,7 @@
       "publishedDate": "2026-04-29T01:01:47.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "o-q2vnr6rc-levelup-2026-flash-sale-is-live-shorts"
     },
     {
@@ -7644,7 +7656,7 @@
       "publishedDate": "2026-04-28T21:40:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qzkk3tjxsf0-ai-masterclass-with-helena-liu-leveraging-ai-for-a-90-day-social-media-plan"
     },
     {
@@ -8616,7 +8628,7 @@
       "publishedDate": "2026-04-29T15:01:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "tnyjb9n4lbo-mobile-friendly-approval-flow-rollout-for-social-planner"
     },
     {
@@ -8822,18 +8834,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "u8aimeayqlq-how-to-import-firstpromoter-campaigns-into-highlevel"
-    },
-    {
-      "filename": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly.md",
-      "title": "HighLevel Funnel AI: Create Revisions from Images Instantly!",
-      "videoId": "U8l5nFI_XJ0",
-      "url": "https://www.youtube.com/watch?v=U8l5nFI_XJ0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T15:17:59.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "u8l5nfi-xj0-highlevel-funnel-ai-create-revisions-from-images-instantly"
     },
     {
       "filename": "ubc69nbe9-0-did-you-know-you-can-host-paid-communities-directly-in-highlevel.md",
@@ -9264,7 +9264,7 @@
       "publishedDate": "2026-04-29T15:59:13.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vjj-cvyvlgs-how-to-set-up-video-testimonial-collectors-in-highlevel"
     },
     {
@@ -9384,7 +9384,7 @@
       "publishedDate": "2026-04-29T00:00:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "vrrnpldwjx0-meeting-room-seamless-rejoin-and-smarter-host-controls"
     },
     {

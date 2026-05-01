@@ -1,14 +1,14 @@
 ---
-title: "LevelUp 2026 Flash sale is live #shorts"
-video_id: "O-_Q2vnr6Rc"
-url: "https://www.youtube.com/watch?v=O-_Q2vnr6Rc"
-thumbnail: "https://i.ytimg.com/vi/O-_Q2vnr6Rc/hqdefault.jpg"
+title: "What can Ask AI in HighLevel do for you?"
+video_id: "kErsoQUpqVM"
+url: "https://www.youtube.com/watch?v=kErsoQUpqVM"
+thumbnail: "https://i.ytimg.com/vi/kErsoQUpqVM/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-29T01:01:47.000Z"
+published_date: "2026-04-30T18:15:48.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-01T08:21:37.755Z"
+extracted_at: "2026-05-01T08:21:35.882Z"
 
 ---
 
-# 🟢 LevelUp 2026 Flash sale is live #shorts
+# 🟢 What can Ask AI in HighLevel do for you?
 
-**Video ID:** `O-_Q2vnr6Rc`
+**Video ID:** `kErsoQUpqVM`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/29/2026
+**Published:** 4/30/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-05-01T08:21:37.755Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=O-_Q2vnr6Rc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/O-_Q2vnr6Rc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kErsoQUpqVM)
+- [📷 Thumbnail](https://i.ytimg.com/vi/kErsoQUpqVM/hqdefault.jpg)
 
 
 ## Content Guidelines

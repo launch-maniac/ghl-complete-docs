@@ -1,14 +1,14 @@
 ---
-title: "LevelUp 2026 Flash sale is live #shorts"
-video_id: "O-_Q2vnr6Rc"
-url: "https://www.youtube.com/watch?v=O-_Q2vnr6Rc"
-thumbnail: "https://i.ytimg.com/vi/O-_Q2vnr6Rc/hqdefault.jpg"
+title: "How to Attract Clients Without Sales Calls"
+video_id: "3d5NAjNmBdI"
+url: "https://www.youtube.com/watch?v=3d5NAjNmBdI"
+thumbnail: "https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-29T01:01:47.000Z"
+published_date: "2026-04-30T14:41:51.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-01T08:21:37.755Z"
+extracted_at: "2026-05-01T08:21:36.242Z"
 
 ---
 
-# 🟢 LevelUp 2026 Flash sale is live #shorts
+# 🟢 How to Attract Clients Without Sales Calls
 
-**Video ID:** `O-_Q2vnr6Rc`
+**Video ID:** `3d5NAjNmBdI`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/29/2026
+**Published:** 4/30/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-05-01T08:21:37.755Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=O-_Q2vnr6Rc)
-- [📷 Thumbnail](https://i.ytimg.com/vi/O-_Q2vnr6Rc/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3d5NAjNmBdI)
+- [📷 Thumbnail](https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg)
 
 
 ## Content Guidelines

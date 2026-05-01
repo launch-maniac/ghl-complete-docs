@@ -1,14 +1,14 @@
 ---
-title: "Day 3 - Five Day AI Employee Challenge"
-video_id: "LOxe-oZ69SI"
-url: "https://www.youtube.com/watch?v=LOxe-oZ69SI"
-thumbnail: "https://i.ytimg.com/vi/LOxe-oZ69SI/hqdefault.jpg"
+title: "How To Use Ask AI in HighLevel to Automate Tasks"
+video_id: "0X9JWrWhhqw"
+url: "https://www.youtube.com/watch?v=0X9JWrWhhqw"
+thumbnail: "https://i.ytimg.com/vi/0X9JWrWhhqw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T05:07:18.000Z"
+published_date: "2026-04-30T16:19:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-01T07:41:21.642Z"
+extracted_at: "2026-05-01T08:21:36.075Z"
 
 ---
 
-# 🟢 Day 3 - Five Day AI Employee Challenge
+# 🟢 How To Use Ask AI in HighLevel to Automate Tasks
 
-**Video ID:** `LOxe-oZ69SI`
+**Video ID:** `0X9JWrWhhqw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 4/30/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-01T07:41:21.642Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=LOxe-oZ69SI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/LOxe-oZ69SI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0X9JWrWhhqw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/0X9JWrWhhqw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/1/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/1/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

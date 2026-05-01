@@ -1,14 +1,14 @@
 ---
-title: "HighLevel Ad Manager: Audience Segments for Google Ads is now Live!"
-video_id: "4fVvMFT2Pu4"
-url: "https://www.youtube.com/watch?v=4fVvMFT2Pu4"
-thumbnail: "https://i.ytimg.com/vi/4fVvMFT2Pu4/hqdefault.jpg"
+title: "How To Use Ask AI in HighLevel to Automate Tasks"
+video_id: "0X9JWrWhhqw"
+url: "https://www.youtube.com/watch?v=0X9JWrWhhqw"
+thumbnail: "https://i.ytimg.com/vi/0X9JWrWhhqw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T15:18:47.000Z"
+published_date: "2026-04-30T16:19:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:03.047Z"
+extracted_at: "2026-05-01T08:21:36.075Z"
 
 ---
 
-# 🟢 HighLevel Ad Manager: Audience Segments for Google Ads is now Live!
+# 🟢 How To Use Ask AI in HighLevel to Automate Tasks
 
-**Video ID:** `4fVvMFT2Pu4`
+**Video ID:** `0X9JWrWhhqw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 4/30/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:03.047Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4fVvMFT2Pu4)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4fVvMFT2Pu4/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=0X9JWrWhhqw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/0X9JWrWhhqw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/6/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/1/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
