@@ -1,14 +1,14 @@
 ---
-title: "How to Attract Clients Without Sales Calls"
-video_id: "3d5NAjNmBdI"
-url: "https://www.youtube.com/watch?v=3d5NAjNmBdI"
-thumbnail: "https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg"
+title: "The HighLevel Release Radar (April 27th - May 1st 2026)"
+video_id: "aWAlS-hnTLs"
+url: "https://www.youtube.com/watch?v=aWAlS-hnTLs"
+thumbnail: "https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-30T14:41:51.000Z"
+published_date: "2026-05-01T19:30:11.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-02T08:08:23.352Z"
+extracted_at: "2026-05-02T08:08:22.576Z"
 
 ---
 
-# 🟢 How to Attract Clients Without Sales Calls
+# 🟢 The HighLevel Release Radar (April 27th - May 1st 2026)
 
-**Video ID:** `3d5NAjNmBdI`
+**Video ID:** `aWAlS-hnTLs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/30/2026
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-05-02T08:08:23.352Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3d5NAjNmBdI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aWAlS-hnTLs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg)
 
 
 ## Content Guidelines

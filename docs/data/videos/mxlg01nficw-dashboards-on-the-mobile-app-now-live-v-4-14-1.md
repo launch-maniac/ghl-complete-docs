@@ -1,10 +1,10 @@
 ---
-title: "Kollab BETA Mobile App v2 is Live for Testing!"
-video_id: "x3dJbY0SWdw"
-url: "https://www.youtube.com/watch?v=x3dJbY0SWdw"
-thumbnail: "https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg"
+title: "Dashboards on the Mobile App Now Live! v.4.14.1"
+video_id: "mXlg01nfIcw"
+url: "https://www.youtube.com/watch?v=mXlg01nfIcw"
+thumbnail: "https://i.ytimg.com/vi/mXlg01nfIcw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T22:56:56.000Z"
+published_date: "2026-05-01T22:08:17.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-31T07:43:13.137Z"
+extracted_at: "2026-05-02T08:08:22.111Z"
 
 ---
 
-# 🟢 Kollab BETA Mobile App v2 is Live for Testing!
+# 🟢 Dashboards on the Mobile App Now Live! v.4.14.1
 
-**Video ID:** `x3dJbY0SWdw`
+**Video ID:** `mXlg01nfIcw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-31T07:43:13.137Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x3dJbY0SWdw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mXlg01nfIcw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/mXlg01nfIcw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/31/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/2/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

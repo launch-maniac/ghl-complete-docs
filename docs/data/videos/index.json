@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-01T08:21:44.317Z",
+  "generated": "2026-05-02T08:08:29.161Z",
   "stats": {
     "channels": 1,
-    "videos": 24,
+    "videos": 19,
     "playlists": 0,
-    "expired": 6,
+    "expired": 14,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 24
+    "transcriptsFailed": 19
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -228,7 +228,7 @@
       "publishedDate": "2026-04-30T16:19:11.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "0x9jwrwhhqw-how-to-use-ask-ai-in-highlevel-to-automate-tasks"
     },
     {
@@ -684,7 +684,7 @@
       "publishedDate": "2026-04-30T14:41:51.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "3d5najnmbdi-how-to-attract-clients-without-sales-calls"
     },
     {
@@ -2044,30 +2044,6 @@
       "slug": "amtzwqirtkw-global-tax-compliance-for-reselling-products"
     },
     {
-      "filename": "aoctn6xbtai-all-sites-better-uptime-performance-and-reliability-now-live.md",
-      "title": "All Sites    Better Uptime, Performance and Reliability Now Live!",
-      "videoId": "AocTn6xBtAI",
-      "url": "https://www.youtube.com/watch?v=AocTn6xBtAI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:56:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.0",
-      "slug": "aoctn6xbtai-all-sites-better-uptime-performance-and-reliability-now-live"
-    },
-    {
-      "filename": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live.md",
-      "title": "HighLevel Sites Upgrade: Faster Uptime, Performance &amp; Reliability Now Live!",
-      "videoId": "AocTn6xBtAI",
-      "url": "https://www.youtube.com/watch?v=AocTn6xBtAI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:56:05.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "aoctn6xbtai-highlevel-sites-upgrade-faster-uptime-performance-amp-reliability-now-live"
-    },
-    {
       "filename": "aqvkfg8d4ss-google-lead-ad-integration-live.md",
       "title": "Google Lead Ad Integration Live!",
       "videoId": "aQVkfg8d4ss",
@@ -2162,6 +2138,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database"
+    },
+    {
+      "filename": "awals-hntls-the-highlevel-release-radar-april-27th-may-1st-2026.md",
+      "title": "The HighLevel Release Radar (April 27th - May 1st 2026)",
+      "videoId": "aWAlS-hnTLs",
+      "url": "https://www.youtube.com/watch?v=aWAlS-hnTLs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T19:30:11.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "awals-hntls-the-highlevel-release-radar-april-27th-may-1st-2026"
     },
     {
       "filename": "axati7tlrdy-template-library-introducing-new-templates-no-66.md",
@@ -2702,6 +2690,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "ckeonbrekyg-the-highlevel-release-radar-december-22nd-december-26th-2025"
+    },
+    {
+      "filename": "clvfhr6spog-mistral-ai-actions-in-workflows.md",
+      "title": "Mistral AI Actions in Workflows!",
+      "videoId": "clvfHr6Spog",
+      "url": "https://www.youtube.com/watch?v=clvfHr6Spog",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:06:48.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "clvfhr6spog-mistral-ai-actions-in-workflows"
     },
     {
       "filename": "cnkga7daoxe-highlevel-voice-ai-noise-cancellation-amp-backchanneling-are-live.md",
@@ -3408,7 +3408,7 @@
       "publishedDate": "2026-04-30T05:28:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "elzbhj4kvsi-highlevel-ai-masterclass-with-jason-wardrop-the-1-ai-offer-small-businesses-have-never-h"
     },
     {
@@ -3770,6 +3770,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fct8oqanxdi-this-could-be-you-at-levelup-2026-apply-to-be-a-speaker-today-shorts"
+    },
+    {
+      "filename": "fdvzkhimelq-ask-ai-voice-mode-talk-it-get-it-done.md",
+      "title": "Ask AI Voice Mode — Talk It  Get It Done!",
+      "videoId": "fdvzkHIMELQ",
+      "url": "https://www.youtube.com/watch?v=fdvzkHIMELQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:09:34.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fdvzkhimelq-ask-ai-voice-mode-talk-it-get-it-done"
     },
     {
       "filename": "fgc6z8e9-ze-conversations-sla-performance-dashboard.md",
@@ -4142,6 +4154,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "g33cmb5ncq0-autosave-in-ai-builder"
+    },
+    {
+      "filename": "g63dy8y9re8-askai-memory-your-ai-finally-knows-who-you-are.md",
+      "title": "AskAI Memory — Your AI Finally Knows Who You Are!",
+      "videoId": "G63dy8y9re8",
+      "url": "https://www.youtube.com/watch?v=G63dy8y9re8",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:10:38.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "g63dy8y9re8-askai-memory-your-ai-finally-knows-who-you-are"
     },
     {
       "filename": "g83r-vqplri-backend-trigger-flow-enhancements.md",
@@ -5484,7 +5508,7 @@
       "publishedDate": "2026-04-30T18:15:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "kersoqupqvm-what-can-ask-ai-in-highlevel-do-for-you"
     },
     {
@@ -6280,6 +6304,18 @@
       "slug": "mwnmsar-gas-you-can-build-an-ai-conversational-assistant-for-plumber-in-hl-shorts"
     },
     {
+      "filename": "mxlg01nficw-dashboards-on-the-mobile-app-now-live-v-4-14-1.md",
+      "title": "Dashboards on the Mobile App Now Live! v.4.14.1",
+      "videoId": "mXlg01nfIcw",
+      "url": "https://www.youtube.com/watch?v=mXlg01nfIcw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:08:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "mxlg01nficw-dashboards-on-the-mobile-app-now-live-v-4-14-1"
+    },
+    {
       "filename": "mxtsjdgwhfs-kicking-off-highlevel-live-india-in-new-delhi-highlevel-s-first-india-event.md",
       "title": "Kicking off HighLevel LIVE India in New Delhi | HighLevel’s FIRST India event!",
       "videoId": "MXTsjdGwhfs",
@@ -6902,6 +6938,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ortdh65wwmk-create-blog-posts-with-ai"
+    },
+    {
+      "filename": "os-idi-5pvw-new-ui-for-ask-ai-live.md",
+      "title": "New UI for ASK AI Live",
+      "videoId": "oS-idi_5pvw",
+      "url": "https://www.youtube.com/watch?v=oS-idi_5pvw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:14:12.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "os-idi-5pvw-new-ui-for-ask-ai-live"
     },
     {
       "filename": "ow2-li7ec4i-ecommerce-mobile-ui-improvements-sorting-amp-filtering.md",
@@ -7653,10 +7701,10 @@
       "videoId": "QZKk3TJxSF0",
       "url": "https://www.youtube.com/watch?v=QZKk3TJxSF0",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-28T21:40:57.000Z",
+      "publishedDate": "2026-05-02T04:45:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "qzkk3tjxsf0-ai-masterclass-with-helena-liu-leveraging-ai-for-a-90-day-social-media-plan"
     },
     {
@@ -7980,7 +8028,7 @@
       "publishedDate": "2026-04-30T02:02:57.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "rpnvyaztaqy-this-is-for-entrepreneurs-who-are-tired-of-waiting-highlevel-shorts"
     },
     {
@@ -8174,30 +8222,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "smlr8hruqpa-day-2-replay-build-your-agency-fast-with-highlevel-ai"
-    },
-    {
-      "filename": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone.md",
-      "title": "HighLevel WhatsApp Coexistence Now Live for Everyone!",
-      "videoId": "SmN6H-EUyww",
-      "url": "https://www.youtube.com/watch?v=SmN6H-EUyww",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:55:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "smn6h-euyww-highlevel-whatsapp-coexistence-now-live-for-everyone"
-    },
-    {
-      "filename": "smn6h-euyww-whatsapp-coexistence-live-to-everyone-globally.md",
-      "title": "WhatsApp Coexistence Live to Everyone Globally!",
-      "videoId": "SmN6H-EUyww",
-      "url": "https://www.youtube.com/watch?v=SmN6H-EUyww",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:55:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.0",
-      "slug": "smn6h-euyww-whatsapp-coexistence-live-to-everyone-globally"
     },
     {
       "filename": "smsds4rvjia-how-to-boost-your-gokollab-community-engagement-through-affiliate-programs.md",
@@ -8426,6 +8450,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "t4t8tdvubyo-how-to-transform-your-chat-widget-to-use-a-voice-ai-agent-for-better-customer-interactio"
+    },
+    {
+      "filename": "t5axhpg-tkw-daily-snapshot-import-summary-live.md",
+      "title": "Daily Snapshot Import Summary Live!",
+      "videoId": "t5aXhpG-tkw",
+      "url": "https://www.youtube.com/watch?v=t5aXhpG-tkw",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-01T22:15:23.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "t5axhpg-tkw-daily-snapshot-import-summary-live"
     },
     {
       "filename": "t5y3tjzcz64-how-to-quickly-design-websites-and-funnels-using-highlevel-ai.md",
@@ -9868,30 +9904,6 @@
       "slug": "x2mqour1axy-what-no-one-tells-you-about-being-self-employed-shorts"
     },
     {
-      "filename": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing.md",
-      "title": "GoKollab BETA Mobile App v2 Now Live for Testing!",
-      "videoId": "x3dJbY0SWdw",
-      "url": "https://www.youtube.com/watch?v=x3dJbY0SWdw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:56:56.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "x3djby0swdw-gokollab-beta-mobile-app-v2-now-live-for-testing"
-    },
-    {
-      "filename": "x3djby0swdw-kollab-beta-mobile-app-v2-is-live-for-testing.md",
-      "title": "Kollab BETA Mobile App v2 is Live for Testing!",
-      "videoId": "x3dJbY0SWdw",
-      "url": "https://www.youtube.com/watch?v=x3dJbY0SWdw",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-30T22:56:56.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.0",
-      "slug": "x3djby0swdw-kollab-beta-mobile-app-v2-is-live-for-testing"
-    },
-    {
       "filename": "x5-apsdgedi-folders-for-ai-agents.md",
       "title": "Folders for AI Agents",
       "videoId": "X5_ApSdgEdI",
@@ -10430,18 +10442,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "ydh-si4ppyc-get-your-first-saas-clients-using-cold-outreach-meta-ads-shorts"
-    },
-    {
-      "filename": "yemybfrabnm-day-4-five-day-ai-employee-challenge.md",
-      "title": "Day 4 - Five Day AI Employee Challenge",
-      "videoId": "YeMyBfRaBnM",
-      "url": "https://www.youtube.com/watch?v=YeMyBfRaBnM",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T05:31:19.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "yemybfrabnm-day-4-five-day-ai-employee-challenge"
     },
     {
       "filename": "yfqdj2w6xvq-did-you-know-one-highlevel-workflow-can-unlock-3-better-email-roi.md",

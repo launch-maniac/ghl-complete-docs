@@ -1,10 +1,10 @@
 ---
-title: "All Sites    Better Uptime, Performance and Reliability Now Live!"
-video_id: "AocTn6xBtAI"
-url: "https://www.youtube.com/watch?v=AocTn6xBtAI"
-thumbnail: "https://i.ytimg.com/vi/AocTn6xBtAI/hqdefault.jpg"
+title: "AskAI Memory — Your AI Finally Knows Who You Are!"
+video_id: "G63dy8y9re8"
+url: "https://www.youtube.com/watch?v=G63dy8y9re8"
+thumbnail: "https://i.ytimg.com/vi/G63dy8y9re8/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T22:56:05.000Z"
+published_date: "2026-05-01T22:10:38.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-31T07:43:12.793Z"
+extracted_at: "2026-05-02T08:08:21.929Z"
 
 ---
 
-# 🟢 All Sites    Better Uptime, Performance and Reliability Now Live!
+# 🟢 AskAI Memory — Your AI Finally Knows Who You Are!
 
-**Video ID:** `AocTn6xBtAI`
+**Video ID:** `G63dy8y9re8`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-31T07:43:12.793Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=AocTn6xBtAI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/AocTn6xBtAI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=G63dy8y9re8)
+- [📷 Thumbnail](https://i.ytimg.com/vi/G63dy8y9re8/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/31/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/2/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

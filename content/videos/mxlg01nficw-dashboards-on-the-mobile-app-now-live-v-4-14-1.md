@@ -1,10 +1,10 @@
 ---
-title: "WhatsApp Coexistence Live to Everyone Globally!"
-video_id: "SmN6H-EUyww"
-url: "https://www.youtube.com/watch?v=SmN6H-EUyww"
-thumbnail: "https://i.ytimg.com/vi/SmN6H-EUyww/hqdefault.jpg"
+title: "Dashboards on the Mobile App Now Live! v.4.14.1"
+video_id: "mXlg01nfIcw"
+url: "https://www.youtube.com/watch?v=mXlg01nfIcw"
+thumbnail: "https://i.ytimg.com/vi/mXlg01nfIcw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T22:55:12.000Z"
+published_date: "2026-05-01T22:08:17.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-10-31T07:43:12.937Z"
+extracted_at: "2026-05-02T08:08:22.111Z"
 
 ---
 
-# 🟢 WhatsApp Coexistence Live to Everyone Globally!
+# 🟢 Dashboards on the Mobile App Now Live! v.4.14.1
 
-**Video ID:** `SmN6H-EUyww`
+**Video ID:** `mXlg01nfIcw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2025-10-31T07:43:12.937Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=SmN6H-EUyww)
-- [📷 Thumbnail](https://i.ytimg.com/vi/SmN6H-EUyww/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=mXlg01nfIcw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/mXlg01nfIcw/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 10/31/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/2/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 ---
-title: "How to Attract Clients Without Sales Calls"
-video_id: "3d5NAjNmBdI"
-url: "https://www.youtube.com/watch?v=3d5NAjNmBdI"
-thumbnail: "https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg"
+title: "New UI for ASK AI Live"
+video_id: "oS-idi_5pvw"
+url: "https://www.youtube.com/watch?v=oS-idi_5pvw"
+thumbnail: "https://i.ytimg.com/vi/oS-idi_5pvw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-30T14:41:51.000Z"
+published_date: "2026-05-01T22:14:12.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-02T08:08:23.352Z"
+extracted_at: "2026-05-02T08:08:21.737Z"
 
 ---
 
-# 🟢 How to Attract Clients Without Sales Calls
+# 🟢 New UI for ASK AI Live
 
-**Video ID:** `3d5NAjNmBdI`
+**Video ID:** `oS-idi_5pvw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/30/2026
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-05-02T08:08:23.352Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3d5NAjNmBdI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault_live.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=oS-idi_5pvw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/oS-idi_5pvw/hqdefault.jpg)
 
 
 ## Content Guidelines

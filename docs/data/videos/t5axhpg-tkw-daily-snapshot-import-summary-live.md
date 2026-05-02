@@ -1,14 +1,14 @@
 ---
-title: "Mobile Friendly Approval Flow Rollout for Social Planner"
-video_id: "tNYjB9N4lbo"
-url: "https://www.youtube.com/watch?v=tNYjB9N4lbo"
-thumbnail: "https://i.ytimg.com/vi/tNYjB9N4lbo/hqdefault.jpg"
+title: "Daily Snapshot Import Summary Live!"
+video_id: "t5aXhpG-tkw"
+url: "https://www.youtube.com/watch?v=t5aXhpG-tkw"
+thumbnail: "https://i.ytimg.com/vi/t5aXhpG-tkw/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-04-29T15:01:39.000Z"
+published_date: "2026-05-01T22:15:23.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-02T08:08:24.441Z"
+extracted_at: "2026-05-02T08:08:21.609Z"
 
 ---
 
-# 🟢 Mobile Friendly Approval Flow Rollout for Social Planner
+# 🟢 Daily Snapshot Import Summary Live!
 
-**Video ID:** `tNYjB9N4lbo`
+**Video ID:** `t5aXhpG-tkw`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 4/29/2026
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-05-02T08:08:24.441Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=tNYjB9N4lbo)
-- [📷 Thumbnail](https://i.ytimg.com/vi/tNYjB9N4lbo/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=t5aXhpG-tkw)
+- [📷 Thumbnail](https://i.ytimg.com/vi/t5aXhpG-tkw/hqdefault.jpg)
 
 
 ## Content Guidelines

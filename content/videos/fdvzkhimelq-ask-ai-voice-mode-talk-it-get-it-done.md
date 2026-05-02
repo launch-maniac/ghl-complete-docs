@@ -1,14 +1,14 @@
 ---
-title: "GoKollab BETA Mobile App v2 Now Live for Testing!"
-video_id: "x3dJbY0SWdw"
-url: "https://www.youtube.com/watch?v=x3dJbY0SWdw"
-thumbnail: "https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg"
+title: "Ask AI Voice Mode — Talk It  Get It Done!"
+video_id: "fdvzkHIMELQ"
+url: "https://www.youtube.com/watch?v=fdvzkHIMELQ"
+thumbnail: "https://i.ytimg.com/vi/fdvzkHIMELQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-10-30T22:56:56.000Z"
+published_date: "2026-05-01T22:09:34.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.2 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.2"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:02.868Z"
+extracted_at: "2026-05-02T08:08:22.286Z"
 
 ---
 
-# 🟢 GoKollab BETA Mobile App v2 Now Live for Testing!
+# 🟢 Ask AI Voice Mode — Talk It  Get It Done!
 
-**Video ID:** `x3dJbY0SWdw`
+**Video ID:** `fdvzkHIMELQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 10/30/2025
+**Published:** 5/1/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.2 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:02.868Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=x3dJbY0SWdw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/x3dJbY0SWdw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=fdvzkHIMELQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/fdvzkHIMELQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/6/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/2/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*
