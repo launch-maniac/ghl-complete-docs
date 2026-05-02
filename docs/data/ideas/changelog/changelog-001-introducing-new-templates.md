@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69ed3b52ea8da429c4306caa"
+guid: "69f61bdf27a30f0ec479148f"
 author: "Sales &amp; Marketing"
-pubDate: "2026-04-25T22:57:13.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-90"
+pubDate: "2026-05-02T15:50:17.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-91"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-90"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-91"
 index: 1
 ---
 
@@ -17,11 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **2 New Website Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Real Estate Consulting - 1
+Creative - 1
 
 \------------------------------------------------------
 
@@ -29,7 +29,7 @@ Real Estate Consulting - 1
 
 \------------------------------------------------------
 
-Beauty & Fashion - 1
+Restaurant and Bar - 1
 
 \-----------------------------------------------------
 
@@ -37,25 +37,7 @@ Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
-Real Estate - 1
-
-\-----------------------------------------------------
-
-🚀 **1 New Survey Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Travel & Hospitality - 1
-
-\-----------------------------------------------------
-
-🚀 **4 New Social Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Automotive - 2
-
-Travel & Hospitality - 2
+Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
@@ -63,15 +45,15 @@ Travel & Hospitality - 2
 
 \-----------------------------------------------------
 
-Insurance - Travel Insurance
+Restaurant and Bar - Catering Services
 
-Legal - Bankruptcy Law Firm
+Travel & Hospitality - Hotel
 
-Marketing Agency - Digital Marketing
+Automotive - Car Towing
 
-Medical - Chiropractor
+Real Estate - Title Insurance Representative
 
-Other - Non-Profits
+Beauty & Fashion - Clothing Boutique
 
 \-----------------------------------------------------
 
@@ -79,180 +61,74 @@ Other - Non-Profits
 
 \-----------------------------------------------------
 
-Other - Assisted Living Facility
+Beauty & Fashion - Jewelry Retail Store
 
-Medical - Pharmacy
+Automotive - Brake and Muffler Depot
 
-Marketing Agency - Affiliate Marketing Agency
+Travel & Hospitality - Excursion Guide
 
-Legal - Intellectual Property Law Firm
+Restaurant & Bar - Doughnut Shop
 
-Insurance - Property and Casualty Coverage
+Real Estate - Loan Officer
 
-\------------------------------------------------------
+\-----------------------------------------------------
 
-📣 **30 New LinkedIn Ad Templates** 📣
+🚀 **5 New LinkedIn Ad Templates Published** 🚀
 
-\------------------------------------------------------
+\-----------------------------------------------------
 
-Business Coaching & Consulting - Career Coach
+Marketing Agency - Social Media Influencer
 
-Creative - Web Designer
+Real Estate - Mortgage Lender
 
-Finance - Bookkeeper
+Creative - Event Planner
 
-Marketing Agency - Marketing Agency
+Finance - Banking & Payment
 
-Business Coaching & Consulting - Business Coach
-
-Finance - Tax Specialist
-
-Marketing Agency - SaaS Company
-
-Marketing Agency - Advertising
-
-Marketing Agency - Content Creator
-
-Real Estate - Architecture Designer
-
-Finance - Banking
-
-Insurance - Travel Insurance
-
-Marketing Agency - Public Relations
-
-Real Estate - Property Photographer
-
-Business Coaching & Consulting - Financial Consulting
-
-Creative - Interior Designer
-
-Finance - Accounting Firm
-
-Marketing Agency - CRM Software
-
-Real Estate - Commercial Development
-
-Business Coaching & Consulting - IT Advising
-
-Finance - Financial Planner
-
-Insurance - Business Insurance
-
-Marketing Agency - Affiliate
-
-Medical - Medical Billing
-
-Real Estate - Property Inspector
-
-Creative - Graphic Designer
-
-Finance - Investment
-
-Insurance - Commercial Insurance
-
-Marketing Agency - Event Marketer
-
-Real Estate - Property Investor
+Insurance - Health Insurance
 
 \------------------------------------------------------
 
-🚀**1 New Snapshot** 🚀
+📣 **1 New Snapshot** 📣
 
 \------------------------------------------------------
 
-Creative - Tattoo Shop
+Health & Wellness - Wellness Retreat
 
-![Roadside Support - Social](https://canny-assets.io/images/b4fc6f93ca3237a52e101da80ad900f9.png)
+![Banking & Payment](https://canny-assets.io/images/c9dc243865ec4188a21a32cc5e665e02.png)
 
-![Tattoo Shop - Snapshot](https://canny-assets.io/images/05797dbb80b462527156c17a4d0497bc.png)
+![Brake and Muffler Depot](https://canny-assets.io/images/fa47575cc72ba2ee2d1f87eb626bf553.png)
 
-![Travel Assistance - Social](https://canny-assets.io/images/fe97f4a609db2ac65ec9b8ee7db0d7be.png)
+![Car Towing](https://canny-assets.io/images/911721102935ac8d4d4e8086357a3c5c.png)
 
-![Accounting Firm - LinkedIn Ad](https://canny-assets.io/images/2725234ed8590a55e55c30a066fc8b94.png)
+![Catering Services](https://canny-assets.io/images/ee54ed1ce5cf8900f5bb0362446626d4.png)
 
-![Advertising - LinkedIn Ad](https://canny-assets.io/images/c96141224a71063f8d94f66e417af64e.png)
+![Clothing Boutique](https://canny-assets.io/images/0db4b65577621670622b1e9c2af91e64.png)
 
-![Affiliate - LinkedIn Ad](https://canny-assets.io/images/b3d477aeaed78af826fc424332624cdc.png)
+![Donut Store - Form](https://canny-assets.io/images/e76d9fb77ab3845268cd6e0b9822273d.png)
 
-![Architecture Designer - LinkedIn Ad](https://canny-assets.io/images/e9e19051dd149deaa985d4b679e81af2.png)
+![Doughnut Shop](https://canny-assets.io/images/ce39f6dd6c3f5cea7d010757f5a5b765.png)
 
-![Banking - LinkedIn Ad](https://canny-assets.io/images/8897d8166e1d97d1cd56da56e02a30b0.png)
+![Event Planner](https://canny-assets.io/images/baa4f9653a2b781cc06806c43bb8d5c2.png)
 
-![Bookkeeper - LinkedIn Ad](https://canny-assets.io/images/c368a4644d63c24008674c071fde84ab.png)
+![Excursion Guide](https://canny-assets.io/images/4bf5c6101723cc35e5e9e657b1e78a94.png)
 
-![Business Coach - LinkedIn Ad](https://canny-assets.io/images/cd989f763299758a0657ee0d5d7e9563.png)
+![Health Insurance](https://canny-assets.io/images/61d0eafe2d13b9a1afa9f4515ddbc242.png)
 
-![Business Insurance  - LinkedIn Ad](https://canny-assets.io/images/009dd33ad4b02afb055bc9ff0708edef.png)
+![Hotel](https://canny-assets.io/images/3d0f0f3ed95af52605a4ba2ac678efb0.png)
 
-![Career Coach - LinkedIn Ad](https://canny-assets.io/images/2def21f3efcd05646dc9ce6ec5f2d1bf.png)
+![Jewelry Retail Store](https://canny-assets.io/images/da460eecaa361fb885c1ee5725c40cf1.png)
 
-![Commercial Development - LinkedIn Ad](https://canny-assets.io/images/f45156562fa7017d5c4889167da2be5c.png)
+![Loan Officer](https://canny-assets.io/images/481f0278e21f5bcdddca991a00b6c50a.png)
 
-![Commercial Insurance  - LinkedIn Ad](https://canny-assets.io/images/d758d1ad88c2f1c9ceec5ea474a2cfff.png)
+![Mortgage Lender](https://canny-assets.io/images/313b078bc40c7ba27d212b0a8086fdfe.png)
 
-![Content Creator - LinkedIn Ad](https://canny-assets.io/images/ad09a65e39c98053703895a5d8ffad7c.png)
+![Social Media Influencer](https://canny-assets.io/images/40ada4b8b8d5e1c933c359d41c9e5109.png)
 
-![CRM Software - LinkedIn Ad](https://canny-assets.io/images/72b23cc4d5fe135ce3ca76f58e2f3565.png)
+![Stocks Trading Coach - Email](https://canny-assets.io/images/8a692aca1b43e0b6d386505a4bbb7919.png)
 
-![Event Marketer - LinkedIn Ad](https://canny-assets.io/images/771977b00a1168e96e92edd5bd50e342.png)
+![Tattoo Shop - Website](https://canny-assets.io/images/52d077d8bcf76327943acf614f8ea0c6.png)
 
-![Financial Consulting - LinkedIn Ad](https://canny-assets.io/images/27de7083010a5d513ec2bc3e64484942.png)
+![Title Insurance Representative](https://canny-assets.io/images/b7ebb805f4b3ec8cbc9421a34edefa70.png)
 
-![Financial Planner - LinkedIn Ad](https://canny-assets.io/images/acb1507ca7e948e7bc3ec0c06c2d127c.png)
-
-![Graphic Designer - LinkedIn Ad](https://canny-assets.io/images/bdfe409727a11b286b7898867b20b5de.png)
-
-![Interior Designer - LinkedIn Ad](https://canny-assets.io/images/82448afe6e0d87053ff120e0955b3d27.png)
-
-![Investment - LinkedIn Ad](https://canny-assets.io/images/c35f81b83962766b2044140b2a9333bb.png)
-
-![IT Advising - LinkedIn Ad](https://canny-assets.io/images/a65c32090cfc48120c6ea49c0f562e52.png)
-
-![Lead Generation - LinkedIn Ad](https://canny-assets.io/images/ecfc7c678b86e61f9a6c80c25b729664.png)
-
-![Lodge Rental - Survey](https://canny-assets.io/images/69b34b28dbec50f9742163888a0f6014.png)
-
-![Makeup Artist - Email](https://canny-assets.io/images/ba79546dd5e0b6a164b1fb4210f330aa.png)
-
-![Marketing Agency - LinkedIn Ad](https://canny-assets.io/images/33a9b132bfca4eee4634a46e0bde2c81.png)
-
-![Med Billing - LinkedIn Ad](https://canny-assets.io/images/adb33d64bdad9cc0fed132e2417dfac4.png)
-
-![Property Investor - LinkedIn Ad](https://canny-assets.io/images/b1f9a176c5195837098d7c46758d0883.png)
-
-![Property Photographer - LinkedIn Ad](https://canny-assets.io/images/87ad15c469b58aa7516ddf099e519fc4.png)
-
-![Property Staging - Form](https://canny-assets.io/images/e5ddd5f69b2b017dd3f50c790914ee3b.png)
-
-![Public Relations - LinkedIn Ad](https://canny-assets.io/images/79f30bbd78894276797e0a5f49295255.png)
-
-![Real Estate Consulting - Website](https://canny-assets.io/images/d72b75784cdcb68e6f44a10127830257.png)
-
-![SaaS Company - LinkedIn Ad](https://canny-assets.io/images/b2333df5915935bb6260155cf4f1e580.png)
-
-![Tax Specialist - LinkedIn Ad](https://canny-assets.io/images/57ff84f9f90fdfd695fceef59085e81e.png)
-
-![Travel Insurance - LinkedIn Ad](https://canny-assets.io/images/cdf78c5dca3dd69a97cd0961711bedc1.png)
-
-![Web Designer - LinkedIn Ad](https://canny-assets.io/images/b9057298dce414ce1087158d9da9c294.png)
-
-![Affiliate Marketing Agency - Google Ad](https://canny-assets.io/images/5443fe31ec0fc6dae346e754aa9a7e46.png)
-
-![Assisted Living Facility - Google Ad](https://canny-assets.io/images/fef8b8938095aa6958b5b512fac17877.png)
-
-![Bankruptcy Law Firm - Facebook Ad](https://canny-assets.io/images/cc80fa08dfef18eca93509ebd8e99dcb.png)
-
-![Chiropractor - Facebook Ad](https://canny-assets.io/images/c4d14ff4e7854ce480bafc61c6db31d6.png)
-
-![Digital Marketing - Facebook Ad](https://canny-assets.io/images/12b07fee2cfd1254ca293c4d7a2b89d5.png)
-
-![Intellectual Property Law Firm - Google Ad](https://canny-assets.io/images/187def7d8ceea52bf7abf21e6e200c0d.png)
-
-![Non-Profits - Facebook Ad](https://canny-assets.io/images/af4c5b267be0eeabfbace3e56f6b38d2.png)
-
-![Pharmacy - Google Ad](https://canny-assets.io/images/3028b35560188d304bef84a4657688f8.png)
-
-![Property and Casualty Coverage - Google Ad](https://canny-assets.io/images/4ba8b1c5e230730c37a13ebf18cb83b4.png)
-
-![Travel Insurance - Facebook Ad](https://canny-assets.io/images/e69b40bc30d3fdb067bbc288dd3e8e90.png)
+![Wellness Retreat - Snapshot](https://canny-assets.io/images/eb8acf3ad887d2832d47abf2e0f04c6c.png)
