@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-02T08:08:29.161Z",
+  "generated": "2026-05-04T08:23:40.396Z",
   "stats": {
     "channels": 1,
-    "videos": 19,
+    "videos": 10,
     "playlists": 0,
-    "expired": 14,
+    "expired": 18,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 19
+    "transcriptsFailed": 10
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -650,30 +650,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "37fraoicdy0-turn-youtube-views-into-course-sales-with-highlevel"
-    },
-    {
-      "filename": "3awiuoz4tx0-new-highlevel-templates-websites-funnels-amp-emails-are-live.md",
-      "title": "New HighLevel Templates (Websites, Funnels &amp; Emails) Are Live!",
-      "videoId": "3AwIuOz4tX0",
-      "url": "https://www.youtube.com/watch?v=3AwIuOz4tX0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T22:21:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "3awiuoz4tx0-new-highlevel-templates-websites-funnels-amp-emails-are-live"
-    },
-    {
-      "filename": "3awiuoz4tx0-new-templates-live.md",
-      "title": "New Templates Live!",
-      "videoId": "3AwIuOz4tX0",
-      "url": "https://www.youtube.com/watch?v=3AwIuOz4tX0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T22:21:48.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "3awiuoz4tx0-new-templates-live"
     },
     {
       "filename": "3d5najnmbdi-how-to-attract-clients-without-sales-calls.md",
@@ -2145,10 +2121,10 @@
       "videoId": "aWAlS-hnTLs",
       "url": "https://www.youtube.com/watch?v=aWAlS-hnTLs",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-05-01T19:30:11.000Z",
+      "publishedDate": "2026-05-02T08:11:22.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "awals-hntls-the-highlevel-release-radar-april-27th-may-1st-2026"
     },
     {
@@ -2700,7 +2676,7 @@
       "publishedDate": "2026-05-01T22:06:48.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "clvfhr6spog-mistral-ai-actions-in-workflows"
     },
     {
@@ -2894,18 +2870,6 @@
       "contentCategory": "critical",
       "ageInMonths": "0.0",
       "slug": "czs-edctvoy-mobile-app-updates-v-4-10-0-service-v2-features-enhancements"
-    },
-    {
-      "filename": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit.md",
-      "title": "Did You Know HighLevel Can Email Leads the Second They Hit Submit?",
-      "videoId": "D_IeyvxeE8E",
-      "url": "https://www.youtube.com/watch?v=D_IeyvxeE8E",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T19:07:50.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "d-ieyvxee8e-did-you-know-highlevel-can-email-leads-the-second-they-hit-submit"
     },
     {
       "filename": "d-p8qk2sqna-sell-smarter-in-latam-with-mercado-pago-payments-live.md",
@@ -3780,7 +3744,7 @@
       "publishedDate": "2026-05-01T22:09:34.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fdvzkhimelq-ask-ai-voice-mode-talk-it-get-it-done"
     },
     {
@@ -4164,7 +4128,7 @@
       "publishedDate": "2026-05-01T22:10:38.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "g63dy8y9re8-askai-memory-your-ai-finally-knows-who-you-are"
     },
     {
@@ -5404,18 +5368,6 @@
       "slug": "k5hik9pmkk-next-gen-rich-messaging-rcs-closed-beta-launch"
     },
     {
-      "filename": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025.md",
-      "title": "The HighLevel Release Radar (October 27th - October 31st 2025)",
-      "videoId": "k5pgV7Yot2w",
-      "url": "https://www.youtube.com/watch?v=k5pgV7Yot2w",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-01T07:20:03.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "k5pgv7yot2w-the-highlevel-release-radar-october-27th-october-31st-2025"
-    },
-    {
       "filename": "k5u2fyqbak-see-you-at-highlevel-live-india.md",
       "title": "See you at HighLevel LIVE India!",
       "videoId": "_k5u2FYQBAk",
@@ -5920,18 +5872,6 @@
       "slug": "lpdzhxm-hx0-day-1-how-to-go-viral-and-grow-your-business"
     },
     {
-      "filename": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel.md",
-      "title": "Did You Know You Can Run a Referral Program in HighLevel?",
-      "videoId": "ltclLkjmAiQ",
-      "url": "https://www.youtube.com/watch?v=ltclLkjmAiQ",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T19:09:14.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "ltcllkjmaiq-did-you-know-you-can-run-a-referral-program-in-highlevel"
-    },
-    {
       "filename": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel.md",
       "title": "Pete Mitchell – How I Built a Self-Running Agency with HighLevel",
       "videoId": "lU26uUcS_bY",
@@ -6312,7 +6252,7 @@
       "publishedDate": "2026-05-01T22:08:17.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "mxlg01nficw-dashboards-on-the-mobile-app-now-live-v-4-14-1"
     },
     {
@@ -6948,7 +6888,7 @@
       "publishedDate": "2026-05-01T22:14:12.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "os-idi-5pvw-new-ui-for-ask-ai-live"
     },
     {
@@ -7214,30 +7154,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.0",
       "slug": "pnx0wjyh65k-add-amp-track-product-cost-price-amp-margins-for-products"
-    },
-    {
-      "filename": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live.md",
-      "title": "Countdown Timers in WhatsApp Messages Live!",
-      "videoId": "Po2i0GTX_LU",
-      "url": "https://www.youtube.com/watch?v=Po2i0GTX_LU",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T22:22:32.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "po2i0gtx-lu-countdown-timers-in-whatsapp-messages-live"
-    },
-    {
-      "filename": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live.md",
-      "title": "HighLevel WhatsApp Update: Countdown Timers Are Now Live!",
-      "videoId": "Po2i0GTX_LU",
-      "url": "https://www.youtube.com/watch?v=Po2i0GTX_LU",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T22:22:32.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "po2i0gtx-lu-highlevel-whatsapp-update-countdown-timers-are-now-live"
     },
     {
       "filename": "poe4spdyaxc-ai-agent-action-in-workflows.md",
@@ -7704,7 +7620,7 @@
       "publishedDate": "2026-05-02T04:45:02.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "qzkk3tjxsf0-ai-masterclass-with-helena-liu-leveraging-ai-for-a-90-day-social-media-plan"
     },
     {
@@ -8460,7 +8376,7 @@
       "publishedDate": "2026-05-01T22:15:23.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "t5axhpg-tkw-daily-snapshot-import-summary-live"
     },
     {
@@ -9398,18 +9314,6 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "vpnk-p5r40i-how-to-integrate-and-use-leadconnector-on-your-wordpress-site"
-    },
-    {
-      "filename": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you.md",
-      "title": "Did You Know HighLevel Can Turn Missed Calls into Booked Appointments for You?",
-      "videoId": "Vqdst6s3wnI",
-      "url": "https://www.youtube.com/watch?v=Vqdst6s3wnI",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T18:19:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "vqdst6s3wni-did-you-know-highlevel-can-turn-missed-calls-into-booked-appointments-for-you"
     },
     {
       "filename": "vrrnpldwjx0-meeting-room-seamless-rejoin-and-smarter-host-controls.md",
@@ -10720,18 +10624,6 @@
       "slug": "z-w2v0zpyvu-how-to-stop-spam-leads-in-your-crm-using-ai-shorts"
     },
     {
-      "filename": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel.md",
-      "title": "Did You Know You Can Create Branded Dashboards with HighLevel?",
-      "videoId": "Z5jEDwabSR0",
-      "url": "https://www.youtube.com/watch?v=Z5jEDwabSR0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-10-31T19:08:12.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "z5jedwabsr0-did-you-know-you-can-create-branded-dashboards-with-highlevel"
-    },
-    {
       "filename": "z5xac5z-yj0-keyboard-shortcuts.md",
       "title": "Keyboard shortcuts",
       "videoId": "z5xAc5Z_yj0",
@@ -11189,7 +11081,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 895,
+    "fresh": 886,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -11201,7 +11093,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 877,
+        "fresh": 868,
         "warning": 0,
         "expired": 0,
         "unknown": null
