@@ -11,7 +11,7 @@
       "topics": [],
       "language": "TypeScript",
       "license": "Unknown",
-      "extractedAt": "2026-05-03T03:09:05.112Z"
+      "extractedAt": "2026-05-04T03:09:22.718Z"
     },
     {
       "name": "ghl-sdk-examples",
@@ -24,7 +24,7 @@
       "topics": [],
       "language": "HTML",
       "license": "Unknown",
-      "extractedAt": "2026-05-03T03:09:06.054Z"
+      "extractedAt": "2026-05-04T03:09:23.773Z"
     },
     {
       "name": "highlevel-api-sdk",
@@ -37,10 +37,10 @@
       "topics": [],
       "language": "TypeScript",
       "license": "MIT License",
-      "extractedAt": "2026-05-03T03:09:07.014Z"
+      "extractedAt": "2026-05-04T03:09:24.763Z"
     }
   ],
   "totalDocuments": 3,
   "totalCodeExamples": 6,
-  "lastUpdate": "2026-05-03T03:09:07.015Z"
+  "lastUpdate": "2026-05-04T03:09:24.763Z"
 }
