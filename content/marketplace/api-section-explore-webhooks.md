@@ -3,7 +3,7 @@ title: "Explore Webhooks →"
 category: "marketplace"
 type: "api-section"
 url: "https://marketplace.gohighlevel.com/docs/category/webhook"
-extracted_at: "2026-05-04T04:26:06.455Z"
+extracted_at: "2026-05-04T21:31:52.385Z"
 ---
 
 -   [](/docs/)
@@ -150,6 +150,14 @@ Called whenever a contact's tag field is updated
 Called whenever a conversations unread status is updated
 
 ](/docs/webhook/ConversationUnreadWebhook)
+
+[
+
+## 📄️ ConversationUpdate
+
+Called whenever a live chat conversation is merged into another conversation due to contact identification (e.g. a visitor provides their email or phone number matching an existing contact).
+
+](/docs/webhook/ConversationUpdate)
 
 [
 
