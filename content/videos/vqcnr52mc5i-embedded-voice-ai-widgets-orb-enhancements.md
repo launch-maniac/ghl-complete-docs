@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (April 27th - May 1st 2026)"
-video_id: "aWAlS-hnTLs"
-url: "https://www.youtube.com/watch?v=aWAlS-hnTLs"
-thumbnail: "https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg"
+title: "Embedded Voice AI Widgets   Orb Enhancements!"
+video_id: "VQCNr52Mc5I"
+url: "https://www.youtube.com/watch?v=VQCNr52Mc5I"
+thumbnail: "https://i.ytimg.com/vi/VQCNr52Mc5I/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-05-02T08:11:22.000Z"
+published_date: "2026-05-04T22:56:01.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-05T08:21:13.031Z"
+extracted_at: "2026-05-05T08:21:11.886Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (April 27th - May 1st 2026)
+# 🟢 Embedded Voice AI Widgets   Orb Enhancements!
 
-**Video ID:** `aWAlS-hnTLs`
+**Video ID:** `VQCNr52Mc5I`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 5/2/2026
+**Published:** 5/4/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-05-05T08:21:13.031Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aWAlS-hnTLs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=VQCNr52Mc5I)
+- [📷 Thumbnail](https://i.ytimg.com/vi/VQCNr52Mc5I/hqdefault.jpg)
 
 
 ## Content Guidelines

@@ -1,14 +1,14 @@
 ---
-title: "The HighLevel Release Radar (April 27th - May 1st 2026)"
-video_id: "aWAlS-hnTLs"
-url: "https://www.youtube.com/watch?v=aWAlS-hnTLs"
-thumbnail: "https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg"
+title: "Ask AI Memory — Your AI Finally Knows Who You Are"
+video_id: "301fWX2SDto"
+url: "https://www.youtube.com/watch?v=301fWX2SDto"
+thumbnail: "https://i.ytimg.com/vi/301fWX2SDto/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-05-02T08:11:22.000Z"
+published_date: "2026-05-05T00:00:03.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-05T08:21:13.031Z"
+extracted_at: "2026-05-05T08:21:11.555Z"
 
 ---
 
-# 🟢 The HighLevel Release Radar (April 27th - May 1st 2026)
+# 🟢 Ask AI Memory — Your AI Finally Knows Who You Are
 
-**Video ID:** `aWAlS-hnTLs`
+**Video ID:** `301fWX2SDto`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 5/2/2026
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2026-05-05T08:21:13.031Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=aWAlS-hnTLs)
-- [📷 Thumbnail](https://i.ytimg.com/vi/aWAlS-hnTLs/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=301fWX2SDto)
+- [📷 Thumbnail](https://i.ytimg.com/vi/301fWX2SDto/hqdefault.jpg)
 
 
 ## Content Guidelines

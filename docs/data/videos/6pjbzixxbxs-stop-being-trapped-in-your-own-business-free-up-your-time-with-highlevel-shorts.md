@@ -1,14 +1,14 @@
 ---
-title: "New UI for ASK AI Live"
-video_id: "oS-idi_5pvw"
-url: "https://www.youtube.com/watch?v=oS-idi_5pvw"
-thumbnail: "https://i.ytimg.com/vi/oS-idi_5pvw/hqdefault.jpg"
+title: "Stop being trapped in your own business . Free up your time with HighLevel. #shorts"
+video_id: "6pJbZIXXbxs"
+url: "https://www.youtube.com/watch?v=6pJbZIXXbxs"
+thumbnail: "https://i.ytimg.com/vi/6pJbZIXXbxs/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-05-01T22:14:12.000Z"
+published_date: "2026-05-04T23:04:02.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: false
 transcript_language: "none"
 transcript_type: "none"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-05T08:21:13.219Z"
+extracted_at: "2026-05-05T08:21:11.718Z"
 
 ---
 
-# 🟢 New UI for ASK AI Live
+# 🟢 Stop being trapped in your own business . Free up your time with HighLevel. #shorts
 
-**Video ID:** `oS-idi_5pvw`
+**Video ID:** `6pJbZIXXbxs`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 5/1/2026
+**Published:** 5/4/2026
 **Content Type:** standard
 **Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -42,8 +42,8 @@ extracted_at: "2026-05-05T08:21:13.219Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=oS-idi_5pvw)
-- [📷 Thumbnail](https://i.ytimg.com/vi/oS-idi_5pvw/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6pJbZIXXbxs)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6pJbZIXXbxs/hqdefault.jpg)
 
 
 ## Content Guidelines

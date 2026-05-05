@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-04T08:23:40.396Z",
+  "generated": "2026-05-05T08:21:17.976Z",
   "stats": {
     "channels": 1,
-    "videos": 10,
+    "videos": 13,
     "playlists": 0,
-    "expired": 18,
+    "expired": 0,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 10
+    "transcriptsFailed": 13
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -604,6 +604,18 @@
       "slug": "2xyh00mnfao-kalvin-morris-easy-ways-to-scale-with-highlevel-and-smart-systems"
     },
     {
+      "filename": "301fwx2sdto-ask-ai-memory-your-ai-finally-knows-who-you-are.md",
+      "title": "Ask AI Memory — Your AI Finally Knows Who You Are",
+      "videoId": "301fWX2SDto",
+      "url": "https://www.youtube.com/watch?v=301fWX2SDto",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T00:00:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "301fwx2sdto-ask-ai-memory-your-ai-finally-knows-who-you-are"
+    },
+    {
       "filename": "31vktbpkopg-did-you-know-you-can-experiment-in-ai-studio-without-risking-your-live-page.md",
       "title": "Did You Know You Can Experiment in AI Studio Without Risking Your Live Page?",
       "videoId": "31vKTbPKOpg",
@@ -657,10 +669,10 @@
       "videoId": "3d5NAjNmBdI",
       "url": "https://www.youtube.com/watch?v=3d5NAjNmBdI",
       "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2026-04-30T14:41:51.000Z",
+      "publishedDate": "2026-05-05T06:09:25.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.0",
       "slug": "3d5najnmbdi-how-to-attract-clients-without-sales-calls"
     },
     {
@@ -974,6 +986,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "52txcvzphsk-your-story-is-the-most-powerful-tool-you-have-highlevel-shorts"
+    },
+    {
+      "filename": "52vkrm8fptq-stop-spending-on-new-leads-reactivate-the-leads-you-already-have-automatically-with-h-sh.md",
+      "title": "Stop spending $$$ on new leads... reactivate the leads you already have automatically with H #shorts",
+      "videoId": "52VKRM8FPTQ",
+      "url": "https://www.youtube.com/watch?v=52VKRM8FPTQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T22:03:33.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "52vkrm8fptq-stop-spending-on-new-leads-reactivate-the-leads-you-already-have-automatically-with-h-sh"
     },
     {
       "filename": "57mdqvtnzw4-day-1-scale-with-digital-products-no-ad-spend-needed.md",
@@ -1310,6 +1334,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6pg34m5ddmk-workflow-optimization-99-7-latency-reduction"
+    },
+    {
+      "filename": "6pjbzixxbxs-stop-being-trapped-in-your-own-business-free-up-your-time-with-highlevel-shorts.md",
+      "title": "Stop being trapped in your own business . Free up your time with HighLevel. #shorts",
+      "videoId": "6pJbZIXXbxs",
+      "url": "https://www.youtube.com/watch?v=6pJbZIXXbxs",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T23:04:02.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6pjbzixxbxs-stop-being-trapped-in-your-own-business-free-up-your-time-with-highlevel-shorts"
     },
     {
       "filename": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro.md",
@@ -3372,7 +3408,7 @@
       "publishedDate": "2026-04-30T05:28:59.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.2",
       "slug": "elzbhj4kvsi-highlevel-ai-masterclass-with-jason-wardrop-the-1-ai-offer-small-businesses-have-never-h"
     },
     {
@@ -3890,6 +3926,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "fpvivenoywu-product-price-amp-variant-level-coupons-live"
+    },
+    {
+      "filename": "fpwlaf6huka-mistral-ai-actions-in-workflows.md",
+      "title": "Mistral AI Actions in Workflows",
+      "videoId": "FPwlAf6HuKA",
+      "url": "https://www.youtube.com/watch?v=FPwlAf6HuKA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T18:00:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "fpwlaf6huka-mistral-ai-actions-in-workflows"
     },
     {
       "filename": "fq83gfetb6i-how-to-set-up-event-calendars-in-highlevel.md",
@@ -5092,6 +5140,18 @@
       "slug": "j6l-unf6yr0-whatsapp-calling"
     },
     {
+      "filename": "j86uernu9os-ai-builder-in-workflows-now-more-powerful.md",
+      "title": "AI Builder in Workflows now more POWERFUL!",
+      "videoId": "j86UErnU9os",
+      "url": "https://www.youtube.com/watch?v=j86UErnU9os",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T22:50:44.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "j86uernu9os-ai-builder-in-workflows-now-more-powerful"
+    },
+    {
       "filename": "j8g857w37i-white-label-desktop-app-is-live.md",
       "title": "White Label Desktop App Is Live!",
       "videoId": "_J8g857W37I",
@@ -5882,6 +5942,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "lu26uucs-by-pete-mitchell-how-i-built-a-self-running-agency-with-highlevel"
+    },
+    {
+      "filename": "lv-s0-3vfi0-ask-ai-voice-mode-talk-it-get-it-done.md",
+      "title": "Ask AI Voice Mode  Talk It, Get It Done",
+      "videoId": "lV_s0_3vfI0",
+      "url": "https://www.youtube.com/watch?v=lV_s0_3vfI0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T21:00:50.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "lv-s0-3vfi0-ask-ai-voice-mode-talk-it-get-it-done"
     },
     {
       "filename": "lw7ppsydtna-clipboard-attachment-support-across-all-channels.md",
@@ -9316,6 +9388,18 @@
       "slug": "vpnk-p5r40i-how-to-integrate-and-use-leadconnector-on-your-wordpress-site"
     },
     {
+      "filename": "vqcnr52mc5i-embedded-voice-ai-widgets-orb-enhancements.md",
+      "title": "Embedded Voice AI Widgets   Orb Enhancements!",
+      "videoId": "VQCNr52Mc5I",
+      "url": "https://www.youtube.com/watch?v=VQCNr52Mc5I",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T22:56:01.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "vqcnr52mc5i-embedded-voice-ai-widgets-orb-enhancements"
+    },
+    {
       "filename": "vrrnpldwjx0-meeting-room-seamless-rejoin-and-smarter-host-controls.md",
       "title": "Meeting Room  Seamless Rejoin and Smarter Host Controls",
       "videoId": "VrRNPldwjx0",
@@ -9962,6 +10046,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "xjdfknuyc1w-leadconnector-desktop-app-live-for-macos-and-windows"
+    },
+    {
+      "filename": "xjjjachnpa-dashboards-on-the-mobile-app-v-4-14-1.md",
+      "title": "Dashboards on the Mobile App v 4 14 1",
+      "videoId": "_xjJjaCHnpA",
+      "url": "https://www.youtube.com/watch?v=_xjJjaCHnpA",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-04T15:01:03.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "xjjjachnpa-dashboards-on-the-mobile-app-v-4-14-1"
     },
     {
       "filename": "xm3kv78oqf0-the-highlevel-release-radar-november-17th-november-21st-2025.md",
@@ -11081,7 +11177,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 886,
+    "fresh": 894,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -11093,7 +11189,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 868,
+        "fresh": 876,
         "warning": 0,
         "expired": 0,
         "unknown": null
