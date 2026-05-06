@@ -2,12 +2,12 @@
 title: "Introducing New Templates"
 type: "changelog"
 source: "ideas.gohighlevel.com"
-guid: "69b5a1eaa2d4e4e746552f9a"
+guid: "69f61bdf27a30f0ec479148f"
 author: "Sales &amp; Marketing"
-pubDate: "2026-03-14T18:04:13.000Z"
-link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-84"
+pubDate: "2026-05-02T15:50:17.000Z"
+link: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-91"
 categories: new
-url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-84"
+url: "https://ideas.gohighlevel.com/changelog/introducing-new-templates-91"
 index: 8
 ---
 
@@ -17,13 +17,11 @@ We are thrilled to announce our new web templates, designed to elevate your mark
 
 \------------------------------------------------------
 
-🚀 **2 New Website Templates Published** 🚀
+🚀 **1 New Website Templates Published** 🚀
 
 \------------------------------------------------------
 
-Marketing Agency - 1
-
-Medical - 1
+Creative - 1
 
 \------------------------------------------------------
 
@@ -31,7 +29,7 @@ Medical - 1
 
 \------------------------------------------------------
 
-Marketing Agency - 1
+Restaurant and Bar - 1
 
 \-----------------------------------------------------
 
@@ -39,25 +37,7 @@ Marketing Agency - 1
 
 \-----------------------------------------------------
 
-Health & Wellness - 1
-
-\-----------------------------------------------------
-
-🚀 **1 New Survey Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Insurance - 1
-
-\-----------------------------------------------------
-
-🚀 **4 New Social Templates Published** 🚀
-
-\-----------------------------------------------------
-
-Insurance - 2
-
-Holidays - 2
+Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
@@ -65,11 +45,15 @@ Holidays - 2
 
 \-----------------------------------------------------
 
-Automotive - 1
+Restaurant and Bar - Catering Services
 
-Business Coaching & Consulting - 1
+Travel & Hospitality - Hotel
 
-Beauty & Fashion - 1
+Automotive - Car Towing
+
+Real Estate - Title Insurance Representative
+
+Beauty & Fashion - Clothing Boutique
 
 \-----------------------------------------------------
 
@@ -77,9 +61,31 @@ Beauty & Fashion - 1
 
 \-----------------------------------------------------
 
-Creative - Salsa Instructor
+Beauty & Fashion - Jewelry Retail Store
 
-Finance - Tax Accounting
+Automotive - Brake and Muffler Depot
+
+Travel & Hospitality - Excursion Guide
+
+Restaurant & Bar - Doughnut Shop
+
+Real Estate - Loan Officer
+
+\-----------------------------------------------------
+
+🚀 **5 New LinkedIn Ad Templates Published** 🚀
+
+\-----------------------------------------------------
+
+Marketing Agency - Social Media Influencer
+
+Real Estate - Mortgage Lender
+
+Creative - Event Planner
+
+Finance - Banking & Payment
+
+Insurance - Health Insurance
 
 \------------------------------------------------------
 
@@ -87,30 +93,42 @@ Finance - Tax Accounting
 
 \------------------------------------------------------
 
-Restaurant & Bar - Caterer
+Health & Wellness - Wellness Retreat
 
-![Caterer - Snapshot](https://canny-assets.io/images/0855542f4d3b954365897a9a1e9c0829.png)
+![Banking & Payment](https://canny-assets.io/images/c9dc243865ec4188a21a32cc5e665e02.png)
 
-![Day Spa - Facebook Ad](https://canny-assets.io/images/768f0f0422af6d6373532bdcf0e7af1f.png)
+![Brake and Muffler Depot](https://canny-assets.io/images/fa47575cc72ba2ee2d1f87eb626bf553.png)
 
-![Real Estate Consultant - Facebook](https://canny-assets.io/images/7cacb978c9cc3e7cb303a25b438069c3.png)
+![Car Towing](https://canny-assets.io/images/911721102935ac8d4d4e8086357a3c5c.png)
 
-![Roadside Assistance - Facebook](https://canny-assets.io/images/706f972e0a1b4612cbf88ebef5652008.png)
+![Catering Services](https://canny-assets.io/images/ee54ed1ce5cf8900f5bb0362446626d4.png)
 
-![Automotive Insurance - Social Planner](https://canny-assets.io/images/04c8f723fd1aeb37134380a8f4cc09b5.png)
+![Clothing Boutique](https://canny-assets.io/images/0db4b65577621670622b1e9c2af91e64.png)
 
-![Digital Marketing - Email](https://canny-assets.io/images/19b37acf8a5a9a00e6791d255b56eac5.png)
+![Donut Store - Form](https://canny-assets.io/images/e76d9fb77ab3845268cd6e0b9822273d.png)
 
-![Fitness Coach - Form](https://canny-assets.io/images/c65a64373985d80ab698dccfc908a854.png)
+![Doughnut Shop](https://canny-assets.io/images/ce39f6dd6c3f5cea7d010757f5a5b765.png)
 
-![Hair Loss Clinic - Website](https://canny-assets.io/images/08ebe378275e25896e5d32f8e98429dd.png)
+![Event Planner](https://canny-assets.io/images/baa4f9653a2b781cc06806c43bb8d5c2.png)
 
-![Life Insurance - Survey](https://canny-assets.io/images/70aa3bcb36d576dd3e32a37bfa246abe.png)
+![Excursion Guide](https://canny-assets.io/images/4bf5c6101723cc35e5e9e657b1e78a94.png)
 
-![Marketing Firm - Website](https://canny-assets.io/images/c5632230fcdc28d163891bf45321aa04.png)
+![Health Insurance](https://canny-assets.io/images/61d0eafe2d13b9a1afa9f4515ddbc242.png)
 
-![Salsa Instructor - Google Ad](https://canny-assets.io/images/23fb9ec07626485dc67e31eec6bc5d4d.png)
+![Hotel](https://canny-assets.io/images/3d0f0f3ed95af52605a4ba2ac678efb0.png)
 
-![St Patrick's Day - Social Planner](https://canny-assets.io/images/64781639ef882849db03ac190338985a.png)
+![Jewelry Retail Store](https://canny-assets.io/images/da460eecaa361fb885c1ee5725c40cf1.png)
 
-![Tax Accounting - Google Ad](https://canny-assets.io/images/a1e6ccfe62f3d4182a2c2f0e290e0108.png)
+![Loan Officer](https://canny-assets.io/images/481f0278e21f5bcdddca991a00b6c50a.png)
+
+![Mortgage Lender](https://canny-assets.io/images/313b078bc40c7ba27d212b0a8086fdfe.png)
+
+![Social Media Influencer](https://canny-assets.io/images/40ada4b8b8d5e1c933c359d41c9e5109.png)
+
+![Stocks Trading Coach - Email](https://canny-assets.io/images/8a692aca1b43e0b6d386505a4bbb7919.png)
+
+![Tattoo Shop - Website](https://canny-assets.io/images/52d077d8bcf76327943acf614f8ea0c6.png)
+
+![Title Insurance Representative](https://canny-assets.io/images/b7ebb805f4b3ec8cbc9421a34edefa70.png)
+
+![Wellness Retreat - Snapshot](https://canny-assets.io/images/eb8acf3ad887d2832d47abf2e0f04c6c.png)
