@@ -1,14 +1,14 @@
 ---
-title: "How to Use Smart List 2.0 and List View in HighLevel"
-video_id: "4E3XEQN9L30"
-url: "https://www.youtube.com/watch?v=4E3XEQN9L30"
-thumbnail: "https://i.ytimg.com/vi/4E3XEQN9L30/hqdefault.jpg"
+title: "Daily Snapshot Import Summary"
+video_id: "6WBKWv5qhL4"
+url: "https://www.youtube.com/watch?v=6WBKWv5qhL4"
+thumbnail: "https://i.ytimg.com/vi/6WBKWv5qhL4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T21:46:10.000Z"
+published_date: "2026-05-05T15:00:09.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:01.504Z"
+extracted_at: "2026-05-06T08:23:07.507Z"
 
 ---
 
-# 🟢 How to Use Smart List 2.0 and List View in HighLevel
+# 🟢 Daily Snapshot Import Summary
 
-**Video ID:** `4E3XEQN9L30`
+**Video ID:** `6WBKWv5qhL4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:01.504Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=4E3XEQN9L30)
-- [📷 Thumbnail](https://i.ytimg.com/vi/4E3XEQN9L30/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6WBKWv5qhL4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6WBKWv5qhL4/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/6/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

@@ -1,14 +1,14 @@
 ---
-title: "Did You Know You Can Connect Custom Objects Together to Build a Relational Database"
+title: "Did You Know You Can Connect Custom Objects Together to Build a Relational Database?"
 video_id: "avBYW1aQ7_M"
 url: "https://www.youtube.com/watch?v=avBYW1aQ7_M"
 thumbnail: "https://i.ytimg.com/vi/avBYW1aQ7_M/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
 published_date: "2026-04-16T21:08:39.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.6 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.6"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,11 +16,11 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-04-19T08:04:08.853Z"
+extracted_at: "2026-05-06T08:23:09.465Z"
 
 ---
 
-# 🟢 Did You Know You Can Connect Custom Objects Together to Build a Relational Database
+# 🟢 Did You Know You Can Connect Custom Objects Together to Build a Relational Database?
 
 **Video ID:** `avBYW1aQ7_M`
 **Source:** GoHighLevel Official - Last 180 Days
@@ -30,7 +30,7 @@ extracted_at: "2026-04-19T08:04:08.853Z"
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.6 months old (fresh)**
 
 
 
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 4/19/2026*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

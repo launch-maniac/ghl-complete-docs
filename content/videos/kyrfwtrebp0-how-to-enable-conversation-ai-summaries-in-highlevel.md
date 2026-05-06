@@ -1,14 +1,14 @@
 ---
-title: "How To Customize the Add Contact Modal in HighLevel"
-video_id: "3LphthBR4J0"
-url: "https://www.youtube.com/watch?v=3LphthBR4J0"
-thumbnail: "https://i.ytimg.com/vi/3LphthBR4J0/hqdefault.jpg"
+title: "How To Enable Conversation AI Summaries in HighLevel"
+video_id: "kyrfWTreBP0"
+url: "https://www.youtube.com/watch?v=kyrfWTreBP0"
+thumbnail: "https://i.ytimg.com/vi/kyrfWTreBP0/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T21:50:53.000Z"
+published_date: "2026-05-05T21:23:31.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-07T07:44:12.953Z"
+extracted_at: "2026-05-06T08:23:06.931Z"
 
 ---
 
-# 🟢 How To Customize the Add Contact Modal in HighLevel
+# 🟢 How To Enable Conversation AI Summaries in HighLevel
 
-**Video ID:** `3LphthBR4J0`
+**Video ID:** `kyrfWTreBP0`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-07T07:44:12.953Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3LphthBR4J0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/3LphthBR4J0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=kyrfWTreBP0)
+- [📷 Thumbnail](https://i.ytimg.com/vi/kyrfWTreBP0/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/7/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

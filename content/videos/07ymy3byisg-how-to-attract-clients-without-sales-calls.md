@@ -1,14 +1,14 @@
 ---
-title: "SaaSPRENEUR Workshop with Frank Kern - Day 1"
-video_id: "r-dWumZHG6c"
-url: "https://www.youtube.com/watch?v=r-dWumZHG6c"
-thumbnail: "https://i.ytimg.com/vi/r-dWumZHG6c/hqdefault.jpg"
+title: "How to Attract Clients Without Sales Calls"
+video_id: "07Ymy3bYiSg"
+url: "https://www.youtube.com/watch?v=07Ymy3bYiSg"
+thumbnail: "https://i.ytimg.com/vi/07Ymy3bYiSg/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T22:47:54.000Z"
+published_date: "2026-05-05T20:10:54.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:00.218Z"
+extracted_at: "2026-05-06T08:23:07.112Z"
 
 ---
 
-# 🟢 SaaSPRENEUR Workshop with Frank Kern - Day 1
+# 🟢 How to Attract Clients Without Sales Calls
 
-**Video ID:** `r-dWumZHG6c`
+**Video ID:** `07Ymy3bYiSg`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:00.218Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=r-dWumZHG6c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/r-dWumZHG6c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=07Ymy3bYiSg)
+- [📷 Thumbnail](https://i.ytimg.com/vi/07Ymy3bYiSg/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/6/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

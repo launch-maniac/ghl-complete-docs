@@ -1,14 +1,14 @@
 ---
-title: "How to Automate Workflows with Custom Objects in HighLevel"
-video_id: "WegLUpjMB5c"
-url: "https://www.youtube.com/watch?v=WegLUpjMB5c"
-thumbnail: "https://i.ytimg.com/vi/WegLUpjMB5c/hqdefault.jpg"
+title: "Embedded Voice AI Widgets  Orb Enhancements"
+video_id: "CRy5Nf0uSDQ"
+url: "https://www.youtube.com/watch?v=CRy5Nf0uSDQ"
+thumbnail: "https://i.ytimg.com/vi/CRy5Nf0uSDQ/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2025-11-03T21:47:23.000Z"
+published_date: "2026-05-05T18:00:17.000Z"
 freshness_status: "fresh"
-freshness_message: "Video is 0.1 months old (fresh)"
+freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
-age_in_months: "0.1"
+age_in_months: "0.0"
 has_transcript: true
 transcript_language: "en"
 transcript_type: "asr"
@@ -16,21 +16,21 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2025-11-06T07:44:01.288Z"
+extracted_at: "2026-05-06T08:23:07.346Z"
 
 ---
 
-# 🟢 How to Automate Workflows with Custom Objects in HighLevel
+# 🟢 Embedded Voice AI Widgets  Orb Enhancements
 
-**Video ID:** `WegLUpjMB5c`
+**Video ID:** `CRy5Nf0uSDQ`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 11/3/2025
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
 ## 🟢 Freshness Status
-**Video is 0.1 months old (fresh)**
+**Video is 0.0 months old (fresh)**
 
 
 
@@ -47,8 +47,8 @@ extracted_at: "2025-11-06T07:44:01.288Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=WegLUpjMB5c)
-- [📷 Thumbnail](https://i.ytimg.com/vi/WegLUpjMB5c/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=CRy5Nf0uSDQ)
+- [📷 Thumbnail](https://i.ytimg.com/vi/CRy5Nf0uSDQ/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -67,6 +67,6 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 - Explore the [Official Documentation](https://marketplace.gohighlevel.com/docs/) for integration guides
 
 ---
-*Video content extracted from GoHighLevel Official - Last 180 Days on 11/6/2025*
+*Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
 *Transcript extraction: ✅ 0 words (en)*
 *Freshness monitored: Videos expire after 6 months*

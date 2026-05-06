@@ -1,33 +1,33 @@
 ---
-title: "How to Attract Clients Without Sales Calls"
-video_id: "3d5NAjNmBdI"
-url: "https://www.youtube.com/watch?v=3d5NAjNmBdI"
-thumbnail: "https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault.jpg"
+title: "Get your business to run without you. Try HighLevel now! #shorts"
+video_id: "PmuhTOC83fo"
+url: "https://www.youtube.com/watch?v=PmuhTOC83fo"
+thumbnail: "https://i.ytimg.com/vi/PmuhTOC83fo/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-05-05T06:09:25.000Z"
+published_date: "2026-05-05T23:03:19.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
 age_in_months: "0.0"
-has_transcript: true
-transcript_language: "en"
-transcript_type: "asr"
+has_transcript: false
+transcript_language: "none"
+transcript_type: "none"
 word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-06T08:23:07.691Z"
+extracted_at: "2026-05-06T08:23:06.717Z"
 
 ---
 
-# 🟢 How to Attract Clients Without Sales Calls
+# 🟢 Get your business to run without you. Try HighLevel now! #shorts
 
-**Video ID:** `3d5NAjNmBdI`
+**Video ID:** `PmuhTOC83fo`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
 **Published:** 5/5/2026
 **Content Type:** standard
-**Transcript:** 🔐 Available (requires OAuth2)
+**Transcript:** ❌ Not available
 
 ## 🟢 Freshness Status
 **Video is 0.0 months old (fresh)**
@@ -36,19 +36,14 @@ extracted_at: "2026-05-06T08:23:07.691Z"
 
 ✅ This video contains current information and is within the freshness window.
 
-## 📝 Transcript Information
-
-**Language:** en
-**Type:** Auto-generated
-**Status:** 🔐 Available but requires OAuth2 authentication
-
-⚠️ **Note:** This video has captions available on YouTube, but downloading transcripts requires OAuth2 authentication which is not implemented in this scraper. You can view the captions directly on YouTube.
+## 📝 Transcript
+❌ **Transcript not available** - This video does not have captions or transcripts available.
 
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=3d5NAjNmBdI)
-- [📷 Thumbnail](https://i.ytimg.com/vi/3d5NAjNmBdI/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=PmuhTOC83fo)
+- [📷 Thumbnail](https://i.ytimg.com/vi/PmuhTOC83fo/hqdefault.jpg)
 
 
 ## Content Guidelines
@@ -57,7 +52,7 @@ extracted_at: "2026-05-06T08:23:07.691Z"
 📚 **Standard Content:** This video covers general platform features with a 6-month freshness window.
 
 ## Description
-This tutorial video covers GoHighLevel platform features and functionality. The full transcript is available above for easy reference and searching.
+This tutorial video covers GoHighLevel platform features and functionality. Access the full video content through the YouTube link above.
 
 
 
@@ -68,5 +63,5 @@ This tutorial video covers GoHighLevel platform features and functionality. The 
 
 ---
 *Video content extracted from GoHighLevel Official - Last 180 Days on 5/6/2026*
-*Transcript extraction: ✅ 0 words (en)*
+*Transcript extraction: ❌ Not available*
 *Freshness monitored: Videos expire after 6 months*

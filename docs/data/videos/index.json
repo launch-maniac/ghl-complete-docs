@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-05T08:21:17.976Z",
+  "generated": "2026-05-06T08:23:16.653Z",
   "stats": {
     "channels": 1,
-    "videos": 13,
+    "videos": 17,
     "playlists": 0,
-    "expired": 0,
+    "expired": 14,
     "updated": 0,
     "errors": 0,
     "transcripts": 0,
-    "transcriptsFailed": 13
+    "transcriptsFailed": 17
   },
   "freshnessConfig": {
     "maxAgeMonths": 6,
@@ -74,6 +74,18 @@
       "contentCategory": "standard",
       "ageInMonths": "unknown",
       "slug": "03tmrzjjv1q-height-width-controls-for-page-builder-elements-live"
+    },
+    {
+      "filename": "07ymy3byisg-how-to-attract-clients-without-sales-calls.md",
+      "title": "How to Attract Clients Without Sales Calls",
+      "videoId": "07Ymy3bYiSg",
+      "url": "https://www.youtube.com/watch?v=07Ymy3bYiSg",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T20:10:54.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "07ymy3byisg-how-to-attract-clients-without-sales-calls"
     },
     {
       "filename": "09gmbutnli8-how-to-create-service-calendars-in-highlevel.md",
@@ -724,18 +736,6 @@
       "slug": "3kpl07hrviw-external-tracking-script-mega-upgrade"
     },
     {
-      "filename": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel.md",
-      "title": "How To Customize the Add Contact Modal in HighLevel",
-      "videoId": "3LphthBR4J0",
-      "url": "https://www.youtube.com/watch?v=3LphthBR4J0",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T21:50:53.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "3lphthbr4j0-how-to-customize-the-add-contact-modal-in-highlevel"
-    },
-    {
       "filename": "3pibf4pc-wg-import-email-templates-with-ai.md",
       "title": "Import Email Templates with AI",
       "videoId": "3PiBf4PC_wg",
@@ -844,18 +844,6 @@
       "slug": "4ci7sv8tuiu-deskphone-to-deskphone-calling-amp-transfer"
     },
     {
-      "filename": "4e3xeqn9l30-how-to-use-smart-list-2-0-and-list-view-in-highlevel.md",
-      "title": "How to Use Smart List 2.0 and List View in HighLevel",
-      "videoId": "4E3XEQN9L30",
-      "url": "https://www.youtube.com/watch?v=4E3XEQN9L30",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T21:46:10.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "4e3xeqn9l30-how-to-use-smart-list-2-0-and-list-view-in-highlevel"
-    },
-    {
       "filename": "4fpldviuo-m-voice-ai-agent-logs.md",
       "title": "Voice AI - Agent logs",
       "videoId": "4FPldVIUo_M",
@@ -902,18 +890,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "4uwvx6pq-as-email-forwarding-is-live"
-    },
-    {
-      "filename": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel.md",
-      "title": "How To Host Livestreaming Webinars and Community Events in HighLevel",
-      "videoId": "4UYuVgIcDkY",
-      "url": "https://www.youtube.com/watch?v=4UYuVgIcDkY",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T21:50:09.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "4uyuvgicdky-how-to-host-livestreaming-webinars-and-community-events-in-highlevel"
     },
     {
       "filename": "4wabz8sqksu-turn-dms-into-sales-with-highlevel-with-raquel-diehm.md",
@@ -1358,6 +1334,18 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "6vykmk2avbe-how-to-use-highlevel-s-contact-features-like-a-pro"
+    },
+    {
+      "filename": "6wbkwv5qhl4-daily-snapshot-import-summary.md",
+      "title": "Daily Snapshot Import Summary",
+      "videoId": "6WBKWv5qhL4",
+      "url": "https://www.youtube.com/watch?v=6WBKWv5qhL4",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T15:00:09.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "6wbkwv5qhl4-daily-snapshot-import-summary"
     },
     {
       "filename": "6x6v49krxdg-new-highlevel-templates-are-live.md",
@@ -2141,14 +2129,14 @@
     },
     {
       "filename": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database.md",
-      "title": "Did You Know You Can Connect Custom Objects Together to Build a Relational Database",
+      "title": "Did You Know You Can Connect Custom Objects Together to Build a Relational Database?",
       "videoId": "avBYW1aQ7_M",
       "url": "https://www.youtube.com/watch?v=avBYW1aQ7_M",
       "source": "GoHighLevel Official - Last 180 Days",
       "publishedDate": "2026-04-16T21:08:39.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.1",
+      "ageInMonths": "0.6",
       "slug": "avbyw1aq7-m-did-you-know-you-can-connect-custom-objects-together-to-build-a-relational-database"
     },
     {
@@ -2378,18 +2366,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.1",
       "slug": "bkbcqhcvvzi-workflows-opportunity-changed-trigger-upgrade"
-    },
-    {
-      "filename": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel.md",
-      "title": "How to Use Company-Based Workflows in HighLevel",
-      "videoId": "bmtBfdzAhyA",
-      "url": "https://www.youtube.com/watch?v=bmtBfdzAhyA",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T21:48:53.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "bmtbfdzahya-how-to-use-company-based-workflows-in-highlevel"
     },
     {
       "filename": "bn-njfphc8-how-to-use-highlevel-workflow-switcher-like-a-pro.md",
@@ -2812,6 +2788,18 @@
       "slug": "cr93yl-ceey-ads-manager-api-live"
     },
     {
+      "filename": "cry5nf0usdq-embedded-voice-ai-widgets-orb-enhancements.md",
+      "title": "Embedded Voice AI Widgets  Orb Enhancements",
+      "videoId": "CRy5Nf0uSDQ",
+      "url": "https://www.youtube.com/watch?v=CRy5Nf0uSDQ",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T18:00:17.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "cry5nf0usdq-embedded-voice-ai-widgets-orb-enhancements"
+    },
+    {
       "filename": "cvfd-sumztu-opportunities-duplicate-pipelines-across-sub-accounts-live.md",
       "title": "Opportunities - Duplicate Pipelines Across Sub - Accounts Live!",
       "videoId": "cvfd_sUmZtU",
@@ -3194,18 +3182,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "drf0dsbqibe-day-1-five-day-challenge"
-    },
-    {
-      "filename": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern.md",
-      "title": "Day 1 - SaaSPRENEUR Workshop with Frank Kern",
-      "videoId": "dW_mxo8_bho",
-      "url": "https://www.youtube.com/watch?v=dW_mxo8_bho",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T18:11:07.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.2",
-      "slug": "dw-mxo8-bho-day-1-saaspreneur-workshop-with-frank-kern"
     },
     {
       "filename": "dw7twbht1oo-template-library-introducing-new-templates-no-73.md",
@@ -3936,7 +3912,7 @@
       "publishedDate": "2026-05-04T18:00:31.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "fpwlaf6huka-mistral-ai-actions-in-workflows"
     },
     {
@@ -5716,6 +5692,18 @@
       "slug": "kye2ti2jj38-day-2-from-client-acquisition-to-mrr"
     },
     {
+      "filename": "kyrfwtrebp0-how-to-enable-conversation-ai-summaries-in-highlevel.md",
+      "title": "How To Enable Conversation AI Summaries in HighLevel",
+      "videoId": "kyrfWTreBP0",
+      "url": "https://www.youtube.com/watch?v=kyrfWTreBP0",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T21:23:31.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "kyrfwtrebp0-how-to-enable-conversation-ai-summaries-in-highlevel"
+    },
+    {
       "filename": "kz9ale7oojo-community-course-attribution-reporting.md",
       "title": "Community Course  Attribution Reporting",
       "videoId": "Kz9aLe7OOjo",
@@ -7204,6 +7192,18 @@
       "slug": "pmmzwujg2za-ecom-product-details-page-customization-desktop-media-size-amp-layout"
     },
     {
+      "filename": "pmuhtoc83fo-get-your-business-to-run-without-you-try-highlevel-now-shorts.md",
+      "title": "Get your business to run without you. Try HighLevel now! #shorts",
+      "videoId": "PmuhTOC83fo",
+      "url": "https://www.youtube.com/watch?v=PmuhTOC83fo",
+      "source": "GoHighLevel Official - Last 180 Days",
+      "publishedDate": "2026-05-05T23:03:19.000Z",
+      "freshnessStatus": "fresh",
+      "contentCategory": "standard",
+      "ageInMonths": "0.0",
+      "slug": "pmuhtoc83fo-get-your-business-to-run-without-you-try-highlevel-now-shorts"
+    },
+    {
       "filename": "pnt6a3uzrmc-day-2-replay-turning-websites-into-subscriptions-your-path-to-recurring-revenue.md",
       "title": "Day 2 Replay - Turning Websites into Subscriptions: Your Path to Recurring Revenue",
       "videoId": "pnt6a3UZrmc",
@@ -7718,18 +7718,6 @@
       "contentCategory": "standard",
       "ageInMonths": "0.2",
       "slug": "qzs5f2u3ffg-the-highlevel-release-radar-april-6th-april-10th-2026"
-    },
-    {
-      "filename": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1.md",
-      "title": "SaaSPRENEUR Workshop with Frank Kern - Day 1",
-      "videoId": "r-dWumZHG6c",
-      "url": "https://www.youtube.com/watch?v=r-dWumZHG6c",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T22:47:54.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "r-dwumzhg6c-saaspreneur-workshop-with-frank-kern-day-1"
     },
     {
       "filename": "r0vyz6qy4gu-new-community-course-master-highlevel-for-beginners-with-carly-meyers.md",
@@ -9652,18 +9640,6 @@
       "slug": "wbtqpcnvrvu-conversations-ai-conversation-summary-transcript-generation-amp-conversation-logs-live"
     },
     {
-      "filename": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel.md",
-      "title": "How to Automate Workflows with Custom Objects in HighLevel",
-      "videoId": "WegLUpjMB5c",
-      "url": "https://www.youtube.com/watch?v=WegLUpjMB5c",
-      "source": "GoHighLevel Official - Last 180 Days",
-      "publishedDate": "2025-11-03T21:47:23.000Z",
-      "freshnessStatus": "fresh",
-      "contentCategory": "standard",
-      "ageInMonths": "0.1",
-      "slug": "weglupjmb5c-how-to-automate-workflows-with-custom-objects-in-highlevel"
-    },
-    {
       "filename": "wf5mcjx8yui-prospecting-tool-improvements.md",
       "title": "Prospecting Tool Improvements",
       "videoId": "Wf5McjX8YuI",
@@ -10056,7 +10032,7 @@
       "publishedDate": "2026-05-04T15:01:03.000Z",
       "freshnessStatus": "fresh",
       "contentCategory": "standard",
-      "ageInMonths": "0.0",
+      "ageInMonths": "0.1",
       "slug": "xjjjachnpa-dashboards-on-the-mobile-app-v-4-14-1"
     },
     {
@@ -11177,7 +11153,7 @@
     }
   ],
   "freshnessSummary": {
-    "fresh": 894,
+    "fresh": 892,
     "warning": 1,
     "expired": 0,
     "unknown": 33,
@@ -11189,7 +11165,7 @@
         "unknown": null
       },
       "standard": {
-        "fresh": 876,
+        "fresh": 874,
         "warning": 0,
         "expired": 0,
         "unknown": null

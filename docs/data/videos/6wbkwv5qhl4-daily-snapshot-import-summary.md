@@ -1,10 +1,10 @@
 ---
-title: "Ask AI Voice Mode  Talk It, Get It Done"
-video_id: "lV_s0_3vfI0"
-url: "https://www.youtube.com/watch?v=lV_s0_3vfI0"
-thumbnail: "https://i.ytimg.com/vi/lV_s0_3vfI0/hqdefault.jpg"
+title: "Daily Snapshot Import Summary"
+video_id: "6WBKWv5qhL4"
+url: "https://www.youtube.com/watch?v=6WBKWv5qhL4"
+thumbnail: "https://i.ytimg.com/vi/6WBKWv5qhL4/hqdefault.jpg"
 source: "GoHighLevel Official - Last 180 Days"
-published_date: "2026-05-04T21:00:50.000Z"
+published_date: "2026-05-05T15:00:09.000Z"
 freshness_status: "fresh"
 freshness_message: "Video is 0.0 months old (fresh)"
 content_category: "standard"
@@ -16,16 +16,16 @@ word_count: 0
 category: "videos"
 type: "tutorial"
 platform: "youtube"
-extracted_at: "2026-05-06T08:23:08.657Z"
+extracted_at: "2026-05-06T08:23:07.507Z"
 
 ---
 
-# 🟢 Ask AI Voice Mode  Talk It, Get It Done
+# 🟢 Daily Snapshot Import Summary
 
-**Video ID:** `lV_s0_3vfI0`
+**Video ID:** `6WBKWv5qhL4`
 **Source:** GoHighLevel Official - Last 180 Days
 **Platform:** YouTube
-**Published:** 5/4/2026
+**Published:** 5/5/2026
 **Content Type:** standard
 **Transcript:** 🔐 Available (requires OAuth2)
 
@@ -47,8 +47,8 @@ extracted_at: "2026-05-06T08:23:08.657Z"
 ---
 
 ## Quick Access
-- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=lV_s0_3vfI0)
-- [📷 Thumbnail](https://i.ytimg.com/vi/lV_s0_3vfI0/hqdefault.jpg)
+- [🎥 Watch on YouTube](https://www.youtube.com/watch?v=6WBKWv5qhL4)
+- [📷 Thumbnail](https://i.ytimg.com/vi/6WBKWv5qhL4/hqdefault.jpg)
 
 
 ## Content Guidelines
