@@ -3,7 +3,7 @@ title: "back to home"
 category: "marketplace"
 type: "settings-subpage"
 url: "https://help.gohighlevel.com/"
-extracted_at: "2026-05-06T12:37:58.294Z"
+extracted_at: "2026-05-06T18:38:33.629Z"
 ---
 
 # Hi, how can we help you?
@@ -156,11 +156,11 @@ Modified on Mon, 6 Apr at 5:28 AM
 
 ](/support/solutions/articles/48001184920-saas-mode-full-setup-guide-faq)[
 
-LC Phone Pricing & Billing Guide
+Phone System Pricing & Billing Guide
 
-Modified on Wed, 15 Apr at 3:16 AM
+Modified on Wed, 6 May at 12:10 PM
 
-](/support/solutions/articles/48001223556-lc-phone-pricing-billing-guide)[
+](/support/solutions/articles/48001223556-phone-system-pricing-billing-guide)[
 
 List of Merge Fields
 
@@ -176,7 +176,7 @@ Modified on Sun, 3 Aug, 2025 at 6:12 AM
 
 HighLevel Pricing Guide
 
-Modified on Mon, 30 Mar at 7:03 AM
+Modified on Wed, 6 May at 12:06 PM
 
 ](/support/solutions/articles/155000001156-highlevel-pricing-guide)[
 
